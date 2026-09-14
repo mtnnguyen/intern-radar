@@ -1,9 +1,19 @@
 """
 Intern Radar
 
-Automatically searches company job boards for internships and co-op
-positions related to data science, analytics, machine learning,
-GIS/geospatial, statistics, and related fields.
+Automatically discovers internships and co-op positions related to:
+
+- Data Science
+- Data Engineering
+- Analytics
+- Machine Learning / AI
+- GIS / Geospatial
+- Remote Sensing
+- Statistics
+
+Jobs come from:
+1. Direct company ATS boards (Greenhouse, Ashby, Lever)
+2. Broad internship feeds such as Simplify
 
 Matching jobs are stored in jobs.json and displayed in jobs.md.
 """
@@ -18,19 +28,41 @@ from pathlib import Path
 import requests
 
 
+# =========================================================
+# FILES
+# =========================================================
+
 COMPANIES_FILE = Path("companies.json")
 JOBS_FILE = Path("jobs.json")
 MARKDOWN_FILE = Path("jobs.md")
 
 
-# ---------------------------------------------------------
-# TARGET CAREER FIELDS
-# ---------------------------------------------------------
+# =========================================================
+# BROAD JOB SOURCES
+# =========================================================
+
+SIMPLIFY_LISTINGS_URL = (
+    "https://raw.githubusercontent.com/"
+    "SimplifyJobs/Summer2027-Internships/"
+    "dev/.github/scripts/listings.json"
+)
+
+
+# =========================================================
+# CAREER FIELDS
+# =========================================================
 
 CAREER_KEYWORDS = {
     "Data Science": [
         "data science",
         "data scientist",
+    ],
+
+    "Data Engineering": [
+        "data engineer",
+        "data engineering",
+        "data platform",
+        "analytics engineer",
     ],
 
     "Analytics": [
@@ -40,13 +72,16 @@ CAREER_KEYWORDS = {
         "business analytics",
         "product analytics",
         "quantitative analyst",
+        "quantitative analytics",
     ],
 
-    "Machine Learning": [
+    "Machine Learning / AI": [
         "machine learning",
         "ml engineer",
         "machine learning engineer",
         "artificial intelligence",
+        "ai engineer",
+        "ai intern",
         "applied scientist",
         "applied science",
     ],
@@ -57,6 +92,7 @@ CAREER_KEYWORDS = {
         "geomatics",
         "spatial data",
         "spatial analyst",
+        "geospatial data",
         "remote sensing",
         "earth observation",
         "geographic information system",
@@ -70,46 +106,70 @@ CAREER_KEYWORDS = {
 }
 
 
-# Identifies real internship / co-op terms.
+# Actual internship / co-op terms.
 #
-# Word boundaries prevent "intern" from accidentally
-# matching words such as "internal" or "international".
+# Word boundaries prevent "intern" from matching:
+# internal
+# international
+# etc.
 INTERNSHIP_PATTERN = re.compile(
     r"\b(intern|internship|internships|student)\b|co[- ]?op",
     re.IGNORECASE
 )
 
 
-# ---------------------------------------------------------
+# =========================================================
 # GENERAL HELPERS
-# ---------------------------------------------------------
+# =========================================================
 
 def current_time():
-    """Return the current UTC time."""
+    """Return current UTC time."""
 
-    return datetime.now(timezone.utc).isoformat()
+    return datetime.now(
+        timezone.utc
+    ).isoformat()
 
 
 def clean_text(text):
-    """Remove basic HTML formatting from job descriptions."""
+    """Remove HTML formatting."""
 
     if not text:
         return ""
 
-    text = html.unescape(str(text))
-    text = re.sub(r"<[^>]+>", " ", text)
-    text = re.sub(r"\s+", " ", text)
+    text = html.unescape(
+        str(text)
+    )
+
+    text = re.sub(
+        r"<[^>]+>",
+        " ",
+        text
+    )
+
+    text = re.sub(
+        r"\s+",
+        " ",
+        text
+    )
 
     return text.strip()
 
 
-def create_job_id(source, company, original_id):
+def create_job_id(
+    source,
+    company,
+    original_id
+):
     """
-    Create a stable ID so the tracker recognizes
-    the same job during future runs.
+    Create a stable job ID so the same job
+    can be recognized on later tracker runs.
     """
 
-    value = f"{source}:{company}:{original_id}"
+    value = (
+        f"{source}:"
+        f"{company}:"
+        f"{original_id}"
+    )
 
     return hashlib.sha256(
         value.encode("utf-8")
@@ -117,7 +177,12 @@ def create_job_id(source, company, original_id):
 
 
 def load_companies():
-    """Load companies from companies.json."""
+    """
+    Load priority companies from companies.json.
+    """
+
+    if not COMPANIES_FILE.exists():
+        return []
 
     with open(
         COMPANIES_FILE,
@@ -128,23 +193,28 @@ def load_companies():
         return json.load(file)
 
 
-# ---------------------------------------------------------
+# =========================================================
 # GREENHOUSE
-# ---------------------------------------------------------
+# =========================================================
 
 def get_greenhouse_jobs(company):
-    """Retrieve jobs from a Greenhouse job board."""
+    """
+    Retrieve jobs from a company's
+    Greenhouse job board.
+    """
 
     slug = company["slug"]
 
     url = (
-        f"https://boards-api.greenhouse.io/"
+        "https://boards-api.greenhouse.io/"
         f"v1/boards/{slug}/jobs"
     )
 
     response = requests.get(
         url,
-        params={"content": "true"},
+        params={
+            "content": "true"
+        },
         timeout=30
     )
 
@@ -152,7 +222,10 @@ def get_greenhouse_jobs(company):
 
     jobs = []
 
-    for job in response.json().get("jobs", []):
+    for job in response.json().get(
+        "jobs",
+        []
+    ):
 
         jobs.append({
             "id": create_job_id(
@@ -162,6 +235,7 @@ def get_greenhouse_jobs(company):
             ),
 
             "company": company["name"],
+
             "source": "greenhouse",
 
             "title": job.get(
@@ -170,7 +244,8 @@ def get_greenhouse_jobs(company):
             ),
 
             "location": (
-                job.get("location") or {}
+                job.get("location")
+                or {}
             ).get(
                 "name",
                 ""
@@ -198,17 +273,20 @@ def get_greenhouse_jobs(company):
     return jobs
 
 
-# ---------------------------------------------------------
+# =========================================================
 # ASHBY
-# ---------------------------------------------------------
+# =========================================================
 
 def get_ashby_jobs(company):
-    """Retrieve jobs from an Ashby job board."""
+    """
+    Retrieve jobs from a company's
+    Ashby job board.
+    """
 
     slug = company["slug"]
 
     url = (
-        f"https://api.ashbyhq.com/"
+        "https://api.ashbyhq.com/"
         f"posting-api/job-board/{slug}"
     )
 
@@ -221,7 +299,10 @@ def get_ashby_jobs(company):
 
     jobs = []
 
-    for job in response.json().get("jobs", []):
+    for job in response.json().get(
+        "jobs",
+        []
+    ):
 
         original_id = (
             job.get("id")
@@ -238,6 +319,7 @@ def get_ashby_jobs(company):
             ),
 
             "company": company["name"],
+
             "source": "ashby",
 
             "title": job.get(
@@ -245,10 +327,13 @@ def get_ashby_jobs(company):
                 ""
             ),
 
-            "location": job.get(
-                "location",
-                ""
-            ) or "",
+            "location": (
+                job.get(
+                    "location",
+                    ""
+                )
+                or ""
+            ),
 
             "description": clean_text(
                 job.get(
@@ -257,10 +342,13 @@ def get_ashby_jobs(company):
                 )
             ),
 
-            "employment_type": job.get(
-                "employmentType",
-                ""
-            ) or "",
+            "employment_type": (
+                job.get(
+                    "employmentType",
+                    ""
+                )
+                or ""
+            ),
 
             "url": (
                 job.get("jobUrl")
@@ -276,23 +364,28 @@ def get_ashby_jobs(company):
     return jobs
 
 
-# ---------------------------------------------------------
+# =========================================================
 # LEVER
-# ---------------------------------------------------------
+# =========================================================
 
 def get_lever_jobs(company):
-    """Retrieve jobs from a Lever job board."""
+    """
+    Retrieve jobs from a company's
+    Lever job board.
+    """
 
     slug = company["slug"]
 
     url = (
-        f"https://api.lever.co/"
+        "https://api.lever.co/"
         f"v0/postings/{slug}"
     )
 
     response = requests.get(
         url,
-        params={"mode": "json"},
+        params={
+            "mode": "json"
+        },
         timeout=30
     )
 
@@ -315,6 +408,7 @@ def get_lever_jobs(company):
             ),
 
             "company": company["name"],
+
             "source": "lever",
 
             "title": job.get(
@@ -322,10 +416,13 @@ def get_lever_jobs(company):
                 ""
             ),
 
-            "location": categories.get(
-                "location",
-                ""
-            ) or "",
+            "location": (
+                categories.get(
+                    "location",
+                    ""
+                )
+                or ""
+            ),
 
             "description": clean_text(
                 job.get(
@@ -334,10 +431,13 @@ def get_lever_jobs(company):
                 )
             ),
 
-            "employment_type": categories.get(
-                "commitment",
-                ""
-            ) or "",
+            "employment_type": (
+                categories.get(
+                    "commitment",
+                    ""
+                )
+                or ""
+            ),
 
             "url": (
                 job.get("hostedUrl")
@@ -351,22 +451,147 @@ def get_lever_jobs(company):
     return jobs
 
 
-# ---------------------------------------------------------
-# FILTER JOBS
-# ---------------------------------------------------------
+# =========================================================
+# SIMPLIFY BROAD DISCOVERY
+# =========================================================
+
+def get_simplify_jobs():
+    """
+    Retrieve active internships from Simplify's
+    Summer 2027 internship repository.
+
+    Unlike companies.json, this discovers jobs
+    from companies we did not manually add.
+    """
+
+    response = requests.get(
+        SIMPLIFY_LISTINGS_URL,
+        timeout=60
+    )
+
+    response.raise_for_status()
+
+    listings = response.json()
+
+    jobs = []
+
+    for listing in listings:
+
+        # Ignore closed/inactive listings.
+        if not listing.get(
+            "active",
+            False
+        ):
+            continue
+
+        company = listing.get(
+            "company_name",
+            ""
+        ).strip()
+
+        title = listing.get(
+            "title",
+            ""
+        ).strip()
+
+        locations = listing.get(
+            "locations",
+            []
+        )
+
+        if isinstance(
+            locations,
+            list
+        ):
+
+            location = ", ".join(
+                str(item)
+                for item in locations
+            )
+
+        else:
+
+            location = str(
+                locations or ""
+            )
+
+        url = listing.get(
+            "url",
+            ""
+        )
+
+        original_id = (
+            listing.get("id")
+            or url
+            or (
+                f"{company}:"
+                f"{title}:"
+                f"{location}"
+            )
+        )
+
+        jobs.append({
+            "id": create_job_id(
+                "simplify",
+                company,
+                original_id
+            ),
+
+            "company": company,
+
+            "source": "simplify",
+
+            "title": title,
+
+            "location": location,
+
+            "description": "",
+
+            # Simplify is already an internship feed,
+            # so mark the employment type accordingly.
+            "employment_type": "internship",
+
+            "url": url,
+
+            "published_at": listing.get(
+                "date_posted"
+            ),
+        })
+
+    return jobs
+
+
+# =========================================================
+# JOB FILTERING
+# =========================================================
 
 def analyze_job(job):
     """
-    Keep jobs that are:
-    1. Actual internships/co-ops/student positions
-    2. Clearly related to one of the target career fields
+    Determine whether a job is:
+
+    1. An internship/co-op/student position
+    2. Related to one of our target career fields
+
+    Returns matching categories or None.
     """
 
-    title = job["title"].lower()
-    
-    employment_type = job[
-        "employment_type"
-    ].lower()
+    title = (
+        job.get(
+            "title",
+            ""
+        )
+        .lower()
+        .strip()
+    )
+
+    employment_type = (
+        job.get(
+            "employment_type",
+            ""
+        )
+        .lower()
+        .strip()
+    )
 
     internship_text = (
         title
@@ -374,7 +599,6 @@ def analyze_job(job):
         + employment_type
     )
 
-    # Require an actual internship/co-op/student term.
     is_internship = bool(
         INTERNSHIP_PATTERN.search(
             internship_text
@@ -383,14 +607,18 @@ def analyze_job(job):
 
     if not is_internship:
         return None
-    
+
     categories = []
 
-    # Career keyword must currently appear in the title.
+    # Require career keywords in the TITLE.
     #
-    # This avoids unrelated internships being included just
-    # because their description mentions ML, analytics, etc.
-    for category, keywords in CAREER_KEYWORDS.items():
+    # This keeps irrelevant internships out just
+    # because their descriptions mention analytics
+    # or machine learning somewhere.
+    for (
+        category,
+        keywords
+    ) in CAREER_KEYWORDS.items():
 
         if any(
             keyword in title
@@ -407,12 +635,14 @@ def analyze_job(job):
     return categories
 
 
-# ---------------------------------------------------------
+# =========================================================
 # JOB DATABASE
-# ---------------------------------------------------------
+# =========================================================
 
 def load_jobs():
-    """Load jobs previously discovered by the tracker."""
+    """
+    Load jobs previously discovered.
+    """
 
     if not JOBS_FILE.exists():
         return {}
@@ -432,7 +662,9 @@ def load_jobs():
 
 
 def save_jobs(database):
-    """Save all known jobs into jobs.json."""
+    """
+    Save all discovered jobs.
+    """
 
     jobs = list(
         database.values()
@@ -460,14 +692,19 @@ def save_jobs(database):
         )
 
 
-# ---------------------------------------------------------
-# CREATE jobs.md
-# ---------------------------------------------------------
+# =========================================================
+# MARKDOWN HELPERS
+# =========================================================
 
 def escape_markdown(text):
-    """Prevent markdown table formatting from breaking."""
+    """
+    Prevent markdown table formatting
+    from breaking.
+    """
 
-    return str(text).replace(
+    return str(
+        text
+    ).replace(
         "|",
         "\\|"
     )
@@ -475,17 +712,22 @@ def escape_markdown(text):
 
 def is_new_job(job):
     """
-    Mark jobs detected within the last 24 hours as NEW.
+    A job is considered NEW for 24 hours
+    after Intern Radar first discovers it.
     """
 
     try:
 
-        first_seen = datetime.fromisoformat(
-            job["first_seen"]
+        first_seen = (
+            datetime.fromisoformat(
+                job["first_seen"]
+            )
         )
 
         difference = (
-            datetime.now(timezone.utc)
+            datetime.now(
+                timezone.utc
+            )
             - first_seen
         )
 
@@ -499,16 +741,21 @@ def is_new_job(job):
         return False
 
 
+# =========================================================
+# GENERATE jobs.md
+# =========================================================
+
 def create_markdown(database):
     """
-    Generate jobs.md containing currently
-    active matching internships.
+    Generate the public GitHub job board.
     """
 
     open_jobs = [
         job
         for job in database.values()
-        if job.get("status") == "open"
+        if job.get(
+            "status"
+        ) == "open"
     ]
 
     open_jobs.sort(
@@ -525,21 +772,35 @@ def create_markdown(database):
         "%Y-%m-%d %H:%M UTC"
     )
 
+    new_count = sum(
+        1
+        for job in open_jobs
+        if is_new_job(job)
+    )
+
     lines = [
         "# 🎯 Intern Radar",
         "",
         (
-            "Automatically tracks internships and co-op "
-            "positions related to data science, analytics, "
-            "machine learning, GIS/geospatial and statistics."
+            "Automatically discovers internships and co-op "
+            "positions related to data science, data engineering, "
+            "analytics, machine learning, AI, GIS/geospatial "
+            "and statistics."
         ),
         "",
         f"**Last updated:** {updated}",
         "",
         f"**Active matching jobs:** {len(open_jobs)}",
         "",
-        "| New | Company | Position | Category | Location | First Detected | Apply |",
-        "|---|---|---|---|---|---|---|",
+        f"**New in the last 24 hours:** {new_count}",
+        "",
+        (
+            "| New | Company | Position | Category | "
+            "Location | Source | First Detected | Apply |"
+        ),
+        (
+            "|---|---|---|---|---|---|---|---|"
+        ),
     ]
 
     for job in open_jobs:
@@ -568,6 +829,11 @@ def create_markdown(database):
             )[:16]
         )
 
+        source = job.get(
+            "source",
+            ""
+        )
+
         lines.append(
             "| "
             f"{new_marker} | "
@@ -575,6 +841,7 @@ def create_markdown(database):
             f"{escape_markdown(job['title'])} | "
             f"{escape_markdown(categories)} | "
             f"{escape_markdown(job['location'])} | "
+            f"{escape_markdown(source)} | "
             f"{first_seen} UTC | "
             f"[Apply]({job['url']}) |"
         )
@@ -585,9 +852,72 @@ def create_markdown(database):
     )
 
 
-# ---------------------------------------------------------
+# =========================================================
+# PROCESS JOB
+# =========================================================
+
+def process_job(
+    job,
+    database,
+    current_job_ids
+):
+    """
+    Filter a job and store it if relevant.
+
+    Returns:
+    (matched, new)
+    """
+
+    categories = analyze_job(
+        job
+    )
+
+    if not categories:
+        return False, False
+
+    job_id = job["id"]
+
+    current_job_ids.add(
+        job_id
+    )
+
+    is_new = (
+        job_id not in database
+    )
+
+    if is_new:
+
+        first_seen = current_time()
+
+        print(
+            "NEW:",
+            job["company"],
+            "-",
+            job["title"]
+        )
+
+    else:
+
+        first_seen = database[
+            job_id
+        ]["first_seen"]
+
+    job["categories"] = categories
+
+    job["first_seen"] = first_seen
+
+    job["last_seen"] = current_time()
+
+    job["status"] = "open"
+
+    database[job_id] = job
+
+    return True, is_new
+
+
+# =========================================================
 # MAIN
-# ---------------------------------------------------------
+# =========================================================
 
 def main():
 
@@ -599,9 +929,16 @@ def main():
 
     successful_companies = set()
 
+    simplify_success = False
+
     new_jobs = 0
 
     matching_jobs = 0
+
+
+    # =====================================================
+    # DIRECT PRIORITY COMPANY CHECKS
+    # =====================================================
 
     for company in companies:
 
@@ -613,22 +950,37 @@ def main():
 
         try:
 
-            if company["ats"] == "greenhouse":
+            if (
+                company["ats"]
+                == "greenhouse"
+            ):
 
-                jobs = get_greenhouse_jobs(
-                    company
+                jobs = (
+                    get_greenhouse_jobs(
+                        company
+                    )
                 )
 
-            elif company["ats"] == "ashby":
+            elif (
+                company["ats"]
+                == "ashby"
+            ):
 
-                jobs = get_ashby_jobs(
-                    company
+                jobs = (
+                    get_ashby_jobs(
+                        company
+                    )
                 )
 
-            elif company["ats"] == "lever":
+            elif (
+                company["ats"]
+                == "lever"
+            ):
 
-                jobs = get_lever_jobs(
-                    company
+                jobs = (
+                    get_lever_jobs(
+                        company
+                    )
                 )
 
             else:
@@ -658,75 +1010,132 @@ def main():
             continue
 
         print(
-            f"Found {len(jobs)} "
+            f"Found "
+            f"{len(jobs)} "
             f"total jobs."
         )
 
         for job in jobs:
 
-            categories = analyze_job(
-                job
+            (
+                matched,
+                is_new
+            ) = process_job(
+                job,
+                database,
+                current_job_ids
             )
 
-            if not categories:
-                continue
+            if matched:
+                matching_jobs += 1
 
-            matching_jobs += 1
-
-            job_id = job["id"]
-
-            current_job_ids.add(
-                job_id
-            )
-
-            # Keep the original date the job
-            # was first discovered.
-            if job_id in database:
-
-                first_seen = database[
-                    job_id
-                ]["first_seen"]
-
-            else:
-
-                first_seen = current_time()
-
+            if is_new:
                 new_jobs += 1
 
-                print(
-                    "NEW:",
-                    job["company"],
-                    "-",
-                    job["title"]
+
+    # =====================================================
+    # BROAD DISCOVERY
+    # =====================================================
+
+    print()
+    print(
+        "Checking Simplify broad "
+        "internship feed..."
+    )
+
+    try:
+
+        simplify_jobs = (
+            get_simplify_jobs()
+        )
+
+        simplify_success = True
+
+        print(
+            f"Found "
+            f"{len(simplify_jobs)} "
+            f"active internships "
+            f"in broad feed."
+        )
+
+        for job in simplify_jobs:
+
+            (
+                matched,
+                is_new
+            ) = process_job(
+                job,
+                database,
+                current_job_ids
+            )
+
+            if matched:
+                matching_jobs += 1
+
+            if is_new:
+                new_jobs += 1
+
+    except Exception as error:
+
+        print(
+            "Could not check "
+            "Simplify feed:",
+            error
+        )
+
+
+    # =====================================================
+    # MARK CLOSED JOBS
+    # =====================================================
+
+    for (
+        job_id,
+        job
+    ) in database.items():
+
+        source = job.get(
+            "source",
+            ""
+        )
+
+        # Broad Simplify jobs
+        if source == "simplify":
+
+            if (
+                simplify_success
+                and job_id
+                not in current_job_ids
+            ):
+
+                job["status"] = (
+                    "closed"
                 )
 
-            job["categories"] = categories
-
-            job["first_seen"] = first_seen
-
-            job["last_seen"] = current_time()
-
-            job["status"] = "open"
-
-            database[job_id] = job
+            continue
 
 
-    # Mark previously known jobs as closed if they disappear
-    # from a company that was successfully checked.
-    for job_id, job in database.items():
-
+        # Direct company jobs
         company_key = (
-            job["company"],
-            job["source"]
+            job.get(
+                "company",
+                ""
+            ),
+            source
         )
 
         if (
-            company_key in successful_companies
-            and job_id not in current_job_ids
+            company_key
+            in successful_companies
+            and job_id
+            not in current_job_ids
         ):
 
             job["status"] = "closed"
 
+
+    # =====================================================
+    # SAVE EVERYTHING
+    # =====================================================
 
     save_jobs(
         database
@@ -736,11 +1145,18 @@ def main():
         database
     )
 
+
+    # =====================================================
+    # TERMINAL SUMMARY
+    # =====================================================
+
     print()
-    print("=" * 60)
+    print(
+        "=" * 60
+    )
 
     print(
-        f"Matching open jobs found: "
+        f"Matching jobs found: "
         f"{matching_jobs}"
     )
 
@@ -750,10 +1166,13 @@ def main():
     )
 
     print(
-        "Updated jobs.json and jobs.md"
+        "Updated jobs.json "
+        "and jobs.md"
     )
 
-    print("=" * 60)
+    print(
+        "=" * 60
+    )
 
 
 if __name__ == "__main__":
