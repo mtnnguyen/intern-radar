@@ -115,8 +115,29 @@ CAREER_KEYWORDS = {
 # internal
 # international
 # etc.
-INTERNSHIP_PATTERN = re.compile(
-    r"\b(intern|internship|internships|student)\b|co[- ]?op",
+EARLY_CAREER_PATTERN = re.compile(
+    r"\b("
+    r"intern|internship|internships|"
+    r"co[- ]?op|"
+    r"student|"
+    r"summer analyst|"
+    r"summer associate|"
+    r"apprentice|"
+    r"placement"
+    r")\b",
+    re.IGNORECASE
+)
+
+EXCLUDED_TITLE_WORDS = [
+    "manager",
+    "director",
+    "senior manager",
+    "staff scientist",
+    "principal",
+]
+
+PHD_PATTERN = re.compile(
+    r"\bph\.?d\.?\b",
     re.IGNORECASE
 )
 
@@ -587,24 +608,32 @@ def analyze_job(job):
         .strip()
     )
 
-    employment_type = (
-        job.get(
-            "employment_type",
-            ""
-        )
-        .lower()
-        .strip()
-    )
+    # ---------------------------------------------
+    # REMOVE OBVIOUSLY IRRELEVANT SENIOR POSITIONS
+    # ---------------------------------------------
 
-    internship_text = (
-        title
-        + " "
-        + employment_type
-    )
+    if any(
+        word in title
+        for word in EXCLUDED_TITLE_WORDS
+    ):
+        return None
+
+
+    # ---------------------------------------------
+    # REMOVE PHD-ONLY INTERNSHIPS
+    # ---------------------------------------------
+
+    if PHD_PATTERN.search(title):
+        return None
+
+
+    # ---------------------------------------------
+    # REQUIRE AN EARLY-CAREER POSITION
+    # ---------------------------------------------
 
     is_internship = bool(
-        INTERNSHIP_PATTERN.search(
-            internship_text
+        EARLY_CAREER_PATTERN.search(
+            title
         )
     )
 
