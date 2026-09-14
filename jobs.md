@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 799
+**Active matching jobs:** 813
 
-**New in the last 24 hours:** 799
+**New in the last 24 hours:** 813
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -125,6 +125,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇨🇦 Canada | 🔥 NEW | Epic Games | Machine Learning Intern - Special Projects - Epic Research Group | Machine Learning / AI | Montreal, QC, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
 | 🇨🇦 Canada | 🔥 NEW | Xsolla | AI Engineer Intern | Machine Learning / AI | Montreal, QC, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) |
 | 🇨🇦 Canada | 🔥 NEW | Cohere | Machine Learning Intern/Co-op | Machine Learning / AI | Canada, United Kingdom, United States | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
+| 🇺🇸 USA | 🔥 NEW | Principal Financial Group | Data and Analytics Intern - Multiple Teams | Analytics | Des Moines, IA, Remote in USA, Raleigh, NC, Charlotte, NC | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://careers.principal.com/jobs/52574?icims=1) |
 | 🇺🇸 USA | 🔥 NEW | Businessolver | Business Intelligence Intern - Innovation & Data Science | Data Science, Analytics | United States | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738) |
 | 🇺🇸 USA | 🔥 NEW | Amgen | Data Engineer Intern | Data Engineering | Remote in USA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742) |
 | 🇺🇸 USA | 🔥 NEW | LabCorp | Financial Analytics & Technology Intern - Financial Analytics Team | Analytics | Remote in USA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Remote_United-States/Intern---Financial-Analytics---Technology_2630761) |
@@ -251,6 +252,19 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA | 🔥 NEW | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
 | 🇺🇸 USA | 🔥 NEW | Amazon | Applied Science Intern - Multiple Teams | Machine Learning / AI | Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
 | 🇺🇸 USA | 🔥 NEW | Amazon | Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning | Machine Learning / AI | Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Corvallis, OR, NYC, Bellevue, WA, San Diego, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) |
+| 🌎 Other | 🔥 NEW | Johnson & Johnson | Business Intelligence Co-op | Analytics | Irving, TX | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Business-Intelligence-Co-Op_R-097003-1) |
+| 🌎 Other | 🔥 NEW | Brevan Howard | Quantitative Analyst Intern - AI | Analytics | NYC | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) |
+| 🌎 Other | 🔥 NEW | Genworth Financial | Commercial Analytics and Optimization Team Intern | Analytics | Raleigh, NC | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Commercial-Analytics-and-Optimization-Team-Intern_REQ-260363-1) |
+| 🌎 Other | 🔥 NEW | Genworth Financial | Data Science Intern | Data Science | Raleigh, NC | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Data-Science-Intern_REQ-260362-1) |
+| 🌎 Other | 🔥 NEW | Reply | AI/Machine Learning Intern | Machine Learning / AI | Detroit, MI | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://jobs.lever.co/reply/74422215-dd06-404a-a35c-3c9bd80e1f0b/apply) |
+| 🌎 Other | 🔥 NEW | Enact Mortgage Insurance | Data Science Intern | Data Science | Raleigh, NC | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Data-Science-Intern_REQ-260362) |
+| 🌎 Other | 🔥 NEW | Enact Mortgage Insurance | Commercial Analytics and Optimization Team Intern | Analytics | Raleigh, NC | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Commercial-Analytics-and-Optimization-Team-Intern_REQ-260363) |
+| 🌎 Other | 🔥 NEW | Raymond James Financial | Private Client Banking Strategy, Analytics & Sales Intern | Analytics | St. Petersburg, FL | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Private-Client-Banking-Strategy--Analytics----Sales-Intern--St-Petersburg--FL-_R-0013001) |
+| 🌎 Other | 🔥 NEW | Ulta Beauty | Supply Chain Data & Analytics Intern | Analytics | Bolingbrook, IL | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://careers.ulta.com/jobs/527097?icims=1) |
+| 🌎 Other | 🔥 NEW | BP | Data Strategist Intern - Global Data Strategists Team | GIS / Geospatial | NYC | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---New-York---New-York/Data-Strategist-Programme_RQ115837) |
+| 🌎 Other | 🔥 NEW | Robinhood | People Insights & Analytics Intern - Summer 2027 | Analytics | Menlo Park, CA | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198255) |
+| 🌎 Other | 🔥 NEW | Principal Financial Group | Data Engineer Intern | Data Engineering | Des Moines, IA | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://careers.principal.com/jobs/52561?icims=1) |
+| 🌎 Other | 🔥 NEW | Core & Main | Data Engineering Intern | Data Engineering | St. Louis, MO | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) |
 | 🌎 Other | 🔥 NEW | American Express | AI Engineer Intern | Machine Learning / AI | London, UK | simplify | 2026-09-14 10:37 AM EDT | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013758) |
 | 🌎 Other | 🔥 NEW | American Express | AI Engineer Intern - Undergraduate | Machine Learning / AI | Burgess Hill, UK | simplify | 2026-09-14 10:37 AM EDT | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756) |
 | 🌎 Other | 🔥 NEW | URBN | Data Science Intern | Data Science | Philadelphia, PA | simplify | 2026-09-14 10:37 AM EDT | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false) |
