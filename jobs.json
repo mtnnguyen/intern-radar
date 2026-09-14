@@ -1,5 +1,245 @@
 [
   {
+    "id": "009ba75def6823c4d835",
+    "company": "Oshkosh",
+    "source": "simplify",
+    "title": "Advanced Analytics Intern",
+    "location": "Frederick, MD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Summer-2027-Advanced-Analytics-Intern_R49541",
+    "published_at": 1789344000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-14T22:46:03.824292+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bba2b7fb42a2079d9db8",
+    "company": "Ernst & Young",
+    "source": "simplify",
+    "title": "Data Engineer Intern - Multiple Teams",
+    "location": "Chicago, IL, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://eyglobal.yello.co/jobs/nuM1c7MBNjknCC8oSMvZMg?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+    "published_at": 1789423478,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-14T22:46:03.824284+00:00",
+    "status": "open"
+  },
+  {
+    "id": "040b712cdef0a3479dc1",
+    "company": "AtkinsRéalis",
+    "source": "simplify",
+    "title": "Data Scientist Intern - Summer 2027",
+    "location": "Tempe, AZ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1",
+    "published_at": 1789344000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-14T22:46:03.824255+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a8dc787e7b261af4b6ff",
+    "company": "MVP Health Care",
+    "source": "simplify",
+    "title": "Analytics Intern",
+    "location": "Schenectady, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://mvphealthcare.wd5.myworkdayjobs.com/mvphealthcare/job/Schenectady-NY/Intern--Analytics_JR100288",
+    "published_at": 1789344000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-14T22:46:03.824228+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bc87d14bf797adf6d7e4",
+    "company": "BlueCross BlueShield of Nebraska",
+    "source": "simplify",
+    "title": "Healthcare Analytics Intern",
+    "location": "Omaha, NE",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Analytics-Intern--Starts-Summer-2027_JR101437",
+    "published_at": 1789344000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-14T22:46:03.824215+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bbfa3096e9ff2d050ece",
+    "company": "Xcel Energy",
+    "source": "simplify",
+    "title": "AI and Analytics Intern",
+    "location": "Minneapolis, MN, Denver, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1",
+    "published_at": 1789344000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-14T22:46:03.824207+00:00",
+    "status": "open"
+  },
+  {
+    "id": "eb2010b7a05d45a7b26e",
+    "company": "Xcel Energy",
+    "source": "simplify",
+    "title": "Energy Programs Strategy & Analytics Intern",
+    "location": "Minneapolis, MN, Denver, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Energy-Programs-Strategy---Analytics-Intern---MN_JR115669-1",
+    "published_at": 1789344000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-14T22:46:03.824175+00:00",
+    "status": "open"
+  },
+  {
+    "id": "779e9f29512913b3b18b",
+    "company": "General Motors",
+    "source": "simplify",
+    "title": "Race Strategy & Analytics Intern - IndyCar",
+    "location": "Concord, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990",
+    "published_at": 1789344000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-14T22:46:03.824166+00:00",
+    "status": "open"
+  },
+  {
+    "id": "948bc49f6555fb5753ba",
+    "company": "Booz Allen",
+    "source": "simplify",
+    "title": "Applied AI Intern",
+    "location": "Washington, DC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/Washington-DC/University---Applied-AI-Specialist_R0249409",
+    "published_at": 1789344000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-14T22:46:03.824044+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f7948598eef7c23e29f4",
+    "company": "Cyvl",
+    "source": "simplify",
+    "title": "Engineering Intern - Software - Machine Learning",
+    "location": "Boston, MA, Somerville, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328/application?embed=true",
+    "published_at": 1789420443,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-14T22:46:03.823983+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cc10879c0eefa9d9cd2c",
+    "company": "Charta Health",
+    "source": "simplify",
+    "title": "Forward Deployed AI Engineer Intern",
+    "location": "SF, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf/application?embed=true",
+    "published_at": 1789420908,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-14T22:46:03.823952+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4774bb43b30c3f481217",
+    "company": "BDO Canada",
+    "source": "simplify",
+    "title": "Data & Analytics Co-op Intern",
+    "location": "Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada, Oakville, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Halifax Regional Municipality, NS, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--January-2027-_JR7061",
+    "published_at": 1789344000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-14T22:46:03.823905+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e934b87a9d56e08dce59",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "AI Engineer Co-op - Global Equities",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
+    "published_at": 1789344000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-14T22:46:03.823812+00:00",
+    "status": "open"
+  },
+  {
+    "id": "283911af4dfbe0f2034d",
+    "company": "Google",
+    "source": "simplify",
+    "title": "Data Scientist Intern - Product",
+    "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/119184035237765830",
+    "published_at": 1789417463,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-14T22:46:03.823763+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ebf38e483656815761a1",
+    "company": "Google",
+    "source": "simplify",
+    "title": "Business Data Scientist Intern",
+    "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/134577198026629830",
+    "published_at": 1789417461,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-14T22:46:03.823725+00:00",
+    "status": "open"
+  },
+  {
     "id": "c9bdf8a6084fd8bd1c19",
     "company": "Arconic",
     "source": "simplify",
@@ -1873,7 +2113,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.531139+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "973801ab9585f90cd8f2",
@@ -3625,7 +3865,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "ba4ac4bb6148f864d37f",
@@ -4815,7 +5055,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "326a8f753a23828183ab",
@@ -12408,7 +12648,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "99bbeec4843c0e69dd94",
@@ -13866,7 +14106,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.439377+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e3ede881d9ef7a9cb5d2",
