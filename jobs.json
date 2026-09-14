@@ -1,5 +1,117 @@
 [
   {
+    "id": "c9bdf8a6084fd8bd1c19",
+    "company": "Arconic",
+    "source": "simplify",
+    "title": "Data Engineering Intern",
+    "location": "New Kensington, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114184",
+    "published_at": 1789415143,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-14T20:13:24.228489+00:00",
+    "status": "open"
+  },
+  {
+    "id": "30361ab9535d3957f24a",
+    "company": "Figma",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "SF, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://boards.greenhouse.io/figma/jobs/6178857004",
+    "published_at": 1789415232,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-14T20:13:24.228473+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c37bb21563efc592d7e7",
+    "company": "Equitable Bank",
+    "source": "simplify",
+    "title": "Commercial Lending AI Engineer Intern - Winter 2027",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply",
+    "published_at": 1789415213,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-14T20:13:24.228465+00:00",
+    "status": "open"
+  },
+  {
+    "id": "16eb03051289d37e905c",
+    "company": "Waymo",
+    "source": "simplify",
+    "title": "Human Behavior Analytics Intern - Safety Research",
+    "location": "Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899",
+    "published_at": 1789415239,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-14T20:13:24.228447+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4003e17e830c50a178b5",
+    "company": "Equitable Bank",
+    "source": "simplify",
+    "title": "Retail Lending AI Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply",
+    "published_at": 1789415212,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-14T20:13:24.228414+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0f8fb7f9993f02adccae",
+    "company": "Motorola",
+    "source": "simplify",
+    "title": "AI & Data Analytics Intern - Supply Resilience",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/AI---Data-Analytics-Intern----Supply-Resilience_R68261",
+    "published_at": 1789344000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-14T20:13:24.228366+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f47810f6312cff65d54f",
+    "company": "Constellation Energy",
+    "source": "simplify",
+    "title": "PMO/Data Analyst Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.constellationenergy.com/jobs/138735?icims=1",
+    "published_at": 1789413578,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-14T20:13:24.228329+00:00",
+    "status": "open"
+  },
+  {
     "id": "4b6c36e9c4cb042531ff",
     "company": "Dow Jones",
     "source": "simplify",
@@ -3513,7 +3625,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ba4ac4bb6148f864d37f",
@@ -10306,7 +10418,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "416beb88984d6275500d",
