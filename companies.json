@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Datadog",
+    "ats": "greenhouse",
+    "slug": "datadog"
+  },
+  {
+    "name": "Wealthsimple",
+    "ats": "ashby",
+    "slug": "wealthsimple"
+  },
+  {
+    "name": "Telesat",
+    "ats": "lever",
+    "slug": "telesat"
+  }
+]
