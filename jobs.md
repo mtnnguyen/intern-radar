@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 813
+**Active matching jobs:** 818
 
-**New in the last 24 hours:** 813
+**New in the last 24 hours:** 818
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -90,6 +90,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇨🇦 Ontario | 🔥 NEW | Nokia | Data Scientist Co-op/Intern | Data Science | Ottawa, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) |
 | 🇨🇦 Ontario | 🔥 NEW | D2L | Business Insights & Analytics Co-op | Analytics | Kitchener, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://www.d2l.com/careers/jobs/?job_id=8188363&gh_jid=8188363) |
 | 🇨🇦 Ontario | 🔥 NEW | Exelon | Data Science Intern - Data Science/Analytics | Data Science, Analytics | Washington, DC, Newark, DE, Philadelphia, PA, Chicago, IL, Oakbrook Terrace, IL, Hamilton, NJ, Baltimore, MD | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.comed.com/jobs/30120?icims=1) |
+| 🇨🇦 Canada | 🔥 NEW | Orennia | Analytics Intern | Analytics | Calgary, AB, Canada | simplify | 2026-09-14 03:13 PM EDT | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008) |
 | 🇨🇦 Canada | 🔥 NEW | Cozey | Data Science Intern | Data Science | Mount Royal, QC, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://ats.rippling.com/cozey-internships/jobs/d19a9f0b-e828-436b-890f-a6f2216c6888) |
 | 🇨🇦 Canada | 🔥 NEW | RTX | Business & Data Analyst Intern | Analytics | Longueuil, QC, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027----Analyste-d-affaires-et-de-Donnes---Internship---Winter-2027----Business---Data-Analyst_01863946) |
 | 🇨🇦 Canada | 🔥 NEW | CAE | Junior Data Analyst Intern | Analytics | Halifax Regional Municipality, NS, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Halifax/XMLNAME----C-DS-902-Junior-Data-Analytics-Intern_123391) |
@@ -252,6 +253,10 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA | 🔥 NEW | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
 | 🇺🇸 USA | 🔥 NEW | Amazon | Applied Science Intern - Multiple Teams | Machine Learning / AI | Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
 | 🇺🇸 USA | 🔥 NEW | Amazon | Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning | Machine Learning / AI | Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Corvallis, OR, NYC, Bellevue, WA, San Diego, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) |
+| 🌎 Other | 🔥 NEW | Dow Jones | Marketing Data Science Intern | Data Science | NYC | simplify | 2026-09-14 03:13 PM EDT | [Apply](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Marketing-Data-Science-Intern_Job_Req_55295) |
+| 🌎 Other | 🔥 NEW | Dow Jones | Data Analyst Intern - Internship Program | Analytics | NYC | simplify | 2026-09-14 03:13 PM EDT | [Apply](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55294) |
+| 🌎 Other | 🔥 NEW | NCR Atleos | Data Science Intern | Data Science | Frisco, TX, Atlanta, GA | simplify | 2026-09-14 03:13 PM EDT | [Apply](https://ncratleos.wd1.myworkdayjobs.com/ext_intern/job/ATLANTA-GA-USA/Data-Science-Intern_R1154686) |
+| 🌎 Other | 🔥 NEW | Clarios | People Analytics Intern - Summer 2027 | Analytics | Milwaukee, WI | simplify | 2026-09-14 03:13 PM EDT | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216) |
 | 🌎 Other | 🔥 NEW | Johnson & Johnson | Business Intelligence Co-op | Analytics | Irving, TX | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Business-Intelligence-Co-Op_R-097003-1) |
 | 🌎 Other | 🔥 NEW | Brevan Howard | Quantitative Analyst Intern - AI | Analytics | NYC | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) |
 | 🌎 Other | 🔥 NEW | Genworth Financial | Commercial Analytics and Optimization Team Intern | Analytics | Raleigh, NC | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Commercial-Analytics-and-Optimization-Team-Intern_REQ-260363-1) |

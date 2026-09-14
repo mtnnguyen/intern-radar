@@ -1,5 +1,85 @@
 [
   {
+    "id": "4b6c36e9c4cb042531ff",
+    "company": "Dow Jones",
+    "source": "simplify",
+    "title": "Marketing Data Science Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Marketing-Data-Science-Intern_Job_Req_55295",
+    "published_at": 1789344000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-14T19:13:13.815259+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8894a6019c529caa32a9",
+    "company": "Dow Jones",
+    "source": "simplify",
+    "title": "Data Analyst Intern - Internship Program",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55294",
+    "published_at": 1789344000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-14T19:13:13.815226+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b2007d8d78bb5155a0ec",
+    "company": "NCR Atleos",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Frisco, TX, Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_intern/job/ATLANTA-GA-USA/Data-Science-Intern_R1154686",
+    "published_at": 1789344000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-14T19:13:13.815161+00:00",
+    "status": "open"
+  },
+  {
+    "id": "29962f0d89311ef294f2",
+    "company": "Clarios",
+    "source": "simplify",
+    "title": "People Analytics Intern - Summer 2027",
+    "location": "Milwaukee, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216",
+    "published_at": 1789344000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-14T19:13:13.815138+00:00",
+    "status": "open"
+  },
+  {
+    "id": "55f57243001a4235840c",
+    "company": "Orennia",
+    "source": "simplify",
+    "title": "Analytics Intern",
+    "location": "Calgary, AB, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://boards.greenhouse.io/orennia/jobs/5277706008",
+    "published_at": 1783416111,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-14T19:13:13.787435+00:00",
+    "status": "open"
+  },
+  {
     "id": "2de50af967cee0c38a37",
     "company": "Johnson & Johnson",
     "source": "simplify",
