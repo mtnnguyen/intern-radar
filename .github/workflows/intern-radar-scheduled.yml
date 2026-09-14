@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: intern-radar-scheduled
+  group: intern-radar
   cancel-in-progress: false
 
 jobs:
