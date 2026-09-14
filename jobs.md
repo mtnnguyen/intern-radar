@@ -2,7 +2,7 @@
 
 Automatically tracks internships and co-op positions related to data science, analytics, machine learning, GIS/geospatial and statistics.
 
-**Last updated:** 2026-09-14 03:44 UTC
+**Last updated:** 2026-09-14 09:15 UTC
 
 **Active matching jobs:** 3
 
