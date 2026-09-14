@@ -25,6 +25,7 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 
 import requests
 
@@ -868,6 +869,341 @@ def format_toronto_time(iso_time):
     except Exception:
 
         return iso_time
+
+
+# =========================================================
+# DEDUPLICATION
+# =========================================================
+
+SOURCE_PRIORITY = {
+    # Prefer jobs retrieved directly from the employer.
+    "greenhouse": 3,
+    "ashby": 3,
+    "lever": 3,
+
+    # Use aggregator as a fallback.
+    "simplify": 1,
+}
+
+
+def normalize_text(text):
+    """
+    Normalize text so small punctuation/capitalization
+    differences do not create duplicate jobs.
+    """
+
+    text = str(text or "").lower()
+
+    text = re.sub(
+        r"[^a-z0-9]+",
+        " ",
+        text
+    )
+
+    return text.strip()
+
+
+def normalize_url(url):
+    """
+    Normalize application URLs while removing common
+    tracking parameters.
+
+    This helps identify the same application link coming
+    from multiple sources.
+    """
+
+    if not url:
+        return ""
+
+    try:
+
+        parts = urlsplit(
+            url.strip()
+        )
+
+        query = []
+
+        for key, value in parse_qsl(
+            parts.query,
+            keep_blank_values=True
+        ):
+
+            key_lower = key.lower()
+
+            # Remove analytics/tracking parameters,
+            # but keep useful identifiers such as gh_jid.
+            if key_lower.startswith(
+                "utm_"
+            ):
+                continue
+
+            if key_lower in {
+                "source",
+                "ref",
+                "referrer",
+            }:
+                continue
+
+            query.append(
+                (key, value)
+            )
+
+        normalized_query = urlencode(
+            sorted(query)
+        )
+
+        return urlunsplit(
+            (
+                parts.scheme.lower(),
+                parts.netloc.lower(),
+                parts.path.rstrip("/"),
+                normalized_query,
+                ""
+            )
+        )
+
+    except Exception:
+
+        return url.strip()
+
+
+def job_fallback_key(job):
+    """
+    Create a text-based backup key when URLs differ.
+
+    Company + title + location must all match after
+    normalization.
+    """
+
+    company = normalize_text(
+        job.get(
+            "company",
+            ""
+        )
+    )
+
+    title = normalize_text(
+        job.get(
+            "title",
+            ""
+        )
+    )
+
+    location = normalize_text(
+        job.get(
+            "location",
+            ""
+        )
+    )
+
+    return (
+        company,
+        title,
+        location
+    )
+
+
+def choose_better_job(
+    existing,
+    candidate
+):
+    """
+    Choose which copy of a duplicate job should appear.
+
+    Direct company ATS sources are preferred over Simplify.
+    """
+
+    existing_priority = (
+        SOURCE_PRIORITY.get(
+            existing.get(
+                "source",
+                ""
+            ),
+            0
+        )
+    )
+
+    candidate_priority = (
+        SOURCE_PRIORITY.get(
+            candidate.get(
+                "source",
+                ""
+            ),
+            0
+        )
+    )
+
+    if (
+        candidate_priority
+        > existing_priority
+    ):
+        better = candidate
+        other = existing
+
+    else:
+        better = existing
+        other = candidate
+
+    # Keep the earliest time we discovered the job.
+    existing_first = existing.get(
+        "first_seen",
+        ""
+    )
+
+    candidate_first = candidate.get(
+        "first_seen",
+        ""
+    )
+
+    times = [
+        time
+        for time in [
+            existing_first,
+            candidate_first
+        ]
+        if time
+    ]
+
+    if times:
+        better["first_seen"] = min(
+            times
+        )
+
+    # Combine categories discovered by both sources.
+    categories = list(
+        dict.fromkeys(
+            existing.get(
+                "categories",
+                []
+            )
+            +
+            candidate.get(
+                "categories",
+                []
+            )
+        )
+    )
+
+    better["categories"] = categories
+
+    return better
+
+
+def deduplicate_jobs(jobs):
+    """
+    Remove duplicate listings collected from multiple sources.
+
+    First tries application URL matching.
+    Then falls back to matching company + title + location.
+    """
+
+    unique_jobs = []
+
+    url_index = {}
+    fallback_index = {}
+
+    for job in jobs:
+
+        normalized_job_url = normalize_url(
+            job.get(
+                "url",
+                ""
+            )
+        )
+
+        fallback_key = job_fallback_key(
+            job
+        )
+
+        duplicate_index = None
+
+        # Best duplicate signal:
+        # the same application URL.
+        if (
+            normalized_job_url
+            and normalized_job_url
+            in url_index
+        ):
+
+            duplicate_index = (
+                url_index[
+                    normalized_job_url
+                ]
+            )
+
+        # Backup signal:
+        # same company + title + location.
+        elif (
+            fallback_key
+            in fallback_index
+        ):
+
+            duplicate_index = (
+                fallback_index[
+                    fallback_key
+                ]
+            )
+
+
+        if duplicate_index is not None:
+
+            existing = unique_jobs[
+                duplicate_index
+            ]
+
+            better = choose_better_job(
+                existing,
+                job
+            )
+
+            unique_jobs[
+                duplicate_index
+            ] = better
+
+            # Make both keys point to the same
+            # canonical job.
+            better_url = normalize_url(
+                better.get(
+                    "url",
+                    ""
+                )
+            )
+
+            if better_url:
+                url_index[
+                    better_url
+                ] = duplicate_index
+
+            fallback_index[
+                job_fallback_key(
+                    better
+                )
+            ] = duplicate_index
+
+            continue
+
+
+        # This is a completely new unique job.
+        new_index = len(
+            unique_jobs
+        )
+
+        unique_jobs.append(
+            job
+        )
+
+        if normalized_job_url:
+
+            url_index[
+                normalized_job_url
+            ] = new_index
+
+        fallback_index[
+            fallback_key
+        ] = new_index
+
+
+    return unique_jobs
     
 
 # =========================================================
@@ -886,6 +1222,11 @@ def create_markdown(database):
             "status"
         ) == "open"
     ]
+    # Remove duplicate listings that appeared
+    # through multiple sources.
+    open_jobs = deduplicate_jobs(
+        open_jobs
+    )
 
     open_jobs.sort(
     key=lambda job: (
@@ -964,7 +1305,7 @@ def create_markdown(database):
                 "first_seen",
                 ""
             )
-            
+
         )
 
         source = job.get(
