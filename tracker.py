@@ -23,7 +23,10 @@ JOBS_FILE = Path("jobs.json")
 MARKDOWN_FILE = Path("jobs.md")
 
 
-# Career fields that we want the tracker to find.
+# ---------------------------------------------------------
+# TARGET CAREER FIELDS
+# ---------------------------------------------------------
+
 CAREER_KEYWORDS = {
     "Data Science": [
         "data science",
@@ -45,6 +48,7 @@ CAREER_KEYWORDS = {
         "machine learning engineer",
         "artificial intelligence",
         "applied scientist",
+        "applied science",
     ],
 
     "GIS / Geospatial": [
@@ -66,15 +70,19 @@ CAREER_KEYWORDS = {
 }
 
 
-# Words that suggest a position is meant for students.
-INTERNSHIP_WORDS = [
-    "intern",
-    "internship",
-    "co-op",
-    "coop",
-    "student",
-]
+# Identifies real internship / co-op terms.
+#
+# Word boundaries prevent "intern" from accidentally
+# matching words such as "internal" or "international".
+INTERNSHIP_PATTERN = re.compile(
+    r"\b(intern|internship|internships|student)\b|co[- ]?op",
+    re.IGNORECASE
+)
 
+
+# ---------------------------------------------------------
+# GENERAL HELPERS
+# ---------------------------------------------------------
 
 def current_time():
     """Return the current UTC time."""
@@ -83,7 +91,7 @@ def current_time():
 
 
 def clean_text(text):
-    """Remove simple HTML formatting from job descriptions."""
+    """Remove basic HTML formatting from job descriptions."""
 
     if not text:
         return ""
@@ -97,7 +105,7 @@ def clean_text(text):
 
 def create_job_id(source, company, original_id):
     """
-    Create a stable ID so the tracker can recognize
+    Create a stable ID so the tracker recognizes
     the same job during future runs.
     """
 
@@ -109,7 +117,7 @@ def create_job_id(source, company, original_id):
 
 
 def load_companies():
-    """Load the companies we want to monitor."""
+    """Load companies from companies.json."""
 
     with open(
         COMPANIES_FILE,
@@ -349,16 +357,13 @@ def get_lever_jobs(company):
 
 def analyze_job(job):
     """
-    Check whether a job is an internship/co-op
-    related to one of our target fields.
+    Keep jobs that are:
+    1. Actual internships/co-ops/student positions
+    2. Clearly related to one of the target career fields
     """
 
     title = job["title"].lower()
-
-    description = job[
-        "description"
-    ].lower()
-
+    
     employment_type = job[
         "employment_type"
     ].lower()
@@ -369,35 +374,33 @@ def analyze_job(job):
         + employment_type
     )
 
-    # Determine whether this is a student position.
-    is_internship = any(
-        word in internship_text
-        for word in INTERNSHIP_WORDS
+    # Require an actual internship/co-op/student term.
+    is_internship = bool(
+        INTERNSHIP_PATTERN.search(
+            internship_text
+        )
     )
 
     if not is_internship:
         return None
     
-    career_text = (
-        title
-        + " "
-        + description
-    )
-
     categories = []
 
-    # Determine which career categories match.
+    # Career keyword must currently appear in the title.
+    #
+    # This avoids unrelated internships being included just
+    # because their description mentions ML, analytics, etc.
     for category, keywords in CAREER_KEYWORDS.items():
 
         if any(
-            keyword in career_text
+            keyword in title
             for keyword in keywords
         ):
 
             categories.append(
                 category
             )
-            
+
     if not categories:
         return None
 
@@ -409,9 +412,7 @@ def analyze_job(job):
 # ---------------------------------------------------------
 
 def load_jobs():
-    """
-    Load jobs that the tracker has already seen.
-    """
+    """Load jobs previously discovered by the tracker."""
 
     if not JOBS_FILE.exists():
         return {}
@@ -464,7 +465,7 @@ def save_jobs(database):
 # ---------------------------------------------------------
 
 def escape_markdown(text):
-    """Prevent table formatting from breaking."""
+    """Prevent markdown table formatting from breaking."""
 
     return str(text).replace(
         "|",
@@ -500,8 +501,8 @@ def is_new_job(job):
 
 def create_markdown(database):
     """
-    Generate a readable GitHub page containing
-    all currently active matching internships.
+    Generate jobs.md containing currently
+    active matching internships.
     """
 
     open_jobs = [
@@ -678,8 +679,8 @@ def main():
                 job_id
             )
 
-            # Preserve the original date when we first
-            # discovered the job.
+            # Keep the original date the job
+            # was first discovered.
             if job_id in database:
 
                 first_seen = database[
@@ -710,8 +711,8 @@ def main():
             database[job_id] = job
 
 
-    # If a previously known job disappears from a
-    # successfully checked company, mark it closed.
+    # Mark previously known jobs as closed if they disappear
+    # from a company that was successfully checked.
     for job_id, job in database.items():
 
         company_key = (
