@@ -4,10 +4,15 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "7,37 * * * *"
+    - cron: "*/5 * * * *"
+      timezone: "America/Toronto"
 
 permissions:
   contents: write
+
+concurrency:
+  group: intern-radar-update
+  cancel-in-progress: false
 
 jobs:
   update:

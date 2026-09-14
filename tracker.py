@@ -24,6 +24,7 @@ import json
 import re
 from datetime import datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -35,6 +36,7 @@ import requests
 COMPANIES_FILE = Path("companies.json")
 JOBS_FILE = Path("jobs.json")
 MARKDOWN_FILE = Path("jobs.md")
+TORONTO_TZ = ZoneInfo("America/Toronto")
 
 
 # =========================================================
@@ -740,6 +742,133 @@ def is_new_job(job):
 
         return False
 
+# =========================================================
+# LOCATION PRIORITY
+# =========================================================
+
+GTA_LOCATIONS = [
+    "toronto",
+    "mississauga",
+    "brampton",
+    "vaughan",
+    "markham",
+    "richmond hill",
+    "scarborough",
+    "north york",
+    "etobicoke",
+    "oakville",
+    "pickering",
+    "ajax",
+    "whitby",
+]
+
+ONTARIO_LOCATIONS = [
+    "ontario",
+    "ottawa",
+    "waterloo",
+    "kitchener",
+    "hamilton",
+    "guelph",
+    "london, on",
+]
+
+CANADA_LOCATIONS = [
+    "canada",
+    "vancouver",
+    "montreal",
+    "calgary",
+    "edmonton",
+    "winnipeg",
+    "halifax",
+    "victoria",
+    "quebec",
+    "saskatoon",
+    "regina",
+]
+
+US_LOCATIONS = [
+    "united states",
+    "usa",
+    "u.s.",
+    "new york",
+    "san francisco",
+    "seattle",
+    "boston",
+    "chicago",
+    "austin",
+    "los angeles",
+]
+
+
+def get_location_priority(location):
+    """
+    Rank locations according to application priority.
+
+    4 = Toronto / GTA
+    3 = Ontario
+    2 = Canada
+    1 = United States
+    0 = Other / unknown
+    """
+
+    location = str(
+        location or ""
+    ).lower()
+
+    if any(
+        place in location
+        for place in GTA_LOCATIONS
+    ):
+        return 4, "🔥 Toronto / GTA"
+
+    if any(
+        place in location
+        for place in ONTARIO_LOCATIONS
+    ):
+        return 3, "🇨🇦 Ontario"
+
+    if any(
+        place in location
+        for place in CANADA_LOCATIONS
+    ):
+        return 2, "🇨🇦 Canada"
+
+    if any(
+        place in location
+        for place in US_LOCATIONS
+    ):
+        return 1, "🇺🇸 USA"
+
+    return 0, "🌎 Other"
+
+
+def format_toronto_time(iso_time):
+    """
+    Convert stored UTC timestamps into Toronto time.
+    Automatically switches between EST and EDT.
+    """
+
+    try:
+
+        dt = datetime.fromisoformat(
+            iso_time
+        )
+
+        if dt.tzinfo is None:
+            dt = dt.replace(
+                tzinfo=timezone.utc
+            )
+
+        return dt.astimezone(
+            TORONTO_TZ
+        ).strftime(
+            "%Y-%m-%d %I:%M %p %Z"
+        )
+
+    except Exception:
+
+        return iso_time
+    
 
 # =========================================================
 # GENERATE jobs.md
@@ -759,19 +888,22 @@ def create_markdown(database):
     ]
 
     open_jobs.sort(
-        key=lambda job: job.get(
+    key=lambda job: (
+        get_location_priority(
+            job.get(
+                "location",
+                ""
+            )
+        )[0],
+
+        job.get(
             "first_seen",
             ""
-        ),
-        reverse=True
+        )
+    ),
+    reverse=True
     )
-
-    updated = datetime.now(
-        timezone.utc
-    ).strftime(
-        "%Y-%m-%d %H:%M UTC"
-    )
-
+    
     new_count = sum(
         1
         for job in open_jobs
@@ -788,22 +920,31 @@ def create_markdown(database):
             "and statistics."
         ),
         "",
-        f"**Last updated:** {updated}",
+        "**Scheduled checks:** Every 5 minutes (Toronto time)",
         "",
         f"**Active matching jobs:** {len(open_jobs)}",
         "",
         f"**New in the last 24 hours:** {new_count}",
         "",
         (
-            "| New | Company | Position | Category | "
+            "| Priority | New | Company | Position | Category | "
             "Location | Source | First Detected | Apply |"
         ),
         (
-            "|---|---|---|---|---|---|---|---|"
+            "|---|---|---|---|---|---|---|---|---|"
         ),
     ]
 
     for job in open_jobs:
+
+        priority_score, priority_label = (
+            get_location_priority(
+                job.get(
+                    "location",
+                    ""
+                )
+            )
+        )
 
         new_marker = (
             "🔥 NEW"
@@ -818,15 +959,12 @@ def create_markdown(database):
             )
         )
 
-        first_seen = (
+        first_seen = format_toronto_time(
             job.get(
                 "first_seen",
                 ""
             )
-            .replace(
-                "T",
-                " "
-            )[:16]
+            
         )
 
         source = job.get(
@@ -836,13 +974,14 @@ def create_markdown(database):
 
         lines.append(
             "| "
+            f"{priority_label} | "
             f"{new_marker} | "
             f"{escape_markdown(job['company'])} | "
             f"{escape_markdown(job['title'])} | "
             f"{escape_markdown(categories)} | "
             f"{escape_markdown(job['location'])} | "
             f"{escape_markdown(source)} | "
-            f"{first_seen} UTC | "
+            f"{first_seen} | "
             f"[Apply]({job['url']}) |"
         )
 
@@ -905,8 +1044,6 @@ def process_job(
     job["categories"] = categories
 
     job["first_seen"] = first_seen
-
-    job["last_seen"] = current_time()
 
     job["status"] = "open"
 
