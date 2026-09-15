@@ -1,5 +1,213 @@
 [
   {
+    "id": "b65d4142a9aacdde0139",
+    "company": "ibotta",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Denver, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true",
+    "published_at": 1789425187,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-15T00:57:07.740739+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a070b6a2aa13cc186ee3",
+    "company": "Goldman Sachs",
+    "source": "simplify",
+    "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+    "location": "Salt Lake City, UT",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://higher.gs.com/roles/171549?type=students",
+    "published_at": 1786767946,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-15T00:57:07.729701+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5fa6e5a9da19ef601c61",
+    "company": "Goldman Sachs",
+    "source": "simplify",
+    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://higher.gs.com/roles/171533?type=students",
+    "published_at": 1786767952,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-15T00:57:07.729673+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1765dc36ab62c1144efb",
+    "company": "Goldman Sachs",
+    "source": "simplify",
+    "title": "Quantitative Strategist Intern - Investment Banking",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://higher.gs.com/roles/175428?type=students",
+    "published_at": 1786767955,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-15T00:57:07.729661+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d110ba42ce2a23b09660",
+    "company": "Goldman Sachs",
+    "source": "simplify",
+    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+    "location": "Dallas, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://higher.gs.com/roles/171534?type=students",
+    "published_at": 1786767952,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-15T00:57:07.729643+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c02ad900e688afa87e50",
+    "company": "Goldman Sachs",
+    "source": "simplify",
+    "title": "Quantitative Strategist Intern - Americas",
+    "location": "Dallas, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://higher.gs.com/roles/171532?type=students",
+    "published_at": 1786767952,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-15T00:57:07.729630+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7b39df5a3427725da7e5",
+    "company": "Goldman Sachs",
+    "source": "simplify",
+    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+    "location": "Salt Lake City, UT",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://higher.gs.com/roles/171551?type=students",
+    "published_at": 1786767952,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-15T00:57:07.729579+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8ced18d4422a7c44e8d6",
+    "company": "Goldman Sachs",
+    "source": "simplify",
+    "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://higher.gs.com/roles/175421?type=students",
+    "published_at": 1786767954,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-15T00:57:07.729556+00:00",
+    "status": "open"
+  },
+  {
+    "id": "38c07a5855967b77d1e1",
+    "company": "Goldman Sachs",
+    "source": "simplify",
+    "title": "Quantitative Strategist Intern - Multiple Teams",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://higher.gs.com/roles/171563?type=students",
+    "published_at": 1786767951,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-15T00:57:07.717975+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c33ea6fbfb9a062a1da0",
+    "company": "Goldman Sachs",
+    "source": "simplify",
+    "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://higher.gs.com/roles/171535?type=students",
+    "published_at": 1786767947,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-15T00:57:07.717963+00:00",
+    "status": "open"
+  },
+  {
+    "id": "71336940d9cab71a1de4",
+    "company": "Goldman Sachs",
+    "source": "simplify",
+    "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://higher.gs.com/roles/175427?type=students",
+    "published_at": 1786767949,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-15T00:57:07.717950+00:00",
+    "status": "open"
+  },
+  {
+    "id": "be9230b5d18029a6c613",
+    "company": "Goldman Sachs",
+    "source": "simplify",
+    "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://higher.gs.com/roles/175423?type=students",
+    "published_at": 1786767954,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-15T00:57:07.717926+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6a2b99a23ae9a03d676e",
+    "company": "Goldman Sachs",
+    "source": "simplify",
+    "title": "Quantitative Strategist Intern - Multiple Teams",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://higher.gs.com/roles/175424?type=students",
+    "published_at": 1786767954,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-15T00:57:07.717879+00:00",
+    "status": "open"
+  },
+  {
     "id": "009ba75def6823c4d835",
     "company": "Oshkosh",
     "source": "simplify",
@@ -189,7 +397,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T22:46:03.823905+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e934b87a9d56e08dce59",
@@ -8044,7 +8252,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5560b1b151758ff3534a",
@@ -12440,7 +12648,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3eddc15d2ab9a4bca394",
