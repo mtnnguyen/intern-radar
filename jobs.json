@@ -1,5 +1,69 @@
 [
   {
+    "id": "1312c2b0fb3e86063b24",
+    "company": "Tighe & Bond",
+    "source": "simplify",
+    "title": "GIS Intern - Geographic Information Systems",
+    "location": "Worcester, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers-tighebond.icims.com/jobs/1892/job?mobile=true&needsRedirect=false",
+    "published_at": 1789452496,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-15T11:31:58.169873+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9a2fa19717c3fe401b63",
+    "company": "BlackRock",
+    "source": "simplify",
+    "title": "Quantitative Master’s Internship - Technology - Analytics & Modeling",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476",
+    "published_at": 1789430400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-15T11:31:58.169850+00:00",
+    "status": "open"
+  },
+  {
+    "id": "997e182ceab719e78ff5",
+    "company": "BlackRock",
+    "source": "simplify",
+    "title": "Quantitative Masters Intern - Technology - Analytics & Modeling",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477",
+    "published_at": 1789430400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-15T11:31:58.169830+00:00",
+    "status": "open"
+  },
+  {
+    "id": "995c922ee8113b8cdb0c",
+    "company": "CAI",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Pennsylvania",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8452",
+    "published_at": 1789430400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-15T11:31:58.169717+00:00",
+    "status": "open"
+  },
+  {
     "id": "cd03fcd88afeb9bd5a3d",
     "company": "Howden",
     "source": "simplify",
@@ -270,7 +334,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -398,7 +462,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T22:46:03.824228+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "bc87d14bf797adf6d7e4",
