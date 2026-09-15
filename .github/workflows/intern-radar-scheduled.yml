@@ -1,12 +1,8 @@
-name: Intern Radar Scheduled Check
+name: Intern Radar
 
 on:
-  push:
-    branches:
-      - main
-
   schedule:
-    - cron: "7,22,37,52 * * * *"
+    - cron: "2/5 * * * *"
 
   workflow_dispatch:
 
@@ -15,11 +11,12 @@ permissions:
 
 concurrency:
   group: intern-radar
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
@@ -29,6 +26,7 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: "3.13"
+          cache: "pip"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -45,5 +43,6 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "Update internship listings"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
