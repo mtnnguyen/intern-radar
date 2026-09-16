@@ -1,5 +1,53 @@
 [
   {
+    "id": "cd714c221912d5cf648f",
+    "company": "Apera AI",
+    "source": "simplify",
+    "title": "Machine Learning Applied Scientist Co-op",
+    "location": "Vancouver, BC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007",
+    "published_at": 1789522259,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-16T05:06:42.215467+00:00",
+    "status": "open"
+  },
+  {
+    "id": "28e6a4e82f8ceaa46962",
+    "company": "Lawrence Livermore National Laboratory (LLNL)",
+    "source": "simplify",
+    "title": "Data Science Undergraduate Student Intern - Summer 2027",
+    "location": "Livermore, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990015289136",
+    "published_at": 1789520817,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T05:06:42.215427+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0979aaf3cecf2345d6dc",
+    "company": "NJM Insurance Group",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Trenton, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284",
+    "published_at": 1789430400,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T05:06:42.215393+00:00",
+    "status": "open"
+  },
+  {
     "id": "cee53ca07ab395ce01ee",
     "company": "Q2",
     "source": "simplify",
@@ -831,7 +879,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -847,7 +895,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -863,7 +911,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -879,7 +927,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -895,7 +943,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -911,7 +959,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -927,7 +975,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -943,7 +991,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -959,7 +1007,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -975,7 +1023,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -991,7 +1039,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -1007,7 +1055,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -1503,7 +1551,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T18:59:19.957329+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f66398a913d20c5b978c",
@@ -1535,7 +1583,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T18:59:19.957273+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1d6f2a045a97a015fedf",
@@ -1936,7 +1984,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.540013+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0c71c8ad4b67704708c3",
@@ -15454,7 +15502,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.434844+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "701219c8b91f8fc182c2",
