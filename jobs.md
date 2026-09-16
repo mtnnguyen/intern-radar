@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 886
+**Active matching jobs:** 884
 
 **New in the last 24 hours:** 45
 
@@ -241,7 +241,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | Capital One | Data Science Intern | Data Science | Cambridge, MA, SF, San Jose, CA, Plano, TX, McLean, VA, Richmond, VA, Chicago, IL, NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1) |
 | 🇺🇸 USA |  | University of Texas at Austin | Student Analyst - Data Analytics and Strategy - Career Management and Corporate Relations | Analytics | Austin, TX | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Student-Analyst--Data-Analytics-and-Strategy--Career-Management-and-Corporate-Relations--CMCR---Work-Study-Only-_R_00047631) |
 | 🇺🇸 USA |  | University of Texas at Austin | Video and Analytics Intern - Baseball | Analytics | Austin, TX | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706) |
-| 🇺🇸 USA |  | Zello | Analytics Intern | Analytics | Austin, TX | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/Zello/3453d476-7b75-4938-8cff-502d1575859b/application?embed=true) |
 | 🇺🇸 USA |  | JP Morgan Chase | Data & AI Intern - Analyst | Machine Learning / AI | Palo Alto, CA, Newark, DE, Plano, TX, Chicago, IL, Jersey City, NJ, Columbus, OH, NYC, Wilmington, DE | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) |
 | 🇺🇸 USA |  | The Boeing Company | Data Analytics Intern | Analytics | Ridley Park, PA, Seattle, WA, Long Beach, CA, Mesa, AZ, Colorado Springs, CO, Renton, WA, Dallas, TX, Fairfax, VA, Plano, TX, Chicago, IL, Seal Beach, CA, Tukwila, WA, St Charles, MO, San Antonio, TX, Arlington County, Arlington, VA, Everett, WA, Berkeley, MO, Auburn, WA, Oklahoma City, OK, Kent, WA, Charleston, SC, Bellevue, WA, Herndon, VA, Atlanta, GA, Huntsville, AL, North Charleston, SC, Huntington Beach, CA, Hazelwood, MO, Mukilteo, WA, El Segundo, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1) |
 | 🇺🇸 USA |  | TikTok | Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce | Machine Learning / AI | Seattle, WA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7668383643375257909) |
@@ -807,7 +806,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Medpace | AI Engineer Intern | Machine Learning / AI | London, UK | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.medpace.com/jobs/12863?icims=1) |
 | 🌎 Other |  | G-Research | Machine Learning Research Intern | Machine Learning / AI | London, UK | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682) |
 | 🌎 Other |  | G-Research | Data Science Intern | Data Science | London, UK | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679) |
-| 🌎 Other |  | Primetals Technologies | Data Science Internship - Governance | Data Science | Lake Mary, FL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Governance)-FL-32746/1401009733/?ats=successfactors) |
 | 🌎 Other |  | Ardian | Data Scientist Intern | Data Science | NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434) |
 | 🌎 Other |  | East Penn Manufacturing Company | Power BI & Analytics Intern | Analytics | Ann Arbor, MI | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false) |
 | 🌎 Other |  | Modal | Machine Learning Research Intern | Machine Learning / AI | SF, NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true) |
