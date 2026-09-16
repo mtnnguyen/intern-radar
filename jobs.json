@@ -1,5 +1,53 @@
 [
   {
+    "id": "81e205e372e028823fbf",
+    "company": "PressW",
+    "source": "simplify",
+    "title": "Applied AI Engineer Intern",
+    "location": "Austin, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/pressw/3b69cc30-a47b-4cd2-a27c-763b8f65c8e3/application?embed=true",
+    "published_at": 1789425117,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-16T09:54:37.368580+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f6996f5df50e71becfce",
+    "company": "Live Oak Bank",
+    "source": "simplify",
+    "title": "Artificial Intelligence Enablement & Forward-Deployed Engineering Intern",
+    "location": "Wilmington, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624",
+    "published_at": 1789516800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-16T09:54:37.368562+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ffcf2c7999febcaabb63",
+    "company": "RSM",
+    "source": "simplify",
+    "title": "Business Intelligence Consulting Intern",
+    "location": "Des Moines, IA, Irvine, CA, Dallas, TX, Chicago, IL, Denver, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Business-Intelligence-Consulting-Intern---Summer-2027_JR121327",
+    "published_at": 1789430400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T09:54:37.368498+00:00",
+    "status": "open"
+  },
+  {
     "id": "cd714c221912d5cf648f",
     "company": "Apera AI",
     "source": "simplify",
@@ -895,7 +943,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -1968,7 +2016,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.540013+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3b69ea8c108d891f9919",
@@ -4617,7 +4665,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.521219+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "63cf239e4e7164d7834a",
@@ -5791,7 +5839,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "19625548f24d95f0557f",
@@ -6580,7 +6628,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.505604+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8a20863beb140f915c66",
@@ -6932,7 +6980,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "31d6c6197210c834f1a4",
@@ -7847,7 +7895,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.494937+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c648bc105ca704fad18d",
@@ -9150,7 +9198,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5f0b1e87796f0f4f073e",
