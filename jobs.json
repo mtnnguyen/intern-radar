@@ -1,5 +1,389 @@
 [
   {
+    "id": "af5a4d9c38d16d3f2f86",
+    "company": "DraftKings",
+    "source": "simplify",
+    "title": "Analytics Intern - Summer 2027",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR15148",
+    "published_at": 1789516800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507769+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bdec3a401208cb4c7edb",
+    "company": "Wellington Management",
+    "source": "simplify",
+    "title": "Portfolio Reference Data Analyst Co-op",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829",
+    "published_at": 1789516800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507745+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2e32b366f1b341a9c76b",
+    "company": "Greenwood Village South",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Des Moines, IA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/job/40028",
+    "published_at": 1789596648,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507735+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c3c7772e031293747ced",
+    "company": "Gordon Food Service",
+    "source": "simplify",
+    "title": "Data Science Engineer Intern",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1",
+    "published_at": 1789516800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507720+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6f4c88187f9f678c5efb",
+    "company": "Wellington Management",
+    "source": "simplify",
+    "title": "People Analytics Co-op - Human Resources",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/HR--People-Analytics-Co-Op_R94815-1",
+    "published_at": 1789516800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507709+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b157e6fb4447ecf96b7e",
+    "company": "Intel",
+    "source": "simplify",
+    "title": "Operations Research Engineering Analytics Intern",
+    "location": "Phoenix, AZ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502",
+    "published_at": 1789516800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507656+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c7ce98d8f6b054197e31",
+    "company": "CoVar",
+    "source": "simplify",
+    "title": "Machine Learning Intern",
+    "location": "Durham, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/covar/jobs/5240360007",
+    "published_at": 1789596914,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507639+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d25a119e9b3ab798b9dd",
+    "company": "Louisiana Blue",
+    "source": "simplify",
+    "title": "Healthcare Data Science Intern - Spring 2027",
+    "location": "Baton Rouge, LA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151",
+    "published_at": 1789516800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507600+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d937ce6fbee1cacc5e36",
+    "company": "Farm Credit Canada",
+    "source": "simplify",
+    "title": "Data Analyst Student - Business Reporting",
+    "location": "Regina, SK, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Business-Reporting-_R-1008822-1",
+    "published_at": 1789516800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507559+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ccc719736a533b41f82a",
+    "company": "Farm Credit Canada",
+    "source": "simplify",
+    "title": "Data Analyst Student - Valuations",
+    "location": "Drummondville, QC, Canada, Montreal, QC, Canada, Winnipeg, MB, Canada, Edmonton, AB, Canada, Regina, SK, Canada, Essex, ON, Canada, Rivière-du-Loup, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Valuations-_R-1008821",
+    "published_at": 1789516800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507527+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bd3b56d119200eaaa667",
+    "company": "GM financial",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Fort Worth, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839",
+    "published_at": 1789597136,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507473+00:00",
+    "status": "open"
+  },
+  {
+    "id": "83626431d607ea86fddf",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Investor-Services--PEY-Data-Analyst----12-16-months-_R-0000188126",
+    "published_at": 1789516800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507448+00:00",
+    "status": "open"
+  },
+  {
+    "id": "69613cbdc23c3249f867",
+    "company": "Barr",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Minneapolis, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342",
+    "published_at": 1789516800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507408+00:00",
+    "status": "open"
+  },
+  {
+    "id": "30e6c50c414e8a7be232",
+    "company": "Ciena",
+    "source": "simplify",
+    "title": "AI Engineer Intern - Winter 2027",
+    "location": "Ottawa, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Engineer-Intern--Winter-2027-_R031667",
+    "published_at": 1789516800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507380+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b7564fae148e310402d1",
+    "company": "Mercor",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a/application?embed=true",
+    "published_at": 1789597253,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507370+00:00",
+    "status": "open"
+  },
+  {
+    "id": "870146c8e97505b7d346",
+    "company": "Vermeer",
+    "source": "simplify",
+    "title": "Data Engineer Intern - IT",
+    "location": "Pella, IA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171",
+    "published_at": 1789516800,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507361+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8afeb913442bf744f7d0",
+    "company": "Charter Manufacturing",
+    "source": "simplify",
+    "title": "Automation & Analytics Intern",
+    "location": "Milwaukee, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Automation---Analytics-Intern--Year-Round-_R08112",
+    "published_at": 1789516800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507336+00:00",
+    "status": "open"
+  },
+  {
+    "id": "82ab1c02c2cbc4ed81d2",
+    "company": "City of Virginia Beach",
+    "source": "simplify",
+    "title": "GIS Intern - Fire Department",
+    "location": "Virginia Beach, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wd5.myworkdaysite.com/recruiting/vbgov/City_Of_Virginia_Beach_Careers/job/Municipal-Center-Bldg-21/Virginia-Beach-Fire-Department-GIS-Intern_JR-01061",
+    "published_at": 1789516800,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507291+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2f3959960f89017f538a",
+    "company": "Waymo",
+    "source": "simplify",
+    "title": "Machine Learning Intern - Computer Vision",
+    "location": "Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8202025",
+    "published_at": 1789598263,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507268+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ece0b74dc36047cf1600",
+    "company": "EQT Corporation",
+    "source": "simplify",
+    "title": "Data Engineering Intern - Completions Services",
+    "location": "Canonsburg, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008",
+    "published_at": 1789597915,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507230+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b3da6e031d60d77a37f0",
+    "company": "Oshkosh",
+    "source": "simplify",
+    "title": "Supply Chain Intern - Data Analytics & AI",
+    "location": "Hagerstown, MD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Supply-Chain-Intern---Data-Analytics---AI_R49953-1",
+    "published_at": 1789516800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507188+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6cd6e0b9aa3a1117f832",
+    "company": "Tokyo Electron",
+    "source": "simplify",
+    "title": "Decision Analysis & AI Intern",
+    "location": "Chaska, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Decision-Analysis---AI-Summer-2027-Intern_R26-01574",
+    "published_at": 1789516800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507177+00:00",
+    "status": "open"
+  },
+  {
+    "id": "338744c867dc0ac241cc",
+    "company": "Cole Engineering Services",
+    "source": "simplify",
+    "title": "AI Intern",
+    "location": "Orlando, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs-cesi.icims.com/jobs/11219/job?mobile=true&needsRedirect=false",
+    "published_at": 1789596354,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-16T23:49:33.507138+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ddb641e36e7177f37be6",
+    "company": "Microsoft",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Redmond, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
+    "published_at": 1788302232,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T23:49:33.493152+00:00",
+    "status": "open"
+  },
+  {
     "id": "23b18c1e14d3c054eafb",
     "company": "V2X",
     "source": "simplify",
@@ -975,7 +1359,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -991,7 +1375,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -1007,7 +1391,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -1023,7 +1407,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -1039,7 +1423,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -1055,7 +1439,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -1071,7 +1455,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -1087,7 +1471,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -1103,7 +1487,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -1119,7 +1503,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -1135,7 +1519,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -1151,7 +1535,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
