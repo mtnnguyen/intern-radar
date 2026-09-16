@@ -1,5 +1,53 @@
 [
   {
+    "id": "23b18c1e14d3c054eafb",
+    "company": "V2X",
+    "source": "simplify",
+    "title": "Artificial Intelligence Intern",
+    "location": "Indianapolis, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.gov2x.com/jobs/62843?icims=1",
+    "published_at": 1789568207,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-16T14:38:04.801808+00:00",
+    "status": "open"
+  },
+  {
+    "id": "71bd9466eefb319091c7",
+    "company": "Gecko Robotics",
+    "source": "simplify",
+    "title": "AI/Machine Learning Engineer Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true",
+    "published_at": 1789568356,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-16T14:38:04.801739+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a1082e1035ff0ea22665",
+    "company": "Levi Strauss & Co.",
+    "source": "simplify",
+    "title": "Analytics Intern - eCommerce",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1",
+    "published_at": 1786924800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T14:38:04.775776+00:00",
+    "status": "open"
+  },
+  {
     "id": "81e205e372e028823fbf",
     "company": "PressW",
     "source": "simplify",
@@ -927,7 +975,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -943,7 +991,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -1039,7 +1087,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -1055,7 +1103,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -2016,7 +2064,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.540013+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "3b69ea8c108d891f9919",
@@ -7863,7 +7911,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.494937+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2340aa5f70e1b25813fb",
@@ -8394,7 +8442,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.491935+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "192fa00b84057d5e639b",
@@ -8682,7 +8730,7 @@
       "Statistics"
     ],
     "first_seen": "2026-09-14T14:26:16.489934+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c3624ea88e54128fe814",
