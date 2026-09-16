@@ -1,5 +1,422 @@
 [
   {
+    "id": "cee53ca07ab395ce01ee",
+    "company": "Q2",
+    "source": "simplify",
+    "title": "Machine Learning Intern",
+    "location": "Austin, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797",
+    "published_at": 1789430400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-16T00:26:30.973461+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5436931102d732f7615b",
+    "company": "Q2",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Austin, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796",
+    "published_at": 1789430400,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T00:26:30.973437+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e5c01a9131208a65b28c",
+    "company": "Elire",
+    "source": "simplify",
+    "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
+    "location": "Remote in USA, Minneapolis, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false",
+    "published_at": 1789510908,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T00:26:30.973390+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7b0c0e944d354b42c065",
+    "company": "Acxiom",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Conway, AR",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer_JR014482",
+    "published_at": 1789430400,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-16T00:26:30.973336+00:00",
+    "status": "open"
+  },
+  {
+    "id": "421c00403e077a94ab37",
+    "company": "AspenTech",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Bedford, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459",
+    "published_at": 1789430400,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T00:26:30.973309+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b4be576ea079b52e0a18",
+    "company": "Dallas Fort Worth International Airport",
+    "source": "simplify",
+    "title": "Undergraduate Internship - Geospatial Data",
+    "location": "Dallas, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Geospatial-Data_JR102119-1",
+    "published_at": 1789430400,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-16T00:26:30.973252+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f6b4862380f22758695d",
+    "company": "Alliance Laundry Systems",
+    "source": "simplify",
+    "title": "Data & Analytics Intern",
+    "location": "Ripon, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/13162/job?mobile=true&needsRedirect=false",
+    "published_at": 1789510515,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T00:26:30.973240+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ef981f0546d21fc283eb",
+    "company": "Cox",
+    "source": "simplify",
+    "title": "Deal Analytics Intern - Business Analytics",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Business-Analytics-Intern_R202682428",
+    "published_at": 1789430400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T00:26:30.973229+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2f531a4c869d344fb959",
+    "company": "Graco",
+    "source": "simplify",
+    "title": "Marketing Analytics Intern",
+    "location": "Dayton, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Marketing-Analytics-Intern_R0023534",
+    "published_at": 1789430400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T00:26:30.973177+00:00",
+    "status": "open"
+  },
+  {
+    "id": "de6210cfaf7072bceb21",
+    "company": "PerkinElmer",
+    "source": "simplify",
+    "title": "Data Science Intern - Asset Intelligence",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://newperkinelmer.wd1.myworkdayjobs.com/External/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421",
+    "published_at": 1789430400,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T00:26:30.973141+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5033a993ffe67389167f",
+    "company": "Buildertrend",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Omaha, NE",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Data-Engineering-Intern_JR-000472",
+    "published_at": 1789430400,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-16T00:26:30.973051+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fb50361e13290ef34d1e",
+    "company": "Equitable Bank",
+    "source": "simplify",
+    "title": "Data Scientist Intern - Winter 2027",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/apply",
+    "published_at": 1789510717,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T00:26:30.972955+00:00",
+    "status": "open"
+  },
+  {
+    "id": "517feb7968ebe2d1ee49",
+    "company": "VersaDesk",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "LA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://versa.applytojob.com/apply/0Au1NyF4gb/Data-Analyst-Intern",
+    "published_at": 1789510792,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T00:26:30.972913+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6fa77e54c06eb8aab8b9",
+    "company": "Intelcom | Dragonfly",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Montreal, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/HR-Data-Analysis-Intern_JR111758-1",
+    "published_at": 1789430400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T00:26:30.972878+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b9390b4ff4aebf36e041",
+    "company": "APEX Analytix",
+    "source": "simplify",
+    "title": "Data Analyst Intern - Summer 2027",
+    "location": "Greensboro, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef",
+    "published_at": 1789510953,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T00:26:30.972797+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cc9dffcc8d58d0a46440",
+    "company": "APEX Analytix",
+    "source": "simplify",
+    "title": "Data Engineering Intern - Summer 2027",
+    "location": "Greensboro, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9",
+    "published_at": 1789510953,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-16T00:26:30.972772+00:00",
+    "status": "open"
+  },
+  {
+    "id": "46b8c57d50e4346d16d6",
+    "company": "APEX Analytix",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Greensboro, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53",
+    "published_at": 1789510953,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T00:26:30.972721+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3e3e3e5f62603ac29397",
+    "company": "John Deere",
+    "source": "simplify",
+    "title": "Analytics Data Engineer Part-Time Student - Data and Analytics",
+    "location": "Moline, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://johndeere.eightfold.ai/careers/job/137483397436",
+    "published_at": 1789510983,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T00:26:30.972666+00:00",
+    "status": "open"
+  },
+  {
+    "id": "31d0bcb6f1fc92842edb",
+    "company": "Baxter International",
+    "source": "simplify",
+    "title": "Associate Data Scientist Co-op",
+    "location": "Skaneateles, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Associate-Software-Engineer-Co-op_JR-207560-1",
+    "published_at": 1789430400,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T00:26:30.972651+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f13fab76c5b150b769f4",
+    "company": "CIBC",
+    "source": "simplify",
+    "title": "Risk Analytics Co-op",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Risk-Analytics-Co-op-Winter-2027_2618885",
+    "published_at": 1789430400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T00:26:30.972615+00:00",
+    "status": "open"
+  },
+  {
+    "id": "675b63ea5917d7ec65ce",
+    "company": "Altar'd State",
+    "source": "simplify",
+    "title": "Store Operations Data Analyst Intern",
+    "location": "Knoxville, TN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-Store-Operations-Intern_SOSJ12464",
+    "published_at": 1789430400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T00:26:30.972568+00:00",
+    "status": "open"
+  },
+  {
+    "id": "16eeaca95edbd5c21a70",
+    "company": "LexisNexis Legal & Professional",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Raleigh, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1",
+    "published_at": 1789430400,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T00:26:30.972482+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6af72ed65b916161f539",
+    "company": "The Toro Company",
+    "source": "simplify",
+    "title": "ISC Analytics Intern",
+    "location": "Bloomington, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/ISC-Analytics-Intern---The-Toro-Company_JR17246",
+    "published_at": 1789430400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T00:26:30.972370+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c93e51fa38384b5a1160",
+    "company": "CIBC",
+    "source": "simplify",
+    "title": "Risk Analytics Co-op",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Risk-Analytics-Co-op-Winter-2027_2618885-1",
+    "published_at": 1789430400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T00:26:30.972309+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8196251078c40241bced",
+    "company": "Dairyland Power Cooperative",
+    "source": "simplify",
+    "title": "Energy Data Analyst Intern",
+    "location": "La Crosse, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Energy-Data-Analyst_JR101052",
+    "published_at": 1788134400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-16T00:26:30.954633+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b5dba89614b4b57e8fa2",
+    "company": "Dairyland Power Cooperative",
+    "source": "simplify",
+    "title": "Energy Data Science Intern",
+    "location": "La Crosse, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Energy-Data-Science_JR101053",
+    "published_at": 1788134400,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-16T00:26:30.954597+00:00",
+    "status": "open"
+  },
+  {
     "id": "68d0598f0b3489bd77d0",
     "company": "Ekimetrics",
     "source": "simplify",
@@ -414,7 +831,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -430,7 +847,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -446,7 +863,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -462,7 +879,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -478,7 +895,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -494,7 +911,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -510,7 +927,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -526,7 +943,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -542,7 +959,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -558,7 +975,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -574,7 +991,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -590,7 +1007,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -782,7 +1199,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T22:46:03.823905+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "e934b87a9d56e08dce59",
