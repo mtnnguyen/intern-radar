@@ -1,5 +1,21 @@
 [
   {
+    "id": "42b40dbb598dd605a8ab",
+    "company": "British Columbia Investment",
+    "source": "simplify",
+    "title": "Investment Risk Analytics Solutions Co-op Intern - Winter 2027",
+    "location": "Victoria, BC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Risk-Analytics-Solutions-Co-op-Internship--Winter-2027-_JR101608",
+    "published_at": 1789603200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-17T12:20:15.605524+00:00",
+    "status": "open"
+  },
+  {
     "id": "cd1faea83d2beabdf4c8",
     "company": "Smith+Nephew",
     "source": "simplify",
@@ -429,7 +445,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-16T23:49:33.507230+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "b3da6e031d60d77a37f0",
@@ -1471,7 +1487,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -1583,7 +1599,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -1599,7 +1615,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -5467,7 +5483,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "dbcf979e0578bf5079aa",
@@ -5483,7 +5499,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9039e77006f67442c022",
@@ -5499,7 +5515,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "553165cbe3077c44ea89",
@@ -9645,7 +9661,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "31c5731c9edab422b1d7",
