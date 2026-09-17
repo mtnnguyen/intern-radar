@@ -1,5 +1,101 @@
 [
   {
+    "id": "5047f21dfe4d9e087a40",
+    "company": "Sun Life",
+    "source": "simplify",
+    "title": "Data Engineer Student",
+    "location": "Montreal, QC, Canada, Toronto, ON, Canada, Waterloo, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Engineer--Winter-and-Summer-2027-_JR00127385",
+    "published_at": 1789516800,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-17T01:50:25.626143+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cb84a7a32ea474e7f853",
+    "company": "DraftKings",
+    "source": "simplify",
+    "title": "Analytics Intern - Summer 2027",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR15147",
+    "published_at": 1789516800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-17T01:50:25.626126+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1eb670c3fdced8bf2a1c",
+    "company": "Wellington Management",
+    "source": "simplify",
+    "title": "Portfolio Reference Data Analyst Co-op",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829-1",
+    "published_at": 1789516800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-17T01:50:25.626115+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f5a1502d46da314a68b1",
+    "company": "Wellington Management",
+    "source": "simplify",
+    "title": "People Analytics Co-op - HR",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/HR--People-Analytics-Co-Op_R94815",
+    "published_at": 1789516800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-17T01:50:25.626100+00:00",
+    "status": "open"
+  },
+  {
+    "id": "043274f096aab7e5d577",
+    "company": "Ancestry",
+    "source": "simplify",
+    "title": "Data Science Co-op - AI Document Understanding",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
+    "published_at": 1789516800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-17T01:50:25.626047+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d871790124032a384f98",
+    "company": "United Airlines",
+    "source": "simplify",
+    "title": "Operations Data & Analytics Intern - Summer 2027",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.united.com/us/en/job/WHQ00026620",
+    "published_at": 1788280972,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-17T01:50:25.608455+00:00",
+    "status": "open"
+  },
+  {
     "id": "af5a4d9c38d16d3f2f86",
     "company": "DraftKings",
     "source": "simplify",
@@ -1359,7 +1455,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -1375,7 +1471,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -1391,7 +1487,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -1407,7 +1503,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -1423,7 +1519,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -1439,7 +1535,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -1455,7 +1551,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -1471,7 +1567,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -1487,7 +1583,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -1503,7 +1599,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -1519,7 +1615,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -1535,7 +1631,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -6271,7 +6367,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "19625548f24d95f0557f",
@@ -7412,7 +7508,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "31d6c6197210c834f1a4",
