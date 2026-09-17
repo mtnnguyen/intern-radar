@@ -1,5 +1,182 @@
 [
   {
+    "id": "6b7a8e1b3aea2fb8ed22",
+    "company": "Fidelity National Information Services",
+    "source": "simplify",
+    "title": "Data Analytics and AI Intern - FIS University Program",
+    "location": "Milwaukee, WI, Jacksonville, FL, Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Data-Analytics-and-AI--FIS-University-Program_JR0309690",
+    "published_at": 1789603200,
+    "categories": [
+      "Analytics",
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-17T22:56:15.021501+00:00",
+    "status": "open"
+  },
+  {
+    "id": "281f5d42102d1317e4b8",
+    "company": "W.R. Berkley",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Urbandale, IA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers-berkley.icims.com/jobs/14436/job?mobile=true&needsRedirect=false",
+    "published_at": 1789682721,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-17T22:56:15.021421+00:00",
+    "status": "open"
+  },
+  {
+    "id": "dc0bd435b6e13839068b",
+    "company": "Robert Bosch Venture Capital",
+    "source": "simplify",
+    "title": "AI Engineering Intern",
+    "location": "Plymouth, MI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150217869",
+    "published_at": 1789682794,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-17T22:56:15.021404+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a7d7885aad65586ecd45",
+    "company": "Wellington Management",
+    "source": "simplify",
+    "title": "Business Intelligence Co-op",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Business-Intelligence-Co-Op_R94872",
+    "published_at": 1789603200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-17T22:56:15.021392+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3e85294f1ed76f43ff02",
+    "company": "The Hartford",
+    "source": "simplify",
+    "title": "Data Science Intern - Summer 2027",
+    "location": "Chicago, IL, Charlotte, NC, Hartford, CT",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114",
+    "published_at": 1789603200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-17T22:56:15.021382+00:00",
+    "status": "open"
+  },
+  {
+    "id": "438d36683f821d593c4f",
+    "company": "Wellington Management",
+    "source": "simplify",
+    "title": "Business Intelligence Co-op",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Business-Intelligence-Co-Op_R94872-1",
+    "published_at": 1789603200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-17T22:56:15.021371+00:00",
+    "status": "open"
+  },
+  {
+    "id": "544e8a1afc6067a1c5b2",
+    "company": "Generac",
+    "source": "simplify",
+    "title": "Data Science Intern - Summer 2027",
+    "location": "Pewaukee, WI, Waukesha, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001",
+    "published_at": 1789603200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-17T22:56:15.021352+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b2b36cbc2136a860a372",
+    "company": "Gordon Food Service",
+    "source": "simplify",
+    "title": "Data Engineering Intern - Atlanta Tech Hub - Data Engineering",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330",
+    "published_at": 1789603200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-17T22:56:15.021340+00:00",
+    "status": "open"
+  },
+  {
+    "id": "73f686023d4404896f5e",
+    "company": "Northwestern Mutual",
+    "source": "simplify",
+    "title": "Investment Data & Analytics Intern",
+    "location": "Milwaukee, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Data---Analytics-Intern--Summer-2027_JR-46050",
+    "published_at": 1789603200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-17T22:56:15.021326+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5e9ec78ff7b2087680fe",
+    "company": "Garmin",
+    "source": "simplify",
+    "title": "Data Engineering Intern",
+    "location": "Olathe, KS",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.garmin.com/jobs/20188?icims=1",
+    "published_at": 1789682934,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-17T22:56:15.021312+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7e667d212c2e70cce0c5",
+    "company": "TOPPAN Packaging Americas",
+    "source": "simplify",
+    "title": "Student Associate - AI & Business Analytics",
+    "location": "Charlotte, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://toppan.wd108.myworkdayjobs.com/TOPPAN-Packaging/job/Charlotte-NC-USA/Student-Associate---AI---Business-Analytics_JR-200873",
+    "published_at": 1789603200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-17T22:56:15.021263+00:00",
+    "status": "open"
+  },
+  {
     "id": "1f6dfc594f5e50106bc7",
     "company": "Avis Budget Group",
     "source": "simplify",
@@ -1567,7 +1744,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -1583,7 +1760,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -1599,7 +1776,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -1615,7 +1792,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -1631,7 +1808,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -1647,7 +1824,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -1663,7 +1840,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -1679,7 +1856,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -1695,7 +1872,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -1711,7 +1888,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -1727,7 +1904,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -1743,7 +1920,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -1871,7 +2048,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T22:46:03.824166+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "948bc49f6555fb5753ba",
@@ -5611,7 +5788,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ba4ac4bb6148f864d37f",
@@ -6175,7 +6352,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e46146c59dc9203e4065",
@@ -7396,7 +7573,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.504604+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "98fd7d7e3368efe2a91d",
@@ -9725,7 +9902,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "586b21aa24b73b832cac",
@@ -10576,7 +10753,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7cd886c5db281de339e8",
