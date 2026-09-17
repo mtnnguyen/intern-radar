@@ -1,5 +1,85 @@
 [
   {
+    "id": "1f6dfc594f5e50106bc7",
+    "company": "Avis Budget Group",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Parsippany-Troy Hills, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Data-Analytics-Intern-Summer-2027_R0190389",
+    "published_at": 1789603200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-17T17:10:28.434942+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a144fa1be0080af9b64d",
+    "company": "Rothesay",
+    "source": "simplify",
+    "title": "Quantitative Strategist Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811533002",
+    "published_at": 1789655907,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-17T17:10:28.434903+00:00",
+    "status": "open"
+  },
+  {
+    "id": "45be44263cedc0c68c05",
+    "company": "Howmet Aerospace",
+    "source": "simplify",
+    "title": "Artificial Intelligence Intern - AI",
+    "location": "Pittsburgh, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494",
+    "published_at": 1789653943,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-17T17:10:28.434893+00:00",
+    "status": "open"
+  },
+  {
+    "id": "42cafb4427950b2c310d",
+    "company": "Great American Insurance Company",
+    "source": "simplify",
+    "title": "Catastrophe Modeling & Data Analytics Intern",
+    "location": "Cincinnati, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Catastrophe-Modeling---Data-Analytics-Intern--Spring-2027-_R9576",
+    "published_at": 1789603200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-17T17:10:28.434789+00:00",
+    "status": "open"
+  },
+  {
+    "id": "eb6f7499a5117ea59150",
+    "company": "British Columbia Investment",
+    "source": "simplify",
+    "title": "Software Engineer Co-op Intern - Investment Tech/Data & Analytics",
+    "location": "Victoria, BC, Canada, Vancouver, BC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596",
+    "published_at": 1789603200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-17T17:10:28.434747+00:00",
+    "status": "open"
+  },
+  {
     "id": "42b40dbb598dd605a8ab",
     "company": "British Columbia Investment",
     "source": "simplify",
@@ -1487,7 +1567,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -1503,7 +1583,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -1519,7 +1599,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -1535,7 +1615,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -1551,7 +1631,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -1567,7 +1647,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -1583,7 +1663,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -1599,7 +1679,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -1615,7 +1695,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -1631,7 +1711,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -1647,7 +1727,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -1663,7 +1743,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
