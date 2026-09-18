@@ -1,5 +1,213 @@
 [
   {
+    "id": "84c9fecd5f6282c5feb6",
+    "company": "Insperity",
+    "source": "simplify",
+    "title": "Rotational AI Intern",
+    "location": "Kingwood, Houston, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103294",
+    "published_at": 1789603200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-18T01:08:06.212367+00:00",
+    "status": "open"
+  },
+  {
+    "id": "989cc3a06ad2af8bafc5",
+    "company": "Insperity",
+    "source": "simplify",
+    "title": "Rotational Data Analytics Intern",
+    "location": "Kingwood, Houston, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103293",
+    "published_at": 1789603200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-18T01:08:06.212340+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5b3b8ebb09f90eaea0df",
+    "company": "Clarios",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Milwaukee, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Science-Intern--Summer-2027-_WD50211",
+    "published_at": 1789603200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-18T01:08:06.212290+00:00",
+    "status": "open"
+  },
+  {
+    "id": "01da5bf2f3b1f4c900a5",
+    "company": "JP Morgan Chase",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Summer Associate Intern - Asset and Wealth Management",
+    "location": "Jersey City, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790885",
+    "published_at": 1789683362,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-18T01:08:06.212278+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4719c04dc90192af0dc9",
+    "company": "Navy Federal",
+    "source": "simplify",
+    "title": "Data Analyst Intern - Workplace Infrastructure & Analytics",
+    "location": "Vienna, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32376",
+    "published_at": 1789683370,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-18T01:08:06.212222+00:00",
+    "status": "open"
+  },
+  {
+    "id": "921eaa534453060b7ab1",
+    "company": "Honeywell",
+    "source": "simplify",
+    "title": "Data Science Co-op",
+    "location": "Pittsford, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157903",
+    "published_at": 1789683404,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-18T01:08:06.212207+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d86d05bae902732d13bd",
+    "company": "Watts Water",
+    "source": "simplify",
+    "title": "Product Marketing Data Analyst Intern",
+    "location": "North Andover, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Product-Data-Analyst--Marketing-Intern_10017538",
+    "published_at": 1789603200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-18T01:08:06.212166+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7eecadfdd4d45201bdc5",
+    "company": "Boston Scientific",
+    "source": "simplify",
+    "title": "Data Science Co-op",
+    "location": "Maple Grove, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600487",
+    "published_at": 1789683666,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-18T01:08:06.212078+00:00",
+    "status": "open"
+  },
+  {
+    "id": "181564c495bbfda83d1e",
+    "company": "Allen Lund Company",
+    "source": "simplify",
+    "title": "Technology and AI Intern - Technology and AI",
+    "location": "La Cañada Flintridge, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://allenlundcompany.applytojob.com/apply/keuBELmaXy/Internship-TechAI",
+    "published_at": 1789683774,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-18T01:08:06.211989+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9dad060c06f2b4f5e982",
+    "company": "Lennox International",
+    "source": "simplify",
+    "title": "AI Engineering Intern - Summer 2027",
+    "location": "Richardson, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://uscareers-lennox.icims.com/jobs/54897/job?mobile=true&needsRedirect=false",
+    "published_at": 1789683808,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-18T01:08:06.211881+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c01354fe9233216db02b",
+    "company": "Republic Airways",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Carmel, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Data-Analytics-Intern---Summer-2027_JR-007628",
+    "published_at": 1789603200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-18T01:08:06.211868+00:00",
+    "status": "open"
+  },
+  {
+    "id": "463a53788125da877812",
+    "company": "Lennox International",
+    "source": "simplify",
+    "title": "AI & Analytics Intern",
+    "location": "Richardson, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://uscareers-lennox.icims.com/jobs/54804/job?mobile=true&needsRedirect=false",
+    "published_at": 1789683809,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-18T01:08:06.211854+00:00",
+    "status": "open"
+  },
+  {
+    "id": "345d04f08da46da9e513",
+    "company": "Geneva Trading",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5240107007",
+    "published_at": 1789684150,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-18T01:08:06.211729+00:00",
+    "status": "open"
+  },
+  {
     "id": "6b7a8e1b3aea2fb8ed22",
     "company": "Fidelity National Information Services",
     "source": "simplify",
@@ -2048,7 +2256,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T22:46:03.824166+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "948bc49f6555fb5753ba",
@@ -5788,7 +5996,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "ba4ac4bb6148f864d37f",
@@ -6352,7 +6560,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "e46146c59dc9203e4065",
@@ -9902,7 +10110,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "586b21aa24b73b832cac",
@@ -10753,7 +10961,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7cd886c5db281de339e8",
