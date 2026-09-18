@@ -1,5 +1,86 @@
 [
   {
+    "id": "33d11c26e06d234111fa",
+    "company": "Rockwell Automation",
+    "source": "simplify",
+    "title": "Robotics Research Co-op - Data Engineering",
+    "location": "Waterloo, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871",
+    "published_at": 1789689600,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-18T22:42:53.994517+00:00",
+    "status": "open"
+  },
+  {
+    "id": "64dfc00e525848fff21b",
+    "company": "Cambridge Investment Research",
+    "source": "simplify",
+    "title": "Data Engineer Intern - Business Intelligence and Insights",
+    "location": "Fairfield, IA, Phoenix, AZ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Data-Engineering-Intern_R-2025-221",
+    "published_at": 1789689600,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-09-18T22:42:53.994492+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e37105aa2f24fbbffdec",
+    "company": "Rockwell Automation",
+    "source": "simplify",
+    "title": "Robotics Research Co-op - Data Engineering",
+    "location": "Waterloo, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871-1",
+    "published_at": 1789689600,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-18T22:42:53.994466+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d4dced6aaaa6d7ccc103",
+    "company": "Altar'd State",
+    "source": "simplify",
+    "title": "IT Analytics Intern",
+    "location": "Knoxville, TN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499",
+    "published_at": 1789689600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-18T22:42:53.994381+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f0514f93dbd6ff77fca2",
+    "company": "Upstart",
+    "source": "simplify",
+    "title": "Applied Scientist Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.upstart.com/jobs?gh_jid=8213476",
+    "published_at": 1789741653,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-18T22:42:53.994325+00:00",
+    "status": "open"
+  },
+  {
     "id": "71027ad7731219d399ff",
     "company": "TikTok",
     "source": "simplify",
@@ -1487,7 +1568,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-16T00:26:30.972482+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6af72ed65b916161f539",
@@ -2160,7 +2241,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T22:46:03.824292+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "bba2b7fb42a2079d9db8",
@@ -2272,7 +2353,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T22:46:03.824166+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "948bc49f6555fb5753ba",
@@ -2624,7 +2705,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T18:59:19.957356+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5484ca546b4d95193fa1",
@@ -2688,7 +2769,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T18:59:19.957263+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "94bff819de908a128053",
@@ -3890,7 +3971,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.535015+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "33fc356af598f25fc929",
@@ -6012,7 +6093,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ba4ac4bb6148f864d37f",
@@ -10977,7 +11058,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7cd886c5db281de339e8",
