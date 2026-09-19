@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 915
+**Active matching jobs:** 920
 
-**New in the last 24 hours:** 19
+**New in the last 24 hours:** 20
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -272,6 +272,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | Radix Trading | Quantitative Technologist C++ Intern | GIS / Geospatial | Chicago, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
 | 🇺🇸 USA |  | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
 | 🇺🇸 USA |  | Amazon | Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning | Machine Learning / AI | Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Corvallis, OR, NYC, Bellevue, WA, San Diego, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) |
+| 🌎 Other | 🔥 NEW | Centene | Analytics Intern | Analytics | Florida | simplify | 2026-09-19 09:21 AM EDT | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) |
 | 🌎 Other | 🔥 NEW | Flex | Manufacturing Data & Analytics Co-op | Analytics | Libertyville, IL | simplify | 2026-09-19 01:07 AM EDT | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700) |
 | 🌎 Other | 🔥 NEW | Waymo | Product Data Science Intern | Data Science | SF | simplify | 2026-09-19 01:07 AM EDT | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8199365) |
 | 🌎 Other | 🔥 NEW | Central Hudson | GIS Intern | GIS / Geospatial | Kingston, NY, Poughkeepsie, NY | simplify | 2026-09-19 01:07 AM EDT | [Apply](https://cenhud.wd5.myworkdayjobs.com/cenhud/job/Kingston/GIS-Intern_R2153) |
@@ -369,6 +370,9 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Repsol | GIS Intern | GIS / Geospatial | Houston, TX | simplify | 2026-09-15 02:00 AM EDT | [Apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/GIS-Intern_84106) |
 | 🌎 Other |  | SharkNinja | Applied AI & Analytics Co-op | Analytics | Miami, FL | simplify | 2026-09-15 02:00 AM EDT | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669676006) |
 | 🌎 Other |  | ibotta | Data Engineer Intern | Data Engineering | Denver, CO | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | GIS / Geospatial | Salt Lake City, UT | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171549?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171563?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171535?type=students) |
 | 🌎 Other |  | Oshkosh | Advanced Analytics Intern | Analytics | Frederick, MD | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Summer-2027-Advanced-Analytics-Intern_R49541) |
 | 🌎 Other |  | AtkinsRéalis | Data Scientist Intern - Summer 2027 | Data Science | Tempe, AZ | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1) |
 | 🌎 Other |  | BlueCross BlueShield of Nebraska | Healthcare Analytics Intern | Analytics | Omaha, NE | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Analytics-Intern--Starts-Summer-2027_JR101437) |
@@ -783,6 +787,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | AMD | Data Analyst Intern/Co-op | Analytics | San Jose, CA, Santa Clara, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.amd.com/jobs/90895?icims=1) |
 | 🌎 Other |  | AMD | Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence | Machine Learning / AI | San Jose, CA, Santa Clara, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.amd.com/jobs/91177?icims=1) |
 | 🌎 Other |  | TikTok | Data Engineer Intern - E-commerce | Data Engineering | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7676250516494436661) |
+| 🌎 Other |  | LPL Financial Holdings | Data Analytics Intern - FAR Program | Analytics | Fort Mill, SC, Charlotte, NC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Data-Analytics_R-052053) |
 | 🌎 Other |  | Blackstone | Data Science Summer Analyst | Data Science | NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Data-Science-Summer-Analyst_44862) |
 | 🌎 Other |  | Blackstone | Data Engineer Summer Analyst - Blackstone Technology & Innovations | Data Engineering | Miami, FL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Technology-and-Innovations--Data-Engineer-Summer-Analyst_45022) |
 | 🌎 Other |  | SimIS | Artificial Intelligence Developer Intern - Aerospace/Aviation | Machine Learning / AI | Suffolk, VA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern) |

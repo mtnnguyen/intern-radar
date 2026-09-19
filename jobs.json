@@ -1,5 +1,21 @@
 [
   {
+    "id": "901795a54a6d1bebd5f1",
+    "company": "Centene",
+    "source": "simplify",
+    "title": "Analytics Intern",
+    "location": "Florida",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479",
+    "published_at": 1789689600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-19T13:21:13.118347+00:00",
+    "status": "open"
+  },
+  {
     "id": "bf5ad5b7d008d0465683",
     "company": "Flex",
     "source": "simplify",
@@ -2305,7 +2321,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -2417,7 +2433,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -2433,7 +2449,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -13736,7 +13752,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "edfd2950847b82187906",
