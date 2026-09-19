@@ -1,5 +1,261 @@
 [
   {
+    "id": "bf5ad5b7d008d0465683",
+    "company": "Flex",
+    "source": "simplify",
+    "title": "Manufacturing Data & Analytics Co-op",
+    "location": "Libertyville, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700",
+    "published_at": 1789689600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023809+00:00",
+    "status": "open"
+  },
+  {
+    "id": "46e44e8351c824b814cf",
+    "company": "Healthesystems",
+    "source": "simplify",
+    "title": "Artificial Intelligence Engineer Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.healthesystems.com/unassigned/careers-list?gh_jid=7928315003",
+    "published_at": 1789771037,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023731+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5c8638418048ba544053",
+    "company": "Waymo",
+    "source": "simplify",
+    "title": "Product Data Science Intern",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
+    "published_at": 1789771037,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023718+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e7096005e41d1706e285",
+    "company": "Grow Financial Federal Credit Union",
+    "source": "simplify",
+    "title": "Collections Data Analyst Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers-growfinancial.icims.com/jobs/2755/job?mobile=true&needsRedirect=false",
+    "published_at": 1789769946,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023677+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f0335b499f45e8f28872",
+    "company": "Risepoint",
+    "source": "simplify",
+    "title": "Marketing & Operations Analytics Co-op - Strategy & Analytics",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Marketing---Ops-Analytics-Co-Op_JR101345",
+    "published_at": 1789689600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023591+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4016c4381cc523045011",
+    "company": "Central Hudson",
+    "source": "simplify",
+    "title": "GIS Intern",
+    "location": "Kingston, NY, Poughkeepsie, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cenhud.wd5.myworkdayjobs.com/cenhud/job/Kingston/GIS-Intern_R2153",
+    "published_at": 1789689600,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023546+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7f2786ca97da9d7b9151",
+    "company": "Johnson & Johnson",
+    "source": "simplify",
+    "title": "Production Data Analyst Co-op - Manufacturing",
+    "location": "Danvers, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Production-Data-Analyst-Co-Op_R-098904",
+    "published_at": 1789689600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023537+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0ac82a74583b8e23196a",
+    "company": "MetOx International",
+    "source": "simplify",
+    "title": "Data Science Intern - Spring 2027",
+    "location": "Houston, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008",
+    "published_at": 1789770806,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023486+00:00",
+    "status": "open"
+  },
+  {
+    "id": "648e05d2912371a2a772",
+    "company": "Transamerica",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Cedar Rapids, IA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Data-Analytics-Intern--Spring-2027--Full-time-Hours-_R20062776",
+    "published_at": 1789689600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023372+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e3deee29b47f03715a67",
+    "company": "Centene",
+    "source": "simplify",
+    "title": "Data and Analytics Intern - Undergraduate",
+    "location": "Missouri",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-and-Analytics-Summer-2027-Intern--Undergraduate-_1660515",
+    "published_at": 1789689600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023337+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e08625d89e5c9e56507c",
+    "company": "WTW",
+    "source": "simplify",
+    "title": "Data Scientist Intern - P&C Insurance",
+    "location": "London, UK, Reigate, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997",
+    "published_at": 1789769269,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023317+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ae8e2d136255ec35f928",
+    "company": "Qorvo",
+    "source": "simplify",
+    "title": "Data Engineering Intern",
+    "location": "Salem, OR",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.qorvo.com/job/Salem-Data-Engineering-Intern-OR-97302/1431485300/?ats=successfactors",
+    "published_at": 1789769878,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023253+00:00",
+    "status": "open"
+  },
+  {
+    "id": "20b6bff63fde8d2bda56",
+    "company": "Cigna Group",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Austin, TX, Morris Plains, NJ, St. Louis, MO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Data-Scientist-Intern--Master-s-Program--Hybrid--NJ--TX--or-MO-_26010876",
+    "published_at": 1789689600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023241+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f7a2c5105ae1f7ffffee",
+    "company": "Rivian",
+    "source": "simplify",
+    "title": "Supply Chain Data, AI and Business Intelligence Co-op Intern",
+    "location": "Normal, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.rivian.com/jobs/33800?icims=1",
+    "published_at": 1789769752,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023156+00:00",
+    "status": "open"
+  },
+  {
+    "id": "091eeec561fd4c4f0c38",
+    "company": "American Family Insurance Group",
+    "source": "simplify",
+    "title": "Internal Data and Analytics Intern - Summer 2027",
+    "location": "Madison, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Internal-Data-and-Analytics-Intern---Summer-2027_R39401",
+    "published_at": 1789689600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-19T05:07:57.023094+00:00",
+    "status": "open"
+  },
+  {
+    "id": "307ea48498c861d5dedf",
+    "company": "Charles Schwab",
+    "source": "simplify",
+    "title": "Data Engineering Intern - Data Engineering",
+    "location": "Austin, TX, Westlake, TX, Southlake, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false",
+    "published_at": 1787963197,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-19T05:07:57.000330+00:00",
+    "status": "open"
+  },
+  {
     "id": "33d11c26e06d234111fa",
     "company": "Rockwell Automation",
     "source": "simplify",
@@ -78,7 +334,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-18T22:42:53.994325+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71027ad7731219d399ff",
@@ -1504,7 +1760,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-16T00:26:30.972666+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "31d0bcb6f1fc92842edb",
@@ -1568,7 +1824,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-16T00:26:30.972482+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6af72ed65b916161f539",
@@ -2049,7 +2305,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -2065,7 +2321,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -2081,7 +2337,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -2097,7 +2353,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -2113,7 +2369,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -2129,7 +2385,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -2145,7 +2401,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -2161,7 +2417,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -2177,7 +2433,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -2193,7 +2449,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -2209,7 +2465,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -2225,7 +2481,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -2353,7 +2609,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T22:46:03.824166+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "948bc49f6555fb5753ba",
@@ -10592,7 +10848,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b632be75b0232fb8c519",
@@ -11058,7 +11314,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7cd886c5db281de339e8",
@@ -11299,7 +11555,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7608871145e3094cc58e",
@@ -17378,7 +17634,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T03:44:34.173922+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b5c19f9e56e515483f3d",
@@ -17394,7 +17650,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T03:44:34.173709+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3072dc657eeb77947c2a",
