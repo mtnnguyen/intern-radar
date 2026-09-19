@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 925
+**Active matching jobs:** 919
 
-**New in the last 24 hours:** 20
+**New in the last 24 hours:** 17
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -85,7 +85,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🔥 Toronto / GTA |  | Human Computer Lab | Software/ML Engineering Intern | Machine Learning / AI | Toronto, ON, Canada, SF | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) |
 | 🔥 Toronto / GTA |  | Bree | Software Engineer – Machine Learning Intern/Co-op | Machine Learning / AI | Toronto, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) |
 | 🔥 Toronto / GTA |  | Brookfield | Artificial Intelligence Intern - Renewable Power & Transition | Machine Learning / AI | NYC, Toronto, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741) |
-| 🇨🇦 Ontario | 🔥 NEW | Rockwell Automation | Robotics Research Co-op - Data Engineering | Data Engineering | Waterloo, ON, Canada | simplify | 2026-09-18 06:42 PM EDT | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871) |
+| 🇨🇦 Ontario |  | Rockwell Automation | Robotics Research Co-op - Data Engineering | Data Engineering | Waterloo, ON, Canada | simplify | 2026-09-18 06:42 PM EDT | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871) |
 | 🇨🇦 Ontario |  | Ciena | AI Engineer Intern - Winter 2027 | Machine Learning / AI | Ottawa, ON, Canada | simplify | 2026-09-16 07:49 PM EDT | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Engineer-Intern--Winter-2027-_R031667) |
 | 🇨🇦 Ontario |  | Nokia | Data Scientist Co-op/Intern | Data Science | Ottawa, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) |
 | 🇨🇦 Ontario |  | Exelon | Data Science Intern - Data Science/Analytics | Data Science, Analytics | Washington, DC, Newark, DE, Philadelphia, PA, Chicago, IL, Oakbrook Terrace, IL, Hamilton, NJ, Baltimore, MD | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.comed.com/jobs/30120?icims=1) |
@@ -284,8 +284,8 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | Qorvo | Data Engineering Intern | Data Engineering | Salem, OR | simplify | 2026-09-19 01:07 AM EDT | [Apply](https://careers.qorvo.com/job/Salem-Data-Engineering-Intern-OR-97302/1431485300/?ats=successfactors) |
 | 🌎 Other | 🔥 NEW | Rivian | Supply Chain Data, AI and Business Intelligence Co-op Intern | Analytics | Normal, IL | simplify | 2026-09-19 01:07 AM EDT | [Apply](https://careers.rivian.com/jobs/33800?icims=1) |
 | 🌎 Other | 🔥 NEW | American Family Insurance Group | Internal Data and Analytics Intern - Summer 2027 | Analytics | Madison, WI | simplify | 2026-09-19 01:07 AM EDT | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Internal-Data-and-Analytics-Intern---Summer-2027_R39401) |
-| 🌎 Other | 🔥 NEW | Cambridge Investment Research | Data Engineer Intern - Business Intelligence and Insights | Data Engineering, Analytics | Fairfield, IA, Phoenix, AZ | simplify | 2026-09-18 06:42 PM EDT | [Apply](https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Data-Engineering-Intern_R-2025-221) |
-| 🌎 Other | 🔥 NEW | Altar'd State | IT Analytics Intern | Analytics | Knoxville, TN | simplify | 2026-09-18 06:42 PM EDT | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499) |
+| 🌎 Other |  | Cambridge Investment Research | Data Engineer Intern - Business Intelligence and Insights | Data Engineering, Analytics | Fairfield, IA, Phoenix, AZ | simplify | 2026-09-18 06:42 PM EDT | [Apply](https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Data-Engineering-Intern_R-2025-221) |
+| 🌎 Other |  | Altar'd State | IT Analytics Intern | Analytics | Knoxville, TN | simplify | 2026-09-18 06:42 PM EDT | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499) |
 | 🌎 Other |  | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Mall | Machine Learning / AI | San Jose, CA | simplify | 2026-09-18 01:54 AM EDT | [Apply](https://lifeattiktok.com/search/7686283601340369205) |
 | 🌎 Other |  | Insperity | Rotational AI Intern | Machine Learning / AI | Kingwood, Houston, TX | simplify | 2026-09-17 09:08 PM EDT | [Apply](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103294) |
 | 🌎 Other |  | Insperity | Rotational Data Analytics Intern | Analytics | Kingwood, Houston, TX | simplify | 2026-09-17 09:08 PM EDT | [Apply](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103293) |
@@ -369,15 +369,9 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Repsol | GIS Intern | GIS / Geospatial | Houston, TX | simplify | 2026-09-15 02:00 AM EDT | [Apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/GIS-Intern_84106) |
 | 🌎 Other |  | SharkNinja | Applied AI & Analytics Co-op | Analytics | Miami, FL | simplify | 2026-09-15 02:00 AM EDT | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669676006) |
 | 🌎 Other |  | ibotta | Data Engineer Intern | Data Engineering | Denver, CO | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171533?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Investment Banking | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175428?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | GIS / Geospatial | Dallas, TX | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171534?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas | GIS / Geospatial | Dallas, TX | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171532?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | GIS / Geospatial | Salt Lake City, UT | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171551?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175421?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175427?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - Asset and Wealth Management | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175423?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175424?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | GIS / Geospatial | Salt Lake City, UT | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171549?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171563?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171535?type=students) |
 | 🌎 Other |  | Oshkosh | Advanced Analytics Intern | Analytics | Frederick, MD | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Summer-2027-Advanced-Analytics-Intern_R49541) |
 | 🌎 Other |  | AtkinsRéalis | Data Scientist Intern - Summer 2027 | Data Science | Tempe, AZ | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1) |
 | 🌎 Other |  | BlueCross BlueShield of Nebraska | Healthcare Analytics Intern | Analytics | Omaha, NE | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Analytics-Intern--Starts-Summer-2027_JR101437) |
