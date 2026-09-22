@@ -1,5 +1,342 @@
 [
   {
+    "id": "b208944c91eea802d853",
+    "company": "Dominion Energy",
+    "source": "simplify",
+    "title": "GIS Development Data Analyst Intern",
+    "location": "Cayce, SC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.dominionenergy.com/job/CAYCE-Intern-GIS-SC-29033/1432505500/?ats=successfactors",
+    "published_at": 1790115098,
+    "categories": [
+      "Analytics",
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-22T23:37:19.083453+00:00",
+    "status": "open"
+  },
+  {
+    "id": "da1c5753842e3a615828",
+    "company": "Corteva",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Indianapolis, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W",
+    "published_at": 1790035200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-22T23:37:19.083441+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6b9ec735f5d9269fff0f",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Data Engineer Intern - Data Platform - TikTok BP",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7681783406632782085",
+    "published_at": 1790115275,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-22T23:37:19.083414+00:00",
+    "status": "open"
+  },
+  {
+    "id": "abfe28b8b18ecba7de1f",
+    "company": "Stryker",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Fort Wayne, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901",
+    "published_at": 1790035200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-22T23:37:19.083386+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5236a6fd0bb3397f954a",
+    "company": "American Family Insurance Group",
+    "source": "simplify",
+    "title": "Customer Analytics Intern",
+    "location": "Madison, WI, Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Customer-Analytics-Intern_R39476",
+    "published_at": 1790035200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-22T23:37:19.083345+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f85354dfe79c6706d23c",
+    "company": "CAI",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Pennsylvania",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8551",
+    "published_at": 1790035200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-22T23:37:19.083244+00:00",
+    "status": "open"
+  },
+  {
+    "id": "50bd623a65e49a7ead3b",
+    "company": "Electronic Arts",
+    "source": "simplify",
+    "title": "AI Engineer Intern - Creative Innovations - Character Pipelines",
+    "location": "Vancouver, BC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer/216236",
+    "published_at": 1790115522,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-22T23:37:19.083233+00:00",
+    "status": "open"
+  },
+  {
+    "id": "113068c9e0fa2a7d2ee3",
+    "company": "USAA",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Plano, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Intern_R0121200",
+    "published_at": 1790035200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-22T23:37:19.083211+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4a06cc7e1e7807486ca6",
+    "company": "USAA",
+    "source": "simplify",
+    "title": "AI/ML Engineer Intern",
+    "location": "Plano, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/AI-ML-Engineer-Intern_R0121196",
+    "published_at": 1790035200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-22T23:37:19.083199+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d2c725c0a58545b42b11",
+    "company": "Rippling",
+    "source": "simplify",
+    "title": "Data Science Intern - Summer 2027",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
+    "published_at": 1790115655,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-22T23:37:19.083128+00:00",
+    "status": "open"
+  },
+  {
+    "id": "989fec1a87a5bbcf5f12",
+    "company": "Rippling",
+    "source": "simplify",
+    "title": "Machine Learning Software Engineer Intern - Summer 2027",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d",
+    "published_at": 1790115651,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-22T23:37:19.083109+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ef0b6389467dae5b72cd",
+    "company": "Leidos",
+    "source": "simplify",
+    "title": "Software Developer Intern - Cyber & Analytics Business Area",
+    "location": "Annapolis Junction, MD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858",
+    "published_at": 1790035200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-22T23:37:19.083035+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a28e07a3d133ce1ed9c5",
+    "company": "Vantor",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605",
+    "published_at": 1790035200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-22T23:37:19.083015+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c1c172d7a28ace922f4e",
+    "company": "Danaher",
+    "source": "simplify",
+    "title": "IT Data Analyst Intern",
+    "location": "Brea, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Brea-California-United-States/IT-Data-Analyst-Intern_R1316675",
+    "published_at": 1790035200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-22T23:37:19.082983+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0a020c9b4d4e332a5414",
+    "company": "Johnson & Johnson",
+    "source": "simplify",
+    "title": "Commercial Data Science & AI Co-op",
+    "location": "Raritan, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099381",
+    "published_at": 1790035200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-22T23:37:19.082909+00:00",
+    "status": "open"
+  },
+  {
+    "id": "618947f64c69b52bb8b0",
+    "company": "Hudson River Trading",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414",
+    "published_at": 1790117294,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-22T23:37:19.082877+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2d9e801c40266d9c2453",
+    "company": "Hudson River Trading",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413",
+    "published_at": 1790117295,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-22T23:37:19.082866+00:00",
+    "status": "open"
+  },
+  {
+    "id": "711f147ecd0262fe34b3",
+    "company": "West Bend Insurance",
+    "source": "simplify",
+    "title": "IT Data Engineer Intern",
+    "location": "Madison, WI, West Bend, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false",
+    "published_at": 1790114711,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-22T23:37:19.082852+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2b311e081b41a376e8f0",
+    "company": "Navy Federal",
+    "source": "simplify",
+    "title": "IT Reporting & Analytics Intern",
+    "location": "Vienna, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32668",
+    "published_at": 1790114927,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-22T23:37:19.082798+00:00",
+    "status": "open"
+  },
+  {
+    "id": "90d415028eaba669326d",
+    "company": "Klaviyo",
+    "source": "simplify",
+    "title": "People Analytics Co-op",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8002711003",
+    "published_at": 1790114809,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-22T23:37:19.082766+00:00",
+    "status": "open"
+  },
+  {
+    "id": "541b94efd86b5b9c26e6",
+    "company": "Cotiviti",
+    "source": "simplify",
+    "title": "Data Engineer Intern - Multiple Teams",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers-cotiviti.icims.com/jobs/20383/job?mobile=true&needsRedirect=false",
+    "published_at": 1790114952,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-22T23:37:19.082718+00:00",
+    "status": "open"
+  },
+  {
     "id": "9f6fdfa08e5859053bfb",
     "company": "Sanofi",
     "source": "simplify",
@@ -687,7 +1024,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.760413+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c2c0ca834de6d37b0896",
@@ -1360,7 +1697,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-18T01:08:06.211989+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9dad060c06f2b4f5e982",
@@ -3171,7 +3508,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -3187,7 +3524,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -3203,7 +3540,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -3219,7 +3556,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -3235,7 +3572,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -3251,7 +3588,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -3267,7 +3604,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -3283,7 +3620,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -3299,7 +3636,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -3315,7 +3652,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -3331,7 +3668,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -3347,7 +3684,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
