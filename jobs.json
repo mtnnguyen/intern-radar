@@ -1,5 +1,86 @@
 [
   {
+    "id": "d5ebc82acacd77eee170",
+    "company": "Commerce Bank",
+    "source": "simplify",
+    "title": "Data Analyst Intern - Summer 2027",
+    "location": "Kansas City, MO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Analyst-Summer-2027_38484",
+    "published_at": 1789948800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-22T04:40:38.765207+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0e0e89b1c8c6edc47d8d",
+    "company": "GE Aerospace",
+    "source": "simplify",
+    "title": "Data Science Co-op - Flight Analytics Platform",
+    "location": "Austin, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2",
+    "published_at": 1789948800,
+    "categories": [
+      "Data Science",
+      "Analytics"
+    ],
+    "first_seen": "2026-09-22T04:40:38.765183+00:00",
+    "status": "open"
+  },
+  {
+    "id": "93bb2e152f9594c34900",
+    "company": "The Aerospace Corporation",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Chantilly, VA, El Segundo, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667",
+    "published_at": 1789948800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-22T04:40:38.765112+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5110a8d1f99e3a4cc023",
+    "company": "Electronic Arts",
+    "source": "simplify",
+    "title": "Analytics Intern",
+    "location": "Orlando, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216252",
+    "published_at": 1790039746,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-22T04:40:38.765037+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4e949c6d95b94d02aee5",
+    "company": "Epic Games",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Cary, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004",
+    "published_at": 1790040161,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-22T04:40:38.764950+00:00",
+    "status": "open"
+  },
+  {
     "id": "cc68d80d921be17ef90e",
     "company": "Booz Allen",
     "source": "simplify",
@@ -237,7 +318,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-21T23:59:00.760975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "bef2e0ff1aaee2b13354",
@@ -1103,7 +1184,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-18T22:42:53.994325+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71027ad7731219d399ff",
@@ -3074,7 +3155,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -3090,7 +3171,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -3106,7 +3187,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -3122,7 +3203,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -3138,7 +3219,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -3154,7 +3235,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -3170,7 +3251,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -3186,7 +3267,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -3202,7 +3283,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -3218,7 +3299,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -3234,7 +3315,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -3250,7 +3331,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -14039,7 +14120,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "83f895109afe880cc0d3",
@@ -14874,7 +14955,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.456578+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "13c40945ed8f75938839",
