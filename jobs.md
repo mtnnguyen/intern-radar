@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 927
+**Active matching jobs:** 925
 
 **New in the last 24 hours:** 38
 
@@ -359,7 +359,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Ekimetrics | Data Science & Marketing Effectiveness Intern | Data Science | London, UK | simplify | 2026-09-15 03:09 PM EDT | [Apply](https://jobs.lever.co/ekimetrics/8df1a768-c6b0-4082-9c41-b3171c0fb548/apply) |
 | 🌎 Other |  | Brevan Howard | Quantitative Analyst Intern | Analytics | London, UK | simplify | 2026-09-15 03:09 PM EDT | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605) |
 | 🌎 Other |  | Dell Technologies | Analytics Intern - Services | Analytics | Round Rock, TX, Hopkinton, MA | simplify | 2026-09-15 03:09 PM EDT | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299074) |
-| 🌎 Other |  | CAI | Data Engineer Intern | Data Engineering | Pennsylvania | simplify | 2026-09-15 03:09 PM EDT | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Engineering-Intern_R8481) |
 | 🌎 Other |  | QTS | Tableau Analytics and Business Intelligence Intern | Analytics | Overland Park, KS | simplify | 2026-09-15 03:09 PM EDT | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Tableau-Analytics-and-Business-Intelligence_R2026-2090) |
 | 🌎 Other |  | Texas Instruments | Information Technology Intern - Data Engineering | Data Engineering | Dallas, TX | simplify | 2026-09-15 03:09 PM EDT | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978) |
 | 🌎 Other |  | Avis Budget Group | IT Data Analytics Intern | Analytics | Parsippany-Troy Hills, NJ | simplify | 2026-09-15 03:09 PM EDT | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Data-Analytics-Intern_R0190392) |
@@ -907,7 +906,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Eurofins | Business Intelligence Intern | Analytics | Lancaster, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000130829489) |
 | 🌎 Other |  | Evolver | Applied Data Science Intern | Data Science | Palo Alto, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/evolver/jobs/4254540009) |
 | 🌎 Other |  | EV Realty | Data Analytics Intern | Analytics | Salt Lake City, UT, SF | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) |
-| 🌎 Other |  | Marvell | Applied Machine Learning Scientist Intern | Machine Learning / AI | Santa Clara, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1) |
 | 🌎 Other |  | ByteDance | Software Engineer Intern - Applied Machine Learning-Enterprise | Machine Learning / AI | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.bytedance.com/en/position/7533045355162044690/detail) |
 | 🌎 Other |  | TikTok | Data Analyst Project Intern - TikTok Shop - Data Science | Data Science, Analytics | London, UK | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7630767896739154229) |
 | 🌎 Other |  | TIFIN | AI Engineering Intern | Machine Learning / AI | Charlotte, NC, Boulder, CO | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://tifin.com/careers/apply/?gh_jid=5981740004) |
