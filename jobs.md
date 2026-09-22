@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 916
+**Active matching jobs:** 914
 
-**New in the last 24 hours:** 44
+**New in the last 24 hours:** 43
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -283,7 +283,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | RSM | Tax Digital Services Intern - AI Engineering | Machine Learning / AI | Charlotte, NC | simplify | 2026-09-21 12:57 PM EDT | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Charlotte/Tax-Digital-Services-Intern---AI-Engineering---Summer-2027_JR121297) |
 | 🌎 Other | 🔥 NEW | Lazard | Data Engineer Intern | Data Engineering | NYC | simplify | 2026-09-21 12:57 PM EDT | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605) |
 | 🌎 Other | 🔥 NEW | Lazard | AI Engineer Intern | Machine Learning / AI | NYC | simplify | 2026-09-21 12:57 PM EDT | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606) |
-| 🌎 Other | 🔥 NEW | AutoZone | Data Science Intern | Data Science | Memphis, TN | simplify | 2026-09-21 06:58 AM EDT | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461) |
+| 🌎 Other |  | AutoZone | Data Science Intern | Data Science | Memphis, TN | simplify | 2026-09-21 06:58 AM EDT | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461) |
 | 🌎 Other |  | The Aerospace Corporation | Reliability and Statistics Intern | Statistics | El Segundo, CA | simplify | 2026-09-20 10:54 AM EDT | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594) |
 | 🌎 Other |  | Centene | Analytics Intern | Analytics | Florida | simplify | 2026-09-19 09:21 AM EDT | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) |
 | 🌎 Other |  | Flex | Manufacturing Data & Analytics Co-op | Analytics | Libertyville, IL | simplify | 2026-09-19 01:07 AM EDT | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700) |
@@ -875,7 +875,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | TikTok | Machine Learning Engineer Intern - App Ads and Gaming | Machine Learning / AI | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7669709472078170373) |
 | 🌎 Other |  | TikTok | Data Science Intern - Integrity and Safety | Data Science | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7669682935444900149) |
 | 🌎 Other |  | TikTok | Data Science Intern - TikTok Live | Data Science | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7669700822370945333) |
-| 🌎 Other |  | PNC Financial Services | Data and Analytics Intern - Modeling | Analytics | Pittsburgh, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Undergraduate-Intern_R231526-1) |
 | 🌎 Other |  | TikTok | Data Science Intern - TikTok Product | Data Science | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7669683639101884725) |
 | 🌎 Other |  | Louisiana Blue | Healthcare Price and Transparency Data Analyst Intern | Analytics | Baton Rouge, LA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/Healthcare-Price-and-Transparency-Data-Analyst-Intern_R11903) |
 | 🌎 Other |  | TikTok | Data Scientist Intern - VOD Data | Data Science | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7670287013157095733) |
@@ -896,7 +895,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Eurofins | Business Intelligence Intern | Analytics | Lancaster, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000130829489) |
 | 🌎 Other |  | Evolver | Applied Data Science Intern | Data Science | Palo Alto, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/evolver/jobs/4254540009) |
 | 🌎 Other |  | EV Realty | Data Analytics Intern | Analytics | Salt Lake City, UT, SF | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) |
-| 🌎 Other |  | ByteDance | Software Engineer Intern - Applied Machine Learning-Enterprise | Machine Learning / AI | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.bytedance.com/en/position/7533045355162044690/detail) |
 | 🌎 Other |  | TikTok | Data Analyst Project Intern - TikTok Shop - Data Science | Data Science, Analytics | London, UK | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7630767896739154229) |
 | 🌎 Other |  | TIFIN | AI Engineering Intern | Machine Learning / AI | Charlotte, NC, Boulder, CO | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://tifin.com/careers/apply/?gh_jid=5981740004) |
 | 🌎 Other |  | TMEIC | Intern - Applications, AI and Machine Learning | Machine Learning / AI | Roanoke, VA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) |
