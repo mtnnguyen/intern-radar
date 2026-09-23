@@ -1,5 +1,245 @@
 [
   {
+    "id": "25eb629ed69dfbb96a6f",
+    "company": "Klaviyo",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Palo Alto, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003",
+    "published_at": 1790201419,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-23T23:05:46.743415+00:00",
+    "status": "open"
+  },
+  {
+    "id": "21f4c8e737382e617891",
+    "company": "AMD",
+    "source": "simplify",
+    "title": "AI Engineering Intern",
+    "location": "Santa Clara, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.amd.com/jobs/91005?icims=1",
+    "published_at": 1790201437,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-23T23:05:46.743405+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b952ad135cf3a764350f",
+    "company": "AMD",
+    "source": "simplify",
+    "title": "Applied Artificial Intelligence Engineering Intern - Hardware AI",
+    "location": "Santa Clara, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.amd.com/jobs/90997?icims=1",
+    "published_at": 1790201433,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-23T23:05:46.743383+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4f926b76c674793e2743",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Engineer Co-op",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO--Winter-Data-Engineer--8-months-_R-0000188584",
+    "published_at": 1790121600,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-23T23:05:46.743269+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7dc86f120d919d81e6ab",
+    "company": "Hays Electrical Services",
+    "source": "simplify",
+    "title": "Data Analyst Intern - IT / Accounting (Rotational)",
+    "location": "Houston, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://hayselectricalservices.applytojob.com/apply/X0z5NLCjcR/Intern-Data-Analyst",
+    "published_at": 1790202082,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-23T23:05:46.743243+00:00",
+    "status": "open"
+  },
+  {
+    "id": "901433664e04e7f7fb42",
+    "company": "Boston Scientific",
+    "source": "simplify",
+    "title": "Data Science Engineering Intern",
+    "location": "Arden Hills, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813638090",
+    "published_at": 1790202086,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-23T23:05:46.743233+00:00",
+    "status": "open"
+  },
+  {
+    "id": "731b690539cb7f753586",
+    "company": "Jabil",
+    "source": "simplify",
+    "title": "Operations Analytics & Reporting Intern",
+    "location": "Tampa, FL, St. Petersburg, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Operations-Analytics---Reporting-Intern_J2465601",
+    "published_at": 1790121600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-23T23:05:46.743221+00:00",
+    "status": "open"
+  },
+  {
+    "id": "88a28fa56fe352f29bc1",
+    "company": "Super",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Toronto, ON, Canada, Remote in Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/super.com/3ee6ff20-3502-410b-bf24-71db02488986/application?embed=true",
+    "published_at": 1790202086,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-23T23:05:46.743200+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1973f7620a4d4b956fbf",
+    "company": "Brunswick",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Fond du Lac, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Data-Analytics-Co-Op_JR-051119",
+    "published_at": 1790121600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-23T23:05:46.743163+00:00",
+    "status": "open"
+  },
+  {
+    "id": "155d7efc0b6ea5ec0dc6",
+    "company": "Jabil",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Tampa, FL, St. Petersburg, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2465581",
+    "published_at": 1790121600,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-23T23:05:46.743153+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7b078657c16a10397c19",
+    "company": "Waymo",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - Road Understanding",
+    "location": "Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+    "published_at": 1790203166,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-23T23:05:46.743119+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e80071a1a14201f84b78",
+    "company": "Figma",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "SF, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://boards.greenhouse.io/figma/jobs/6178851004",
+    "published_at": 1790203172,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-23T23:05:46.743102+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7269cc7cf4725c230b62",
+    "company": "West Bend Insurance",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Madison, WI, West Bend, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers-thesilverlining.icims.com/jobs/3785/job?mobile=true&needsRedirect=false",
+    "published_at": 1790201168,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-23T23:05:46.743045+00:00",
+    "status": "open"
+  },
+  {
+    "id": "dc53ae4d8e1a2ea5f97c",
+    "company": "Resultant",
+    "source": "simplify",
+    "title": "Data & Analytics Consultant Intern - Summer 2027",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/Resultant/744000151474767",
+    "published_at": 1790201293,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-23T23:05:46.743020+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b966ae0fbe71b35e8b97",
+    "company": "Resultant",
+    "source": "simplify",
+    "title": "Data & Analytics Consultant Intern - Summer 2027",
+    "location": "Indianapolis, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/Resultant/744000151474719",
+    "published_at": 1790201297,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-23T23:05:46.742983+00:00",
+    "status": "open"
+  },
+  {
     "id": "cc9554a0cffa98decd2c",
     "company": "Neuberger Berman",
     "source": "simplify",
@@ -3508,7 +3748,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-15T06:00:13.320545+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9ed2d65b20f339a09739",
@@ -3604,7 +3844,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -3620,7 +3860,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -3636,7 +3876,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -3652,7 +3892,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -3668,7 +3908,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -3684,7 +3924,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -3700,7 +3940,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -3716,7 +3956,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -3732,7 +3972,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -3748,7 +3988,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -3764,7 +4004,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -3780,7 +4020,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -12613,7 +12853,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7cd886c5db281de339e8",
