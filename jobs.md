@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 929
+**Active matching jobs:** 927
 
 **New in the last 24 hours:** 21
 
@@ -354,7 +354,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Microsoft | Data Scientist Intern | Data Science | Redmond, WA | simplify | 2026-09-16 07:49 PM EDT | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556982928) |
 | 🌎 Other |  | V2X | Artificial Intelligence Intern | Machine Learning / AI | Indianapolis, IN | simplify | 2026-09-16 10:38 AM EDT | [Apply](https://careers.gov2x.com/jobs/62843?icims=1) |
 | 🌎 Other |  | Gecko Robotics | AI/Machine Learning Engineer Intern | Machine Learning / AI | NYC | simplify | 2026-09-16 10:38 AM EDT | [Apply](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true) |
-| 🌎 Other |  | Levi Strauss & Co. | Analytics Intern - eCommerce | Analytics | London, UK | simplify | 2026-09-16 10:38 AM EDT | [Apply](https://levistraussandco.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1) |
 | 🌎 Other |  | Live Oak Bank | Artificial Intelligence Enablement & Forward-Deployed Engineering Intern | Machine Learning / AI | Wilmington, NC | simplify | 2026-09-16 05:54 AM EDT | [Apply](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624) |
 | 🌎 Other |  | Lawrence Livermore National Laboratory (LLNL) | Data Science Undergraduate Student Intern - Summer 2027 | Data Science | Livermore, CA | simplify | 2026-09-16 01:06 AM EDT | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990015289136) |
 | 🌎 Other |  | NJM Insurance Group | Data Science Intern | Data Science | Trenton, NJ | simplify | 2026-09-16 01:06 AM EDT | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284) |
@@ -392,6 +391,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Repsol | GIS Intern | GIS / Geospatial | Houston, TX | simplify | 2026-09-15 02:00 AM EDT | [Apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/GIS-Intern_84106) |
 | 🌎 Other |  | SharkNinja | Applied AI & Analytics Co-op | Analytics | Miami, FL | simplify | 2026-09-15 02:00 AM EDT | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669676006) |
 | 🌎 Other |  | ibotta | Data Engineer Intern | Data Engineering | Denver, CO | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | GIS / Geospatial | Salt Lake City, UT | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171549?type=students) |
 | 🌎 Other |  | Oshkosh | Advanced Analytics Intern | Analytics | Frederick, MD | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Summer-2027-Advanced-Analytics-Intern_R49541) |
 | 🌎 Other |  | BlueCross BlueShield of Nebraska | Healthcare Analytics Intern | Analytics | Omaha, NE | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Analytics-Intern--Starts-Summer-2027_JR101437) |
 | 🌎 Other |  | Xcel Energy | AI and Analytics Intern | Analytics | Minneapolis, MN, Denver, CO | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1) |
@@ -626,7 +626,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Auto-Owners Insurance | Business Intelligence Developer Intern - Summer 2027 | Analytics | Lansing, MI | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417) |
 | 🌎 Other |  | Allied Solutions | Data Science Intern - Data Intelligence | Data Science | Carmel, IN | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077) |
 | 🌎 Other |  | Vermeer | Data Analytics Intern | Analytics | Pella, IA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Analytics-Internship-Summer-2027_REQ-22164) |
-| 🌎 Other |  | TIAA | Portfolio Analytics Intern | Analytics | NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Churchill-Summer-Internship--Portfolio-Analytics_R260800505-1) |
 | 🌎 Other |  | Micron Technology | Marketing Analytics Intern - Global Communications & Marketing | Analytics | Meridian, ID | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Meridian-ID/Intern---Marketing-Analytics_JR109458) |
 | 🌎 Other |  | Vertiv | Business Analytics Intern - Summer 2027 | Analytics | Westerville, OH | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278794) |
 | 🌎 Other |  | Hadrian | Data Science/Data Engineer Intern | Data Science, Data Engineering | LA, Torrance, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true) |
@@ -656,7 +655,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | AeroVironment | Machine Learning Intern | Machine Learning / AI | Centreville, VA, Minneapolis, MN | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) |
 | 🌎 Other |  | Textron | Data Product & Analytics Intern | Analytics | Augusta, GA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343181) |
 | 🌎 Other |  | Southern Star Central Gas Pipeline | GIS Analyst Intern | GIS / Geospatial | Owensboro, KY | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false) |
-| 🌎 Other |  | Corning | Artificial Intelligence and Machine Learning Intern | Machine Learning / AI | Wilmington, NC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/?ats=successfactors) |
 | 🌎 Other |  | TWG Global | Data Science Intern - MAQR | Data Science | Santa Monica, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://apply.workable.com/twgai/j/AC536E5EE2/apply) |
 | 🌎 Other |  | TWG Global | AI Engineer Intern - Summer 2027 | Machine Learning / AI | Santa Monica, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://apply.workable.com/twgai/j/772CD136FF/apply) |
 | 🌎 Other |  | TWG Global | AI Data Science Intern - AI/ML Center of Excellence | Data Science | London, UK, Remote in UK | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://apply.workable.com/twgai/j/1206BF981C/apply) |

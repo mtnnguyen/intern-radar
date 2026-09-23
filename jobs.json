@@ -2610,7 +2610,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-16T14:38:04.775776+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "81e205e372e028823fbf",
@@ -3540,7 +3540,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -9994,7 +9994,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b32adb362c8408dec3e3",
@@ -10718,7 +10718,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.492935+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ec6f484f0d2136da8332",
