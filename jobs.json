@@ -1,5 +1,69 @@
 [
   {
+    "id": "cc9554a0cffa98decd2c",
+    "company": "Neuberger Berman",
+    "source": "simplify",
+    "title": "Quantitative Analyst Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643",
+    "published_at": 1790121600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-23T17:16:29.933529+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d34006bacd77728af70a",
+    "company": "Excellus BCBS",
+    "source": "simplify",
+    "title": "College Intern - Digital Analytics",
+    "location": "Rochester, NY, De Witt, NY, Utica, NY, Albany, NY, Binghamton, NY, Buffalo, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Digital-Analytics_JR104050-2",
+    "published_at": 1790121600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-23T17:16:29.933509+00:00",
+    "status": "open"
+  },
+  {
+    "id": "eae0536f94c665de8377",
+    "company": "Excellus BCBS",
+    "source": "simplify",
+    "title": "College Intern - Healthcare Statistical Analytics",
+    "location": "Rochester, NY, De Witt, NY, Utica, NY, Albany, NY, Binghamton, NY, Buffalo, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Statistical-Analytics_JR104054-1",
+    "published_at": 1790121600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-23T17:16:29.933462+00:00",
+    "status": "open"
+  },
+  {
+    "id": "99e3c9249f3604dee9bb",
+    "company": "Excellus BCBS",
+    "source": "simplify",
+    "title": "Healthcare Analytics Intern - Healthcare Analytics",
+    "location": "Rochester, NY, De Witt, NY, Utica, NY, Albany, NY, Binghamton, NY, Buffalo, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Analytics_JR104059-2",
+    "published_at": 1790121600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-23T17:16:29.933420+00:00",
+    "status": "open"
+  },
+  {
     "id": "95969a6b3953838bf64f",
     "company": "Amazon",
     "source": "simplify",
@@ -895,7 +959,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.760643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cbc121e1a4d1b12b51ff",
@@ -2610,7 +2674,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-16T14:38:04.775776+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "81e205e372e028823fbf",
@@ -3540,7 +3604,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -3556,7 +3620,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -3572,7 +3636,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -3588,7 +3652,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -3604,7 +3668,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -3620,7 +3684,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -3636,7 +3700,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -3652,7 +3716,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -3668,7 +3732,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -3684,7 +3748,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -3700,7 +3764,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -3716,7 +3780,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -9481,7 +9545,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.503595+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be7017b7fdcc28a94d64",
@@ -11843,7 +11907,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "999419bc2bc0648dc9c6",
