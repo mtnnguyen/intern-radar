@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 939
+**Active matching jobs:** 937
 
-**New in the last 24 hours:** 25
+**New in the last 24 hours:** 24
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -273,7 +273,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | Hudson River Trading | Data Scientist Intern | Data Science | London, UK | simplify | 2026-09-22 07:37 PM EDT | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413) |
 | 🌎 Other | 🔥 NEW | West Bend Insurance | IT Data Engineer Intern | Data Engineering | Madison, WI, West Bend, WI | simplify | 2026-09-22 07:37 PM EDT | [Apply](https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false) |
 | 🌎 Other | 🔥 NEW | Navy Federal | IT Reporting & Analytics Intern | Analytics | Vienna, VA | simplify | 2026-09-22 07:37 PM EDT | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32668) |
-| 🌎 Other | 🔥 NEW | Sanofi | Machine Learning AI Co-op - Quantitative Pharmacology | Machine Learning / AI | Cambridge, MA | simplify | 2026-09-22 02:04 PM EDT | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Machine-Learning-AI--Cambridge--MA_R2864862) |
+| 🌎 Other |  | Sanofi | Machine Learning AI Co-op - Quantitative Pharmacology | Machine Learning / AI | Cambridge, MA | simplify | 2026-09-22 02:04 PM EDT | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Machine-Learning-AI--Cambridge--MA_R2864862) |
 | 🌎 Other |  | Commerce Bank | Data Analyst Intern - Summer 2027 | Analytics | Kansas City, MO | simplify | 2026-09-22 12:40 AM EDT | [Apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Analyst-Summer-2027_38484) |
 | 🌎 Other |  | The Aerospace Corporation | Machine Learning Engineer Intern | Machine Learning / AI | Chantilly, VA, El Segundo, CA | simplify | 2026-09-22 12:40 AM EDT | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667) |
 | 🌎 Other |  | Electronic Arts | Analytics Intern | Analytics | Orlando, FL | simplify | 2026-09-22 12:40 AM EDT | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216252) |
@@ -720,7 +720,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | RJ Lee Group | Artificial Intelligence Software Modernization Intern | Machine Learning / AI | Pittsburgh, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://rjleegroupinc.applytojob.com/apply/vMYHU0VqAg/Internship-Artificial-Intelligence-Software-Modernization) |
 | 🌎 Other |  | Analog Devices | AI/ML Engineer Intern | Machine Learning / AI | Wilmington, MA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579) |
 | 🌎 Other |  | Huntington Bancshares | Data and Analytics Intern | Analytics | Detroit, MI, Dallas, TX, Charlotte, NC, Columbus, OH | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Data-and-Analytics-Internship_R0075377) |
-| 🌎 Other |  | Mastercard | Data Scientist Intern - Summer 2027 | Data Science | O'Fallon, MO | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284869) |
 | 🌎 Other |  | Booz Allen | Data Scientist Intern - Summer Games | Data Science | Rome, NY | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143) |
 | 🌎 Other |  | Booz Allen | Data Scientist Intern - Summer Games | Data Science | Colorado Springs, CO | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132) |
 | 🌎 Other |  | Booz Allen | Data Scientist Intern - University | Data Science | Charleston, SC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137) |
@@ -919,7 +918,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Rippling | Machine Learning Software Engineer Intern | Machine Learning / AI | SF | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781) |
 | 🌎 Other |  | Eurofins | Business Intelligence Intern | Analytics | Lancaster, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000130829489) |
 | 🌎 Other |  | Evolver | Applied Data Science Intern | Data Science | Palo Alto, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/evolver/jobs/4254540009) |
-| 🌎 Other |  | EV Realty | Data Analytics Intern | Analytics | Salt Lake City, UT, SF | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) |
 | 🌎 Other |  | ByteDance | Software Engineer Intern - Applied Machine Learning-Enterprise | Machine Learning / AI | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.bytedance.com/en/position/7533045355162044690/detail) |
 | 🌎 Other |  | TikTok | Data Analyst Project Intern - TikTok Shop - Data Science | Data Science, Analytics | London, UK | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7630767896739154229) |
 | 🌎 Other |  | TIFIN | AI Engineering Intern | Machine Learning / AI | Charlotte, NC, Boulder, CO | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://tifin.com/careers/apply/?gh_jid=5981740004) |
