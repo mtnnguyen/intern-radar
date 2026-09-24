@@ -3763,7 +3763,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-15T11:31:58.169717+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cd03fcd88afeb9bd5a3d",
@@ -4356,7 +4356,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T20:13:24.228489+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "30361ab9535d3957f24a",
@@ -8756,7 +8756,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "00d5d393f0959347cc3d",
