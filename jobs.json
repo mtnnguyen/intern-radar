@@ -1,5 +1,53 @@
 [
   {
+    "id": "7590763a44a4f66c4904",
+    "company": "Wurl",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006",
+    "published_at": 1790259294,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-24T17:02:26.537251+00:00",
+    "status": "open"
+  },
+  {
+    "id": "31b901685c185210b93b",
+    "company": "Metropolitan Transportation Authority",
+    "source": "simplify",
+    "title": "Data Analyst Intern - Subway Resource & Admin Support - Emerging Talent",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oUuPAfwx?nl=1&nl=1&fr=false",
+    "published_at": 1790259722,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-24T17:02:26.537221+00:00",
+    "status": "open"
+  },
+  {
+    "id": "11da8b9a82209097f244",
+    "company": "Enterprise Holdings",
+    "source": "simplify",
+    "title": "Data Engineer Intern - IT",
+    "location": "St. Louis, MO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false",
+    "published_at": 1790259827,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-24T17:02:26.537177+00:00",
+    "status": "open"
+  },
+  {
     "id": "22d2ca7414b48405fa1a",
     "company": "Cenovus Energy",
     "source": "simplify",
@@ -558,7 +606,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-22T23:37:19.083035+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a28e07a3d133ce1ed9c5",
@@ -2834,7 +2882,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-16T23:49:33.507230+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "b3da6e031d60d77a37f0",
@@ -3876,7 +3924,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -3892,7 +3940,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -3908,7 +3956,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -3924,7 +3972,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -3940,7 +3988,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -3956,7 +4004,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -3972,7 +4020,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -3988,7 +4036,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -4004,7 +4052,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -4020,7 +4068,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -4036,7 +4084,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -4052,7 +4100,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -9561,7 +9609,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.505604+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7827d6f9362686414abf",
@@ -16863,7 +16911,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "418cd12467607e3cb76d",
