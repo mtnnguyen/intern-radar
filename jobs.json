@@ -1,5 +1,21 @@
 [
   {
+    "id": "11a29ddfd224e9dcc835",
+    "company": "Zekelman Industries",
+    "source": "simplify",
+    "title": "Business Intelligence Intern - Program Development",
+    "location": "Austin, TX, Troy, MI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769",
+    "published_at": 1790121600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-24T06:20:14.800886+00:00",
+    "status": "open"
+  },
+  {
     "id": "25eb629ed69dfbb96a6f",
     "company": "Klaviyo",
     "source": "simplify",
@@ -1696,7 +1712,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-19T05:07:57.023337+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e08625d89e5c9e56507c",
@@ -3844,7 +3860,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -3860,7 +3876,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -3876,7 +3892,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -3892,7 +3908,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -3908,7 +3924,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -3924,7 +3940,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -3940,7 +3956,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -3956,7 +3972,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -3972,7 +3988,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -3988,7 +4004,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -4004,7 +4020,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -4020,7 +4036,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -4068,7 +4084,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T22:46:03.824255+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "a8dc787e7b261af4b6ff",
@@ -4997,7 +5013,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.539002+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0590cef33e6fdfb2c944",
@@ -13896,7 +13912,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.471297+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "dd73a5cc3e47d00a5f6a",
@@ -13912,7 +13928,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.471297+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1fc8f199e105fdb2c1ec",
@@ -18682,12 +18698,12 @@
     "id": "4ca17341cdebf16f2227",
     "company": "Black Box",
     "source": "simplify",
-    "title": "AI Intern USA",
+    "title": "AI Intern",
     "location": "Plano, TX",
     "description": "",
     "employment_type": "internship",
     "url": "https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5523",
-    "published_at": 1769479929,
+    "published_at": 1777500264,
     "categories": [
       "Machine Learning / AI"
     ],
