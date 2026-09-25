@@ -1,5 +1,21 @@
 [
   {
+    "id": "9e644425b74da1ed1640",
+    "company": "Exclusive Networks",
+    "source": "simplify",
+    "title": "Data Quality & Business Data Analyst Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/London/Data-Quality---Business-Data-Analyst-Intern-6-month-FTC_JR2560-1",
+    "published_at": 1790294400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-25T12:12:56.821395+00:00",
+    "status": "open"
+  },
+  {
     "id": "d4df9eb9c90535c1efb1",
     "company": "FOX",
     "source": "simplify",
@@ -1680,7 +1696,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-21T23:59:00.760652+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c2ba1721efee48844631",
@@ -2883,7 +2899,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-17T06:51:40.599398+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5047f21dfe4d9e087a40",
@@ -4341,7 +4357,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -4453,7 +4469,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -4469,7 +4485,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -4693,7 +4709,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T22:46:03.823952+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4774bb43b30c3f481217",
@@ -7775,7 +7791,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e8ab1afe90c30df6da4d",
@@ -9157,7 +9173,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "40eae2e67ab9eeac8fce",
@@ -9735,7 +9751,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "da6e7069a4fe0f72c6e2",
@@ -10410,7 +10426,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3e3daff776329a43cc09",
@@ -13607,7 +13623,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5f2969af9c56f8a37e83",
@@ -14104,7 +14120,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.474305+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "69db319edd4feccd19ce",
@@ -19077,7 +19093,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.434844+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ef8f1fe5672f7848d3b6",
