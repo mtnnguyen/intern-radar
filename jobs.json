@@ -1,5 +1,21 @@
 [
   {
+    "id": "c0bff5fe2d11b151eeca",
+    "company": "Marathon Petroleum",
+    "source": "simplify",
+    "title": "Geographic Information Systems Intern/Co-op",
+    "location": "Tulsa, OK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411",
+    "published_at": 1790208000,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-09-25T01:38:24.281680+00:00",
+    "status": "open"
+  },
+  {
     "id": "c8080a7b614a87fc629d",
     "company": "Radiance Technologies",
     "source": "simplify",
@@ -1135,7 +1151,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-22T04:40:38.765207+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0e0e89b1c8c6edc47d8d",
@@ -4277,7 +4293,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -4293,7 +4309,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -4309,7 +4325,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -4325,7 +4341,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -4341,7 +4357,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -4357,7 +4373,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -4373,7 +4389,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -4389,7 +4405,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -4405,7 +4421,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -4421,7 +4437,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -4437,7 +4453,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -4453,7 +4469,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -6762,7 +6778,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.531139+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "065361822a27b18f6e69",
@@ -8949,7 +8965,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e980ec66ad536f3a366d",
@@ -11680,7 +11696,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.491935+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a04f96d2f74f247ec883",
