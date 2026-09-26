@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 915
+**Active matching jobs:** 926
 
-**New in the last 24 hours:** 20
+**New in the last 24 hours:** 18
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -242,13 +242,12 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
 | 🌎 Other | 🔥 NEW | Solar Turbines | Gas Compressor Data Analyst Intern | Analytics | San Diego, CA | simplify | 2026-09-25 09:54 PM EDT | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786) |
 | 🌎 Other | 🔥 NEW | Pacific Life | Data Engineering Intern | Data Engineering | Newport Beach, CA | simplify | 2026-09-25 07:30 PM EDT | [Apply](https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828) |
-| 🌎 Other | 🔥 NEW | RGA Reinsurance Company | Data Science/AI Intern | Data Science, Machine Learning / AI | Chesterfield, MO | simplify | 2026-09-25 07:30 PM EDT | [Apply](https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Fall-Intern---Data-Science-AI_J28774) |
 | 🌎 Other | 🔥 NEW | American Family Insurance Group | Machine Learning Operations Intern | Machine Learning / AI | Madison, WI | simplify | 2026-09-25 07:30 PM EDT | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/ML-Ops-Intern_R39493) |
 | 🌎 Other | 🔥 NEW | Johns Hopkins Applied Physics Laboratory | Artificial Intelligence and Machine Learning Intern - Research Assistant | Machine Learning / AI | Laurel, MD | simplify | 2026-09-25 07:30 PM EDT | [Apply](https://careers.jhuapl.edu/jobs/60084?icims=1) |
 | 🌎 Other | 🔥 NEW | Western National Insurance | Data Engineering Intern - Data & Integrations | Data Engineering | Edina, MN | simplify | 2026-09-25 07:30 PM EDT | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537849) |
 | 🌎 Other | 🔥 NEW | Red Ventures | Data Science Intern - Launch Program | Data Science | Charlotte, NC | simplify | 2026-09-25 07:30 PM EDT | [Apply](https://www.redventures.com/careers/positions/open?gh_jid=8233284) |
 | 🌎 Other | 🔥 NEW | BGE | GIS Intern | GIS / Geospatial | Frisco, TX | simplify | 2026-09-25 07:30 PM EDT | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5435140008) |
-| 🌎 Other | 🔥 NEW | Exclusive Networks | Data Quality & Business Data Analyst Intern | Analytics | London, UK | simplify | 2026-09-25 08:12 AM EDT | [Apply](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/London/Data-Quality---Business-Data-Analyst-Intern-6-month-FTC_JR2560-1) |
+| 🌎 Other |  | Exclusive Networks | Data Quality & Business Data Analyst Intern | Analytics | London, UK | simplify | 2026-09-25 08:12 AM EDT | [Apply](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/London/Data-Quality---Business-Data-Analyst-Intern-6-month-FTC_JR2560-1) |
 | 🌎 Other |  | FOX | Internship Program - Data Analytics | Analytics | NYC | simplify | 2026-09-25 02:36 AM EDT | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033950) |
 | 🌎 Other |  | Marathon Petroleum | Geographic Information Systems Intern/Co-op | GIS / Geospatial | Tulsa, OK | simplify | 2026-09-24 09:38 PM EDT | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411) |
 | 🌎 Other |  | Radiance Technologies | Modeling Engineer Intern - Analytics and Simulation Sciences | Analytics | Beavercreek, OH | simplify | 2026-09-24 07:18 PM EDT | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438) |
@@ -321,6 +320,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Lazard | Data Engineer Intern | Data Engineering | NYC | simplify | 2026-09-21 12:57 PM EDT | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605) |
 | 🌎 Other |  | AutoZone | Data Science Intern | Data Science | Memphis, TN | simplify | 2026-09-21 06:58 AM EDT | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461) |
 | 🌎 Other |  | The Aerospace Corporation | Reliability and Statistics Intern | Statistics | El Segundo, CA | simplify | 2026-09-20 10:54 AM EDT | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594) |
+| 🌎 Other |  | Centene | Analytics Intern | Analytics | Florida | simplify | 2026-09-19 09:21 AM EDT | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) |
 | 🌎 Other |  | Flex | Manufacturing Data & Analytics Co-op | Analytics | Libertyville, IL | simplify | 2026-09-19 01:07 AM EDT | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700) |
 | 🌎 Other |  | Waymo | Product Data Science Intern | Data Science | SF | simplify | 2026-09-19 01:07 AM EDT | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8199365) |
 | 🌎 Other |  | Central Hudson | GIS Intern | GIS / Geospatial | Kingston, NY, Poughkeepsie, NY | simplify | 2026-09-19 01:07 AM EDT | [Apply](https://cenhud.wd5.myworkdayjobs.com/cenhud/job/Kingston/GIS-Intern_R2153) |
@@ -404,6 +404,18 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Repsol | GIS Intern | GIS / Geospatial | Houston, TX | simplify | 2026-09-15 02:00 AM EDT | [Apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/GIS-Intern_84106) |
 | 🌎 Other |  | SharkNinja | Applied AI & Analytics Co-op | Analytics | Miami, FL | simplify | 2026-09-15 02:00 AM EDT | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669676006) |
 | 🌎 Other |  | ibotta | Data Engineer Intern | Data Engineering | Denver, CO | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | GIS / Geospatial | Salt Lake City, UT | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171549?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171533?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Investment Banking | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175428?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | GIS / Geospatial | Dallas, TX | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171534?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas | GIS / Geospatial | Dallas, TX | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171532?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | GIS / Geospatial | Salt Lake City, UT | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171551?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175421?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171563?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171535?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175427?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - Asset and Wealth Management | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175423?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175424?type=students) |
 | 🌎 Other |  | Oshkosh | Advanced Analytics Intern | Analytics | Frederick, MD | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Summer-2027-Advanced-Analytics-Intern_R49541) |
 | 🌎 Other |  | AtkinsRéalis | Data Scientist Intern - Summer 2027 | Data Science | Tempe, AZ | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1) |
 | 🌎 Other |  | BlueCross BlueShield of Nebraska | Healthcare Analytics Intern | Analytics | Omaha, NE | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Analytics-Intern--Starts-Summer-2027_JR101437) |
@@ -515,7 +527,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Delta Dental of Iowa | Data Analyst Intern | Analytics | Johnston, IA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491829) |
 | 🌎 Other |  | Kensho | Machine Learning Engineer Intern | Machine Learning / AI | Cambridge, MA, NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714) |
 | 🌎 Other |  | Ankura Consulting Group | Forensic Data & Analytics Intern | Analytics | NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://ankura.wd5.myworkdayjobs.com/ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943) |
-| 🌎 Other |  | Barclays | Data and Analytics Intern - Customer and Digital | Analytics | London, UK | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280) |
 | 🌎 Other |  | American Equity | Data Engineer Intern | Data Engineering | West Des Moines, IA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://www.american-equity.com/about/careers/openings?gh_jid=5233724007) |
 | 🌎 Other |  | Ankura Consulting Group | University Intern - Forensic Data & Analytics | Analytics | Washington, DC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://ankura.wd5.myworkdayjobs.com/ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945) |
 | 🌎 Other |  | Navy Federal | Business Intelligence Analyst Intern | Analytics | Winchester, VA, Pensacola, FL, Vienna, VA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32455) |
