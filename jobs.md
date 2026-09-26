@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 926
+**Active matching jobs:** 925
 
 **New in the last 24 hours:** 18
 
@@ -894,7 +894,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Louisiana Blue | Healthcare Price and Transparency Data Analyst Intern | Analytics | Baton Rouge, LA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/Healthcare-Price-and-Transparency-Data-Analyst-Intern_R11903) |
 | 🌎 Other |  | TikTok | Data Scientist Intern - VOD Data | Data Science | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7670287013157095733) |
 | 🌎 Other |  | TikTok | Data Engineer Intern - Ads Targeting | Data Engineering | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7668533140146817333) |
-| 🌎 Other |  | AlixPartners | Data Scientist Intern | Data Science | NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003) |
 | 🌎 Other |  | TikTok | Applied Scientist Intern - Recommendation AI Lab | Machine Learning / AI | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7659527183984019765) |
 | 🌎 Other |  | Medpace | Clinical Business Intelligence Intern | Analytics | Cincinnati, OH | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.medpace.com/jobs/12845?icims=1) |
 | 🌎 Other |  | Tesla | Machine Learning Intern - AI Engineer - Tesla AI | Machine Learning / AI | Palo Alto, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://www.tesla.com/careers/search/job/275331) |
