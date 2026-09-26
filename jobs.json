@@ -623,7 +623,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-24T23:18:32.635668+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4eb26b2942873b001839",
@@ -2161,7 +2161,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-21T23:59:00.760478+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b206ff4287575c3a76f3",
@@ -4694,7 +4694,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -4710,7 +4710,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -4726,7 +4726,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -4742,7 +4742,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -4758,7 +4758,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -4774,7 +4774,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -4790,7 +4790,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -4806,7 +4806,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -4822,7 +4822,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -4838,7 +4838,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -4854,7 +4854,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -4870,7 +4870,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -6937,7 +6937,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.533247+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0de12ed9ff8c2e496b1d",
@@ -8384,7 +8384,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.521219+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b04dee3bcc6da82e2800",
@@ -9398,7 +9398,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d0b8a6f3e3fb3ab36b42",
@@ -9462,7 +9462,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c5a3ec91661e8e51f832",
@@ -9895,7 +9895,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "bb4b41117f603846cbf0",
@@ -9911,7 +9911,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5411920b871ba0fca45b",
@@ -13799,7 +13799,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b777d53148acd96fa7a7",
@@ -13815,7 +13815,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "97b45d66f90fbb0f0cc2",
@@ -14473,7 +14473,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.474305+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a269e1b1fde8463ccf1f",
@@ -16831,7 +16831,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.455569+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ac79caab7235d3ab6269",
@@ -17409,7 +17409,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "934eafed37062972c965",
@@ -19553,7 +19553,7 @@
     "description": "",
     "employment_type": "internship",
     "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081",
-    "published_at": 1769654133,
+    "published_at": 1778941706,
     "categories": [
       "Analytics"
     ],
