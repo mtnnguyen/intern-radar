@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 914
+**Active matching jobs:** 913
 
 **New in the last 24 hours:** 0
 
@@ -718,7 +718,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Booz Allen | Data Scientist Intern - Summer Games | Data Science | Colorado Springs, CO | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132) |
 | 🌎 Other |  | Booz Allen | Data Scientist Intern - University | Data Science | Charleston, SC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137) |
 | 🌎 Other |  | Booz Allen | Data Scientist Intern - University | Data Science | Atlanta, GA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140) |
-| 🌎 Other |  | Bland AI | Machine Learning Research Intern - Audio | Machine Learning / AI | SF | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/bland/c8a5c0de-935d-4f76-bc7d-237cbfb2cf55/application?embed=true) |
 | 🌎 Other |  | Qorvo | Sales Data Analyst Intern | Analytics | Hillsboro, OR | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.qorvo.com/job/Hillsboro-Sales-Data-Analyst-Intern-OR-97124/1421951500/?ats=successfactors) |
 | 🌎 Other |  | Qorvo | Data Analytics Intern | Analytics | Greensboro, NC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.qorvo.com/job/Greensboro-Data-Analytics-Intern-NC-27409/1421970400/?ats=successfactors) |
 | 🌎 Other |  | TikTok | Machine Learning Engineer Intern - E-Commerce Knowledge Graph | Machine Learning / AI | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7676652813409552645) |
