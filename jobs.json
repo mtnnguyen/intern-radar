@@ -350,7 +350,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-25T12:12:56.821395+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d4df9eb9c90535c1efb1",
@@ -1440,7 +1440,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-22T23:37:19.082877+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2d9e801c40266d9c2453",
@@ -1456,7 +1456,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-22T23:37:19.082866+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "711f147ecd0262fe34b3",
@@ -1649,7 +1649,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-21T23:59:00.761269+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9de210ae7c26dff24081",
@@ -1745,7 +1745,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.761104+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e17c1f9747281dba0b05",
@@ -1761,7 +1761,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.761072+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "300679c608b238b5db94",
@@ -1793,7 +1793,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.761033+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0888d57b842742c45d1e",
@@ -1905,7 +1905,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.760904+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1200d50ef3df7fb01353",
@@ -2033,7 +2033,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-21T23:59:00.760652+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c2ba1721efee48844631",
@@ -2642,7 +2642,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-19T05:07:57.000330+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "33d11c26e06d234111fa",
@@ -3156,7 +3156,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-17T17:10:28.434903+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "45be44263cedc0c68c05",
@@ -3252,7 +3252,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-17T01:50:25.626143+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cb84a7a32ea474e7f853",
@@ -4036,7 +4036,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-16T00:26:30.973051+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fb50361e13290ef34d1e",
@@ -4694,7 +4694,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -4710,7 +4710,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -4726,7 +4726,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -4742,7 +4742,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -4758,7 +4758,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -4774,7 +4774,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -4790,7 +4790,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -4838,7 +4838,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -4854,7 +4854,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -4870,7 +4870,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -9318,7 +9318,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a1c728468f28c8f22938",
@@ -9334,7 +9334,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5dbb2739d331b162180d",
@@ -9366,7 +9366,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e980ec66ad536f3a366d",
@@ -9382,7 +9382,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3156a4c75c785481dea4",
@@ -19462,7 +19462,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.434844+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f67cec8b7069fb960b62",
