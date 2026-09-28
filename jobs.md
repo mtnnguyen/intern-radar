@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 901
+**Active matching jobs:** 911
 
 **New in the last 24 hours:** 0
 
@@ -398,6 +398,18 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Repsol | GIS Intern | GIS / Geospatial | Houston, TX | simplify | 2026-09-15 02:00 AM EDT | [Apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/GIS-Intern_84106) |
 | 🌎 Other |  | SharkNinja | Applied AI & Analytics Co-op | Analytics | Miami, FL | simplify | 2026-09-15 02:00 AM EDT | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669676006) |
 | 🌎 Other |  | ibotta | Data Engineer Intern | Data Engineering | Denver, CO | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | GIS / Geospatial | Salt Lake City, UT | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171549?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171533?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Investment Banking | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175428?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | GIS / Geospatial | Dallas, TX | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171534?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas | GIS / Geospatial | Dallas, TX | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171532?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | GIS / Geospatial | Salt Lake City, UT | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171551?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175421?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171563?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171535?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175427?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - Asset and Wealth Management | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175423?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175424?type=students) |
 | 🌎 Other |  | Oshkosh | Advanced Analytics Intern | Analytics | Frederick, MD | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Summer-2027-Advanced-Analytics-Intern_R49541) |
 | 🌎 Other |  | AtkinsRéalis | Data Scientist Intern - Summer 2027 | Data Science | Tempe, AZ | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1) |
 | 🌎 Other |  | BlueCross BlueShield of Nebraska | Healthcare Analytics Intern | Analytics | Omaha, NE | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Analytics-Intern--Starts-Summer-2027_JR101437) |
@@ -514,7 +526,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Tradeweb | AI Engineering Intern | Machine Learning / AI | London, UK | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301900) |
 | 🌎 Other |  | The Aerospace Corporation | Machine Learning Engineering Intern | Machine Learning / AI | Colorado Springs, CO, El Segundo, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432) |
 | 🌎 Other |  | Constellation Energy | Business Performance & Analytics Intern | Analytics | Houston, TX | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.constellationenergy.com/jobs/138770?icims=1) |
-| 🌎 Other |  | Barr | GIS Specialist Intern | GIS / Geospatial | Salt Lake City, UT | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Internship---GIS-Specialist--Hybrid-_R-102305-1) |
 | 🌎 Other |  | Entegris | Lab Automation & AI Engineering Co-op | Machine Learning / AI | Billerica, MA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1) |
 | 🌎 Other |  | SCOR | Data Science Intern | Data Science | Charlotte, NC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393) |
 | 🌎 Other |  | NiSource | Change Management Analytics Intern | Analytics | Columbus, OH | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Intern-People-Analytics---Change-Management_R00943378) |
@@ -785,7 +796,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | AMD | Data Analyst Intern/Co-op | Analytics | San Jose, CA, Santa Clara, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.amd.com/jobs/90895?icims=1) |
 | 🌎 Other |  | AMD | Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence | Machine Learning / AI | San Jose, CA, Santa Clara, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.amd.com/jobs/91177?icims=1) |
 | 🌎 Other |  | TikTok | Data Engineer Intern - E-commerce | Data Engineering | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7676250516494436661) |
-| 🌎 Other |  | Blackstone | Data Engineer Summer Analyst - Blackstone Technology & Innovations | Data Engineering | Miami, FL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Technology-and-Innovations--Data-Engineer-Summer-Analyst_45022) |
 | 🌎 Other |  | SimIS | Artificial Intelligence Developer Intern - Aerospace/Aviation | Machine Learning / AI | Suffolk, VA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern) |
 | 🌎 Other |  | Springs Window Fashions | Dealer Business Operations & Analytics Intern - Summer 2027 | Analytics | Middleton, WI | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false) |
 | 🌎 Other |  | Springs Window Fashions | Data Analyst Intern - Consumer Business Unit | Analytics | Middleton, WI | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false) |
