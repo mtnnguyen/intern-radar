@@ -1,5 +1,70 @@
 [
   {
+    "id": "25c696ba83079f783d2a",
+    "company": "Cigna Group",
+    "source": "simplify",
+    "title": "AI/ML Engineer Intern",
+    "location": "Austin, TX, Morris Plains, NJ, St. Louis, MO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/AI-ML-Engineer-Intern_26010877",
+    "published_at": 1790640000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-29T18:15:24.816574+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8910afcb6785ea6647ff",
+    "company": "Q2",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Cary, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800",
+    "published_at": 1790640000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-29T18:15:24.816561+00:00",
+    "status": "open"
+  },
+  {
+    "id": "03100cbe28fbdf54d5c9",
+    "company": "Perchwell",
+    "source": "simplify",
+    "title": "Data Analytics Engineering Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/Perchwell/9d34fc9d-e235-44fc-bdf9-42e75223839a/application?embed=true",
+    "published_at": 1790691707,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-09-29T18:15:24.816491+00:00",
+    "status": "open"
+  },
+  {
+    "id": "864eb8ca564b960c5450",
+    "company": "Q2",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Cary, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799",
+    "published_at": 1790640000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-29T18:15:24.816407+00:00",
+    "status": "open"
+  },
+  {
     "id": "a34b4c3c51e74f42c203",
     "company": "Lyft",
     "source": "simplify",
@@ -847,7 +912,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-24T23:18:32.635351+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c6c08e9cb3b1ca932fd5",
@@ -863,7 +928,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-24T23:18:32.635311+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "abbfc3a01c7f999c63be",
@@ -1103,7 +1168,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-23T23:05:46.743163+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "155d7efc0b6ea5ec0dc6",
@@ -1472,7 +1537,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-22T23:37:19.083109+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "ef0b6389467dae5b72cd",
@@ -1873,7 +1938,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.761072+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "300679c608b238b5db94",
@@ -2594,7 +2659,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-19T05:07:57.023546+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7f2786ca97da9d7b9151",
@@ -3076,7 +3141,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-17T22:56:15.021501+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "281f5d42102d1317e4b8",
@@ -3764,7 +3829,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-16T23:49:33.507230+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "b3da6e031d60d77a37f0",
@@ -4020,7 +4085,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-16T00:26:30.973390+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b0c0e944d354b42c065",
@@ -4244,7 +4309,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-16T00:26:30.972721+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "3e3e3e5f62603ac29397",
@@ -4309,7 +4374,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-16T00:26:30.972568+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "16eeaca95edbd5c21a70",
@@ -4565,7 +4630,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-15T19:09:22.057219+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "fb98bb426dc84e7ed930",
@@ -4806,7 +4871,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -4822,7 +4887,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -4838,7 +4903,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -4854,7 +4919,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -4870,7 +4935,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -4886,7 +4951,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -4902,7 +4967,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -4918,7 +4983,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -4934,7 +4999,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -4950,7 +5015,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -4966,7 +5031,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -4982,7 +5047,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -5110,7 +5175,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T22:46:03.824166+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "948bc49f6555fb5753ba",
@@ -6232,7 +6297,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.537952+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "f0fbc2931a255adb896e",
@@ -6392,7 +6457,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.536943+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "0acbfc018054c4319f85",
@@ -6664,7 +6729,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.535015+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "a2e920ee96fed7e58dd9",
@@ -6744,7 +6809,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.535015+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "64bed57c8bf5a2aa7dd2",
@@ -7146,7 +7211,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.531139+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "34c1438a6a3286161466",
@@ -8899,7 +8964,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ba7f20605e172fa9e76d",
@@ -8931,7 +8996,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1936209d8478cd61f6f4",
@@ -10234,7 +10299,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b41fcb5896aa5661c4c3",
@@ -10715,7 +10780,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.503595+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "63b0699a203c45884c47",
@@ -12465,7 +12530,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.489934+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "78d9122ee05d141fdf3f",
@@ -13527,7 +13592,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1b7f719bf61f7f9f4792",
@@ -14072,7 +14137,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5f2969af9c56f8a37e83",
@@ -15819,7 +15884,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "e1e4b7374a370a360c3d",
@@ -18529,7 +18594,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1dd8746f3c0af3befc8b",
@@ -19622,7 +19687,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.419194+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "168fffb6b8be7bf83f5f",
@@ -20162,7 +20227,7 @@
     "description": "As an Applied Science Intern, you will join a cross-functional team of engineers and applied scientists building AI-powered features within the Datadog platform. You will contribute to both existing and new products by improving machine learning models, developing new AI capabilities, and helping bring research into production. Working closely with engineering and product partners, you'll gain hands-on experience deploying AI systems at scale while strengthening your product mindset, collaboration, and communication skills. You'll also have opportunities to contribute to cutting-edge research that directly powers customer-facing features. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. &nbsp; What You’ll Do: Design solutions for AI use cases by researching and benchmarking state-of-the-art models to identify the best approach Build highly scalable product features using generative AI, machine learning algorithms, and statistical techniques Contribute to the development, deployment, monitoring, and maintenance of production AI models, services, and infrastructure Explore, analyze, and derive insights from the large-scale observability data flowing through Datadog systems Participate in technical knowledge sharing by presenting recent academic research and investigating emerging model architectures to improve existing and future products Collaborate with engineering and product teams to productionize AI solutions and deliver customer-facing features &nbsp; Who You Are: You will graduate in 2027 with a degree in Machine Learning, Artificial Intelligence, Statistics, Computer Science, or a related field You have experience building machine learning models through coursework, research, internships, or personal projects You have strong programming skills and are eager to learn new languages and technologies You communicate complex technical concepts clearly to both technical and non-technical audiences You have a strong interest in artificial intelligence, machine learning, and data-driven product development Available to complete a 6-month internship beginning in February, March, April, May, or June 2027 (we are unable to accommodate internships starting at any other time) Datadog values people from all walks of life. We know not everyone will meet all the above qualifications on day one. That’s okay. If you’re passionate about technology and want to grow your experience, we encourage you to apply. &nbsp; Benefits and Growth: Work on meaningful technical challenges alongside engineers across the globe Participate in mentorship and buddy programs designed to support learning and development Join an in-person intern cohort, attend company social events, and engage with Datadog Community Guilds and employee resource groups throughout the internship Receive relocation support and travel benefits where applicable Enjoy office perks including snacks, drinks, and catered lunches on Monday, Wednesday, and Friday Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog. &nbsp; Please ensure that you submit your CV/resume in English. If possible, please apply using your personal email address instead of your university email address. Students can sign up for a free Datadog Pro account to learn more about our platform and products. #LI-Hybrid About Datadog:&nbsp; Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on Instagram , LinkedIn, and Datadog Learning Center. Equal Opportunity at Datadog: Datadog is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our Candidate Legal Notices for your reference.&nbsp; Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete this form . This form is for accommodation requests only and cannot be used to inquire about the status of applications.&nbsp; Privacy and AI Guidelines: Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&nbsp; Applicant and Candidate Privacy Notice . For information on our AI policy, please visit Interviewing at Datadog AI Guidelines .",
     "employment_type": "",
     "url": "https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440",
-    "published_at": "2026-09-18T14:57:30-04:00",
+    "published_at": "2026-09-29T13:18:57-04:00",
     "categories": [
       "Machine Learning / AI"
     ],
