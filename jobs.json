@@ -1,5 +1,183 @@
 [
   {
+    "id": "66ff6fd63b36b739647b",
+    "company": "Acuity",
+    "source": "simplify",
+    "title": "Finance AI Engineering Intern",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors",
+    "published_at": 1790720238,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-30T01:23:53.357506+00:00",
+    "status": "open"
+  },
+  {
+    "id": "06f9aaf122f24e25a222",
+    "company": "Nike",
+    "source": "simplify",
+    "title": "AI/ML Engineer Intern",
+    "location": "Beaverton, OR",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412",
+    "published_at": 1790640000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-30T01:23:53.357487+00:00",
+    "status": "open"
+  },
+  {
+    "id": "90e1e969ab38f36494b4",
+    "company": "Honeywell",
+    "source": "simplify",
+    "title": "Artificial Intelligence/Machine Learning Co-op",
+    "location": "United States",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158958",
+    "published_at": 1790720430,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-30T01:23:53.357453+00:00",
+    "status": "open"
+  },
+  {
+    "id": "012f2e038bf3333b0af1",
+    "company": "Waymo",
+    "source": "simplify",
+    "title": "Planner Machine Learning Intern",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8234876",
+    "published_at": 1790720456,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-30T01:23:53.357437+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a1d2f4d7bd205e20b19b",
+    "company": "ICF International",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Reston, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1",
+    "published_at": 1790640000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-30T01:23:53.357419+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3c345f4200f2e63f1950",
+    "company": "Risepoint",
+    "source": "simplify",
+    "title": "Analytics Solutions Co-op",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Analytics-Solutions-Co-Op_JR101354",
+    "published_at": 1790640000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-30T01:23:53.357399+00:00",
+    "status": "open"
+  },
+  {
+    "id": "640388f49b33d8ac696f",
+    "company": "Risepoint",
+    "source": "simplify",
+    "title": "Analytics Engineering Co-op",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Analytics-Engineering-Co-Op_JR101355",
+    "published_at": 1790640000,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-09-30T01:23:53.357392+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0714a858322005e447d4",
+    "company": "ibotta",
+    "source": "simplify",
+    "title": "Business Intelligence Intern",
+    "location": "Denver, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/ibotta/3a27a6fc-5d2c-4b88-8b19-8f9f7094f899/application?embed=true",
+    "published_at": 1790720613,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-30T01:23:53.357364+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9c9b36bf5c7779b3e6b5",
+    "company": "The Toro Company",
+    "source": "simplify",
+    "title": "Ecommerce Data Analytics Intern",
+    "location": "Bloomington, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/eCommerce-Data-Analytics-Intern---The-Toro-Company_JR17458",
+    "published_at": 1790640000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-30T01:23:53.357348+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a890a89cfb96e4f0ce55",
+    "company": "Acuity",
+    "source": "simplify",
+    "title": "Data and AI Intern",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.acuityinc.com/job/Atlanta-Data-and-AI-Intern-Flexible-GA-30309/1434321900/?ats=successfactors",
+    "published_at": 1790604966,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-30T01:23:53.357208+00:00",
+    "status": "open"
+  },
+  {
+    "id": "92b33b8bf1ad783df858",
+    "company": "Castleton Commodities International",
+    "source": "simplify",
+    "title": "Data Science Machine Learning Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345",
+    "published_at": 1784592000,
+    "categories": [
+      "Data Science",
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-30T01:23:53.339363+00:00",
+    "status": "open"
+  },
+  {
     "id": "25c696ba83079f783d2a",
     "company": "Cigna Group",
     "source": "simplify",
@@ -896,7 +1074,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-24T23:18:32.635362+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fbf0d54828726760cb9b",
@@ -1810,7 +1988,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-21T23:59:00.761308+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "e272d4a0239090490d4d",
@@ -2932,7 +3110,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-18T01:08:06.212367+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "989cc3a06ad2af8bafc5",
@@ -4871,7 +5049,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -4887,7 +5065,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -4903,7 +5081,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -4919,7 +5097,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -4935,7 +5113,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -4951,7 +5129,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -4967,7 +5145,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -4983,7 +5161,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -4999,7 +5177,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -5015,7 +5193,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -5031,7 +5209,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -5047,7 +5225,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -7179,7 +7357,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.531139+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "ecdd095956c26d326400",
