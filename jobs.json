@@ -1,5 +1,37 @@
 [
   {
+    "id": "bfb819e40109352add84",
+    "company": "POET",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Sioux Falls, SD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787",
+    "published_at": 1790553600,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-09-30T13:38:24.229391+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d4b1065875a63e40aef6",
+    "company": "H&R Block",
+    "source": "simplify",
+    "title": "Financial Services Data Analytics Intern",
+    "location": "Kansas City, MO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false",
+    "published_at": 1790633786,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-30T13:38:24.229350+00:00",
+    "status": "open"
+  },
+  {
     "id": "8848edf8d1483e0e7d81",
     "company": "TD Bank",
     "source": "simplify",
@@ -2357,7 +2389,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.760922+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "13cdcd8b9ebeb994d44e",
@@ -3656,7 +3688,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-17T17:10:28.434789+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "eb6f7499a5117ea59150",
@@ -5162,7 +5194,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -5274,7 +5306,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -5290,7 +5322,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -8548,7 +8580,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b80ccc802024d7a21209",
@@ -15214,7 +15246,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.471297+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "dd73a5cc3e47d00a5f6a",
