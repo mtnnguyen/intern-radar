@@ -1,5 +1,118 @@
 [
   {
+    "id": "8848edf8d1483e0e7d81",
+    "company": "TD Bank",
+    "source": "simplify",
+    "title": "Data Analytics & Insights Intern Co-op",
+    "location": "Montreal, QC, Canada, Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-op--Winter-2027-_R_1513914",
+    "published_at": 1790640000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-09-30T07:05:10.112399+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7a518245fd2a4e55b439",
+    "company": "Apple",
+    "source": "simplify",
+    "title": "Data Scientist Co-op - Sales Business Analytics",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.apple.com/en-us/details/200686205",
+    "published_at": 1790748646,
+    "categories": [
+      "Data Science",
+      "Analytics"
+    ],
+    "first_seen": "2026-09-30T07:05:10.112388+00:00",
+    "status": "open"
+  },
+  {
+    "id": "351bc3d7adbe77d7370b",
+    "company": "Moog",
+    "source": "simplify",
+    "title": "Artificial Intelligence Intern",
+    "location": "Buffalo, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-20288",
+    "published_at": 1790640000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-30T07:05:10.112349+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1982629b68926a2519e5",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Applied Science Intern - Information & Knowledge Management",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting",
+    "published_at": 1790730574,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-09-30T07:05:10.112300+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8b208164857a46de7484",
+    "company": "Itron",
+    "source": "simplify",
+    "title": "Data Science Intern - Distributed Intelligence",
+    "location": "Liberty Lake, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2",
+    "published_at": 1790553600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-30T07:05:10.112276+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d8946f57d8a086e42d03",
+    "company": "Itron",
+    "source": "simplify",
+    "title": "Data Science Intern - Distributed Intelligence",
+    "location": "Liberty Lake, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942",
+    "published_at": 1790553600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-30T07:05:10.112264+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a0fa8477a7c49ce42694",
+    "company": "Robinhood",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Menlo Park, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8241738",
+    "published_at": 1790731181,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-09-30T07:05:10.112220+00:00",
+    "status": "open"
+  },
+  {
     "id": "66ff6fd63b36b739647b",
     "company": "Acuity",
     "source": "simplify",
@@ -3126,7 +3239,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-18T01:08:06.212340+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5b3b8ebb09f90eaea0df",
@@ -4167,7 +4280,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-16T09:54:37.368498+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cd714c221912d5cf648f",
@@ -12163,7 +12276,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.493936+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6aafbd330b605c84a0ba",
@@ -14058,7 +14171,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7cd886c5db281de339e8",
@@ -14106,7 +14219,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7bec323a37e4ae7f2934",
@@ -14988,7 +15101,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.472307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7d0b2b27991cbdf9a175",
