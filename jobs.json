@@ -1,5 +1,454 @@
 [
   {
+    "id": "0b62f845a258185f2519",
+    "company": "American Family Insurance Group",
+    "source": "simplify",
+    "title": "GenAI Intern",
+    "location": "Madison, WI, Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-Intern_R39561",
+    "published_at": 1790812800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907785+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4ff2070639538cc95489",
+    "company": "Cigna Group",
+    "source": "simplify",
+    "title": "Product Analytics Intern",
+    "location": "Morris Plains, NJ, St. Louis, MO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180",
+    "published_at": 1790812800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907664+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cc72f1b9863788fcd8f1",
+    "company": "Stand Together",
+    "source": "simplify",
+    "title": "Analytics Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b/apply",
+    "published_at": 1790893133,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907635+00:00",
+    "status": "open"
+  },
+  {
+    "id": "255970ff1f002c9d3021",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Analyst Co-op - Personal Banking",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4--8--12-months-_R-0000184514-1",
+    "published_at": 1790812800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907620+00:00",
+    "status": "open"
+  },
+  {
+    "id": "96bae856fbc52cc0560e",
+    "company": "The Home Depot",
+    "source": "simplify",
+    "title": "AI Machine Learning Developer Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010",
+    "published_at": 1790812800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907611+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8bd9425750be2066a3c0",
+    "company": "Pinterest",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Palo Alto, CA, Seattle, WA, SF, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
+    "published_at": 1790893159,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907601+00:00",
+    "status": "open"
+  },
+  {
+    "id": "57c6199c20dcd7f16fcc",
+    "company": "Novelis",
+    "source": "simplify",
+    "title": "Analytics & Data Consumption Co-op",
+    "location": "Kennesaw, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers-novelis.icims.com/jobs/54350/job?mobile=true&needsRedirect=false",
+    "published_at": 1790893041,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907593+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b40f29fe8f6f9405ae6f",
+    "company": "Freddie Mac",
+    "source": "simplify",
+    "title": "Multifamily Capital Markets Analytics & Engineering Intern",
+    "location": "McLean, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Capital-Markets-Analytics---Engineering-Intern----Summer-2027_JR17690",
+    "published_at": 1790812800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907578+00:00",
+    "status": "open"
+  },
+  {
+    "id": "aff745c385aabdeef5cb",
+    "company": "Pinterest",
+    "source": "simplify",
+    "title": "Machine Learning Intern",
+    "location": "Palo Alto, CA, Seattle, WA, SF, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140",
+    "published_at": 1790893159,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907566+00:00",
+    "status": "open"
+  },
+  {
+    "id": "19c670a820f8f7ce4b22",
+    "company": "Pinterest",
+    "source": "simplify",
+    "title": "Machine Learning Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
+    "published_at": 1790893158,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907559+00:00",
+    "status": "open"
+  },
+  {
+    "id": "12a0f42b88e9cd93236b",
+    "company": "Pinterest",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Palo Alto, CA, Seattle, WA, SF, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140169",
+    "published_at": 1790893158,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907534+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f3400dfb165252dd8fb7",
+    "company": "Pinterest",
+    "source": "simplify",
+    "title": "Machine Learning Intern",
+    "location": "Palo Alto, CA, Seattle, WA, SF, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
+    "published_at": 1790893159,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907526+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ae7933b6de0825a00f37",
+    "company": "Intuit",
+    "source": "simplify",
+    "title": "Business Data Analyst Intern - Strategy & Planning",
+    "location": "Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360",
+    "published_at": 1790893223,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907497+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b8372ffb1a6ec42f47e9",
+    "company": "Stripe",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Seattle, WA, South SF, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+    "published_at": 1790893241,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907488+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f51691435b615e9286a1",
+    "company": "Stripe",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194285",
+    "published_at": 1790893237,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907479+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ad96bc384752001c06ad",
+    "company": "Stripe",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+    "published_at": 1790893239,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907458+00:00",
+    "status": "open"
+  },
+  {
+    "id": "40542feae7643bacec1f",
+    "company": "Stripe",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Seattle, WA, South SF, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+    "published_at": 1790893238,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907429+00:00",
+    "status": "open"
+  },
+  {
+    "id": "09ccd268810c833029af",
+    "company": "SeatGeek",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://seatgeek.com/jobs/8247554?gh_jid=8247554",
+    "published_at": 1790893428,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907366+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5bed284925e405c924ad",
+    "company": "Primient",
+    "source": "simplify",
+    "title": "Digital Data & Analytics Intern",
+    "location": "Schaumburg, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/Digital-Data---Analytics-Intern---Summer-2027_JREQ7011",
+    "published_at": 1790812800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907317+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2a27355cf51e91b157cd",
+    "company": "Veeam Software",
+    "source": "simplify",
+    "title": "Competitive Intelligence AI Engineer Intern",
+    "location": "Georgia",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101",
+    "published_at": 1790893812,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907301+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2ecfa9481ae30c8277b5",
+    "company": "Datacor",
+    "source": "simplify",
+    "title": "Data Science Intern - Summer 2027 - Program",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007",
+    "published_at": 1790894588,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907257+00:00",
+    "status": "open"
+  },
+  {
+    "id": "94137fd61b364bc380ee",
+    "company": "Manulife Financial",
+    "source": "simplify",
+    "title": "ALM Data Management & Analytics Co-op",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831",
+    "published_at": 1790812800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907205+00:00",
+    "status": "open"
+  },
+  {
+    "id": "11cb4e6f6779a5b00745",
+    "company": "The Federal Reserve System",
+    "source": "simplify",
+    "title": "Statistics and Analysis Intern",
+    "location": "Cleveland, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Statistics-and-Analysis-Intern---2027_R-0000033645",
+    "published_at": 1790812800,
+    "categories": [
+      "Statistics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907188+00:00",
+    "status": "open"
+  },
+  {
+    "id": "07cf2eb27bd0fcf02724",
+    "company": "The Federal Reserve System",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634",
+    "published_at": 1790812800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907178+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f52e679195f590a5cb55",
+    "company": "The Federal Reserve System",
+    "source": "simplify",
+    "title": "Data Science and Business Analytics Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609",
+    "published_at": 1790812800,
+    "categories": [
+      "Data Science",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907162+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fe5e5f5c0fe8d6001f8d",
+    "company": "The Federal Reserve System",
+    "source": "simplify",
+    "title": "Advanced Analytics Intern",
+    "location": "Cleveland, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622",
+    "published_at": 1790812800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907151+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4ed769700eb722fc28d1",
+    "company": "Principal Financial Group",
+    "source": "simplify",
+    "title": "Quantitative Analyst Intern - Quantitative Research",
+    "location": "Des Moines, IA, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.principal.com/jobs/52721?icims=1",
+    "published_at": 1790892737,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907113+00:00",
+    "status": "open"
+  },
+  {
+    "id": "13092236e6fc84c012f0",
+    "company": "Cook Group",
+    "source": "simplify",
+    "title": "Information Technology Intern - Artificial Intelligence",
+    "location": "Spencer, IN, Ellettsville, IN, Bloomington, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://americas-cookmedical.icims.com/jobs/19426/job?mobile=true&needsRedirect=false",
+    "published_at": 1790892808,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-01T23:43:25.907004+00:00",
+    "status": "open"
+  },
+  {
     "id": "4ddc5bdc025fa3e9dd70",
     "company": "PrizePicks",
     "source": "simplify",
@@ -2761,7 +3210,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.760994+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c68bf6fcc8aea9eb89fd",
@@ -2921,7 +3370,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-21T23:59:00.760729+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "65372e2bfdad776b739e",
@@ -4732,7 +5181,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-16T09:54:37.368498+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "cd714c221912d5cf648f",
@@ -5566,7 +6015,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-15T06:00:13.320485+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f96fdcd7c7c8e3985198",
@@ -5614,7 +6063,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -5630,7 +6079,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -5646,7 +6095,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -5662,7 +6111,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -5678,7 +6127,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -5694,7 +6143,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -5710,7 +6159,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -5726,7 +6175,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -5742,7 +6191,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -5758,7 +6207,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -5774,7 +6223,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -5790,7 +6239,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -9562,7 +10011,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7f3a9d607aafe143ab43",
@@ -9578,7 +10027,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1d082e7460393a88b6e7",
@@ -10864,7 +11313,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "2b020243fe4484218b66",
@@ -11235,7 +11684,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.506605+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f5a3936b1a8b571a720b",
@@ -12197,7 +12646,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "47baadb79e94bab7535e",
@@ -14623,7 +15072,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7cd886c5db281de339e8",
@@ -14703,7 +15152,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ed1929b1e19e33b3f6a5",
@@ -20494,7 +20943,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.419194+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "69315920956cf7e53818",
