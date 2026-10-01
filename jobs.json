@@ -1,5 +1,119 @@
 [
   {
+    "id": "739dd2de92593f8d066f",
+    "company": "Southwest Airlines",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Dallas, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271",
+    "published_at": 1790812800,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-01T07:45:12.874320+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4f6a6dac19b520952729",
+    "company": "Southwest Airlines",
+    "source": "simplify",
+    "title": "Sales Analytics Intern",
+    "location": "Dallas, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Sales-Analytics-Internship_R-2026-73022",
+    "published_at": 1790812800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T07:45:12.874295+00:00",
+    "status": "open"
+  },
+  {
+    "id": "92b77a26887d75e72375",
+    "company": "Southwest Airlines",
+    "source": "simplify",
+    "title": "Safety Analytics Intern",
+    "location": "Dallas, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Safety-Analytics-Summer-2027-Intern_R-2026-73047",
+    "published_at": 1790812800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T07:45:12.874284+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cd28b2682644ea085922",
+    "company": "Southwest Airlines",
+    "source": "simplify",
+    "title": "Customer Experience and Analytics Data Science Intern",
+    "location": "Dallas, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Customer-Experience---Analytics-Data-Science-Internship_R-2026-73023",
+    "published_at": 1790812800,
+    "categories": [
+      "Data Science",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T07:45:12.874273+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2d98fe7134dce7ed779c",
+    "company": "Tesla",
+    "source": "simplify",
+    "title": "Data Engineer Intern - Data Engineering & Business Intelligence",
+    "location": "Fremont, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.tesla.com/careers/search/job/285291",
+    "published_at": 1790817569,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T07:45:12.874181+00:00",
+    "status": "open"
+  },
+  {
+    "id": "886ad77c5adde3ae558c",
+    "company": "Sandia Laboratory Federal Credit Union",
+    "source": "simplify",
+    "title": "Artificial Intelligence Intern",
+    "location": "Albuquerque, NM",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4542420",
+    "published_at": 1790817528,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-01T07:45:12.874166+00:00",
+    "status": "open"
+  },
+  {
+    "id": "798cbd63072dee720395",
+    "company": "Tesla",
+    "source": "simplify",
+    "title": "Data Engineer Intern - Data Engineer - Applications Engineering",
+    "location": "Fremont, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.tesla.com/careers/search/job/285179",
+    "published_at": 1790817862,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-01T07:45:12.874111+00:00",
+    "status": "open"
+  },
+  {
     "id": "62480d24ad977014a3af",
     "company": "Abbott",
     "source": "simplify",
@@ -706,7 +820,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-29T12:37:40.363226+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3579706124b0bde92707",
@@ -1155,7 +1269,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-25T01:38:24.281680+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c8080a7b614a87fc629d",
@@ -3753,7 +3867,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-17T22:56:15.021392+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3e85294f1ed76f43ff02",
@@ -4025,7 +4139,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-17T01:50:25.626115+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f5a1502d46da314a68b1",
@@ -4265,7 +4379,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-16T23:49:33.507448+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "69613cbdc23c3249f867",
@@ -6251,7 +6365,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T18:59:19.956863+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "25dea7914a54b2588139",
@@ -7101,7 +7215,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.535881+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "644aa11c298186c5a88b",
@@ -7133,7 +7247,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.535881+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "64cbb6ed039b3b501efb",
@@ -7149,7 +7263,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.535881+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0e031ded079882f6e782",
@@ -7373,7 +7487,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.535015+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "64bed57c8bf5a2aa7dd2",
@@ -13481,7 +13595,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.486927+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b55f24efbaa46555680d",
@@ -14765,7 +14879,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c59460f609d1fff00b4c",
@@ -14829,7 +14943,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6f4c20a0aa631cb09ad6",
@@ -14845,7 +14959,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ad324005965f4c4ffe56",
@@ -14861,7 +14975,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "65de5a78219b5675c43b",
@@ -14909,7 +15023,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9b7e4b1656d4ca89bbb3",
@@ -15952,7 +16066,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be97e5c4654ddabd79af",
