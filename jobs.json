@@ -1,5 +1,70 @@
 [
   {
+    "id": "4ddc5bdc025fa3e9dd70",
+    "company": "PrizePicks",
+    "source": "simplify",
+    "title": "Data Engineering Intern",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "http://prizepicks.com/position?gh_jid=8009358003",
+    "published_at": 1790864768,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-01T14:48:54.489762+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6166bad6e7458c617891",
+    "company": "Cummins",
+    "source": "simplify",
+    "title": "Service Engineer Intern - Service Engineering - Digital and Data Analytics",
+    "location": "Huddersfield, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2438342",
+    "published_at": 1790845635,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T14:48:54.489698+00:00",
+    "status": "open"
+  },
+  {
+    "id": "797f9dcec50309ead787",
+    "company": "Cummins",
+    "source": "simplify",
+    "title": "Data Analyst Placement Student",
+    "location": "Sandwich, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437236",
+    "published_at": 1790845638,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T14:48:54.489678+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2769b7015ae562f10a55",
+    "company": "Microsoft",
+    "source": "simplify",
+    "title": "Software Engineer Intern - Data Platform & Analytics",
+    "location": "Redmond, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+    "published_at": 1785823779,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T14:48:54.459940+00:00",
+    "status": "open"
+  },
+  {
     "id": "739dd2de92593f8d066f",
     "company": "Southwest Airlines",
     "source": "simplify",
@@ -3947,7 +4012,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-17T22:56:15.021326+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5e9ec78ff7b2087680fe",
@@ -4027,7 +4092,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-17T17:10:28.434893+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "42cafb4427950b2c310d",
@@ -4155,7 +4220,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-17T01:50:25.626100+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "043274f096aab7e5d577",
@@ -5565,7 +5630,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -5581,7 +5646,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -5597,7 +5662,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -5613,7 +5678,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -5629,7 +5694,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -5645,7 +5710,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -5693,7 +5758,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -5709,7 +5774,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -5725,7 +5790,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -5933,7 +5998,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T22:46:03.823812+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "283911af4dfbe0f2034d",
@@ -7199,7 +7264,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.535881+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "324e36ffcf591b3c4354",
@@ -7231,7 +7296,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.535881+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8f7faf107feebafdd9e2",
@@ -14751,7 +14816,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e5a853aed3e7347e8753",
@@ -14863,7 +14928,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a51d47ae62b0950167fd",
@@ -16002,7 +16067,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4830ce18342918de9754",
@@ -17109,7 +17174,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0c14f20b2a739b999d42",
@@ -17253,7 +17318,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "16a79b960b4d921b18af",
