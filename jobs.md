@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 870
+**Active matching jobs:** 869
 
-**New in the last 24 hours:** 26
+**New in the last 24 hours:** 23
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -14,10 +14,10 @@ Automatically discovers internships and co-op positions related to data science,
 | 🔥 Toronto / GTA |  | Apple | Data Scientist Co-op - Sales Business Analytics | Data Science, Analytics | Toronto, ON, Canada | simplify | 2026-09-30 03:05 AM EDT | [Apply](https://jobs.apple.com/en-us/details/200686205) |
 | 🔥 Toronto / GTA |  | CIBC | AI and Data Analytics and Reporting Analyst Co-op | Analytics | Toronto, ON, Canada | simplify | 2026-09-25 07:30 PM EDT | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748) |
 | 🔥 Toronto / GTA |  | Royal Bank of Canada | Data Engineer Co-op | Data Engineering | Toronto, ON, Canada | simplify | 2026-09-23 07:05 PM EDT | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO--Winter-Data-Engineer--8-months-_R-0000188584) |
-| 🔥 Toronto / GTA |  | CIBC | Data Analytics Co-op | Analytics | Toronto, ON, Canada | simplify | 2026-09-21 07:59 PM EDT | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analytics-Co-op_2619373) |
 | 🔥 Toronto / GTA |  | Equitable Bank | Data Scientist Intern - Winter 2027 | Data Science | Toronto, ON, Canada | simplify | 2026-09-15 08:26 PM EDT | [Apply](https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/apply) |
 | 🔥 Toronto / GTA |  | Definity Financial | Technology Solutions Co-op Intern - Data Platform & Engineering | Data Engineering | Toronto, ON, Canada | simplify | 2026-09-15 02:00 AM EDT | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9324) |
 | 🔥 Toronto / GTA |  | BDO Canada | Data & Analytics Co-op Intern | Analytics | Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada, Oakville, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Halifax Regional Municipality, NS, Canada | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--January-2027-_JR7061) |
+| 🔥 Toronto / GTA |  | Royal Bank of Canada | AI Engineer Co-op - Global Equities | Machine Learning / AI | Toronto, ON, Canada | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1) |
 | 🔥 Toronto / GTA |  | Equitable Bank | Commercial Lending AI Engineer Intern - Winter 2027 | Machine Learning / AI | Toronto, ON, Canada | simplify | 2026-09-14 04:13 PM EDT | [Apply](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply) |
 | 🔥 Toronto / GTA |  | Equitable Bank | Retail Lending AI Engineer Intern | Machine Learning / AI | Toronto, ON, Canada | simplify | 2026-09-14 04:13 PM EDT | [Apply](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply) |
 | 🔥 Toronto / GTA |  | Qualcomm | Machine Learning Compiler & Performance Engineering Intern - Systems | Machine Learning / AI | Markham, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://qualcomm.eightfold.ai/careers/job/446721064018) |
@@ -74,7 +74,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇨🇦 Canada |  | Epic Games | Machine Learning Intern - Special Projects - Epic Research Group | Machine Learning / AI | Montreal, QC, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
 | 🇨🇦 Canada |  | Cohere | Machine Learning Intern/Co-op | Machine Learning / AI | Canada, United Kingdom, United States | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
 | 🇺🇸 USA | 🔥 NEW | DraftKings | Analytics Intern | Analytics | Boston, MA | simplify | 2026-09-30 06:35 PM EDT | [Apply](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-Intern-Referral--Summer-2027-_JR15187) |
-| 🇺🇸 USA | 🔥 NEW | MFS | Investment Data Engineer Co-op | Data Engineering | Boston, MA | simplify | 2026-09-30 02:34 PM EDT | [Apply](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Spring-2027-Investment-Data-Engineer-Co-op--January---June-_MFS-231978) |
+| 🇺🇸 USA |  | MFS | Investment Data Engineer Co-op | Data Engineering | Boston, MA | simplify | 2026-09-30 02:34 PM EDT | [Apply](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Spring-2027-Investment-Data-Engineer-Co-op--January---June-_MFS-231978) |
 | 🇺🇸 USA |  | Amazon | Applied Science Intern - Information & Knowledge Management | Machine Learning / AI | Seattle, WA | simplify | 2026-09-30 03:05 AM EDT | [Apply](https://amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
 | 🇺🇸 USA |  | Honeywell | Artificial Intelligence/Machine Learning Co-op | Machine Learning / AI | United States | simplify | 2026-09-29 09:23 PM EDT | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158958) |
 | 🇺🇸 USA |  | Risepoint | Analytics Solutions Co-op | Analytics | Remote in USA | simplify | 2026-09-29 09:23 PM EDT | [Apply](https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Analytics-Solutions-Co-Op_JR101354) |
@@ -236,8 +236,8 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | Ramp | Applied Scientist Intern | Machine Learning / AI | NYC | simplify | 2026-09-30 09:33 PM EDT | [Apply](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956/application?embed=true) |
 | 🌎 Other | 🔥 NEW | ITT | Data Analytics / AI Intern - Summer 2027 | Analytics, Machine Learning / AI | Irvine, CA | simplify | 2026-09-30 06:35 PM EDT | [Apply](https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false) |
 | 🌎 Other | 🔥 NEW | Rivian | Engineering Intern Co-op - Machine Learning Hardware | Machine Learning / AI | Palo Alto, CA | simplify | 2026-09-30 06:35 PM EDT | [Apply](https://careers.rivian.com/jobs/33820?icims=1) |
-| 🌎 Other | 🔥 NEW | PrizePicks | Product Analytics Intern | Analytics | Atlanta, GA | simplify | 2026-09-30 02:34 PM EDT | [Apply](http://prizepicks.com/position?gh_jid=8008103003) |
-| 🌎 Other | 🔥 NEW | DPD UK | International Data Analyst Apprentice | Analytics | Oldbury, UK | simplify | 2026-09-30 02:34 PM EDT | [Apply](https://jobs.smartrecruiters.com/DPDGroupUK1/744000152675589) |
+| 🌎 Other |  | PrizePicks | Product Analytics Intern | Analytics | Atlanta, GA | simplify | 2026-09-30 02:34 PM EDT | [Apply](http://prizepicks.com/position?gh_jid=8008103003) |
+| 🌎 Other |  | DPD UK | International Data Analyst Apprentice | Analytics | Oldbury, UK | simplify | 2026-09-30 02:34 PM EDT | [Apply](https://jobs.smartrecruiters.com/DPDGroupUK1/744000152675589) |
 | 🌎 Other |  | POET | Data Engineer Intern | Data Engineering | Sioux Falls, SD | simplify | 2026-09-30 09:38 AM EDT | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787) |
 | 🌎 Other |  | H&R Block | Financial Services Data Analytics Intern | Analytics | Kansas City, MO | simplify | 2026-09-30 09:38 AM EDT | [Apply](https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false) |
 | 🌎 Other |  | Moog | Artificial Intelligence Intern | Machine Learning / AI | Buffalo, NY | simplify | 2026-09-30 03:05 AM EDT | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-20288) |
@@ -797,7 +797,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | The Nuclear Company | AI/ML Engineer Intern | Machine Learning / AI | Washington, DC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008) |
 | 🌎 Other |  | Jump Trading | Campus Data Engineer Intern | Data Engineering | London, UK | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://boards.greenhouse.io/embed/job_app?token=7975008) |
 | 🌎 Other |  | Jane Street | Data Engineering Intern | Data Engineering | NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/janestreet/jobs/8631973002) |
-| 🌎 Other |  | Arizona State University | Student Data Science Assistant | Data Science | Scottsdale, AZ | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Scottsdale-AZ/Student-Assistant---Data-Science_R1449) |
 | 🌎 Other |  | Zoox | Student Worker - Data Analyst | Analytics | San Mateo, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9/apply) |
 | 🌎 Other |  | Zuru | Data Analyst Intern | Analytics | LA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true) |
 | 🌎 Other |  | Mistral AI | Applied Scientist / Research Engineer Intern | Machine Learning / AI | London, UK, Paris, France | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true) |

@@ -2617,7 +2617,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.761197+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7345c8e1b3733ae6cad9",
@@ -5998,7 +5998,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T22:46:03.823812+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "283911af4dfbe0f2034d",
@@ -18281,7 +18281,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "461377e837f1c3266e2d",
