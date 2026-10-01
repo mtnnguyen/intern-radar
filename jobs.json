@@ -1,5 +1,149 @@
 [
   {
+    "id": "62480d24ad977014a3af",
+    "company": "Abbott",
+    "source": "simplify",
+    "title": "Artificial Intelligence and Machine Learning Co-op - Clinical Affairs - AI/ML",
+    "location": "St Paul, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025",
+    "published_at": 1790726400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-01T01:33:07.409531+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6cc43e48882243118765",
+    "company": "Dallas Fort Worth International Airport",
+    "source": "simplify",
+    "title": "Undergraduate Intern - Enterprise Data & Analytics",
+    "location": "Texas",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Summer-Internship---Enterprise-Data---Analytics_JR102162-1",
+    "published_at": 1790726400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T01:33:07.409460+00:00",
+    "status": "open"
+  },
+  {
+    "id": "42ae076e93f20d28b19b",
+    "company": "Bose",
+    "source": "simplify",
+    "title": "Reverse Logistics Co-op",
+    "location": "Framingham, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Reverse-Logistics-Co-op_R29244",
+    "published_at": 1790726400,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-10-01T01:33:07.409448+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3c82ba73063c45a2917b",
+    "company": "Life Fitness",
+    "source": "simplify",
+    "title": "Marketing Analytics Intern",
+    "location": "Rosemont, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Marketing-Analytics-Intern_JR-025253",
+    "published_at": 1790726400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-01T01:33:07.409437+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7bc672529e86bae83393",
+    "company": "Noblis",
+    "source": "simplify",
+    "title": "Data Science and Innovation Intern",
+    "location": "Springfield, VA, Reston, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.noblis.org/jobs/27942?icims=1",
+    "published_at": 1790806691,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-01T01:33:07.409398+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f000290b6b32f2e59eda",
+    "company": "Dow Chemical Company",
+    "source": "simplify",
+    "title": "Data Engineer / Data Platform Engineer Intern",
+    "location": "Champaign, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer---Data-Platform-Engineer-Internship-Spring-2027-Semester-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2068792",
+    "published_at": 1790726400,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-01T01:33:07.409338+00:00",
+    "status": "open"
+  },
+  {
+    "id": "59368a84d837e9d56194",
+    "company": "IDeaS",
+    "source": "simplify",
+    "title": "Data Science Research Intern",
+    "location": "Bloomington, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ideas-sas.icims.com/jobs/42645/job?mobile=true&needsRedirect=false",
+    "published_at": 1790806655,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-01T01:33:07.409271+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8d44047d629df8266a24",
+    "company": "GenScript",
+    "source": "simplify",
+    "title": "AI Intern – Enterprise Agent Development",
+    "location": "Piscataway, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/genscript/jobs/5253581007",
+    "published_at": 1790807161,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-01T01:33:07.409195+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b7588e01ea5a2a063842",
+    "company": "Ramp",
+    "source": "simplify",
+    "title": "Applied Scientist Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956/application?embed=true",
+    "published_at": 1790807037,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-01T01:33:07.409153+00:00",
+    "status": "open"
+  },
+  {
     "id": "21b4a638a720d8a1c917",
     "company": "ITT",
     "source": "simplify",
@@ -2630,7 +2774,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-21T23:59:00.760652+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c2ba1721efee48844631",
@@ -11536,7 +11680,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "51e5899e2add5e63e82c",
@@ -11890,7 +12034,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "126148ffa0abdeaaf253",
@@ -17814,7 +17958,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.453561+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a94d02cb5556d9192196",
@@ -20139,7 +20283,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.419194+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a7551627fc8ca32fae78",
