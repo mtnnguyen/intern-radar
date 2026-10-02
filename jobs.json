@@ -1,5 +1,21 @@
 [
   {
+    "id": "b81e9d5a424d0a64fcc4",
+    "company": "Regeneron Pharmaceuticals",
+    "source": "simplify",
+    "title": "Data Analytics & Digital Tools Co-op",
+    "location": "Rensselaer, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1",
+    "published_at": 1790899200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-02T20:09:46.777436+00:00",
+    "status": "open"
+  },
+  {
     "id": "f717976c6503cba79cc8",
     "company": "Rochester Regional Health",
     "source": "simplify",
@@ -3308,7 +3324,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.761072+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "300679c608b238b5db94",
@@ -3516,7 +3532,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-21T23:59:00.760781+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4bccb25182220f44c800",
@@ -6161,7 +6177,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T06:00:13.320534+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "90ccd68908f582213801",
@@ -6465,7 +6481,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T22:46:03.824255+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a8dc787e7b261af4b6ff",
@@ -12118,7 +12134,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.503595+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "95b29e68a75520dc2235",
