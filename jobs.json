@@ -1,5 +1,151 @@
 [
   {
+    "id": "f717976c6503cba79cc8",
+    "company": "Rochester Regional Health",
+    "source": "simplify",
+    "title": "Data & Analytics Services Co-op",
+    "location": "Rochester, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Data---Analytics-Services_REQ_243644",
+    "published_at": 1790899200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-02T15:42:53.638489+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2418e3158033a4787347",
+    "company": "Great American Insurance Company",
+    "source": "simplify",
+    "title": "Enterprise Analytics Intern",
+    "location": "Cincinnati, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650",
+    "published_at": 1790899200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-02T15:42:53.638474+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5659943e4859005d711d",
+    "company": "Regeneron Pharmaceuticals",
+    "source": "simplify",
+    "title": "Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT",
+    "location": "Tarrytown, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1",
+    "published_at": 1790899200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-02T15:42:53.638455+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1fbf0a0887887dad4033",
+    "company": "Graphcore",
+    "source": "simplify",
+    "title": "Machine Learning and Data Science Engineer Intern",
+    "location": "Austin, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8862951002",
+    "published_at": 1790951858,
+    "categories": [
+      "Data Science",
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-02T15:42:53.638413+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7cb34e81a14399397878",
+    "company": "L3Harris Technologies",
+    "source": "simplify",
+    "title": "Artificial Intelligence Intern",
+    "location": "Rochester, NY, Melbourne, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.l3harris.com/job/Rochester-Intern,-Artificial-Intelligence-NY-14624/1436177900/?ats=successfactors",
+    "published_at": 1790950059,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-02T15:42:53.638392+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f8076e6e56b233976dc6",
+    "company": "FC Industries",
+    "source": "simplify",
+    "title": "Business Intelligence Analyst/Data Engineering Intern",
+    "location": "Dayton, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361305",
+    "published_at": 1786062280,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-02T15:42:53.638328+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8f7695e3f16548b3f86e",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Business Intelligence Engineer Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10567687/business-intelligence-intern-london",
+    "published_at": 1790932055,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-02T15:42:53.638275+00:00",
+    "status": "open"
+  },
+  {
+    "id": "de7bf81891fb5e7cfbe2",
+    "company": "ZS",
+    "source": "simplify",
+    "title": "Decision Analytics Associate Intern - University Students",
+    "location": "Boston, MA, South SF, Philadelphia, PA, Thousand Oaks, CA, Chicago, IL, Princeton, NJ, NYC, Bellevue, WA, Evanston, IL, San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.zs.com/jobs/63439?icims=1",
+    "published_at": 1788270669,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-02T15:42:53.614304+00:00",
+    "status": "open"
+  },
+  {
+    "id": "139c72cf8ce084685a50",
+    "company": "Deloitte",
+    "source": "simplify",
+    "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
+    "location": "Arlington, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259",
+    "published_at": 1785191053,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-02T15:42:53.606170+00:00",
+    "status": "open"
+  },
+  {
     "id": "dca13a92819537687920",
     "company": "General Motors",
     "source": "simplify",
@@ -641,7 +787,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-01T07:45:12.874166+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "798cbd63072dee720395",
@@ -1991,7 +2137,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-24T23:18:32.635826+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "aeb228f9fe8c8dc6d472",
@@ -3434,7 +3580,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-21T23:59:00.760652+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c2ba1721efee48844631",
@@ -4268,7 +4414,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-18T01:08:06.212078+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "181564c495bbfda83d1e",
@@ -4605,7 +4751,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-17T17:10:28.434747+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "42b40dbb598dd605a8ab",
@@ -4621,7 +4767,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-17T12:20:15.605524+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cd1faea83d2beabdf4c8",
@@ -5213,7 +5359,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-16T09:54:37.368498+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cd714c221912d5cf648f",
@@ -7136,7 +7282,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.540013+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "256cce5805fc8e517d29",
@@ -10670,7 +10816,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "677cc70e8e16bca2d8c6",
@@ -11988,7 +12134,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.503595+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fe75495c0ffc6caaaf27",
@@ -12469,7 +12615,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9231fa3691d1928dc919",
@@ -15938,7 +16084,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.473306+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3682424ea59df844e586",
@@ -17382,7 +17528,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e51d25c9564c1811353b",
@@ -17414,7 +17560,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fc0dab83c8e5e7f39b6d",
