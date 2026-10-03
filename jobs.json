@@ -1,5 +1,21 @@
 [
   {
+    "id": "d7501ac5db11acf71b98",
+    "company": "Cadence Design Systems",
+    "source": "simplify",
+    "title": "AI / Agentic AI / GenAI Intern - IT",
+    "location": "California",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/HOME-CA/AI---Agentic-AI---GenAI-Intern---IT--Fall-2026-_R56657",
+    "published_at": 1790899200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-03T13:36:09.747983+00:00",
+    "status": "open"
+  },
+  {
     "id": "ab946b605808503ffe36",
     "company": "Deloitte",
     "source": "simplify",
@@ -1333,7 +1349,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-30T07:05:10.112349+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1982629b68926a2519e5",
@@ -6561,7 +6577,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -6577,7 +6593,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -12534,7 +12550,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9ee65b82a483f0795a9f",
@@ -16132,7 +16148,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.474305+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fbfaf4c22af3fd207716",
@@ -17688,7 +17704,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "54ca0345eba71287ccbe",
