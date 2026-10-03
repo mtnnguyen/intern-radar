@@ -6,7 +6,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Active matching jobs:** 874
 
-**New in the last 24 hours:** 15
+**New in the last 24 hours:** 14
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -231,7 +231,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | New York Mets | Data Science Intern | Data Science | Queens, NY | simplify | 2026-10-02 07:46 PM EDT | [Apply](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508) |
 | 🌎 Other | 🔥 NEW | Affirm | Software Engineer Intern - Machine Learning | Machine Learning / AI | SF | simplify | 2026-10-02 07:46 PM EDT | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) |
 | 🌎 Other | 🔥 NEW | Bose | Data Science Co-op - NLP & GenAI | Data Science | Framingham, MA, Atlanta, GA | simplify | 2026-10-02 07:46 PM EDT | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251) |
-| 🌎 Other | 🔥 NEW | Regeneron Pharmaceuticals | Data Analytics & Digital Tools Co-op | Analytics | Rensselaer, NY | simplify | 2026-10-02 04:09 PM EDT | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1) |
+| 🌎 Other |  | Regeneron Pharmaceuticals | Data Analytics & Digital Tools Co-op | Analytics | Rensselaer, NY | simplify | 2026-10-02 04:09 PM EDT | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1) |
 | 🌎 Other |  | Rochester Regional Health | Data & Analytics Services Co-op | Analytics | Rochester, NY | simplify | 2026-10-02 11:42 AM EDT | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Data---Analytics-Services_REQ_243644) |
 | 🌎 Other |  | Great American Insurance Company | Enterprise Analytics Intern | Analytics | Cincinnati, OH | simplify | 2026-10-02 11:42 AM EDT | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650) |
 | 🌎 Other |  | Regeneron Pharmaceuticals | Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT | Data Science | Tarrytown, NY | simplify | 2026-10-02 11:42 AM EDT | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1) |
