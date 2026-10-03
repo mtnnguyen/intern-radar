@@ -1,5 +1,21 @@
 [
   {
+    "id": "280eb0913abaac2999f3",
+    "company": "First Citizens BancShares",
+    "source": "simplify",
+    "title": "Summer Intern - Sales Performance & Analytics Strategy",
+    "location": "Raleigh, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://firstcitizens.jibeapply.com/jobs/35826?icims=1",
+    "published_at": 1791036379,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-03T17:36:32.937857+00:00",
+    "status": "open"
+  },
+  {
     "id": "d7501ac5db11acf71b98",
     "company": "Cadence Design Systems",
     "source": "simplify",
@@ -6481,7 +6497,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -6497,7 +6513,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -6513,7 +6529,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -6529,7 +6545,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -6561,7 +6577,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -6609,7 +6625,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -6625,7 +6641,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -6641,7 +6657,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -8451,7 +8467,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.534016+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d8df1ccefc9d1548f809",
