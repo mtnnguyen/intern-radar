@@ -1,5 +1,38 @@
 [
   {
+    "id": "2ca8d4c823e6b0e190e2",
+    "company": "Autodesk",
+    "source": "simplify",
+    "title": "Researcher Intern - Machine Learning for Construction",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1",
+    "published_at": 1791158400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-05T21:12:37.628416+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9e1ba3fbef47fcfa4e33",
+    "company": "Cook Group",
+    "source": "simplify",
+    "title": "Statistics & Data Science Intern",
+    "location": "Spencer, IN, Ellettsville, IN, Bloomington, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://americas-cookmedical.icims.com/jobs/19412/job?mobile=true&needsRedirect=false",
+    "published_at": 1791209758,
+    "categories": [
+      "Data Science",
+      "Statistics"
+    ],
+    "first_seen": "2026-10-05T21:12:37.628301+00:00",
+    "status": "open"
+  },
+  {
     "id": "556896cacd41eae991ec",
     "company": "State of North Carolina",
     "source": "simplify",
@@ -511,7 +544,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-02T15:42:53.638413+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7cb34e81a14399397878",
@@ -527,7 +560,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-02T15:42:53.638392+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f8076e6e56b233976dc6",
@@ -1332,7 +1365,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-01T01:33:07.409398+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f000290b6b32f2e59eda",
@@ -6658,7 +6691,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-15T06:00:13.289153+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b65d4142a9aacdde0139",
@@ -6690,7 +6723,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -6706,7 +6739,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -6722,7 +6755,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -6738,7 +6771,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -6754,7 +6787,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -6786,7 +6819,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -6802,7 +6835,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -6818,7 +6851,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -6850,7 +6883,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -6866,7 +6899,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -12855,7 +12888,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "570312cfb699d93aa0da",
@@ -13594,7 +13627,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1e782e984be635ee2868",
@@ -17801,7 +17834,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "58d0b5baae13aebb05d8",
@@ -20413,7 +20446,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1dd8746f3c0af3befc8b",
