@@ -2,8 +2,6 @@
 
 Automatically discovers internships and co-op positions related to data science, data engineering, analytics, machine learning, AI, GIS/geospatial and statistics.
 
-**Scheduled checks:** Every 5 minutes (Toronto time)
-
 **Active matching jobs:** 874
 
 **New in the last 24 hours:** 30
