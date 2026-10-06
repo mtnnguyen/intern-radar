@@ -1,5 +1,358 @@
 [
   {
+    "id": "bf16efa28e97e2e91ab7",
+    "company": "Hewlett Packard Enterprise",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Andover, MA, Bloomington, MN, San Jose, CA, Spring, TX, Durham, NC, Westford, MA, Chippewa Falls, WI, Fort Collins, CO, Sunnyvale, CA, Roseville, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632",
+    "published_at": 1788048000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904720+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9af78d5a26c3a0737447",
+    "company": "StackAdapt",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Remote in Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009",
+    "published_at": 1791268244,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904668+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9745a8cf50dae1951c42",
+    "company": "West Monroe",
+    "source": "simplify",
+    "title": "Data & Analytics Consulting Intern",
+    "location": "LA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167557004",
+    "published_at": 1791269203,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904613+00:00",
+    "status": "open"
+  },
+  {
+    "id": "031510f6ab8f012b14fe",
+    "company": "West Monroe",
+    "source": "simplify",
+    "title": "Data & Analytics Consulting Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167540004",
+    "published_at": 1791269203,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904556+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3d4b839928a55fb8ee63",
+    "company": "West Monroe",
+    "source": "simplify",
+    "title": "Data & Analytics Consulting Intern",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167581004",
+    "published_at": 1791269204,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904545+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a410c37d9996d8b722f7",
+    "company": "West Monroe",
+    "source": "simplify",
+    "title": "Data & Analytics Consulting Intern - Data & Analytics team - Technology & Experience (TechEx) Practice",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167569004",
+    "published_at": 1791269203,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904533+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f3953e0698a9d83b1291",
+    "company": "Judi Health",
+    "source": "simplify",
+    "title": "MBA Analytics Intern - Clinical Programs",
+    "location": "NYC, Denver, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/judihealth/jobs/5427074008",
+    "published_at": 1791269396,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904517+00:00",
+    "status": "open"
+  },
+  {
+    "id": "810d28bd9d1b70d451c1",
+    "company": "Judi Health",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "NYC, Denver, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/judihealth/jobs/5418671008",
+    "published_at": 1791269395,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904506+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c6c23f4c3a04ff82880d",
+    "company": "Judi Health",
+    "source": "simplify",
+    "title": "Implementation Analytics Intern - Claims Monitoring & Automation",
+    "location": "NYC, Denver, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/judihealth/jobs/5429077008",
+    "published_at": 1791269396,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904494+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0dce913ab0240a84a3f2",
+    "company": "Liberty Mutual",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://campus-libertymutual.icims.com/jobs/95486/job?mobile=true&needsRedirect=false",
+    "published_at": 1791267236,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904436+00:00",
+    "status": "open"
+  },
+  {
+    "id": "882f8af32a0a3d3a0e2c",
+    "company": "Liberty Mutual",
+    "source": "simplify",
+    "title": "Data Science Co-op",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false",
+    "published_at": 1791267235,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904424+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e300f6104106d5a72e78",
+    "company": "IEX",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8210998",
+    "published_at": 1791267255,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904413+00:00",
+    "status": "open"
+  },
+  {
+    "id": "64c8f5508469fef516e8",
+    "company": "IEX",
+    "source": "simplify",
+    "title": "Marketing Analytics Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8173636",
+    "published_at": 1791267255,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904386+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bfc7290df7de6bd336ba",
+    "company": "Mayo Clinic",
+    "source": "simplify",
+    "title": "Artificial Intelligence and Informatics/Data Science Intern",
+    "location": "Rochester, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/384534",
+    "published_at": 1791267336,
+    "categories": [
+      "Data Science",
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904348+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9a15241d9d3fd2dc417c",
+    "company": "Astera Labs",
+    "source": "simplify",
+    "title": "Applied AI Intern - Non-Silicon",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005",
+    "published_at": 1791267435,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904321+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6a9daddddf2f527eb4f7",
+    "company": "Astera Labs",
+    "source": "simplify",
+    "title": "Applied AI Engineer Intern - Silicon Engineering",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727602005",
+    "published_at": 1791267436,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904309+00:00",
+    "status": "open"
+  },
+  {
+    "id": "db4ac8d3eeaeb2b424c6",
+    "company": "Astera Labs",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731996005",
+    "published_at": 1791267438,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904287+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1c8809f470293612f34e",
+    "company": "Astera Labs",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731995005",
+    "published_at": 1791267440,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904277+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5b6af64d1a9669d430df",
+    "company": "Atoms",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/atoms/jobs/8869105002",
+    "published_at": 1791267460,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904091+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fb56a98864946a530d92",
+    "company": "Astera Labs",
+    "source": "simplify",
+    "title": "Packaging Automation & Data Engineering Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738127005",
+    "published_at": 1791267449,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-06T08:05:04.904068+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0a36d7d6785004bfe1ec",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Analyst Co-op - Personal Banking",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking---8-months-_R-0000189535",
+    "published_at": 1791158400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T08:05:04.903985+00:00",
+    "status": "open"
+  },
+  {
+    "id": "19771fec61aad498110f",
+    "company": "FHLBank Chicago",
+    "source": "simplify",
+    "title": "AI Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477",
+    "published_at": 1791158400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T08:05:04.903897+00:00",
+    "status": "open"
+  },
+  {
     "id": "91717efac2d90290093d",
     "company": "Atoms",
     "source": "simplify",
@@ -3325,7 +3678,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-23T23:05:46.743405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b952ad135cf3a764350f",
@@ -3341,7 +3694,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-23T23:05:46.743383+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4f926b76c674793e2743",
@@ -4864,7 +5217,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-19T05:07:57.023731+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5c8638418048ba544053",
