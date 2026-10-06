@@ -1,5 +1,310 @@
 [
   {
+    "id": "e6087d44d1f0a3536587",
+    "company": "ABB",
+    "source": "simplify",
+    "title": "AI Engineering Intern - Business Systems",
+    "location": "Cary, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714",
+    "published_at": 1791244800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T23:52:30.277157+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c110abd1f205d440f7ca",
+    "company": "Northwestern Mutual",
+    "source": "simplify",
+    "title": "Enterprise Sustainability & Impact Intern - Modeling & Analytics",
+    "location": "Milwaukee, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171",
+    "published_at": 1791244800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T23:52:30.277064+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d7953a53dbce680c38f4",
+    "company": "Austin Community College District",
+    "source": "simplify",
+    "title": "GIS Intern 1 - NSGIC/TxGIO Project",
+    "location": "Texas",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://austincc.wd1.myworkdayjobs.com/external/job/Austin-Community-College/GIS-Intern-I---NSGIC-TxGIO-Project--Hourly-_R-9979",
+    "published_at": 1791244800,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-10-06T23:52:30.277041+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2a3a33dabddc6cf907f9",
+    "company": "ABB",
+    "source": "simplify",
+    "title": "AI Engineering ERP Intern",
+    "location": "Cary, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711",
+    "published_at": 1791244800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T23:52:30.277012+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b785d8c9c98729429901",
+    "company": "Nokia",
+    "source": "simplify",
+    "title": "AI Engineering Co-op",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40807",
+    "published_at": 1791325163,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276992+00:00",
+    "status": "open"
+  },
+  {
+    "id": "94740b91a5c398d811e1",
+    "company": "Nokia",
+    "source": "simplify",
+    "title": "AI Engineering Co-op",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40812",
+    "published_at": 1791325162,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276981+00:00",
+    "status": "open"
+  },
+  {
+    "id": "df853c0353cd5d9e63d3",
+    "company": "Nokia",
+    "source": "simplify",
+    "title": "AI Engineering Co-op",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40806",
+    "published_at": 1791325159,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276962+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f56eafef4bf3cb873f7a",
+    "company": "Nokia",
+    "source": "simplify",
+    "title": "AI Engineering Co-op",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40808",
+    "published_at": 1791325161,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276950+00:00",
+    "status": "open"
+  },
+  {
+    "id": "05c7fdd666037a3b4a21",
+    "company": "Nokia",
+    "source": "simplify",
+    "title": "AI Engineer Co-op",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40809",
+    "published_at": 1791325162,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276938+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cb670ccbf2f99a640f24",
+    "company": "G-Research",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer-Intern_R3773",
+    "published_at": 1791244800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276918+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1571017ec6362654acb1",
+    "company": "Nokia",
+    "source": "simplify",
+    "title": "AI Engineer Co-op",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40810",
+    "published_at": 1791325201,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276906+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e691d536ddbcb16b72de",
+    "company": "Nokia",
+    "source": "simplify",
+    "title": "AI Engineer Co-op",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566",
+    "published_at": 1791325194,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276895+00:00",
+    "status": "open"
+  },
+  {
+    "id": "edb22dc36a4ed3c79105",
+    "company": "KLA",
+    "source": "simplify",
+    "title": "PLM Business Intelligence & Analytics Intern",
+    "location": "Ann Arbor, MI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568",
+    "published_at": 1791244800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276821+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bd2c8b141fedd6d921b8",
+    "company": "KLA",
+    "source": "simplify",
+    "title": "PLM Business Intelligence & Analytics Intern",
+    "location": "Ann Arbor, MI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2",
+    "published_at": 1791244800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276786+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0ea77184ce0e9592e845",
+    "company": "Meta",
+    "source": "simplify",
+    "title": "Software Engineer Intern - Machine Learning",
+    "location": "Seattle, WA, Burlingame, CA, Redmond, WA, Menlo Park, CA, NYC, Bellevue, WA, Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.metacareers.com/jobs/2180490782513668",
+    "published_at": 1791325529,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276772+00:00",
+    "status": "open"
+  },
+  {
+    "id": "35465a787316ea8a71a7",
+    "company": "Meta",
+    "source": "simplify",
+    "title": "Data Scientist Intern - Product Analytics",
+    "location": "Menlo Park, CA, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.metacareers.com/jobs/1633096478817942",
+    "published_at": 1791325529,
+    "categories": [
+      "Data Science",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276760+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cd6ca0939aba3d62963c",
+    "company": "CAE",
+    "source": "simplify",
+    "title": "Artificial Intelligence Intern",
+    "location": "Montreal, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902",
+    "published_at": 1791244800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276701+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7f55710691e5ceab5d6e",
+    "company": "Leidos",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Arlington County, Arlington, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00193937",
+    "published_at": 1791244800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276670+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fe19363b1d7f33179d21",
+    "company": "AltaGas",
+    "source": "simplify",
+    "title": "Data Analytics & Process Automation Co-op",
+    "location": "Calgary, AB, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/XMLNAME-2027-Data-Analytics---AltaGas---2027-Process-Automation-Co-op-Student_R7321-1",
+    "published_at": 1791244800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-06T23:52:30.276593+00:00",
+    "status": "open"
+  },
+  {
     "id": "b7be56db5a63c3ebf3e1",
     "company": "Space Dynamics Laboratory",
     "source": "simplify",
@@ -943,7 +1248,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-06T01:33:02.289250+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "15d86ccff0cc652ebbf9",
@@ -1635,7 +1940,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-01T23:43:25.907785+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4ff2070639538cc95489",
@@ -3405,7 +3710,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-25T01:38:24.281680+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c8080a7b614a87fc629d",
@@ -7204,7 +7509,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-16T00:26:30.972482+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6af72ed65b916161f539",
@@ -7685,7 +7990,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -7701,7 +8006,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -7717,7 +8022,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -7733,7 +8038,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -7749,7 +8054,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -7765,7 +8070,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -7781,7 +8086,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -7797,7 +8102,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -7813,7 +8118,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -7829,7 +8134,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -7845,7 +8150,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
