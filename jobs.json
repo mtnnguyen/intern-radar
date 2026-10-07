@@ -1,5 +1,85 @@
 [
   {
+    "id": "3aa883cb37790ae68208",
+    "company": "Auto-Owners Insurance",
+    "source": "simplify",
+    "title": "Business Intelligence Engineer Intern",
+    "location": "Lansing, MI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662",
+    "published_at": 1791331200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-07T17:32:41.123676+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3cc959c3b1062aca6984",
+    "company": "Leidos",
+    "source": "simplify",
+    "title": "Business Systems AI Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
+    "published_at": 1790899200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-07T17:32:41.123652+00:00",
+    "status": "open"
+  },
+  {
+    "id": "159938aa84ddfa70d90f",
+    "company": "Boston Scientific",
+    "source": "simplify",
+    "title": "R&D Research Data Science Intern",
+    "location": "United States",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813667382",
+    "published_at": 1790576130,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-07T17:32:41.123584+00:00",
+    "status": "open"
+  },
+  {
+    "id": "26e23cc87492e71271fd",
+    "company": "Roche",
+    "source": "simplify",
+    "title": "Data Science Intern - Multiple Teams",
+    "location": "Welwyn Garden City, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536",
+    "published_at": 1789689600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-07T17:32:41.123517+00:00",
+    "status": "open"
+  },
+  {
+    "id": "07d73025665ab4da2d82",
+    "company": "Medpace",
+    "source": "simplify",
+    "title": "Junior Business Intelligence Engineer Intern",
+    "location": "Cincinnati, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.medpace.com/jobs/13026?icims=1",
+    "published_at": 1790633835,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-07T17:32:41.123489+00:00",
+    "status": "open"
+  },
+  {
     "id": "d54b3252a05ddf99bce9",
     "company": "The Federal Reserve System",
     "source": "simplify",
@@ -431,7 +511,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-06T15:05:30.407020+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "588ce53be498d615fee8",
@@ -447,7 +527,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-06T15:05:30.406991+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1e0366e58a2726cb8549",
@@ -2293,7 +2373,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-01T23:43:25.907458+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "40542feae7643bacec1f",
@@ -2713,7 +2793,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-10-01T01:33:07.409448+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "3c82ba73063c45a2917b",
@@ -5603,7 +5683,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-21T23:59:00.760461+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "3d0c7ca9dc078ebfb84a",
@@ -6035,7 +6115,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-19T05:07:57.023094+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "307ea48498c861d5dedf",
@@ -8119,7 +8199,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -8135,7 +8215,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -8151,7 +8231,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -8167,7 +8247,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -8215,7 +8295,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -8231,7 +8311,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -8263,7 +8343,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -8279,7 +8359,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -13596,7 +13676,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "df5b09c47e8f34ef0059",
@@ -20642,7 +20722,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.453561+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "0d8270032ede2f47f67b",
