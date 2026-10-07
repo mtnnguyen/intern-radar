@@ -1,5 +1,38 @@
 [
   {
+    "id": "d54b3252a05ddf99bce9",
+    "company": "The Federal Reserve System",
+    "source": "simplify",
+    "title": "Statistics Intern",
+    "location": "Dallas, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Statistics_R-0000033575",
+    "published_at": 1790899200,
+    "categories": [
+      "Statistics"
+    ],
+    "first_seen": "2026-10-07T10:36:21.261421+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0b6003a01863259e3041",
+    "company": "Meta",
+    "source": "simplify",
+    "title": "Data Scientist Intern - Product Analytics",
+    "location": "Menlo Park, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.metacareers.com/jobs/929757023499411",
+    "published_at": 1791353325,
+    "categories": [
+      "Data Science",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-07T10:36:21.261355+00:00",
+    "status": "open"
+  },
+  {
     "id": "cd0faeb249c9039ccfc2",
     "company": "Highmark Health",
     "source": "simplify",
@@ -1184,7 +1217,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-06T01:33:02.289517+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6e3a38ebd68a71eb0cff",
@@ -2260,7 +2293,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-01T23:43:25.907458+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "40542feae7643bacec1f",
@@ -2566,7 +2599,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-01T07:45:12.874284+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cd28b2682644ea085922",
@@ -2680,7 +2713,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-10-01T01:33:07.409448+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3c82ba73063c45a2917b",
@@ -2921,7 +2954,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-30T07:05:10.112399+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7a518245fd2a4e55b439",
@@ -5570,7 +5603,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-21T23:59:00.760461+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3d0c7ca9dc078ebfb84a",
@@ -7476,7 +7509,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-16T00:26:30.972797+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cc9dffcc8d58d0a46440",
@@ -8086,7 +8119,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -8102,7 +8135,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -8118,7 +8151,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -8134,7 +8167,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -8182,7 +8215,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -8198,7 +8231,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -8230,7 +8263,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -8246,7 +8279,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -11488,7 +11521,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1176ce1cbd88321e3ebe",
@@ -22403,7 +22436,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.438371+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b9e9a9746a0e12893da8",
