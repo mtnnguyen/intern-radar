@@ -1,5 +1,85 @@
 [
   {
+    "id": "cd0faeb249c9039ccfc2",
+    "company": "Highmark Health",
+    "source": "simplify",
+    "title": "Market Analytics Graduate Intern",
+    "location": "Pittsburgh, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906",
+    "published_at": 1791244800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-07T03:47:12.531426+00:00",
+    "status": "open"
+  },
+  {
+    "id": "168cd4f377e68cbd7a69",
+    "company": "Clēnera",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Boise, ID",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/clenera/jobs/5259423007",
+    "published_at": 1791326184,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-07T03:47:12.531322+00:00",
+    "status": "open"
+  },
+  {
+    "id": "aa33603819f942c91c47",
+    "company": "Paccar",
+    "source": "simplify",
+    "title": "Summer Intern - Customer Experience Analytics - Vehicle Support Center",
+    "location": "Renton, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.paccar.com/job/Renton-Summer-Internship-Customer-Experience-Analytics-(Vehicle-Support-Center)-WA-98055/1444983933/?ats=successfactors",
+    "published_at": 1791335791,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-07T03:47:12.531290+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ede32c14d4b2e6dd2ad9",
+    "company": "Paccar",
+    "source": "simplify",
+    "title": "Customer Experience Analytics Intern",
+    "location": "Renton, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.paccar.com/job/Renton-Summer-Internship-Customer-Experience-Analytics-WA-98055/1444982233/?ats=successfactors",
+    "published_at": 1791335793,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-07T03:47:12.531264+00:00",
+    "status": "open"
+  },
+  {
+    "id": "09740723f45c976b3ad8",
+    "company": "Marsh",
+    "source": "simplify",
+    "title": "Summer Analyst Intern - Data and Analytics",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1",
+    "published_at": 1787788800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-07T03:47:12.503843+00:00",
+    "status": "open"
+  },
+  {
     "id": "e6087d44d1f0a3536587",
     "company": "ABB",
     "source": "simplify",
@@ -719,7 +799,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-06T08:05:04.904348+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9a15241d9d3fd2dc417c",
@@ -7990,7 +8070,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -8022,7 +8102,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -8086,7 +8166,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -8134,7 +8214,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -19870,7 +19950,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.456578+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5d1391d03fb535121d2c",
