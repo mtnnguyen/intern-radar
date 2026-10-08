@@ -1,5 +1,53 @@
 [
   {
+    "id": "0215158a85e1eb4f9766",
+    "company": "Cox",
+    "source": "simplify",
+    "title": "Data Scientist Co-op",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Co-op_R202683033",
+    "published_at": 1791417600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-08T15:58:58.829967+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9dac59872490b164d3f9",
+    "company": "Koch Industries",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://koch.avature.net/en_US/careers/JobDetail/195341",
+    "published_at": 1791469362,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-08T15:58:58.829881+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8ecc28f1af86aa3067cb",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7687630614472149301",
+    "published_at": 1791450861,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-08T15:58:58.829802+00:00",
+    "status": "open"
+  },
+  {
     "id": "1f754d333e69f0a68230",
     "company": "Dell Technologies",
     "source": "simplify",
@@ -3064,7 +3112,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-01T14:48:54.459940+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "739dd2de92593f8d066f",
@@ -3096,7 +3144,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-01T07:45:12.874295+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "92b77a26887d75e72375",
@@ -4176,7 +4224,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-25T23:30:03.390650+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "06c4e38574f8ebfcc9c0",
@@ -4192,7 +4240,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-25T23:30:03.390641+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "20698e47705e36207c02",
@@ -4753,7 +4801,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-24T11:59:55.886249+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "11a29ddfd224e9dcc835",
@@ -6292,7 +6340,7 @@
       "Statistics"
     ],
     "first_seen": "2026-09-20T14:54:24.737810+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "901795a54a6d1bebd5f1",
@@ -8616,7 +8664,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -8632,7 +8680,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -8648,7 +8696,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -8664,7 +8712,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -8680,7 +8728,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -8696,7 +8744,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -8712,7 +8760,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -8728,7 +8776,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -8744,7 +8792,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -8760,7 +8808,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -8776,7 +8824,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -15151,7 +15199,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "678dad916e3807174639",
@@ -15167,7 +15215,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d6ffa9a1ade41e90a6ac",
