@@ -1,5 +1,390 @@
 [
   {
+    "id": "bf736b00de4cc92fe03c",
+    "company": "Microsoft",
+    "source": "simplify",
+    "title": "Applied Scientist Intern",
+    "location": "Redmond, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141",
+    "published_at": 1791411145,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243676+00:00",
+    "status": "open"
+  },
+  {
+    "id": "47742aee0daf291ce468",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
+    "published_at": 1791421646,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243664+00:00",
+    "status": "open"
+  },
+  {
+    "id": "032377325334dae9501f",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Business Intelligence Engineer Intern",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us",
+    "published_at": 1791421646,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243659+00:00",
+    "status": "open"
+  },
+  {
+    "id": "666b6279c5cc4af607aa",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7694048048843147573",
+    "published_at": 1791422022,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243634+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6e8f644b1ea60536111c",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7694045969156426037",
+    "published_at": 1791422026,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243628+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2dede4ab526db27dbc6c",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7694045967754889477",
+    "published_at": 1791422026,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243622+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6b6efdd3f8de3063aa3b",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7694044547207268661",
+    "published_at": 1791422022,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243611+00:00",
+    "status": "open"
+  },
+  {
+    "id": "49c677a1693ae4769bfc",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Video",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7694040502082521397",
+    "published_at": 1791422030,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243603+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0e920d8e6b1881b2b2a2",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7694045969844209973",
+    "published_at": 1791422026,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243596+00:00",
+    "status": "open"
+  },
+  {
+    "id": "68d27a0196b9a52c08ba",
+    "company": "Motorola",
+    "source": "simplify",
+    "title": "GenAI & Machine Learning Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929",
+    "published_at": 1791331200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243524+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f02e9bf6aec678d290cd",
+    "company": "Dow Jones",
+    "source": "simplify",
+    "title": "Marketing Data Science Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Marketing-Data-Science-Intern_Job_Req_55876",
+    "published_at": 1791331200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243470+00:00",
+    "status": "open"
+  },
+  {
+    "id": "399064170af90392e075",
+    "company": "Apple Bank",
+    "source": "simplify",
+    "title": "IT Data Intern - Analytics, & Automation",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--IT-Data--Analytics----Automation_2026-1414",
+    "published_at": 1791331200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243464+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ebb6482e7351188f6736",
+    "company": "ICF International",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Reston, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1",
+    "published_at": 1791331200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243428+00:00",
+    "status": "open"
+  },
+  {
+    "id": "11d30ca24d1186a5e1b6",
+    "company": "ICF International",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Remote in USA, Reston, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380",
+    "published_at": 1791331200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243422+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b0cc5264c7e878ed7580",
+    "company": "Dow Jones",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55893",
+    "published_at": 1791331200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243380+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a8a2b53a9041d84f446a",
+    "company": "Bose",
+    "source": "simplify",
+    "title": "Data Analytics Engineer Co-op",
+    "location": "Bloomfield Hills, MI, Framingham, MA, Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271",
+    "published_at": 1791331200,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243364+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1cab0e6d08393794bc96",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CLAO--Business-Analyst-Intern--4-months-_R-0000186987",
+    "published_at": 1791331200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243357+00:00",
+    "status": "open"
+  },
+  {
+    "id": "912d8e62e3037e3a0081",
+    "company": "Bose",
+    "source": "simplify",
+    "title": "Audio Machine Learning Intern Co-op",
+    "location": "Bloomfield Hills, MI, Framingham, MA, Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277",
+    "published_at": 1791331200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243346+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a4d8cf3e158825c46a7a",
+    "company": "Bose",
+    "source": "simplify",
+    "title": "Data Engineer Co-op",
+    "location": "Bloomfield Hills, MI, Framingham, MA, Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270",
+    "published_at": 1791331200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243340+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8b96b80216ce08835b78",
+    "company": "First Citizens BancShares",
+    "source": "simplify",
+    "title": "Outreach Analytics Intern",
+    "location": "Raleigh, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://firstcitizens.jibeapply.com/jobs/35906?icims=1",
+    "published_at": 1791410698,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243302+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f45165fe5a7c474e329c",
+    "company": "Mastercard",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993",
+    "published_at": 1791331200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243283+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bc2108fa3af843ca1198",
+    "company": "Staples",
+    "source": "simplify",
+    "title": "Financial Analytics Intern",
+    "location": "Framingham, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/75887",
+    "published_at": 1791410712,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243277+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6dc84845a729fc159a09",
+    "company": "HCSC",
+    "source": "simplify",
+    "title": "Enterprise Data Analyst Intern",
+    "location": "Chicago, IL, Richardson, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505",
+    "published_at": 1791331200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-08T02:02:47.243246+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d41f25dca1e8ac975d83",
+    "company": "Panasonic Holdings",
+    "source": "simplify",
+    "title": "Data Engineering Intern",
+    "location": "Bridgeton, MO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.na.panasonic.com/jobs/50772?icims=1",
+    "published_at": 1788310953,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-08T02:02:47.229435+00:00",
+    "status": "open"
+  },
+  {
     "id": "3aa883cb37790ae68208",
     "company": "Auto-Owners Insurance",
     "source": "simplify",
@@ -591,7 +976,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-06T15:05:30.406924+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3fe47a59f1bed08a50be",
@@ -2582,7 +2967,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-01T14:48:54.489762+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6166bad6e7458c617891",
@@ -2679,7 +3064,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-01T07:45:12.874284+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "cd28b2682644ea085922",
@@ -5330,7 +5715,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.760994+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c68bf6fcc8aea9eb89fd",
@@ -8359,7 +8744,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -15313,7 +15698,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.493936+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5d2e0ba7f222fe3399a5",
@@ -17369,7 +17754,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c29812b8c09ec49cf162",
@@ -20754,7 +21139,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.453561+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "81ff50da58cf62aadba9",
@@ -21938,7 +22323,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "35be1f50430dfa47830a",
@@ -23416,7 +23801,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.419194+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b0bb2416b6dd58af71f7",
