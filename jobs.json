@@ -1,5 +1,149 @@
 [
   {
+    "id": "472293a4a86307cf64f7",
+    "company": "SageSure",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Jersey City, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719539006",
+    "published_at": 1791584001,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-09T23:34:31.968998+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c3d27e05fa1d492ba35d",
+    "company": "American Family Insurance Group",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Madison, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404",
+    "published_at": 1791504000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-09T23:34:31.968940+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d1f6ac6e6aa3d2938054",
+    "company": "Johnson & Johnson",
+    "source": "simplify",
+    "title": "Proteins Cell Engineering, Analytics & Screening Automation Co-op",
+    "location": "Spring House, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Automation-Co-Op_R-098580",
+    "published_at": 1791504000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-09T23:34:31.968914+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ff1fa8bad436d506483b",
+    "company": "CHS",
+    "source": "simplify",
+    "title": "Enterprise Content Analytics & Solutions Intern",
+    "location": "Inver Grove Heights, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.chsinc.com/job/Inver-Grove-Heights-Enterprise-Content-Analytics-&-Solutions-Intern-MN-55077-1721/1438778100/?ats=successfactors",
+    "published_at": 1791583474,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-09T23:34:31.968891+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3595f76e609dedf64d9f",
+    "company": "Loram",
+    "source": "simplify",
+    "title": "Machine Learning / Artificial Intelligence Intern - AI",
+    "location": "Hamel, Medina, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/Loram1/3743990016031492",
+    "published_at": 1791583649,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-09T23:34:31.968868+00:00",
+    "status": "open"
+  },
+  {
+    "id": "804b2b5659e273410197",
+    "company": "Later",
+    "source": "simplify",
+    "title": "Data & Analytics Co-op",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8880737002",
+    "published_at": 1791583975,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-09T23:34:31.968807+00:00",
+    "status": "open"
+  },
+  {
+    "id": "243cf2311416d2d6c39b",
+    "company": "SageSure",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Jersey City, NJ, Cheshire, CT",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719514006",
+    "published_at": 1791584005,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-09T23:34:31.968771+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8556005ffbfdf6891522",
+    "company": "Bosch Home Comfort",
+    "source": "simplify",
+    "title": "Artificial Intelligence / Machine Learning: Foundation Models Intern",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154759734",
+    "published_at": 1791583850,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-09T23:34:31.968737+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3e2d725825058b75cdc2",
+    "company": "Daimler Truck",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Portland, OR",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Data-Science-Intern_DT-20166-1",
+    "published_at": 1791504000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-09T23:34:31.968619+00:00",
+    "status": "open"
+  },
+  {
     "id": "9a5214eb01d5ac2920f8",
     "company": "Papa John's",
     "source": "simplify",
@@ -5057,7 +5201,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-24T23:18:32.604869+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7590763a44a4f66c4904",
@@ -8775,7 +8919,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T11:31:58.169873+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9a2fa19717c3fe401b63",
@@ -8984,7 +9128,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -9000,7 +9144,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -9016,7 +9160,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -9032,7 +9176,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -9048,7 +9192,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -9064,7 +9208,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -9080,7 +9224,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -9096,7 +9240,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -9112,7 +9256,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -9128,7 +9272,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -9144,7 +9288,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -9160,7 +9304,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -14781,7 +14925,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.504604+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "31835f87dff167cd0b9f",
@@ -15470,7 +15614,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a77ec7f60a8fb04e3a5",
@@ -20896,7 +21040,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.456578+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "01d2940a97a66f5b9085",
