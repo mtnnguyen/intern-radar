@@ -1,5 +1,21 @@
 [
   {
+    "id": "4b08a161276a11bbb02d",
+    "company": "Meta",
+    "source": "simplify",
+    "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
+    "location": "Burlingame, CA, Redmond, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.metacareers.com/jobs/2211974449401350",
+    "published_at": 1791555240,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-09T14:35:30.015316+00:00",
+    "status": "open"
+  },
+  {
     "id": "0797112337c88a1c9f07",
     "company": "Denver",
     "source": "simplify",
@@ -1232,7 +1248,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-06T23:52:30.276670+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fe19363b1d7f33179d21",
@@ -1392,7 +1408,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-06T15:05:30.406868+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5c9ca6dc20f87a61135d",
@@ -1841,7 +1857,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-06T01:33:02.289888+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d52c8046e9cb3e419480",
@@ -2001,7 +2017,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-06T01:33:02.289646+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5bfcb661d6433cebb7dd",
@@ -4271,7 +4287,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-26T01:54:13.609321+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2b3bd3642056ac93239d",
@@ -9000,7 +9016,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -9032,7 +9048,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -13800,7 +13816,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f54222c5a95ef1bb954d",
@@ -13816,7 +13832,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "94c02c731d160bf43ae9",
@@ -17560,7 +17576,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4a4c44e030426b50362b",
@@ -18442,7 +18458,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.475306+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "115e5e2d266b345b6ef8",
@@ -23269,7 +23285,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.438371+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "b9e9a9746a0e12893da8",
