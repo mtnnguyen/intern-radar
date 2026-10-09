@@ -1,5 +1,37 @@
 [
   {
+    "id": "9a5214eb01d5ac2920f8",
+    "company": "Papa John's",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157",
+    "published_at": 1791504000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-09T19:43:57.452124+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bed70f9fba8ace6a5212",
+    "company": "Johnson & Johnson",
+    "source": "simplify",
+    "title": "Strategic Insight and Analytics Co-op",
+    "location": "Horsham, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640",
+    "published_at": 1791504000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-09T19:43:57.452087+00:00",
+    "status": "open"
+  },
+  {
     "id": "4b08a161276a11bbb02d",
     "company": "Meta",
     "source": "simplify",
@@ -14413,7 +14445,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "13232084daf7daa7f57c",
@@ -14429,7 +14461,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e1fd9bc974637d4d48d3",
@@ -16451,7 +16483,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.490935+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "75e626dba2ada801d065",
@@ -20047,7 +20079,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ea7fc20eddafba7f9247",
