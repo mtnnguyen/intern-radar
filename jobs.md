@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 903
+**Active matching jobs:** 904
 
 **New in the last 24 hours:** 16
 
@@ -306,6 +306,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Micron Technology | AI Engineer Intern - SMAI TD AI Engineering Team | Machine Learning / AI | Boise, ID | simplify | 2026-10-05 09:33 PM EDT | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991) |
 | 🌎 Other |  | LexisNexis Risk Solutions | Data Analyst Intern | Analytics | Alpharetta, GA | simplify | 2026-10-05 09:33 PM EDT | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Analyst-Intern_R119377) |
 | 🌎 Other |  | LexisNexis Risk Solutions | Data Science Intern | Data Science | Alpharetta, GA | simplify | 2026-10-05 09:33 PM EDT | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955) |
+| 🌎 Other |  | General Motors | Machine Learning Intern - Autonomous Vehicles - Software Validation | Machine Learning / AI | Sunnyvale, CA | simplify | 2026-10-05 09:33 PM EDT | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649) |
 | 🌎 Other |  | General Motors | AI/ML Engineer Intern - Mapping | Machine Learning / AI | Warren, MI | simplify | 2026-10-05 09:33 PM EDT | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778) |
 | 🌎 Other |  | General Motors | Summer Intern - AI & Hardware Analytics - Adpt | Analytics | Milford, MI, Warren, MI | simplify | 2026-10-05 09:33 PM EDT | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) |
 | 🌎 Other |  | Dayton Freight Lines | Business Intelligence Intern | Analytics | Dayton, OH | simplify | 2026-10-05 09:33 PM EDT | [Apply](https://careers-daytonfreight.icims.com/jobs/18278/job?mobile=true&needsRedirect=false) |
