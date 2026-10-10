@@ -1,5 +1,21 @@
 [
   {
+    "id": "56e11090802be53d37a1",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "source": "simplify",
+    "title": "Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection",
+    "location": "Laurel, MD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.jhuapl.edu/jobs/60432?icims=1",
+    "published_at": 1791670057,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-10T22:47:08.006865+00:00",
+    "status": "open"
+  },
+  {
     "id": "d4019d21e462ad9a0e96",
     "company": "Workday",
     "source": "simplify",
@@ -9272,7 +9288,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -9304,7 +9320,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -9336,7 +9352,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -9400,7 +9416,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -10168,7 +10184,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.541009+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8afacd33fd9ddc87cf7a",

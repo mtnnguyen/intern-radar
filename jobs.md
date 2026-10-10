@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 904
+**Active matching jobs:** 908
 
-**New in the last 24 hours:** 16
+**New in the last 24 hours:** 15
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -222,6 +222,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | TikTok | Machine Learning Scientist Intern - Global E-Commerce Content Recommendation | Machine Learning / AI | Seattle, WA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7525650208522193159) |
 | 🇺🇸 USA |  | Radix Trading | Quantitative Technologist C++ Intern | GIS / Geospatial | Chicago, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
 | 🇺🇸 USA |  | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
+| 🌎 Other | 🔥 NEW | Johns Hopkins Applied Physics Laboratory | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Data Science | Laurel, MD | simplify | 2026-10-10 06:47 PM EDT | [Apply](https://careers.jhuapl.edu/jobs/60432?icims=1) |
 | 🌎 Other | 🔥 NEW | Workday | Machine Learning Engineer Intern | Machine Learning / AI | Pleasanton, CA | simplify | 2026-10-09 10:43 PM EDT | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812) |
 | 🌎 Other | 🔥 NEW | Itron | People Analytics Intern | Analytics | Liberty Lake, WA | simplify | 2026-10-09 10:43 PM EDT | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033-1) |
 | 🌎 Other | 🔥 NEW | SageSure | Data Science Intern | Data Science | Jersey City, NJ | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719539006) |
@@ -232,8 +233,8 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | SageSure | Data Scientist Intern | Data Science | Jersey City, NJ, Cheshire, CT | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719514006) |
 | 🌎 Other | 🔥 NEW | Bosch Home Comfort | Artificial Intelligence / Machine Learning: Foundation Models Intern | Machine Learning / AI | Sunnyvale, CA | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154759734) |
 | 🌎 Other | 🔥 NEW | Daimler Truck | Data Science Intern | Data Science | Portland, OR | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Data-Science-Intern_DT-20166-1) |
-| 🌎 Other | 🔥 NEW | Papa John's | Data Science Intern | Data Science | Atlanta, GA | simplify | 2026-10-09 03:43 PM EDT | [Apply](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157) |
-| 🌎 Other | 🔥 NEW | Johnson & Johnson | Strategic Insight and Analytics Co-op | Analytics | Horsham, PA | simplify | 2026-10-09 03:43 PM EDT | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640) |
+| 🌎 Other |  | Papa John's | Data Science Intern | Data Science | Atlanta, GA | simplify | 2026-10-09 03:43 PM EDT | [Apply](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157) |
+| 🌎 Other |  | Johnson & Johnson | Strategic Insight and Analytics Co-op | Analytics | Horsham, PA | simplify | 2026-10-09 03:43 PM EDT | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640) |
 | 🌎 Other |  | Meta | Research Scientist Intern - Audio - Machine Learning and Computer Vision | Machine Learning / AI | Burlingame, CA, Redmond, WA | simplify | 2026-10-09 10:35 AM EDT | [Apply](https://www.metacareers.com/jobs/2211974449401350) |
 | 🌎 Other |  | Denver | Data Analytics College Intern - Analytics and Innovation | Analytics | Denver, CO | simplify | 2026-10-09 03:28 AM EDT | [Apply](https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Denver-International-Airport/Data-Analytics-and-Innovation-College-Internship---Analytics-and-Innovation---Denver-International-Airport--4-months-_R0083221-1) |
 | 🌎 Other |  | TikTok | Machine Learning Engineer Intern - E-Commerce User Growth | Machine Learning / AI | San Jose, CA | simplify | 2026-10-09 03:28 AM EDT | [Apply](https://lifeattiktok.com/search/7694354937320868149) |
@@ -503,6 +504,10 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | BlackRock | Quantitative Masters Intern - Technology - Analytics & Modeling | Analytics | NYC | simplify | 2026-09-15 07:31 AM EDT | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477) |
 | 🌎 Other |  | Howden | Business Intelligence Intern | Analytics | London, UK | simplify | 2026-09-15 02:00 AM EDT | [Apply](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Business-Intelligence-Summer-Internship-2027_R0019273) |
 | 🌎 Other |  | ibotta | Data Engineer Intern | Data Engineering | Denver, CO | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Investment Banking | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175428?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas | GIS / Geospatial | Dallas, TX | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171532?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175421?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - Asset and Wealth Management | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175423?type=students) |
 | 🌎 Other |  | BlueCross BlueShield of Nebraska | Healthcare Analytics Intern | Analytics | Omaha, NE | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Analytics-Intern--Starts-Summer-2027_JR101437) |
 | 🌎 Other |  | Xcel Energy | AI and Analytics Intern | Analytics | Minneapolis, MN, Denver, CO | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1) |
 | 🌎 Other |  | Xcel Energy | Energy Programs Strategy & Analytics Intern | Analytics | Minneapolis, MN, Denver, CO | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Energy-Programs-Strategy---Analytics-Intern---MN_JR115669-1) |
@@ -521,7 +526,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | URBN | Data Science Intern | Data Science | Philadelphia, PA | simplify | 2026-09-14 10:37 AM EDT | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false) |
 | 🌎 Other |  | Constellation Energy | IT Data Engineering Intern | Data Engineering | Baltimore, MD | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.constellationenergy.com/jobs/138716?icims=1) |
 | 🌎 Other |  | TD Bank | Data Engineer Intern - Global Technology & Solutions | Data Engineering | Mt Laurel Township, NJ | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797) |
-| 🌎 Other |  | Interstates | Data Analyst Intern | Analytics | Sioux Center, IA, Sioux Falls, SD | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://www.interstates.com/careers/jobs?gh_jid=4056077009&gh_jid=4056077009) |
 | 🌎 Other |  | Guardian Life | Data Engineering Intern - Digital & Technology | Data Engineering | Holmdel, NJ, NYC, Bethlehem, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202) |
 | 🌎 Other |  | Guardian Life | Summer Intern - Digital & Technology - AI & Machine Learning | Machine Learning / AI | Holmdel, NJ, NYC, Bethlehem, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205) |
 | 🌎 Other |  | Central Hudson | Data Analytics Intern | Analytics | Poughkeepsie, NY | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://cenhud.wd5.myworkdayjobs.com/cenhud/job/Poughkeepsie/Data-Analytics-Intern_R2141) |
