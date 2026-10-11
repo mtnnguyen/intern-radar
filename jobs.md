@@ -6,7 +6,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Active matching jobs:** 908
 
-**New in the last 24 hours:** 15
+**New in the last 24 hours:** 6
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -67,7 +67,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇨🇦 Canada |  | Cohere | Machine Learning Intern/Co-op | Machine Learning / AI | Canada, United Kingdom, United States | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
 | 🇺🇸 USA | 🔥 NEW | Itron | HR AI Data Science Intern | Data Science | Austin, TX | simplify | 2026-10-09 10:43 PM EDT | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034) |
 | 🇺🇸 USA | 🔥 NEW | TikTok | Machine Learning Engineer Intern - Conversational AI | Machine Learning / AI | Seattle, WA | simplify | 2026-10-09 10:43 PM EDT | [Apply](https://lifeattiktok.com/search/7670689681491364101) |
-| 🇺🇸 USA | 🔥 NEW | Later | Data & Analytics Co-op | Analytics | Boston, MA | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://job-boards.greenhouse.io/later/jobs/8880737002) |
+| 🇺🇸 USA |  | Later | Data & Analytics Co-op | Analytics | Boston, MA | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://job-boards.greenhouse.io/later/jobs/8880737002) |
 | 🇺🇸 USA |  | Vertex Pharmaceuticals | People Research and Analytics Co-op - People Research and Analytics - Human Resources | Analytics | Boston, MA | simplify | 2026-10-08 09:16 PM EDT | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-2027-Co-op--People-Research-and-Analytics--Human-Resources_REQ-31103-1) |
 | 🇺🇸 USA |  | GuidePoint Security | AI & Data Science Intern - GPSU | Data Science | Remote in USA | simplify | 2026-10-08 09:16 PM EDT | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004) |
 | 🇺🇸 USA |  | Tesla | Data Analyst Intern - People Products | Analytics | Palo Alto, CA, Austin, TX | simplify | 2026-10-08 04:51 AM EDT | [Apply](https://www.tesla.com/careers/search/job/286085) |
@@ -225,14 +225,14 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | Johns Hopkins Applied Physics Laboratory | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Data Science | Laurel, MD | simplify | 2026-10-10 06:47 PM EDT | [Apply](https://careers.jhuapl.edu/jobs/60432?icims=1) |
 | 🌎 Other | 🔥 NEW | Workday | Machine Learning Engineer Intern | Machine Learning / AI | Pleasanton, CA | simplify | 2026-10-09 10:43 PM EDT | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812) |
 | 🌎 Other | 🔥 NEW | Itron | People Analytics Intern | Analytics | Liberty Lake, WA | simplify | 2026-10-09 10:43 PM EDT | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033-1) |
-| 🌎 Other | 🔥 NEW | SageSure | Data Science Intern | Data Science | Jersey City, NJ | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719539006) |
-| 🌎 Other | 🔥 NEW | American Family Insurance Group | Data Analyst Intern | Analytics | Madison, WI | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404) |
-| 🌎 Other | 🔥 NEW | Johnson & Johnson | Proteins Cell Engineering, Analytics & Screening Automation Co-op | Analytics | Spring House, PA | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Automation-Co-Op_R-098580) |
-| 🌎 Other | 🔥 NEW | CHS | Enterprise Content Analytics & Solutions Intern | Analytics | Inver Grove Heights, MN | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://careers.chsinc.com/job/Inver-Grove-Heights-Enterprise-Content-Analytics-&-Solutions-Intern-MN-55077-1721/1438778100/?ats=successfactors) |
-| 🌎 Other | 🔥 NEW | Loram | Machine Learning / Artificial Intelligence Intern - AI | Machine Learning / AI | Hamel, Medina, MN | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://jobs.smartrecruiters.com/Loram1/3743990016031492) |
-| 🌎 Other | 🔥 NEW | SageSure | Data Scientist Intern | Data Science | Jersey City, NJ, Cheshire, CT | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719514006) |
-| 🌎 Other | 🔥 NEW | Bosch Home Comfort | Artificial Intelligence / Machine Learning: Foundation Models Intern | Machine Learning / AI | Sunnyvale, CA | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154759734) |
-| 🌎 Other | 🔥 NEW | Daimler Truck | Data Science Intern | Data Science | Portland, OR | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Data-Science-Intern_DT-20166-1) |
+| 🌎 Other |  | SageSure | Data Science Intern | Data Science | Jersey City, NJ | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719539006) |
+| 🌎 Other |  | American Family Insurance Group | Data Analyst Intern | Analytics | Madison, WI | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404) |
+| 🌎 Other |  | Johnson & Johnson | Proteins Cell Engineering, Analytics & Screening Automation Co-op | Analytics | Spring House, PA | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Automation-Co-Op_R-098580) |
+| 🌎 Other |  | CHS | Enterprise Content Analytics & Solutions Intern | Analytics | Inver Grove Heights, MN | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://careers.chsinc.com/job/Inver-Grove-Heights-Enterprise-Content-Analytics-&-Solutions-Intern-MN-55077-1721/1438778100/?ats=successfactors) |
+| 🌎 Other |  | Loram | Machine Learning / Artificial Intelligence Intern - AI | Machine Learning / AI | Hamel, Medina, MN | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://jobs.smartrecruiters.com/Loram1/3743990016031492) |
+| 🌎 Other |  | SageSure | Data Scientist Intern | Data Science | Jersey City, NJ, Cheshire, CT | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719514006) |
+| 🌎 Other |  | Bosch Home Comfort | Artificial Intelligence / Machine Learning: Foundation Models Intern | Machine Learning / AI | Sunnyvale, CA | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154759734) |
+| 🌎 Other |  | Daimler Truck | Data Science Intern | Data Science | Portland, OR | simplify | 2026-10-09 07:34 PM EDT | [Apply](https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Data-Science-Intern_DT-20166-1) |
 | 🌎 Other |  | Papa John's | Data Science Intern | Data Science | Atlanta, GA | simplify | 2026-10-09 03:43 PM EDT | [Apply](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157) |
 | 🌎 Other |  | Johnson & Johnson | Strategic Insight and Analytics Co-op | Analytics | Horsham, PA | simplify | 2026-10-09 03:43 PM EDT | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640) |
 | 🌎 Other |  | Meta | Research Scientist Intern - Audio - Machine Learning and Computer Vision | Machine Learning / AI | Burlingame, CA, Redmond, WA | simplify | 2026-10-09 10:35 AM EDT | [Apply](https://www.metacareers.com/jobs/2211974449401350) |
