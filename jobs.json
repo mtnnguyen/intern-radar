@@ -7237,7 +7237,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-18T22:42:53.994492+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "e37105aa2f24fbbffdec",
@@ -14248,7 +14248,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "923d9df2040e644e3e71",
@@ -14265,7 +14265,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6dff9d3a7d848047a6af",
@@ -24158,12 +24158,12 @@
     "id": "5f60cba50677465a3b3a",
     "company": "ByteDance",
     "source": "simplify",
-    "title": "Benefits Operation Data Analyst Project Intern",
+    "title": "Benefits Operations Data Analyst Intern",
     "location": "San Jose, CA",
     "description": "",
     "employment_type": "internship",
     "url": "https://jobs.bytedance.com/en/position/7605524889478842677/detail",
-    "published_at": 1770979133,
+    "published_at": 1780610910,
     "categories": [
       "Analytics"
     ],
