@@ -1,5 +1,53 @@
 [
   {
+    "id": "5758b68848aad20ca009",
+    "company": "Kainos",
+    "source": "simplify",
+    "title": "Technologist Intern",
+    "location": "Birmingham, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Placement-Technologist--Birmingham----July-2027-Start-Date_JR_18558",
+    "published_at": 1791763200,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-10-12T01:51:09.263445+00:00",
+    "status": "open"
+  },
+  {
+    "id": "85e909b52a720ad4154c",
+    "company": "Kainos",
+    "source": "simplify",
+    "title": "Technologist Intern",
+    "location": "Belfast, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Placement-Technologist--Belfast----June-2027-Start-Date_JR_18556",
+    "published_at": 1791763200,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-10-12T01:51:09.263431+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e751fe747027cb11b25a",
+    "company": "Kainos",
+    "source": "simplify",
+    "title": "Placement Technologist Intern",
+    "location": "Londonderry, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Derry-Londonderry/Placement-Technologist--L-Derry----June-2027-Start-Date_JR_18557-1",
+    "published_at": 1791763200,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-10-12T01:51:09.263389+00:00",
+    "status": "open"
+  },
+  {
     "id": "a4594c85588f43325a2a",
     "company": "C&S Wholesale Grocers",
     "source": "simplify",
@@ -1280,7 +1328,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-07T03:47:12.503843+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e6087d44d1f0a3536587",
@@ -9289,7 +9337,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -9305,7 +9353,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -9321,7 +9369,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -9337,7 +9385,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -9353,7 +9401,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -9369,7 +9417,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -9385,7 +9433,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -9401,7 +9449,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -9417,7 +9465,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -9433,7 +9481,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -17431,7 +17479,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "586b21aa24b73b832cac",
