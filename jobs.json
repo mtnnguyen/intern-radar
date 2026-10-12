@@ -1,5 +1,21 @@
 [
   {
+    "id": "4d0d5621bcdeccdf77b4",
+    "company": "Tencent",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Palo Alto, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213",
+    "published_at": 1791676800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-12T08:17:40.590678+00:00",
+    "status": "open"
+  },
+  {
     "id": "5758b68848aad20ca009",
     "company": "Kainos",
     "source": "simplify",
@@ -1745,7 +1761,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-06T15:05:30.406890+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ec353a6d867ea8c4212e",
@@ -4269,7 +4285,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-30T07:05:10.112220+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "66ff6fd63b36b739647b",
@@ -6468,7 +6484,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.760994+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c68bf6fcc8aea9eb89fd",
@@ -9337,7 +9353,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -9353,7 +9369,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -9369,7 +9385,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -9385,7 +9401,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -9401,7 +9417,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -9417,7 +9433,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -9433,7 +9449,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -9449,7 +9465,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -9465,7 +9481,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -9481,7 +9497,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
