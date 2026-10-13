@@ -1,5 +1,53 @@
 [
   {
+    "id": "a73830e73fbf7e5b98e5",
+    "company": "Lake Michigan Credit Union",
+    "source": "simplify",
+    "title": "Business Intelligence Intern",
+    "location": "Grand Rapids, MI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Grand-Rapids-MI/Business-Intelligence-Intern_REQ-2026-6972",
+    "published_at": 1791849600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-13T07:04:08.741997+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a3937b050f4c75cfb90a",
+    "company": "GAF",
+    "source": "simplify",
+    "title": "IT Data Analytics Intern",
+    "location": "Parsippany-Troy Hills, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/IT-Data-Analytics-Intern_26422",
+    "published_at": 1791763200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-13T07:04:08.741963+00:00",
+    "status": "open"
+  },
+  {
+    "id": "64526685658e29af6312",
+    "company": "ExxonMobil",
+    "source": "simplify",
+    "title": "Global Trading Intern - Quantitative Analyst",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.exxonmobil.com/job/London-Placement-Global-Trading-Quantitative-Analyst-London-2027-LND/1439091600/?ats=successfactors",
+    "published_at": 1791843499,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-13T07:04:08.741926+00:00",
+    "status": "open"
+  },
+  {
     "id": "b9641b0bfbe08dde83f6",
     "company": "GAF",
     "source": "simplify",
@@ -526,7 +574,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-10T22:47:08.006865+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d4019d21e462ad9a0e96",
@@ -942,7 +990,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-09T01:16:01.389779+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d4e6bf5a37c7387ae324",
@@ -2931,7 +2979,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-06T01:33:02.289450+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b80671632c5bd0b78ec3",
@@ -10329,7 +10377,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T19:13:13.815226+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b2007d8d78bb5155a0ec",
@@ -15115,7 +15163,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3f1d7a7b5d8ea4c9605f",
