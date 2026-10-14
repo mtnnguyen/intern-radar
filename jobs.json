@@ -1,5 +1,102 @@
 [
   {
+    "id": "1c27ea51a0ca8480a7a1",
+    "company": "BP",
+    "source": "simplify",
+    "title": "Subsurface Technology Geologist Intern - Subsurface Technology - Geology",
+    "location": "Sunbury-on-Thames, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface-Technology---Geology_RQ117085",
+    "published_at": 1791936000,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-10-14T02:53:49.161638+00:00",
+    "status": "open"
+  },
+  {
+    "id": "02f87dffd177c9fd1df8",
+    "company": "KLA",
+    "source": "simplify",
+    "title": "Computer Vision/Machine Learning Intern",
+    "location": "Milpitas, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1",
+    "published_at": 1791849600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-14T02:53:49.161615+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ecaf74d1d766f779d65b",
+    "company": "Brain Co.",
+    "source": "simplify",
+    "title": "Machine Learning Engineer – Applied AI Co-op Intern",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac/application?embed=true",
+    "published_at": 1791942065,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-14T02:53:49.161591+00:00",
+    "status": "open"
+  },
+  {
+    "id": "935cec3b323b0434c23e",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7694357619162532149",
+    "published_at": 1791942515,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-14T02:53:49.161564+00:00",
+    "status": "open"
+  },
+  {
+    "id": "48f98e4676f0cc46ede5",
+    "company": "Microsoft",
+    "source": "simplify",
+    "title": "Research Intern - Machine Learning and Statistics",
+    "location": "Cambridge, MA, Redmond, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
+    "published_at": 1791941124,
+    "categories": [
+      "Machine Learning / AI",
+      "Statistics"
+    ],
+    "first_seen": "2026-10-14T02:53:49.161464+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c2d38b09f158e331d6d8",
+    "company": "KLA",
+    "source": "simplify",
+    "title": "Computer Vision/Machine Learning Intern",
+    "location": "Milpitas, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921",
+    "published_at": 1791849600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-14T02:53:49.161427+00:00",
+    "status": "open"
+  },
+  {
     "id": "2cdf8e0f0a6390de6119",
     "company": "Walgreens",
     "source": "simplify",
@@ -174,7 +271,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-13T23:51:45.262355+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "afbb959e813374af8b50",
@@ -7846,7 +7943,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-19T13:21:13.118347+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "bf5ad5b7d008d0465683",
