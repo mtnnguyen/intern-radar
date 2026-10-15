@@ -1,5 +1,230 @@
 [
   {
+    "id": "e005b701709521dfdf79",
+    "company": "Cigna Group",
+    "source": "simplify",
+    "title": "Healthcare Analytics Intern",
+    "location": "Morris Plains, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483",
+    "published_at": 1792022400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T23:52:03.861194+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0db061c4973328c6bb4c",
+    "company": "Live Nation Entertainment",
+    "source": "simplify",
+    "title": "Venue Analytics Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Chicago-IL-USA/Venue-Analytics-Intern_JR-93773-2",
+    "published_at": 1792022400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T23:52:03.861135+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a2444b4d450a90147e2f",
+    "company": "Duolingo",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Pittsburgh, PA, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8893030002",
+    "published_at": 1792103768,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-15T23:52:03.861123+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ca970323019c198cbab5",
+    "company": "Duolingo",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Pittsburgh, PA, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002",
+    "published_at": 1792103768,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-15T23:52:03.861096+00:00",
+    "status": "open"
+  },
+  {
+    "id": "60d5cb11a4f524f84a02",
+    "company": "Duolingo",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Pittsburgh, PA, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
+    "published_at": 1792101723,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-15T23:52:03.861039+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d420aee98c32732749a3",
+    "company": "Duolingo",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Pittsburgh, PA, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+    "published_at": 1792101722,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-15T23:52:03.861027+00:00",
+    "status": "open"
+  },
+  {
+    "id": "48ec6c991fc7870023c0",
+    "company": "Rivian",
+    "source": "simplify",
+    "title": "Software Engineer Intern Co-op - Machine Learning Research - Perception",
+    "location": "Palo Alto, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.rivian.com/jobs/33801?icims=1",
+    "published_at": 1792101814,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T23:52:03.860961+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7d9ecd8f29972bad9cb0",
+    "company": "Johnson & Johnson",
+    "source": "simplify",
+    "title": "Data Operations & Analytics Spring Co-op",
+    "location": "Somerset County, NJ, Hopewell Township, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-104450",
+    "published_at": 1792022400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T23:52:03.860910+00:00",
+    "status": "open"
+  },
+  {
+    "id": "76401286908d33f84ea9",
+    "company": "General Motors",
+    "source": "simplify",
+    "title": "AI/ML Engineer Intern - Mapping - Masters",
+    "location": "Warren, MI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
+    "published_at": 1792022400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T23:52:03.860896+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d3711bba567cca8d10e0",
+    "company": "Leidos",
+    "source": "simplify",
+    "title": "Data Engineering & Analytics Intern",
+    "location": "Shiloh, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00194635",
+    "published_at": 1792022400,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T23:52:03.860843+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5923d156b3da3dc84c70",
+    "company": "Vertex Pharmaceuticals",
+    "source": "simplify",
+    "title": "Commercial Analytics Co-op - Market Access",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics--Market-Access_REQ-31008-1",
+    "published_at": 1792022400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T23:52:03.860789+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7e0e79d404344c176173",
+    "company": "Tower Research Capital",
+    "source": "simplify",
+    "title": "Machine Learning Intern",
+    "location": "Montreal, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=7077280",
+    "published_at": 1792102273,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T23:52:03.860776+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a5fcb04bf87fc1b09514",
+    "company": "Ardian",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern---February-2027---NYC_JR1002271",
+    "published_at": 1792022400,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-15T23:52:03.860707+00:00",
+    "status": "open"
+  },
+  {
+    "id": "be1a85b73f961adcb14c",
+    "company": "Paccar",
+    "source": "simplify",
+    "title": "Summer Intern - Product Definition Analytics",
+    "location": "Renton, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.paccar.com/job/Renton-Summer-Internship-Product-Definition-Analytics-WA-98055/1448230233/?ats=successfactors",
+    "published_at": 1792102898,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T23:52:03.860669+00:00",
+    "status": "open"
+  },
+  {
     "id": "ea3cc2c1b7a6b10d52f7",
     "company": "Deloitte",
     "source": "simplify",
@@ -3750,7 +3975,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-06T08:05:04.904287+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1c8809f470293612f34e",
@@ -8825,7 +9050,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-19T05:07:57.023337+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "e08625d89e5c9e56507c",
@@ -13103,7 +13328,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.534016+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "77a407d06ea7ef42abc5",
@@ -15757,7 +15982,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1c4f4f9f177ac97b1988",
@@ -15789,7 +16014,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "40eae2e67ab9eeac8fce",
@@ -16962,7 +17187,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.503595+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "191c121c05e6d6c5ea4d",
@@ -21986,7 +22211,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e1e4b7374a370a360c3d",
@@ -25901,7 +26126,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.419194+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "43eb37d918b0eb2dcbe4",
