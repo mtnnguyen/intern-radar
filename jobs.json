@@ -1,5 +1,567 @@
 [
   {
+    "id": "2264c7541f9aff5fe654",
+    "company": "General Motors",
+    "source": "simplify",
+    "title": "AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
+    "published_at": 1791936000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418592+00:00",
+    "status": "open"
+  },
+  {
+    "id": "27a368f48ded5ee19fe0",
+    "company": "National Life",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Montpelier, VT, Addison, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009",
+    "published_at": 1792016953,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418564+00:00",
+    "status": "open"
+  },
+  {
+    "id": "76c62a4f875a1a1a8422",
+    "company": "ICF International",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Reston, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521",
+    "published_at": 1791936000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418465+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4ab3c02916805e34b9f8",
+    "company": "ICF International",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Reston, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603518",
+    "published_at": 1791936000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418454+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2bc25a0f7fe9d8917dcf",
+    "company": "Whataburger",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "San Antonio, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://whataburger.wd5.myworkdayjobs.com/WAB_CAREERS/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/Data-Scientist-Intern_JR10014201",
+    "published_at": 1791936000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418435+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e50bf98c7962c5cbc90b",
+    "company": "AGCO",
+    "source": "simplify",
+    "title": "Business Intelligence Intern",
+    "location": "United States",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.agcocorp.com/job/Business-Intelligence-Intern-Spring-2027/1440110900/?ats=successfactors",
+    "published_at": 1792017239,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418424+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ac4f1095b40975a66c5d",
+    "company": "Brookfield",
+    "source": "simplify",
+    "title": "Analytics Modelling Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Intern--Analytics-Modelling---Brookfield-Wealth-Solutions_R2053354",
+    "published_at": 1791936000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418414+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4ec85f66b4655053a8c8",
+    "company": "Nissan Global",
+    "source": "simplify",
+    "title": "Machine Learning Research Perception Intern",
+    "location": "Santa Clara, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Perception-Intern---Spring-2027---Santa-Clara--CA_R00214260",
+    "published_at": 1791936000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418402+00:00",
+    "status": "open"
+  },
+  {
+    "id": "90f273b2d953ea091ef3",
+    "company": "Nissan Global",
+    "source": "simplify",
+    "title": "Machine Learning Research Intern",
+    "location": "Santa Clara, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Mapping-Intern---Spring-2027---Santa-Clara--CA_R00214261",
+    "published_at": 1791936000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418379+00:00",
+    "status": "open"
+  },
+  {
+    "id": "261ffe6638ccd4e62dce",
+    "company": "Nissan Global",
+    "source": "simplify",
+    "title": "People Analytics Intern",
+    "location": "Franklin, TN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/People-Analytics-Intern---Summer-2027---Franklin--TN_R00214301",
+    "published_at": 1791936000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418352+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b9d79b415fdfcf9c5df2",
+    "company": "AGCO",
+    "source": "simplify",
+    "title": "AI & Data Science Intern",
+    "location": "Champaign, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.agcocorp.com/job/Champaign-AI-&-Data-Science-Intern-Spring-2027-IL/1440146300/?ats=successfactors",
+    "published_at": 1792017240,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418341+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fe4208e774d7c837693c",
+    "company": "National Laboratory of the Rockies",
+    "source": "simplify",
+    "title": "Artificial Intelligence for Power System Operations Intern - Artificial Intelligence for Power System Operations",
+    "location": "Golden, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R14561",
+    "published_at": 1791936000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418321+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a3a3c4c9b15b632156cd",
+    "company": "Nissan Global",
+    "source": "simplify",
+    "title": "Machine Learning Research Prediction and Planning Intern",
+    "location": "Santa Clara, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Prediction-and-Planning-Intern---Spring-2027---Santa-Clara--CA_R00214262",
+    "published_at": 1791936000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418304+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cf2fa6524b2db538534d",
+    "company": "Nissan Global",
+    "source": "simplify",
+    "title": "Machine Learning Research Perception Intern",
+    "location": "Santa Clara, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Perception-Intern---Spring-2027---Santa-Clara--CA_R00215332",
+    "published_at": 1791936000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418275+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fad992b21ccaf14cfa34",
+    "company": "AGCO",
+    "source": "simplify",
+    "title": "Agricultural Business Analytics Intern",
+    "location": "Champaign, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.agcocorp.com/job/Champaign-Agricultural-Business-Analytics-Intern-Summer-2027-IL/1440135500/?ats=successfactors",
+    "published_at": 1792017239,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418263+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ab33ad2d56b5a2fd78b8",
+    "company": "Nissan Global",
+    "source": "simplify",
+    "title": "Machine Learning Research Intern",
+    "location": "Santa Clara, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern---Spring-2027---Santa-Clara--CA_R00214268",
+    "published_at": 1791936000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418243+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b11bbd07dfbd37b75bd1",
+    "company": "ABB",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "New Berlin, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Data-Analytics-Intern_JR00048683",
+    "published_at": 1791936000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418209+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ab944af6373487211124",
+    "company": "Visa",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W",
+    "published_at": 1791936000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418189+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ed022da92d5fda2df2c2",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - E-Commerce Governance",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7694366551807265029",
+    "published_at": 1792017648,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418170+00:00",
+    "status": "open"
+  },
+  {
+    "id": "52c97e1fab3e7ae63196",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7694365861943953717",
+    "published_at": 1792017647,
+    "categories": [
+      "Machine Learning / AI",
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418158+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6bb158a9e996df69e0e3",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7694362229701069109",
+    "published_at": 1792017648,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418146+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4cb76b1652f69f987684",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7679220954338494773",
+    "published_at": 1792017648,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418134+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7778e531b5af04afd067",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Live",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7694360097210861829",
+    "published_at": 1792017649,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418122+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ea80a2aee50ab263f4ac",
+    "company": "Visa",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1",
+    "published_at": 1791936000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418093+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c66bd70a18d8712a3f9e",
+    "company": "Kensington",
+    "source": "simplify",
+    "title": "Analytics Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007",
+    "published_at": 1792017807,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418082+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d6600f6c4bc793209b42",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Video",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7694362230074673461",
+    "published_at": 1792017957,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418071+00:00",
+    "status": "open"
+  },
+  {
+    "id": "248cc97490cffedd471e",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7694360101507762485",
+    "published_at": 1792018295,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418059+00:00",
+    "status": "open"
+  },
+  {
+    "id": "23c7663f916cf3126125",
+    "company": "Businessolver",
+    "source": "simplify",
+    "title": "Business Intelligence Analyst Intern - Innovation & Data Science",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.businessolver.com/careers/openings/?gh_jid=8281727",
+    "published_at": 1792015459,
+    "categories": [
+      "Data Science",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T00:09:17.418023+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bcc2ffec5fe96337a1c1",
+    "company": "GlobalFoundries",
+    "source": "simplify",
+    "title": "Human Resources Intern - HR Analytics",
+    "location": "Malta, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Human-Resources-Intern--HR-Analytics--Summer-2027-_JR-2604494",
+    "published_at": 1791936000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T00:09:17.417992+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9471b7e43027a617fa79",
+    "company": "Wash U",
+    "source": "simplify",
+    "title": "Data Analyst Emergency Management Intern - Enterprise Physical Operations",
+    "location": "St. Louis, MO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1",
+    "published_at": 1791936000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T00:09:17.417948+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4e4d21d60bff05c4f3cb",
+    "company": "onsemi",
+    "source": "simplify",
+    "title": "Manufacturing AI Engineering Intern",
+    "location": "Hopewell Junction, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642",
+    "published_at": 1792016164,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.417764+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c097d9db38fd4bfe0b7e",
+    "company": "AECOM",
+    "source": "simplify",
+    "title": "Engineering/Data Analytics Intern",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/AECOM2/744000155565444",
+    "published_at": 1792016261,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T00:09:17.417728+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5187a43c610d4d9ac740",
+    "company": "Philips",
+    "source": "simplify",
+    "title": "Insights and Analytics Intern - Health Systems Marketing",
+    "location": "Cambridge, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454",
+    "published_at": 1791936000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-15T00:09:17.417714+00:00",
+    "status": "open"
+  },
+  {
+    "id": "456ecd1557444d31c185",
+    "company": "Microsoft",
+    "source": "simplify",
+    "title": "Research Intern - Machine Learning",
+    "location": "Montreal, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040927",
+    "published_at": 1792016661,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T00:09:17.417649+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5ef3223270d9647f876d",
+    "company": "Later",
+    "source": "simplify",
+    "title": "Data Science Co-op",
+    "location": "Vancouver, BC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8889650002",
+    "published_at": 1792016765,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-15T00:09:17.417615+00:00",
+    "status": "open"
+  },
+  {
     "id": "b34e5d529a400f7a1a85",
     "company": "Johnson & Johnson",
     "source": "simplify",
@@ -61,7 +623,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-10-14T02:53:49.161638+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "02f87dffd177c9fd1df8",
@@ -3751,7 +4313,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-04T14:25:31.560142+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1c4d4ffb427697adccaf",
@@ -7558,7 +8120,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.760812+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e37c054c3fbb38338aa4",
@@ -8119,7 +8681,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-19T05:07:57.023486+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "648e05d2912371a2a772",
@@ -12687,7 +13249,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.531139+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5ee3d622308a8a818472",
@@ -16144,7 +16706,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.503595+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cd83a6ffd47c937ece13",
