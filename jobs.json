@@ -2611,7 +2611,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-08T02:02:47.243302+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f45165fe5a7c474e329c",
@@ -11165,7 +11165,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T22:46:03.824166+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "948bc49f6555fb5753ba",
@@ -13829,7 +13829,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "af4f56f1575207781437",
@@ -13862,7 +13862,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0cf742432dd6184d89b7",
