@@ -1,5 +1,21 @@
 [
   {
+    "id": "1ae1207a69eaefd5b554",
+    "company": "Microsoft",
+    "source": "simplify",
+    "title": "Applied Sciences Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040084",
+    "published_at": 1792055063,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-15T14:19:34.479516+00:00",
+    "status": "open"
+  },
+  {
     "id": "d76b12a79052ddc289e0",
     "company": "Interac",
     "source": "simplify",
@@ -2226,7 +2242,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-08T15:58:58.829967+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9dac59872490b164d3f9",
@@ -5680,7 +5696,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-30T18:34:53.434318+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "bfb819e40109352add84",
@@ -7463,7 +7479,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-22T23:37:19.083244+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "50bd623a65e49a7ead3b",
@@ -7543,7 +7559,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-22T23:37:19.083109+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "ef0b6389467dae5b72cd",
@@ -17170,7 +17186,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "43c4271676848a11a4a4",
@@ -17267,7 +17283,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d62dc02f910377a3b402",
