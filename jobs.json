@@ -1,5 +1,53 @@
 [
   {
+    "id": "0f06d6a4c5d5cf36c6f8",
+    "company": "Nutanix",
+    "source": "simplify",
+    "title": "Support Analytics & Operations Intern",
+    "location": "Durham, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false",
+    "published_at": 1792159570,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-16T16:59:05.931479+00:00",
+    "status": "open"
+  },
+  {
+    "id": "05073b136afd432cb28f",
+    "company": "Hilb Group",
+    "source": "simplify",
+    "title": "Benefits Analytics Intern",
+    "location": "Hunt Valley, Cockeysville, MD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866",
+    "published_at": 1792108800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-16T16:59:05.931463+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5db9fb60cc8d6e562c85",
+    "company": "Boston Scientific",
+    "source": "simplify",
+    "title": "Marketing Analytics Intern",
+    "location": "Maple Grove, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813777926",
+    "published_at": 1792160173,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-16T16:59:05.931373+00:00",
+    "status": "open"
+  },
+  {
     "id": "769ca313707b71e0e86b",
     "company": "Apple",
     "source": "simplify",
@@ -2595,7 +2643,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-08T15:58:58.829881+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ecc28f1af86aa3067cb",
@@ -5164,7 +5212,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-02T09:00:15.054845+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "0b62f845a258185f2519",
@@ -11230,7 +11278,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -11246,7 +11294,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -11262,7 +11310,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -11278,7 +11326,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -11294,7 +11342,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -11310,7 +11358,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -11326,7 +11374,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -11342,7 +11390,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -11358,7 +11406,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -11374,7 +11422,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -11390,7 +11438,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -11406,7 +11454,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -15563,7 +15611,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8cd99f084c21b57d44f8",
@@ -17507,7 +17555,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "68d07bb00afb5d93df3d",
