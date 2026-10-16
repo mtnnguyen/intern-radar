@@ -238,7 +238,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-15T23:52:03.860843+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5923d156b3da3dc84c70",
@@ -944,7 +944,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-15T00:09:17.417714+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "456ecd1557444d31c185",
@@ -1378,7 +1378,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-13T23:51:45.262119+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7a001e3c99febe3d98a5",
@@ -4890,7 +4890,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-02T23:46:44.025470+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c44069e9e6faf20f9449",
@@ -5340,7 +5340,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-01T23:43:25.907578+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "aff745c385aabdeef5cb",
@@ -12110,7 +12110,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T18:59:19.929482+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "25fc592f1b7bb9698446",
@@ -15403,7 +15403,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1936209d8478cd61f6f4",
@@ -18262,7 +18262,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.493936+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7d898ce092ab1c4d0262",
