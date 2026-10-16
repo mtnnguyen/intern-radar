@@ -1,5 +1,37 @@
 [
   {
+    "id": "769ca313707b71e0e86b",
+    "company": "Apple",
+    "source": "simplify",
+    "title": "SoC Machine Learning Software Engineer Intern",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.apple.com/en-us/details/200689488",
+    "published_at": 1792114389,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-16T02:32:54.492708+00:00",
+    "status": "open"
+  },
+  {
+    "id": "76716ae7bce41938fd3f",
+    "company": "Angel City",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Santa Monica, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/wfclainc/jobs/6226220004",
+    "published_at": 1792112718,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-16T02:32:54.492609+00:00",
+    "status": "open"
+  },
+  {
     "id": "e005b701709521dfdf79",
     "company": "Cigna Group",
     "source": "simplify",
@@ -17845,7 +17877,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "264016c199ab4cf13bc6",
@@ -26116,17 +26148,17 @@
     "id": "aefab832f2899bb538f5",
     "company": "Bree",
     "source": "simplify",
-    "title": "Software Engineer – Machine Learning Intern/Co-op",
+    "title": "Machine Learning Engineering Intern",
     "location": "Toronto, ON, Canada",
     "description": "",
     "employment_type": "internship",
-    "url": "http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application",
-    "published_at": 1771370400,
+    "url": "http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application?embed=true",
+    "published_at": 1784153426,
     "categories": [
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.419194+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "43eb37d918b0eb2dcbe4",
