@@ -6,7 +6,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Active matching jobs:** 927
 
-**New in the last 24 hours:** 19
+**New in the last 24 hours:** 15
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -45,7 +45,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇨🇦 Ontario |  | Rockwell Automation | Robotics Research Co-op - Data Engineering | Data Engineering | Waterloo, ON, Canada | simplify | 2026-09-18 06:42 PM EDT | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871) |
 | 🇨🇦 Ontario |  | Nokia | Data Scientist Co-op/Intern | Data Science | Ottawa, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) |
 | 🇨🇦 Canada | 🔥 NEW | Tower Research Capital | Machine Learning Intern | Machine Learning / AI | Montreal, QC, Canada | simplify | 2026-10-15 07:52 PM EDT | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) |
-| 🇨🇦 Canada | 🔥 NEW | Boeing | Data Science Intern | Data Science | Vancouver, BC, Canada, Richmond, BC, Canada | simplify | 2026-10-15 02:24 PM EDT | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1) |
+| 🇨🇦 Canada |  | Boeing | Data Science Intern | Data Science | Vancouver, BC, Canada, Richmond, BC, Canada | simplify | 2026-10-15 02:24 PM EDT | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1) |
 | 🇨🇦 Canada |  | Microsoft | Research Intern - Machine Learning | Machine Learning / AI | Montreal, QC, Canada | simplify | 2026-10-14 08:09 PM EDT | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557040927) |
 | 🇨🇦 Canada |  | Later | Data Science Co-op | Data Science | Vancouver, BC, Canada | simplify | 2026-10-14 08:09 PM EDT | [Apply](https://job-boards.greenhouse.io/later/jobs/8889650002) |
 | 🇨🇦 Canada |  | 1Password | Data Intern - Product Analytics | Analytics | Remote in USA, Remote in Canada | simplify | 2026-10-12 08:33 PM EDT | [Apply](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true) |
@@ -239,9 +239,9 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | General Motors | AI/ML Engineer Intern - Mapping - Masters | Machine Learning / AI | Warren, MI | simplify | 2026-10-15 07:52 PM EDT | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539) |
 | 🌎 Other | 🔥 NEW | Leidos | Data Engineering & Analytics Intern | Data Engineering, Analytics | Shiloh, IL | simplify | 2026-10-15 07:52 PM EDT | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00194635) |
 | 🌎 Other | 🔥 NEW | Paccar | Summer Intern - Product Definition Analytics | Analytics | Renton, WA | simplify | 2026-10-15 07:52 PM EDT | [Apply](https://jobs.paccar.com/job/Renton-Summer-Internship-Product-Definition-Analytics-WA-98055/1448230233/?ats=successfactors) |
-| 🌎 Other | 🔥 NEW | Deloitte | Audit & Assurance Intern - Valuation & Analytics | Analytics | Atlanta, GA | simplify | 2026-10-15 02:24 PM EDT | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Valuation-Analytics-Winter-2027/361853) |
-| 🌎 Other | 🔥 NEW | Expedia Group | Applied Science Intern | Machine Learning / AI | London, UK | simplify | 2026-10-15 02:24 PM EDT | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Applied-Science-Intern---Masters---2027---London_R-110540) |
-| 🌎 Other | 🔥 NEW | Deloitte | Audit & Assurance Intern - AI and Data Science | Data Science | LA | simplify | 2026-10-15 02:24 PM EDT | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857) |
+| 🌎 Other |  | Deloitte | Audit & Assurance Intern - Valuation & Analytics | Analytics | Atlanta, GA | simplify | 2026-10-15 02:24 PM EDT | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Valuation-Analytics-Winter-2027/361853) |
+| 🌎 Other |  | Expedia Group | Applied Science Intern | Machine Learning / AI | London, UK | simplify | 2026-10-15 02:24 PM EDT | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Applied-Science-Intern---Masters---2027---London_R-110540) |
+| 🌎 Other |  | Deloitte | Audit & Assurance Intern - AI and Data Science | Data Science | LA | simplify | 2026-10-15 02:24 PM EDT | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857) |
 | 🌎 Other |  | Microsoft | Applied Sciences Intern | Machine Learning / AI | London, UK | simplify | 2026-10-15 10:19 AM EDT | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557040084) |
 | 🌎 Other |  | General Motors | AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure | Machine Learning / AI | Sunnyvale, CA | simplify | 2026-10-14 08:09 PM EDT | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410) |
 | 🌎 Other |  | National Life | Data Science Intern | Data Science | Montpelier, VT, Addison, TX | simplify | 2026-10-14 08:09 PM EDT | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009) |
