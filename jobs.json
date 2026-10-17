@@ -1,5 +1,21 @@
 [
   {
+    "id": "b48eea0d504a3ca8fd1b",
+    "company": "Ascension",
+    "source": "simplify",
+    "title": "Managed Care Analytics Intern",
+    "location": "St. Louis, MO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ascension.org/us/en/job/15636",
+    "published_at": 1792218363,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-17T09:14:21.076172+00:00",
+    "status": "open"
+  },
+  {
     "id": "8b340476489ce63c48dc",
     "company": "National Bank of Canada",
     "source": "simplify",
@@ -2020,7 +2036,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-13T00:33:50.785006+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1bbb2e4aaa2ef36970f8",
@@ -2036,7 +2052,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-13T00:33:50.784994+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3f4cf71614c50fb09ff6",
@@ -6178,7 +6194,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-10-01T01:33:07.409448+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3c82ba73063c45a2917b",
@@ -8234,7 +8250,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-22T23:37:19.083109+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ef0b6389467dae5b72cd",
@@ -9420,7 +9436,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-19T05:07:57.023337+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e08625d89e5c9e56507c",
@@ -9902,7 +9918,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-17T22:56:15.021382+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "438d36683f821d593c4f",
@@ -20850,7 +20866,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b2dfae8f1a82caa7fe65",
