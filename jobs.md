@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 928
+**Active matching jobs:** 927
 
-**New in the last 24 hours:** 22
+**New in the last 24 hours:** 20
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -74,7 +74,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇨🇦 Canada |  | Epic Games | Machine Learning Intern - Special Projects - Epic Research Group | Machine Learning / AI | Montreal, QC, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
 | 🇨🇦 Canada |  | Cohere | Machine Learning Intern/Co-op | Machine Learning / AI | Canada, United Kingdom, United States | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
 | 🇺🇸 USA | 🔥 NEW | Linea Energy | GIS Intern | GIS / Geospatial | Austin, TX | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://ats.rippling.com/linea-energy/jobs/1247c5f0-eedf-4f15-9f81-065445d89d01) |
-| 🇺🇸 USA | 🔥 NEW | Invesco | Quantitative Intern - Portfolio Engineering and Analytics | Analytics | Boston, MA | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-1) |
+| 🇺🇸 USA | 🔥 NEW | Invesco | Quantitative Intern - Portfolio Engineering and Analytics | Analytics | Boston, MA | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-2) |
 | 🇺🇸 USA | 🔥 NEW | University of Texas at Austin | Research Assistant: Remote Sensing Intern - UAV/Satellite Image Processing - Computer Science | GIS / Geospatial | Austin, TX | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Research-Assistant--Remote-Sensing--UAV-Satellite-Image-Processing--and-Computer-Science_R_00049490) |
 | 🇺🇸 USA | 🔥 NEW | CenturyLink | Data Internship - Analytics & Decision Science | Analytics | Remote in USA | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors) |
 | 🇺🇸 USA |  | Live Nation Entertainment | Venue Analytics Intern | Analytics | Chicago, IL | simplify | 2026-10-15 07:52 PM EDT | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Chicago-IL-USA/Venue-Analytics-Intern_JR-93773-2) |
@@ -247,8 +247,8 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | Nutanix | Support Analytics & Operations Intern | Analytics | Durham, NC | simplify | 2026-10-16 12:59 PM EDT | [Apply](https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false) |
 | 🌎 Other | 🔥 NEW | Hilb Group | Benefits Analytics Intern | Analytics | Hunt Valley, Cockeysville, MD | simplify | 2026-10-16 12:59 PM EDT | [Apply](https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866) |
 | 🌎 Other | 🔥 NEW | Boston Scientific | Marketing Analytics Intern | Analytics | Maple Grove, MN | simplify | 2026-10-16 12:59 PM EDT | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813777926) |
-| 🌎 Other | 🔥 NEW | Apple | SoC Machine Learning Software Engineer Intern | Machine Learning / AI | Sunnyvale, CA | simplify | 2026-10-15 10:32 PM EDT | [Apply](https://jobs.apple.com/en-us/details/200689488) |
-| 🌎 Other | 🔥 NEW | Angel City | Data Analytics Intern | Analytics | Santa Monica, CA | simplify | 2026-10-15 10:32 PM EDT | [Apply](https://job-boards.greenhouse.io/wfclainc/jobs/6226220004) |
+| 🌎 Other |  | Apple | SoC Machine Learning Software Engineer Intern | Machine Learning / AI | Sunnyvale, CA | simplify | 2026-10-15 10:32 PM EDT | [Apply](https://jobs.apple.com/en-us/details/200689488) |
+| 🌎 Other |  | Angel City | Data Analytics Intern | Analytics | Santa Monica, CA | simplify | 2026-10-15 10:32 PM EDT | [Apply](https://job-boards.greenhouse.io/wfclainc/jobs/6226220004) |
 | 🌎 Other |  | Cigna Group | Healthcare Analytics Intern | Analytics | Morris Plains, NJ | simplify | 2026-10-15 07:52 PM EDT | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483) |
 | 🌎 Other |  | Duolingo | Data Scientist Intern | Data Science | Pittsburgh, PA, NYC | simplify | 2026-10-15 07:52 PM EDT | [Apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8893030002) |
 | 🌎 Other |  | Rivian | Software Engineer Intern Co-op - Machine Learning Research - Perception | Machine Learning / AI | Palo Alto, CA | simplify | 2026-10-15 07:52 PM EDT | [Apply](https://careers.rivian.com/jobs/33801?icims=1) |
@@ -686,7 +686,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Xcel Energy | Data Analyst Intern | Analytics | Amarillo, TX | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79101/Data-Analyst-Intern--TX_JR115565-1) |
 | 🌎 Other |  | Vertiv | Data and Analytics Intern - Summer 2027 | Analytics | Westerville, OH | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280588) |
 | 🌎 Other |  | Hoffman Construction | Data Analyst Intern | Analytics | Amarillo, TX | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1521) |
-| 🌎 Other |  | Meijer | Data Science Intern | Data Science | Grand Rapids, MI | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579) |
 | 🌎 Other |  | Dominion Energy | Electrical Engineer Intern - Operations Analytics | Analytics | Glen Allen, VA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Operations-Analytics-VA-23060/1427633000/?ats=successfactors) |
 | 🌎 Other |  | United Parcel Service | Business Analytics Intern - Americas Region | Analytics | Atlanta, GA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Americas-Region-Business-Analytics-Summer-2027-Intern_R26030513) |
 | 🌎 Other |  | CSX | Sales & Marketing Analytics Intern - Paid | Analytics | Jacksonville, FL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54839) |
