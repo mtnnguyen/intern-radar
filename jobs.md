@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 933
+**Active matching jobs:** 930
 
-**New in the last 24 hours:** 21
+**New in the last 24 hours:** 18
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -242,9 +242,9 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | Zoetis Services | Chemistry Data Science Intern - Digital CMC Workflows | Data Science | Kalamazoo, MI | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Chemistry-Data-Science-Intern---Digital-CMC-Workflows_JR00021822-2) |
 | 🌎 Other | 🔥 NEW | Microsoft | Research Intern - Machine Learning | Machine Learning / AI | Cambridge, MA, NYC | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557042145) |
 | 🌎 Other | 🔥 NEW | MetLife | Data & Analytics Intern | Analytics | Cary, NC | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://metlife.avature.net/en_US/ml/JobDetail/20702) |
-| 🌎 Other | 🔥 NEW | Nutanix | Support Analytics & Operations Intern | Analytics | Durham, NC | simplify | 2026-10-16 12:59 PM EDT | [Apply](https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false) |
-| 🌎 Other | 🔥 NEW | Hilb Group | Benefits Analytics Intern | Analytics | Hunt Valley, Cockeysville, MD | simplify | 2026-10-16 12:59 PM EDT | [Apply](https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866) |
-| 🌎 Other | 🔥 NEW | Boston Scientific | Marketing Analytics Intern | Analytics | Maple Grove, MN | simplify | 2026-10-16 12:59 PM EDT | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813777926) |
+| 🌎 Other |  | Nutanix | Support Analytics & Operations Intern | Analytics | Durham, NC | simplify | 2026-10-16 12:59 PM EDT | [Apply](https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false) |
+| 🌎 Other |  | Hilb Group | Benefits Analytics Intern | Analytics | Hunt Valley, Cockeysville, MD | simplify | 2026-10-16 12:59 PM EDT | [Apply](https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866) |
+| 🌎 Other |  | Boston Scientific | Marketing Analytics Intern | Analytics | Maple Grove, MN | simplify | 2026-10-16 12:59 PM EDT | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813777926) |
 | 🌎 Other |  | Apple | SoC Machine Learning Software Engineer Intern | Machine Learning / AI | Sunnyvale, CA | simplify | 2026-10-15 10:32 PM EDT | [Apply](https://jobs.apple.com/en-us/details/200689488) |
 | 🌎 Other |  | Angel City | Data Analytics Intern | Analytics | Santa Monica, CA | simplify | 2026-10-15 10:32 PM EDT | [Apply](https://job-boards.greenhouse.io/wfclainc/jobs/6226220004) |
 | 🌎 Other |  | Cigna Group | Healthcare Analytics Intern | Analytics | Morris Plains, NJ | simplify | 2026-10-15 07:52 PM EDT | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483) |
@@ -675,8 +675,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Stryker | Data Analyst Intern | Analytics | Cary, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734) |
 | 🌎 Other |  | Solidigm | Software Engineering Intern - Firmware & AI Engineering | Machine Learning / AI | Rancho Cordova, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000147613769) |
 | 🌎 Other |  | GE Aerospace | Data Science Placement - Month Placement | Data Science | Eastleigh, UK | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Eastleigh/GE-Aerospace-Data-Science---12-Month-Placement--Eastleigh_R5039365-1) |
-| 🌎 Other |  | Xcel Energy | Power Generation Analytics Intern | Analytics | Henderson, CO | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Henderson-CO-80640/Power-Generation-Analytics-Intern--CO_JR115734-2) |
-| 🌎 Other |  | Xcel Energy | Data Analyst Intern | Analytics | Denver, CO | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833) |
 | 🌎 Other |  | Dick's Sporting Goods | Retail Analytics Intern - Corporate Internship | Analytics | Pittsburgh, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Retail-Analytics---Summer-2027-Corporate-Internship_202608785-1) |
 | 🌎 Other |  | M3USA | AI Engineering Intern | Machine Learning / AI | Fort Washington, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.smartrecruiters.com/M3USA/744000148244649) |
 | 🌎 Other |  | Capital One | AI Engineering Intern | Machine Learning / AI | San Jose, CA, McLean, VA, NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1) |
@@ -689,7 +687,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Talos | Quantitative Analyst Intern | Analytics | NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b/application?embed=true) |
 | 🌎 Other |  | Ingredion | Supply Chain Data Science Intern | Data Science | Westchester, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) |
 | 🌎 Other |  | Protective Life | Business Analytics Intern | Analytics | Birmingham, AL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.lever.co/protective/40354575-2b06-42cd-93fb-f9ea82bdec7c/apply) |
-| 🌎 Other |  | Xcel Energy | Data Analyst Intern | Analytics | Amarillo, TX | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79101/Data-Analyst-Intern--TX_JR115565-1) |
 | 🌎 Other |  | Vertiv | Data and Analytics Intern - Summer 2027 | Analytics | Westerville, OH | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280588) |
 | 🌎 Other |  | Hoffman Construction | Data Analyst Intern | Analytics | Amarillo, TX | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1521) |
 | 🌎 Other |  | Dominion Energy | Electrical Engineer Intern - Operations Analytics | Analytics | Glen Allen, VA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Operations-Analytics-VA-23060/1427633000/?ats=successfactors) |
