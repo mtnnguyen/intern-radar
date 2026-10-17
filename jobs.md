@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 930
+**Active matching jobs:** 924
 
 **New in the last 24 hours:** 18
 
@@ -726,9 +726,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Universal Health Services | Software Engineer Intern - Data Analytics | Analytics | King of Prussia, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.uhsinc.com/jobs/367247?icims=1) |
 | 🌎 Other |  | Ingredion | Artificial Intelligence & Data Scientist Intern | Data Science, Machine Learning / AI | Westchester, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40220) |
 | 🌎 Other |  | Tesla | Machine Learning Engineer Intern - Charging Data Modeling | Machine Learning / AI | Palo Alto, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://www.tesla.com/careers/search/job/281940) |
-| 🌎 Other |  | First National Bank | AI/Machine Learning Modeler Intern | Machine Learning / AI | Pittsburgh, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851) |
-| 🌎 Other |  | First National Bank | Data Engineer Intern | Data Engineering | Pittsburgh, PA, Hermitage, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01714) |
-| 🌎 Other |  | First National Bank | Data Engineering Intern | Data Engineering | Pittsburgh, PA, Hermitage, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713) |
 | 🌎 Other |  | AeroVironment | Machine Learning Intern | Machine Learning / AI | Centreville, VA, Minneapolis, MN | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) |
 | 🌎 Other |  | Southern Star Central Gas Pipeline | GIS Analyst Intern | GIS / Geospatial | Owensboro, KY | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false) |
 | 🌎 Other |  | TWG Global | Data Science Intern - MAQR | Data Science | Santa Monica, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://apply.workable.com/twgai/j/AC536E5EE2/apply) |
@@ -750,8 +747,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | American Express | Data Science Intern - Global Decision Science - Credit & Fraud Risk | Data Science | NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265) |
 | 🌎 Other |  | PIMCO | Quant Research Analyst Intern - Client Solutions & Analytics | Analytics | Newport Beach, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816) |
 | 🌎 Other |  | Western & Southern Financial Group | Artificial Intelligence Developer Intern | Machine Learning / AI | Cincinnati, OH | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers-westernsouthern.icims.com/jobs/25211/job?mobile=true&needsRedirect=false) |
-| 🌎 Other |  | First National Bank | Corporate Analytics Intern | Analytics | Pittsburgh, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Corporate-Analytics-Intern_2026-01910) |
-| 🌎 Other |  | First National Bank | Data Science Intern | Data Science | Pittsburgh, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016) |
 | 🌎 Other |  | Clarios | IT Digital/AI Intern - Summer 2027 | Machine Learning / AI | Milwaukee, WI | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910) |
 | 🌎 Other |  | Edison International | Data Analytics Intern - Data Science - Applied Math | Data Science, Analytics | Pomona, CA, Rosemead, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors) |
 | 🌎 Other |  | Edison International | Software/Data Engineering Intern | Data Engineering | Chino, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors) |
@@ -759,7 +754,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Emerson Electric | Machine Learning Co-op | Machine Learning / AI | Marshalltown, IA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008762) |
 | 🌎 Other |  | Emerson Electric | Data Analyst Co-op | Analytics | Marshalltown, IA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009200) |
 | 🌎 Other |  | Emerson Electric | Data Science Engineering Intern | Data Science | Boulder, CO | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009488) |
-| 🌎 Other |  | First National Bank | Retail Administration Analytics Intern | Analytics | Pittsburgh, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Retail-Administration-Analytics-Intern_2026-02039) |
 | 🌎 Other |  | BlueCross BlueShield of Nebraska | Data Intern - Data Science - Data Analytics | Data Science, Analytics | Omaha, NE | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) |
 | 🌎 Other |  | American Express | Data Analytics Intern - Enterprise Technology Services | Analytics | NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012783) |
 | 🌎 Other |  | JP Morgan Chase | Data & AI Intern - Data & AI Program | Machine Learning / AI | London, UK, Glasgow, UK | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745) |
