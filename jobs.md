@@ -6,7 +6,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Active matching jobs:** 910
 
-**New in the last 24 hours:** 2
+**New in the last 24 hours:** 1
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -70,7 +70,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇨🇦 Canada |  | Epic Games | Machine Learning Intern | Machine Learning / AI | Canada, United Kingdom, United States | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) |
 | 🇨🇦 Canada |  | Epic Games | Machine Learning Intern - Special Projects - Epic Research Group | Machine Learning / AI | Montreal, QC, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
 | 🇨🇦 Canada |  | Cohere | Machine Learning Intern/Co-op | Machine Learning / AI | Canada, United Kingdom, United States | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
-| 🇺🇸 USA | 🔥 NEW | HCSC | Finance Data & Analytics Developer Intern | Analytics | Chicago, IL, Richardson, TX | simplify | 2026-10-17 06:58 PM EDT | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478) |
+| 🇺🇸 USA |  | HCSC | Finance Data & Analytics Developer Intern | Analytics | Chicago, IL, Richardson, TX | simplify | 2026-10-17 06:58 PM EDT | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478) |
 | 🇺🇸 USA |  | Linea Energy | GIS Intern | GIS / Geospatial | Austin, TX | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://ats.rippling.com/linea-energy/jobs/1247c5f0-eedf-4f15-9f81-065445d89d01) |
 | 🇺🇸 USA |  | Invesco | Quantitative Intern - Portfolio Engineering and Analytics | Analytics | Boston, MA | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-2) |
 | 🇺🇸 USA |  | University of Texas at Austin | Research Assistant: Remote Sensing Intern - UAV/Satellite Image Processing - Computer Science | GIS / Geospatial | Austin, TX | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Research-Assistant--Remote-Sensing--UAV-Satellite-Image-Processing--and-Computer-Science_R_00049490) |
