@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 925
+**Active matching jobs:** 912
 
 **New in the last 24 hours:** 2
 
@@ -33,7 +33,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🔥 Toronto / GTA |  | Lyft | Data Engineer Intern | Data Engineering | Toronto, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) |
 | 🔥 Toronto / GTA |  | Definity Financial | Business Intelligence Co-op | Analytics | Toronto, ON, Canada, Waterloo, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351) |
 | 🔥 Toronto / GTA |  | TD Bank | Portfolio Analytics Developer Intern/Co-op - Winter 2027 | Analytics | Toronto, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223) |
-| 🔥 Toronto / GTA |  | TD Bank | Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027 | Analytics | Toronto, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDAM-Portfolio-Analytics-Data-Analyst-Intern-Co-Op--Winter-202-_R_1506711) |
 | 🔥 Toronto / GTA |  | AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Machine Learning / AI | Markham, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.amd.com/jobs/91363?icims=1) |
 | 🔥 Toronto / GTA |  | Georgian Partners Growth | AI/ML Engineer Intern | Machine Learning / AI | Toronto, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/application?embed=true) |
 | 🔥 Toronto / GTA |  | ShyftLabs | AI Engineer Intern | Machine Learning / AI | Toronto, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) |
@@ -572,18 +571,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | BlackRock | Quantitative Master’s Internship - Technology - Analytics & Modeling | Analytics | SF | simplify | 2026-09-15 07:31 AM EDT | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476) |
 | 🌎 Other |  | BlackRock | Quantitative Masters Intern - Technology - Analytics & Modeling | Analytics | NYC | simplify | 2026-09-15 07:31 AM EDT | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477) |
 | 🌎 Other |  | ibotta | Data Engineer Intern | Data Engineering | Denver, CO | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | GIS / Geospatial | Salt Lake City, UT | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171549?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171533?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Investment Banking | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175428?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | GIS / Geospatial | Dallas, TX | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171534?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas | GIS / Geospatial | Dallas, TX | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171532?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | GIS / Geospatial | Salt Lake City, UT | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171551?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175421?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171563?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171535?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175427?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - Asset and Wealth Management | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175423?type=students) |
-| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175424?type=students) |
 | 🌎 Other |  | Charta Health | Forward Deployed AI Engineer Intern | Machine Learning / AI | SF, NYC | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf/application?embed=true) |
 | 🌎 Other |  | Figma | Data Science Intern | Data Science | SF, NYC | simplify | 2026-09-14 04:13 PM EDT | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004) |
 | 🌎 Other |  | Waymo | Human Behavior Analytics Intern - Safety Research | Analytics | Mountain View, CA | simplify | 2026-09-14 04:13 PM EDT | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8197899) |
