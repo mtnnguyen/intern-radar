@@ -1,5 +1,21 @@
 [
   {
+    "id": "93836b89d2388667d91e",
+    "company": "Axos Bank",
+    "source": "simplify",
+    "title": "Data Analyst 1 Intern",
+    "location": "Omaha, NE",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/BSA-Analyst-I_JR5329",
+    "published_at": 1788393600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-18T09:42:46.150638+00:00",
+    "status": "open"
+  },
+  {
     "id": "14a58011c045f5315a96",
     "company": "HCSC",
     "source": "simplify",
@@ -5614,7 +5630,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-01T23:43:25.907611+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8bd9425750be2066a3c0",
@@ -16384,7 +16400,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1c4f4f9f177ac97b1988",
@@ -21090,7 +21106,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ec520e760deac675d98e",
