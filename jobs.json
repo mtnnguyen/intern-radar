@@ -1,5 +1,309 @@
 [
   {
+    "id": "b31a54fceda62f9e48b9",
+    "company": "Navy Federal",
+    "source": "simplify",
+    "title": "AI Engineering Intern",
+    "location": "Vienna, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32645",
+    "published_at": 1792449039,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217808+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c78a4b293165c2a649de",
+    "company": "Associated Bank",
+    "source": "simplify",
+    "title": "Corporate Intern - Digital Delivery - Artificial Intelligence",
+    "location": "Milwaukee, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/XMLNAME-2027-Corporate-Intern---Digital-Delivery--Artificial-Intelligence-_JR106639",
+    "published_at": 1792368000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217791+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f1ce3055e59dfdea40ba",
+    "company": "Scale AI",
+    "source": "simplify",
+    "title": "Machine Learning Research Intern",
+    "location": "SF, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+    "published_at": 1792449249,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217779+00:00",
+    "status": "open"
+  },
+  {
+    "id": "899da1fcfaa6ef10c4cc",
+    "company": "Meta",
+    "source": "simplify",
+    "title": "Optical Engineering AI and Data Analytics Intern",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.metacareers.com/jobs/1851348099357899",
+    "published_at": 1792449186,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217714+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6037927ef0f6182c52b7",
+    "company": "Zebra Technologies",
+    "source": "simplify",
+    "title": "Business Analytics Intern",
+    "location": "Holtsville, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Business-Analytics_JR103642",
+    "published_at": 1792368000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217651+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9002273e593fc58fd7da",
+    "company": "Waymo",
+    "source": "simplify",
+    "title": "Machine Learning Intern - Simulation & Closed-Loop Training",
+    "location": "Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8283558",
+    "published_at": 1792449468,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217641+00:00",
+    "status": "open"
+  },
+  {
+    "id": "44ceb8422eecea043779",
+    "company": "Ciena",
+    "source": "simplify",
+    "title": "Services Business Intelligence & Analytics Intern",
+    "location": "Montreal, QC, Canada, Ottawa, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
+    "published_at": 1792368000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217600+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6490fbd9d618127b7106",
+    "company": "Rogue Fitness",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Columbus, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/AI-Engineer-Intern_R-103005",
+    "published_at": 1792368000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217588+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a59b711780a1716c52ea",
+    "company": "Amplify",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51/application?embed=true",
+    "published_at": 1792447437,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217546+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1d322dd5b2af84364135",
+    "company": "CIBC",
+    "source": "simplify",
+    "title": "Analytics Co-op",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analytics-Co-op_2621449-1",
+    "published_at": 1792368000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217528+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f1bb4ddf3087546e8b33",
+    "company": "Qualcomm",
+    "source": "simplify",
+    "title": "Machine Learning AISW Intern",
+    "location": "Markham, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721636765",
+    "published_at": 1792447524,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217496+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6fce9a24a000b4f2cf7f",
+    "company": "Creative Artists Agency",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Denver, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391",
+    "published_at": 1792368000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217465+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4507289340eee20822b2",
+    "company": "QTS",
+    "source": "simplify",
+    "title": "People Services Data Analytics Intern",
+    "location": "Ashburn, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-VA-Ashburn-1-DC1/Summer-2027-Internship--People-Services-Data-Analytics_R2026-2307",
+    "published_at": 1792368000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217456+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8d582998a10dfef804f6",
+    "company": "Highmark Health",
+    "source": "simplify",
+    "title": "Data Analyst Undergraduate Intern",
+    "location": "Pittsburgh, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017",
+    "published_at": 1792368000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217345+00:00",
+    "status": "open"
+  },
+  {
+    "id": "67f1a390b8a06b675121",
+    "company": "Highmark Health",
+    "source": "simplify",
+    "title": "Data Science Research and Development Graduate Intern",
+    "location": "New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175",
+    "published_at": 1792368000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217330+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4cf48d47cae25ddbdf5a",
+    "company": "Paccar",
+    "source": "simplify",
+    "title": "Warranty Data Analyst Intern",
+    "location": "Kirkland, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Warranty-Data-Analyst-Intern-WA-98033/1449176033/?ats=successfactors",
+    "published_at": 1792448375,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217319+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7f84cd0456e73cc8c0d5",
+    "company": "Marsh & McLennan",
+    "source": "simplify",
+    "title": "Data and Analytics Apprentice",
+    "location": "Newcastle upon Tyne, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Apprenticeship-2027---Newcastle_R_369738-1",
+    "published_at": 1792368000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217291+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a4154f0e01579eaaf309",
+    "company": "Manulife Financial",
+    "source": "simplify",
+    "title": "AI Intern - AI",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1",
+    "published_at": 1792368000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217279+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5c67dde90eef04a98165",
+    "company": "CIBC",
+    "source": "simplify",
+    "title": "Analytics Co-op",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analytics-Co-op_2621449-2",
+    "published_at": 1792368000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-19T23:33:43.217231+00:00",
+    "status": "open"
+  },
+  {
     "id": "605e10ce36ca5fd15c6e",
     "company": "Bracebridge Capital",
     "source": "simplify",
@@ -3574,7 +3878,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-08T02:02:47.229435+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3aa883cb37790ae68208",
@@ -4569,7 +4873,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-06T08:05:04.904091+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fb56a98864946a530d92",
@@ -4633,7 +4937,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-06T01:33:02.290016+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fe464d517bd4dd798e83",
@@ -5500,7 +5804,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-02T23:46:44.025014+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b81e9d5a424d0a64fcc4",
@@ -8570,7 +8874,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-22T23:37:19.082766+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "541b94efd86b5b9c26e6",
@@ -9580,7 +9884,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-19T05:07:57.023486+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "648e05d2912371a2a772",
@@ -10190,7 +10494,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-17T22:56:15.021263+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1f6dfc594f5e50106bc7",
@@ -16400,7 +16704,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5dbb2739d331b162180d",
@@ -19499,7 +19803,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.489934+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9c13be47928042a75b76",
@@ -25483,7 +25787,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1dd8746f3c0af3befc8b",
@@ -26351,7 +26655,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.434844+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b25fba238e8af0cd9f61",
