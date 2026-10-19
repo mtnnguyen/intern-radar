@@ -1,5 +1,21 @@
 [
   {
+    "id": "d521cf4feb620467e31a",
+    "company": "Johnson & Johnson",
+    "source": "simplify",
+    "title": "Quality Data Science Co-op",
+    "location": "Cincinnati, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629",
+    "published_at": 1792368000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-19T06:53:46.838859+00:00",
+    "status": "open"
+  },
+  {
     "id": "93836b89d2388667d91e",
     "company": "Axos Bank",
     "source": "simplify",
@@ -4906,7 +4922,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-05T21:12:37.628416+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9e1ba3fbef47fcfa4e33",
@@ -6791,7 +6807,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-29T18:15:24.816491+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "864eb8ca564b960c5450",
@@ -11616,7 +11632,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -11632,7 +11648,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -11648,7 +11664,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -11664,7 +11680,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -11680,7 +11696,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -11696,7 +11712,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -11712,7 +11728,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -11728,7 +11744,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -11744,7 +11760,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -11760,7 +11776,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -11776,7 +11792,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -11792,7 +11808,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -19646,7 +19662,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.486927+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f00dd2378a11fc0bd688",
@@ -20962,7 +20978,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6255b28a6e683771594d",
@@ -21058,7 +21074,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "419efd834feb264f26ba",
