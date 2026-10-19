@@ -1,5 +1,101 @@
 [
   {
+    "id": "605e10ce36ca5fd15c6e",
+    "company": "Bracebridge Capital",
+    "source": "simplify",
+    "title": "Software Engineer: Business Intelligence Co-op",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005",
+    "published_at": 1792420453,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-19T20:01:23.818105+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0d1aafdea9866b2de60c",
+    "company": "Marvell",
+    "source": "simplify",
+    "title": "AI Data Science Intern",
+    "location": "Santa Clara, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1",
+    "published_at": 1792368000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-19T20:01:23.818071+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d9d58ee7912447a61a91",
+    "company": "GM financial",
+    "source": "simplify",
+    "title": "Portfolio Analytics Intern",
+    "location": "Fort Worth, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773",
+    "published_at": 1792419557,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-19T20:01:23.818046+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ca20964ea088f2b710d4",
+    "company": "Marvell",
+    "source": "simplify",
+    "title": "AI Data Science Intern",
+    "location": "Santa Clara, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846",
+    "published_at": 1792368000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-19T20:01:23.818035+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9d8c41299148e6d4885f",
+    "company": "Wise",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000156265544",
+    "published_at": 1792419801,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-19T20:01:23.818023+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ff39c78a2280676f7fa2",
+    "company": "Wise",
+    "source": "simplify",
+    "title": "Analytics Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000156269320",
+    "published_at": 1792419801,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-19T20:01:23.817986+00:00",
+    "status": "open"
+  },
+  {
     "id": "876dbf62961b4cfa4602",
     "company": "Bosch Home Comfort",
     "source": "simplify",
@@ -399,7 +495,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-16T16:59:05.931479+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "05073b136afd432cb28f",
@@ -2260,7 +2356,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-13T00:33:50.784812+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0bf05deb016433f89db5",
@@ -6274,7 +6370,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-10-01T01:33:07.409448+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3c82ba73063c45a2917b",
@@ -7625,7 +7721,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-24T23:18:32.635610+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d45341632db9ebee4ecd",
@@ -11664,7 +11760,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -11680,7 +11776,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -11696,7 +11792,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -11712,7 +11808,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -11728,7 +11824,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -11744,7 +11840,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -11760,7 +11856,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -11776,7 +11872,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -11792,7 +11888,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -11808,7 +11904,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -11824,7 +11920,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -11840,7 +11936,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -20753,7 +20849,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ed1929b1e19e33b3f6a5",
@@ -25403,7 +25499,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b6220a4d301afd029ffb",
