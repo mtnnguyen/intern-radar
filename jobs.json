@@ -1,5 +1,86 @@
 [
   {
+    "id": "34850a0b0d3bbcc4a5ed",
+    "company": "Cigna Group",
+    "source": "simplify",
+    "title": "Business Analytics Intern",
+    "location": "Bloomfield, CT",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472",
+    "published_at": 1792454400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-20T17:45:10.442547+00:00",
+    "status": "open"
+  },
+  {
+    "id": "26720857a779f78429c1",
+    "company": "Vertex Pharmaceuticals",
+    "source": "simplify",
+    "title": "Commercial Analytics Co-op - Commercial Analytics",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1",
+    "published_at": 1792454400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-20T17:45:10.442533+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d48d956b78565106c543",
+    "company": "Leonardo",
+    "source": "simplify",
+    "title": "Analytics Engineer Industrial Placement Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Industrial-Placement-Analytics-Engineer_R0033595",
+    "published_at": 1792454400,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-20T17:45:10.442487+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cce27384546eabbdf1cb",
+    "company": "Verizon Communications",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Basking Ridge, Bernards, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417",
+    "published_at": 1792454400,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-20T17:45:10.442433+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bff0958c050b6ea93417",
+    "company": "Verizon Communications",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Basking Ridge, Bernards, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419",
+    "published_at": 1792454400,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-20T17:45:10.442401+00:00",
+    "status": "open"
+  },
+  {
     "id": "cf210a65c7ebd43723ce",
     "company": "JP Morgan Chase",
     "source": "simplify",
@@ -10253,7 +10334,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-18T01:08:06.212207+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d86d05bae902732d13bd",
@@ -10446,7 +10527,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-17T22:56:15.021382+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "438d36683f821d593c4f",
@@ -14452,7 +14533,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.531139+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "34c1438a6a3286161466",
@@ -15786,7 +15867,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.521219+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "519388202165aab30559",
@@ -16752,7 +16833,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5dbb2739d331b162180d",
@@ -18550,7 +18631,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b8a8349c0fe68fa710ad",
@@ -21137,7 +21218,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1674f8835da0bd8dd788",
@@ -22661,7 +22742,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a3d258f902c905e6ef16",
