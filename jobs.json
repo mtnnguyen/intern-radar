@@ -1,5 +1,21 @@
 [
   {
+    "id": "cf210a65c7ebd43723ce",
+    "company": "JP Morgan Chase",
+    "source": "simplify",
+    "title": "Machine Learning Summer Associate Intern - NLP",
+    "location": "Palo Alto, CA, Seattle, WA, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790",
+    "published_at": 1792487487,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-20T12:53:22.696369+00:00",
+    "status": "open"
+  },
+  {
     "id": "d0984d4a5d63fb494d8d",
     "company": "Paccar",
     "source": "simplify",
@@ -445,7 +461,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-19T14:19:55.739129+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0696e5b437c119b115a2",
@@ -493,7 +509,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-18T09:42:46.150638+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "14a58011c045f5315a96",
@@ -3894,7 +3910,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-08T02:02:47.243246+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d41f25dca1e8ac975d83",
@@ -4006,7 +4022,7 @@
       "Statistics"
     ],
     "first_seen": "2026-10-07T10:36:21.261421+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0b6003a01863259e3041",
@@ -14436,7 +14452,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.531139+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "34c1438a6a3286161466",
