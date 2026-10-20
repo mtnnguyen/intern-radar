@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 929
+**Active matching jobs:** 927
 
-**New in the last 24 hours:** 28
+**New in the last 24 hours:** 27
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -252,11 +252,10 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | Wise | Analytics Intern | Analytics | London, UK | simplify | 2026-10-19 04:01 PM EDT | [Apply](https://jobs.smartrecruiters.com/Wise/744000156269320) |
 | 🌎 Other | 🔥 NEW | Bosch Home Comfort | Data Analyst & Marketing/Sales Intern | Analytics | Denham, UK | simplify | 2026-10-19 10:19 AM EDT | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156251739) |
 | 🌎 Other | 🔥 NEW | ZS | Decision Analytics Associate Intern | Analytics | London, UK | simplify | 2026-10-19 10:19 AM EDT | [Apply](https://jobs.zs.com/jobs/68243?icims=1) |
-| 🌎 Other | 🔥 NEW | Johnson & Johnson | Quality Data Science Co-op | Data Science | Cincinnati, OH | simplify | 2026-10-19 02:53 AM EDT | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629) |
+| 🌎 Other |  | Johnson & Johnson | Quality Data Science Co-op | Data Science | Cincinnati, OH | simplify | 2026-10-19 02:53 AM EDT | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629) |
 | 🌎 Other |  | Axos Bank | Data Analyst 1 Intern | Analytics | Omaha, NE | simplify | 2026-10-18 05:42 AM EDT | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/BSA-Analyst-I_JR5329) |
 | 🌎 Other |  | Ascension | Managed Care Analytics Intern | Analytics | St. Louis, MO | simplify | 2026-10-17 05:14 AM EDT | [Apply](https://jobs.ascension.org/us/en/job/15636) |
 | 🌎 Other |  | Thomson Reuters | Applied Science Intern | Machine Learning / AI | London, UK | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Applied-Science-Intern_JREQ204560) |
-| 🌎 Other |  | Analytical Mechanics Associates | Oceanographic Lidar Remote Sensing and Field Campaign Intern | GIS / Geospatial | Hampton, VA | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/NASA-LaRC---Hampton-VA/Oceanographic-Lidar-Remote-Sensing-and-Field-Campaign-Intern_R-100794) |
 | 🌎 Other |  | John Deere | Process Automation Student Intern - Process Automation - Data and Analytics | Analytics | Greeneville, TN | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://johndeere.eightfold.ai/careers/job/137483907415) |
 | 🌎 Other |  | Veeam Software | Data & Analytics Engineering Intern | Data Engineering, Analytics | Alpharetta, GA | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101) |
 | 🌎 Other |  | American Family Insurance Group | Data Engineering / Data Science Intern | Data Science, Data Engineering | Madison, WI | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674) |
@@ -382,7 +381,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Paccar | Customer Experience Analytics Intern | Analytics | Renton, WA | simplify | 2026-10-06 11:47 PM EDT | [Apply](https://jobs.paccar.com/job/Renton-Summer-Internship-Customer-Experience-Analytics-WA-98055/1444982233/?ats=successfactors) |
 | 🌎 Other |  | ABB | AI Engineering Intern - Business Systems | Machine Learning / AI | Cary, NC | simplify | 2026-10-06 07:52 PM EDT | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714) |
 | 🌎 Other |  | Northwestern Mutual | Enterprise Sustainability & Impact Intern - Modeling & Analytics | Analytics | Milwaukee, WI | simplify | 2026-10-06 07:52 PM EDT | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171) |
-| 🌎 Other |  | Austin Community College District | GIS Intern 1 - NSGIC/TxGIO Project | GIS / Geospatial | Texas | simplify | 2026-10-06 07:52 PM EDT | [Apply](https://austincc.wd1.myworkdayjobs.com/external/job/Austin-Community-College/GIS-Intern-I---NSGIC-TxGIO-Project--Hourly-_R-9979) |
 | 🌎 Other |  | ABB | AI Engineering ERP Intern | Machine Learning / AI | Cary, NC | simplify | 2026-10-06 07:52 PM EDT | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711) |
 | 🌎 Other |  | G-Research | Machine Learning Engineer Intern | Machine Learning / AI | London, UK | simplify | 2026-10-06 07:52 PM EDT | [Apply](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer-Intern_R3773) |
 | 🌎 Other |  | Nokia | AI Engineer Co-op | Machine Learning / AI | Sunnyvale, CA | simplify | 2026-10-06 07:52 PM EDT | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566) |
