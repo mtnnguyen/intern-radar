@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 910
+**Active matching jobs:** 906
 
 **New in the last 24 hours:** 23
 
@@ -24,7 +24,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🔥 Toronto / GTA |  | Stripe | Data Analyst Intern | Analytics | Toronto, ON, Canada | simplify | 2026-10-01 07:43 PM EDT | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) |
 | 🔥 Toronto / GTA |  | Manulife Financial | ALM Data Management & Analytics Co-op | Analytics | Toronto, ON, Canada | simplify | 2026-10-01 07:43 PM EDT | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) |
 | 🔥 Toronto / GTA |  | Equitable Bank | Data Scientist Intern - Winter 2027 | Data Science | Toronto, ON, Canada | simplify | 2026-09-15 08:26 PM EDT | [Apply](https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/apply) |
-| 🔥 Toronto / GTA |  | Definity Financial | Technology Solutions Co-op Intern - Data Platform & Engineering | Data Engineering | Toronto, ON, Canada | simplify | 2026-09-15 02:00 AM EDT | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9324) |
 | 🔥 Toronto / GTA |  | BDO Canada | Data & Analytics Co-op Intern | Analytics | Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada, Oakville, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Halifax Regional Municipality, NS, Canada | simplify | 2026-09-14 06:46 PM EDT | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--January-2027-_JR7061) |
 | 🔥 Toronto / GTA |  | Equitable Bank | Commercial Lending AI Engineer Intern - Winter 2027 | Machine Learning / AI | Toronto, ON, Canada | simplify | 2026-09-14 04:13 PM EDT | [Apply](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply) |
 | 🔥 Toronto / GTA |  | Equitable Bank | Retail Lending AI Engineer Intern | Machine Learning / AI | Toronto, ON, Canada | simplify | 2026-09-14 04:13 PM EDT | [Apply](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply) |
@@ -67,7 +66,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇨🇦 Canada |  | Bird Construction | Business Intelligence Student | Analytics | Winnipeg, MB, Canada, Calgary, AB, Canada, Edmonton, AB, Canada, Vancouver, BC, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521) |
 | 🇨🇦 Canada |  | RTX | Data Analyst Intern - Global Sales | Analytics | Saint-Hubert, Longueuil, QC, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713) |
 | 🇨🇦 Canada |  | CAE | Software Engineering Intern - AI, Automation and Business Intelligence | Analytics | Montreal, QC, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1) |
-| 🇨🇦 Canada |  | Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Machine Learning / AI | Montreal, QC, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-7608) |
 | 🇨🇦 Canada |  | Elk Valley Resources | Geographic Information Systems Co-op | GIS / Geospatial | Calgary, AB, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) |
 | 🇨🇦 Canada |  | Epic Games | Machine Learning Intern | Machine Learning / AI | Canada, United Kingdom, United States | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) |
 | 🇨🇦 Canada |  | Epic Games | Machine Learning Intern - Special Projects - Epic Research Group | Machine Learning / AI | Montreal, QC, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
@@ -86,7 +84,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | CenturyLink | Data Internship - Analytics & Decision Science | Analytics | Remote in USA | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors) |
 | 🇺🇸 USA |  | Live Nation Entertainment | Venue Analytics Intern | Analytics | Chicago, IL | simplify | 2026-10-15 07:52 PM EDT | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Chicago-IL-USA/Venue-Analytics-Intern_JR-93773-2) |
 | 🇺🇸 USA |  | Vertex Pharmaceuticals | Commercial Analytics Co-op - Market Access | Analytics | Boston, MA | simplify | 2026-10-15 07:52 PM EDT | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics--Market-Access_REQ-31008-1) |
-| 🇺🇸 USA |  | AGCO | Business Intelligence Intern | Analytics | United States | simplify | 2026-10-14 08:09 PM EDT | [Apply](https://careers.agcocorp.com/job/Business-Intelligence-Intern-Spring-2027/1440110900/?ats=successfactors) |
 | 🇺🇸 USA |  | TikTok | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent | Machine Learning / AI, GIS / Geospatial | Seattle, WA | simplify | 2026-10-14 08:09 PM EDT | [Apply](https://lifeattiktok.com/search/7694365861943953717) |
 | 🇺🇸 USA |  | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Live | Machine Learning / AI | Seattle, WA | simplify | 2026-10-14 08:09 PM EDT | [Apply](https://lifeattiktok.com/search/7694360097210861829) |
 | 🇺🇸 USA |  | Businessolver | Business Intelligence Analyst Intern - Innovation & Data Science | Data Science, Analytics | Remote in USA | simplify | 2026-10-14 08:09 PM EDT | [Apply](https://www.businessolver.com/careers/openings/?gh_jid=8281727) |
@@ -610,7 +607,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Perpay | Data Engineering Intern | Data Engineering | Philadelphia, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/perpay/jobs/4076965007) |
 | 🌎 Other |  | Direct Supply | AI Engineer Intern | Machine Learning / AI | Milwaukee, WI | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553) |
 | 🌎 Other |  | Lyft | Data Science Intern - Algorithms | Data Science | NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
-| 🌎 Other |  | Lyft | Data Analyst Intern | Analytics | NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) |
 | 🌎 Other |  | Garmin | Data Scientist Intern | Data Science | Olathe, KS | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.garmin.com/jobs/19926?icims=1) |
 | 🌎 Other |  | HNTB | GIS Intern | GIS / Geospatial | Nashville, TN | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562) |
 | 🌎 Other |  | HNTB | GIS Intern - Summer 2027 | GIS / Geospatial | Nashville, TN | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562-2) |

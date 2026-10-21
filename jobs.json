@@ -1825,7 +1825,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-15T00:09:17.418424+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ac4f1095b40975a66c5d",
@@ -12529,7 +12529,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-15T06:00:13.320515+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b3901beb9d190393faff",
@@ -14099,7 +14099,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.536943+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5f99583c08381835c28c",
@@ -21875,7 +21875,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b2dfae8f1a82caa7fe65",
