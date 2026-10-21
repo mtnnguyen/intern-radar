@@ -1,5 +1,37 @@
 [
   {
+    "id": "b3a33ff30515fa665491",
+    "company": "Apple",
+    "source": "simplify",
+    "title": "Machine Learning Research Intern - Speech-to-Speech Translation",
+    "location": "Cambridge, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.apple.com/en-us/details/200690125",
+    "published_at": 1792591516,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-21T18:03:07.311438+00:00",
+    "status": "open"
+  },
+  {
+    "id": "840f6f4157d8403143ad",
+    "company": "Fidelity Investments",
+    "source": "simplify",
+    "title": "Machine Learning Co-op",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135960",
+    "published_at": 1792540800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-21T18:03:07.311354+00:00",
+    "status": "open"
+  },
+  {
     "id": "8601c4cedbfc3feb2478",
     "company": "Meta",
     "source": "simplify",
@@ -7396,7 +7428,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-30T13:38:24.229350+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8848edf8d1483e0e7d81",
@@ -7848,7 +7880,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-29T05:57:25.465842+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c4ffc09822ff53b80273",
@@ -10622,7 +10654,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-18T01:08:06.212367+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "989cc3a06ad2af8bafc5",
@@ -12561,7 +12593,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -12577,7 +12609,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -12593,7 +12625,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -12609,7 +12641,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -12625,7 +12657,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -12673,7 +12705,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -12689,7 +12721,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -12721,7 +12753,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -12737,7 +12769,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -14643,7 +14675,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.534016+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "239e6c0a7a662e09003d",
@@ -14659,7 +14691,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.534016+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "aac26e2220dd341e3c31",
@@ -16413,7 +16445,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.520207+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b99e406496881dd5497c",
@@ -20462,7 +20494,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.488938+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d8b0b32ff3c5b7e61a40",
@@ -24505,7 +24537,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.456578+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "078b83cf9e9d55e53cca",
