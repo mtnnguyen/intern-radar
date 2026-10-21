@@ -1,5 +1,21 @@
 [
   {
+    "id": "8601c4cedbfc3feb2478",
+    "company": "Meta",
+    "source": "simplify",
+    "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
+    "location": "Cambridge, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.metacareers.com/jobs/2288012098648243",
+    "published_at": 1792575604,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-21T13:09:51.227181+00:00",
+    "status": "open"
+  },
+  {
     "id": "b074c78ffcd909c6fee8",
     "company": "Shield AI",
     "source": "simplify",
@@ -125,7 +141,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-20T23:39:08.907201+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "31a4cb3bbf3e432a5bfc",
@@ -317,7 +333,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-20T23:39:08.906699+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a9f14e988524d5d3a91c",
@@ -1312,7 +1328,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-16T16:59:05.931373+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "769ca313707b71e0e86b",
@@ -1633,7 +1649,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-15T18:24:32.275577+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "374fd3f6e7f36a01349a",
@@ -1649,7 +1665,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-15T18:24:32.275527+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1ae1207a69eaefd5b554",
@@ -12545,7 +12561,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -12561,7 +12577,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -12577,7 +12593,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -12593,7 +12609,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -12609,7 +12625,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -12657,7 +12673,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -12673,7 +12689,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -12705,7 +12721,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -12721,7 +12737,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
