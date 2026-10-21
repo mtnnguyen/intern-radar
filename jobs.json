@@ -1,5 +1,37 @@
 [
   {
+    "id": "1fa6838695756f80b21f",
+    "company": "Paccar",
+    "source": "simplify",
+    "title": "Technical Content Author Intern - Technical Content Analytics",
+    "location": "Renton, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.paccar.com/job/Renton-Summer-Internship-Technical-Content-Analytics-WA-98055/1449634733/?ats=successfactors",
+    "published_at": 1792545549,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-21T02:02:56.575222+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bd8e1eabc1b9541855b6",
+    "company": "Rakuten International",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Bellevue, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437",
+    "published_at": 1791958818,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-21T02:02:56.575186+00:00",
+    "status": "open"
+  },
+  {
     "id": "88e43186e268b0b3c837",
     "company": "American Electric Power",
     "source": "simplify",
@@ -1248,7 +1280,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-16T02:32:54.492708+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "76716ae7bce41938fd3f",
@@ -1585,7 +1617,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-15T14:19:34.479516+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d76b12a79052ddc289e0",

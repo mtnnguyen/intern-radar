@@ -6,7 +6,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Active matching jobs:** 921
 
-**New in the last 24 hours:** 23
+**New in the last 24 hours:** 25
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -235,6 +235,8 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | TikTok | Machine Learning Scientist Intern - Global E-Commerce Content Recommendation | Machine Learning / AI | Seattle, WA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7525650208522193159) |
 | 🇺🇸 USA |  | Radix Trading | Quantitative Technologist C++ Intern | GIS / Geospatial | Chicago, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
 | 🇺🇸 USA |  | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
+| 🌎 Other | 🔥 NEW | Paccar | Technical Content Author Intern - Technical Content Analytics | Analytics | Renton, WA | simplify | 2026-10-20 10:02 PM EDT | [Apply](https://jobs.paccar.com/job/Renton-Summer-Internship-Technical-Content-Analytics-WA-98055/1449634733/?ats=successfactors) |
+| 🌎 Other | 🔥 NEW | Rakuten International | AI Engineer Intern | Machine Learning / AI | Bellevue, WA | simplify | 2026-10-20 10:02 PM EDT | [Apply](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437) |
 | 🌎 Other | 🔥 NEW | Micron Technology | AI Engineer Intern | Machine Learning / AI | Boise, ID | simplify | 2026-10-20 07:39 PM EDT | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094) |
 | 🌎 Other | 🔥 NEW | PrizePicks | Machine Learning Intern | Machine Learning / AI | Atlanta, GA | simplify | 2026-10-20 07:39 PM EDT | [Apply](http://prizepicks.com/position?gh_jid=8038883003) |
 | 🌎 Other | 🔥 NEW | Paccar | Field Service Data Analyst Intern | Analytics | Kirkland, WA | simplify | 2026-10-20 07:39 PM EDT | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors) |
@@ -282,7 +284,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | MetLife | Data & Analytics Intern | Analytics | Cary, NC | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://metlife.avature.net/en_US/ml/JobDetail/20702) |
 | 🌎 Other |  | Hilb Group | Benefits Analytics Intern | Analytics | Hunt Valley, Cockeysville, MD | simplify | 2026-10-16 12:59 PM EDT | [Apply](https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866) |
 | 🌎 Other |  | Boston Scientific | Marketing Analytics Intern | Analytics | Maple Grove, MN | simplify | 2026-10-16 12:59 PM EDT | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813777926) |
-| 🌎 Other |  | Apple | SoC Machine Learning Software Engineer Intern | Machine Learning / AI | Sunnyvale, CA | simplify | 2026-10-15 10:32 PM EDT | [Apply](https://jobs.apple.com/en-us/details/200689488) |
 | 🌎 Other |  | Angel City | Data Analytics Intern | Analytics | Santa Monica, CA | simplify | 2026-10-15 10:32 PM EDT | [Apply](https://job-boards.greenhouse.io/wfclainc/jobs/6226220004) |
 | 🌎 Other |  | Cigna Group | Healthcare Analytics Intern | Analytics | Morris Plains, NJ | simplify | 2026-10-15 07:52 PM EDT | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483) |
 | 🌎 Other |  | Duolingo | Data Scientist Intern | Data Science | Pittsburgh, PA, NYC | simplify | 2026-10-15 07:52 PM EDT | [Apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8893030002) |
@@ -293,7 +294,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Deloitte | Audit & Assurance Intern - Valuation & Analytics | Analytics | Atlanta, GA | simplify | 2026-10-15 02:24 PM EDT | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Valuation-Analytics-Winter-2027/361853) |
 | 🌎 Other |  | Expedia Group | Applied Science Intern | Machine Learning / AI | London, UK | simplify | 2026-10-15 02:24 PM EDT | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Applied-Science-Intern---Masters---2027---London_R-110540) |
 | 🌎 Other |  | Deloitte | Audit & Assurance Intern - AI and Data Science | Data Science | LA | simplify | 2026-10-15 02:24 PM EDT | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857) |
-| 🌎 Other |  | Microsoft | Applied Sciences Intern | Machine Learning / AI | London, UK | simplify | 2026-10-15 10:19 AM EDT | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557040084) |
 | 🌎 Other |  | General Motors | AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure | Machine Learning / AI | Sunnyvale, CA | simplify | 2026-10-14 08:09 PM EDT | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410) |
 | 🌎 Other |  | National Life | Data Science Intern | Data Science | Montpelier, VT, Addison, TX | simplify | 2026-10-14 08:09 PM EDT | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009) |
 | 🌎 Other |  | Brookfield | Analytics Modelling Intern | Analytics | NYC | simplify | 2026-10-14 08:09 PM EDT | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Intern--Analytics-Modelling---Brookfield-Wealth-Solutions_R2053354) |
@@ -372,7 +372,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Roblox | Applied Scientist Intern | Machine Learning / AI | San Mateo, CA | simplify | 2026-10-08 09:16 PM EDT | [Apply](https://careers.roblox.com/jobs/8242621?gh_jid=8242621) |
 | 🌎 Other |  | Waymo | Summer Intern - Machine Learning - Planning/Prediction | Machine Learning / AI | Mountain View, CA | simplify | 2026-10-08 09:16 PM EDT | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8262154) |
 | 🌎 Other |  | Merck | International Pricing Analytics Intern - International Pricing Analytics | Analytics | Upper Gwynedd Township, PA, Rahway, NJ | simplify | 2026-10-08 09:16 PM EDT | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---International-Pricing-Analytics---Intern_R420041) |
-| 🌎 Other |  | American Electric Power | Data Scientist Intern | Data Science | Columbus, OH | simplify | 2026-10-08 09:16 PM EDT | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R19884) |
+| 🌎 Other |  | American Electric Power | Data Scientist Intern | Data Science | Columbus, OH | simplify | 2026-10-08 09:16 PM EDT | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499) |
 | 🌎 Other |  | Symbotic | Machine Learning Operations Intern | Machine Learning / AI | Wilmington, MA | simplify | 2026-10-08 09:16 PM EDT | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Machine-Learning-Ops_R8202) |
 | 🌎 Other |  | TikTok | Machine Learning Engineer Intern - Monetization Technology - Ads Core Global | Machine Learning / AI | San Jose, CA | simplify | 2026-10-08 11:58 AM EDT | [Apply](https://lifeattiktok.com/search/7687630614472149301) |
 | 🌎 Other |  | Dell Technologies | Undergraduate Data Science Intern | Data Science | Round Rock, TX, Hopkinton, MA | simplify | 2026-10-08 04:51 AM EDT | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299978) |
