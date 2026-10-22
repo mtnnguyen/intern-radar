@@ -1,5 +1,37 @@
 [
   {
+    "id": "44422b5811016138abab",
+    "company": "Meta",
+    "source": "simplify",
+    "title": "Research Scientist Intern - Central Applied Science",
+    "location": "Menlo Park, CA, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.metacareers.com/jobs/1582569213186235",
+    "published_at": 1792679304,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-22T18:52:58.810625+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1d016fa7553e2d80ea41",
+    "company": "CIBC",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Co-op",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
+    "published_at": 1792627200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-22T18:52:58.810579+00:00",
+    "status": "open"
+  },
+  {
     "id": "66c900b7f870014ef01e",
     "company": "Qualcomm",
     "source": "simplify",
@@ -255,7 +287,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-21T18:03:07.311438+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "840f6f4157d8403143ad",
@@ -896,7 +928,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-19T23:33:43.217588+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a59b711780a1716c52ea",
@@ -5307,7 +5339,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-06T15:05:30.406844+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8d8813d816b5694bd46c",
@@ -8587,7 +8619,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-24T23:18:32.636130+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3ca00a6123eaa99e6cf5",
@@ -20768,7 +20800,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.487938+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e4726c8d0d4123655d68",
