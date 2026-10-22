@@ -1,5 +1,54 @@
 [
   {
+    "id": "66c900b7f870014ef01e",
+    "company": "Qualcomm",
+    "source": "simplify",
+    "title": "Applied AI Engineering Intern - Hardware Systems",
+    "location": "Vancouver, BC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721678733",
+    "published_at": 1792678332,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-22T14:42:58.712749+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f7775633d1fb8d3fcc26",
+    "company": "Kensington",
+    "source": "simplify",
+    "title": "Marketing Analytics Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007",
+    "published_at": 1792678873,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-22T14:42:58.712691+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d727df36b3c6916c4277",
+    "company": "LexisNexis Risk Solutions",
+    "source": "simplify",
+    "title": "Data Science & Fraud Analytics Placement Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Intern_R119888",
+    "published_at": 1792627200,
+    "categories": [
+      "Data Science",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-22T14:42:58.712625+00:00",
+    "status": "open"
+  },
+  {
     "id": "488e69bbb5d24c3ddd3d",
     "company": "Qualcomm",
     "source": "simplify",
@@ -13,7 +62,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-22T04:53:10.876219+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8c5ad747741f777f0b97",
@@ -5098,7 +5147,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-06T23:52:30.276593+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b7be56db5a63c3ebf3e1",
@@ -7040,7 +7089,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-01T23:43:25.907301+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "2ecfa9481ae30c8277b5",
@@ -12224,7 +12273,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-16T00:26:30.972721+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "3e3e3e5f62603ac29397",
@@ -12786,7 +12835,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -12802,7 +12851,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -12818,7 +12867,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -12834,7 +12883,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -12850,7 +12899,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -12866,7 +12915,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -12882,7 +12931,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -12898,7 +12947,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -12914,7 +12963,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -12930,7 +12979,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -12946,7 +12995,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -12962,7 +13011,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -14228,7 +14277,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.537952+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "884d76541b71116aecb0",
@@ -18471,7 +18520,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.505604+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7827d6f9362686414abf",
