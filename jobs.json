@@ -1,5 +1,439 @@
 [
   {
+    "id": "33dfc070755af3f1e5a2",
+    "company": "JP Morgan Chase",
+    "source": "simplify",
+    "title": "Asset Management Data Scientist – Summer Associate Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931",
+    "published_at": 1792708054,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860881+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4e751fb9f47f3319dfb4",
+    "company": "CVS Health",
+    "source": "simplify",
+    "title": "Innovation & Technology Internship - Data Engineering",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101",
+    "published_at": 1792627200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860865+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6dec2ac31a786d401bd6",
+    "company": "CVS Health",
+    "source": "simplify",
+    "title": "Innovation & Technology Data Science Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067",
+    "published_at": 1792627200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860843+00:00",
+    "status": "open"
+  },
+  {
+    "id": "aa2421c32cf57e5025fb",
+    "company": "Booz Allen",
+    "source": "simplify",
+    "title": "Enterprise Cybersecurity Data and Business Intelligence Analyst Intern",
+    "location": "McLean, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250",
+    "published_at": 1792627200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860831+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0ebf16e02b67c0b46f8d",
+    "company": "CVS Health",
+    "source": "simplify",
+    "title": "Innovation & Technology Data Engineering Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1081090",
+    "published_at": 1792627200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860817+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3d0f8cb3c2b45f445834",
+    "company": "CVS Health",
+    "source": "simplify",
+    "title": "Innovation & Technology Internship - Data Science",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038",
+    "published_at": 1792627200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860799+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b95924c1ca69e65fb00b",
+    "company": "CVS Health",
+    "source": "simplify",
+    "title": "Medicaid Data Analytics Intern",
+    "location": "Hartford, CT",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicaid-Data-Analytics-Corporate-Internship---Summer-2027--Undergraduate-_R1052342",
+    "published_at": 1792627200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860791+00:00",
+    "status": "open"
+  },
+  {
+    "id": "88f7910c9017c625e5eb",
+    "company": "KION Group",
+    "source": "simplify",
+    "title": "Software Analytics Co-op",
+    "location": "Grand Rapids, MI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723",
+    "published_at": 1792627200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860740+00:00",
+    "status": "open"
+  },
+  {
+    "id": "98f9740ecf61d8b7a9f7",
+    "company": "CIBC",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Co-op",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1",
+    "published_at": 1792627200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860729+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b54e3d0729e6e6b916a1",
+    "company": "Databricks",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "SF, Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6866538002",
+    "published_at": 1792706754,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860713+00:00",
+    "status": "open"
+  },
+  {
+    "id": "52ccccb18121afe7606d",
+    "company": "Allstate",
+    "source": "simplify",
+    "title": "Data Science Intern - Core Telematics",
+    "location": "Illinois",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285",
+    "published_at": 1792627200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860698+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6454a42a33038ff74bb6",
+    "company": "Allstate",
+    "source": "simplify",
+    "title": "Data Analytics Engineer Intern",
+    "location": "Illinois",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286",
+    "published_at": 1792627200,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860691+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c356f5ddbe62f275b1af",
+    "company": "STR",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Arlington County, Arlington, VA, Woburn, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006",
+    "published_at": 1792706689,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860683+00:00",
+    "status": "open"
+  },
+  {
+    "id": "aa0aeb46462bb3c660fa",
+    "company": "American Family Insurance Group",
+    "source": "simplify",
+    "title": "Business Intelligence Enablement Intern",
+    "location": "Madison, WI, Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531",
+    "published_at": 1792627200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860633+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e81cca52a31ef5b64caa",
+    "company": "Atoms",
+    "source": "simplify",
+    "title": "Machine Learning/Artificial Intelligence Research Intern",
+    "location": "SF, Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/atoms/jobs/8909102002",
+    "published_at": 1792707074,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860626+00:00",
+    "status": "open"
+  },
+  {
+    "id": "de2bdff24b5432c218bd",
+    "company": "Symbotic",
+    "source": "simplify",
+    "title": "Machine Learning Ops Co-op",
+    "location": "Wilmington, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning-Ops_R8327",
+    "published_at": 1792627200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860592+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d66f9e7b7c8d4d7eb3c6",
+    "company": "ABB",
+    "source": "simplify",
+    "title": "Sales Excellence Data Analytics Intern",
+    "location": "Cary, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Sales-Excellence-Data-Analytics-Intern---Summer-2027_JR00050987",
+    "published_at": 1792627200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860582+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3ecb1fbb670f1ab030e3",
+    "company": "Genentech",
+    "source": "simplify",
+    "title": "Data Science & Machine Learning Intern - Agentic AI Discovery & Prototyping",
+    "location": "South SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Data-Science---Machine-Learning_202609-124657",
+    "published_at": 1792627200,
+    "categories": [
+      "Data Science",
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860574+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4541be3211abae3f8f7d",
+    "company": "Atoms",
+    "source": "simplify",
+    "title": "Machine Learning/Artificial Intelligence Research Intern",
+    "location": "SF, Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8909115002",
+    "published_at": 1792707323,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860535+00:00",
+    "status": "open"
+  },
+  {
+    "id": "304a522bf35f4745b184",
+    "company": "Insperity",
+    "source": "simplify",
+    "title": "Rotational AI Intern",
+    "location": "Kingwood, Houston, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103460",
+    "published_at": 1792627200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860521+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ab1e42a90b416d2bf753",
+    "company": "Brookhaven Lab",
+    "source": "simplify",
+    "title": "Data Engineering Student Assistant Intern",
+    "location": "Upton, Brookhaven, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Data-Engineering-Student-Assistant_JR102753",
+    "published_at": 1792627200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860510+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7b7c12e2066f232c54dc",
+    "company": "General Dynamics Information Technology",
+    "source": "simplify",
+    "title": "Financial Data Analyst Intern",
+    "location": "Falls Church, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Financial-Data-Analyst-Intern--Seasonal-_RQ230761",
+    "published_at": 1792627200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860498+00:00",
+    "status": "open"
+  },
+  {
+    "id": "34b65cbe8cba5967fb7a",
+    "company": "Insperity",
+    "source": "simplify",
+    "title": "Rotational Data Analytics Intern",
+    "location": "Kingwood, Houston, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103458",
+    "published_at": 1792627200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860486+00:00",
+    "status": "open"
+  },
+  {
+    "id": "54339aa8efd287f354ad",
+    "company": "Stand Together",
+    "source": "simplify",
+    "title": "Data Analyst Intern - Open the Books",
+    "location": "Florida",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/standtogether/f379a7ee-c2b6-47db-b1de-08283462ea6c/apply",
+    "published_at": 1792707643,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860447+00:00",
+    "status": "open"
+  },
+  {
+    "id": "820b22345eed3dff7069",
+    "company": "KION Group",
+    "source": "simplify",
+    "title": "Software Analytics Co-op",
+    "location": "Grand Rapids, MI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1",
+    "published_at": 1792627200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860415+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3619155878ca4ae59c4a",
+    "company": "Pattern",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Lehi, UT",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7/apply",
+    "published_at": 1792707885,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860371+00:00",
+    "status": "open"
+  },
+  {
+    "id": "32ad72e61787bc93b44b",
+    "company": "FedEx Freight",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Memphis, TN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Data-Scientist_RC5660",
+    "published_at": 1792627200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-23T00:36:01.860321+00:00",
+    "status": "open"
+  },
+  {
     "id": "44422b5811016138abab",
     "company": "Meta",
     "source": "simplify",
@@ -335,7 +769,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-21T07:30:17.129704+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b845fa5b8b9ec518a603",
@@ -9950,7 +10384,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-21T23:59:00.761057+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1aaf0e436956879a8dbd",
@@ -12867,7 +13301,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -12883,7 +13317,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -12899,7 +13333,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -12915,7 +13349,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -12931,7 +13365,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -12947,7 +13381,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -12963,7 +13397,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -12979,7 +13413,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -12995,7 +13429,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -13011,7 +13445,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -13027,7 +13461,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -13043,7 +13477,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -19193,7 +19627,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c5f2217cd8505833603b",
@@ -25020,7 +25454,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.455569+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "304e7867b32285bf8fdb",
