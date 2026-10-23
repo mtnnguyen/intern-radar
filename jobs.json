@@ -1,5 +1,261 @@
 [
   {
+    "id": "cb7af5edbf9a3341906e",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Applied Science Intern - Natural Language Processing and Speech Technologies",
+    "location": "Cambridge, MA, Boston, MA, Seattle, WA, Santa Clara, CA, NYC, Bellevue, WA, Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10564593/2027-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting",
+    "published_at": 1792719944,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T05:20:47.843807+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1b465c4792222c27f8ea",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning",
+    "location": "Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington County, Arlington, VA, NYC, Bellevue, WA, San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10564597/2027-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting",
+    "published_at": 1792719944,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T05:20:47.843772+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b7850328cc1f38aa8ac0",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Applied Scientist Intern - Automated Reasoning",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10552930/2027-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting-automated-reasoning",
+    "published_at": 1792719946,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T05:20:47.843709+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c32c89c402b776aa105b",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Applied Science Intern - Gen AI & Large Language Models",
+    "location": "Cambridge, MA, Boston, MA, Seattle, WA, Santa Clara, CA, Pittsburgh, PA, NYC, Bellevue, WA, Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10564589/2027-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting",
+    "published_at": 1792719943,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T05:20:47.843690+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6d0f00bd8acfc1bdf36e",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Applied Scientist Intern",
+    "location": "United Kingdom",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition",
+    "published_at": 1792719940,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T05:20:47.843677+00:00",
+    "status": "open"
+  },
+  {
+    "id": "90e4c98218619fb2c2fb",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Applied Science Intern - Recommender Systems/ Information Retrieval - Machine Learning",
+    "location": "Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington County, Arlington, VA, NYC, Bellevue, WA, San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10564598/2027-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
+    "published_at": 1792719944,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T05:20:47.843666+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f72736b5016062788778",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Applied Science Intern - Frontier AI & Robotics",
+    "location": "Seattle, WA, SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics",
+    "published_at": 1792719943,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T05:20:47.843637+00:00",
+    "status": "open"
+  },
+  {
+    "id": "aabbfe71d7fe7be45934",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10556927/2027-data-science-internship-united-states-phd-or-masters-student",
+    "published_at": 1792719946,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-23T05:20:47.843615+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1c854f2ba1293d1377c0",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Applied Science Intern - Computer Vision",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10564601/2027-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting",
+    "published_at": 1792719943,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T05:20:47.843596+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f3981b4b1218e9d1ac1f",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Applied Science Intern - Master's Student Science",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting",
+    "published_at": 1792719944,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-23T05:20:47.843584+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1fe958509032e7e72293",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Business Intelligence Engineer Intern - Supply Chain EU SCOT",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10511799/business-intel-eng-1year-ftc-supply-chain-eu-scot",
+    "published_at": 1792720283,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T05:20:47.843554+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8a60c829ea8aadaec973",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Business Intelligence Engineer Intern - Supply Chain EU SCOT",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10468207/business-intel-eng-1year-ftc-supply-chain-eu-scot",
+    "published_at": 1792720283,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T05:20:47.843541+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1aa224c7b4cd4b908f06",
+    "company": "Paccar",
+    "source": "simplify",
+    "title": "Aftersales Data Analyst Intern",
+    "location": "Kirkland, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors",
+    "published_at": 1792717830,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T05:20:47.843450+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a9dd8f573e76bcd18c21",
+    "company": "RTX",
+    "source": "simplify",
+    "title": "Business Intelligence and Governance Analyst Intern",
+    "location": "Longueuil, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-intelligence-d-affaires-et-gouvernance---Internship---Winter-2027---Business-Intelligence-and-Governance-Analyst_01868337-1",
+    "published_at": 1792627200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T05:20:47.843395+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c50444baf56b59ca030b",
+    "company": "Marsh & McLennan",
+    "source": "simplify",
+    "title": "Data & Analytics Intern - Data & Analytics",
+    "location": "Newcastle upon Tyne, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984-1",
+    "published_at": 1788739200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T05:20:47.818702+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ea6a3ea89b6714740ba1",
+    "company": "Blackstone",
+    "source": "simplify",
+    "title": "Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819",
+    "published_at": 1782985395,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-23T05:20:47.806968+00:00",
+    "status": "open"
+  },
+  {
     "id": "33dfc070755af3f1e5a2",
     "company": "JP Morgan Chase",
     "source": "simplify",
@@ -1041,7 +1297,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-20T23:39:08.906781+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "00f07db6c7c1c6ef6ff0",
@@ -1314,7 +1570,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-19T23:33:43.217651+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9002273e593fc58fd7da",
@@ -4202,7 +4458,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-09T23:34:31.968940+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d1f6ac6e6aa3d2938054",
@@ -6286,7 +6542,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-06T01:33:02.289746+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c96877797b67e56cfb62",
@@ -13301,7 +13557,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -13317,7 +13573,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -13333,7 +13589,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -13349,7 +13605,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -13365,7 +13621,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -13381,7 +13637,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -13397,7 +13653,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -13413,7 +13669,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -13429,7 +13685,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -13445,7 +13701,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -13461,7 +13717,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -13477,7 +13733,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
