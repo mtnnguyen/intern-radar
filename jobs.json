@@ -1,5 +1,21 @@
 [
   {
+    "id": "e57f0a9d940f880e432f",
+    "company": "Leidos",
+    "source": "simplify",
+    "title": "Business Systems AI Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
+    "published_at": 1791244800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-24T13:38:21.628472+00:00",
+    "status": "open"
+  },
+  {
     "id": "8d06d8a75a5ad4421d50",
     "company": "Flagship Pioneering",
     "source": "simplify",
@@ -6110,7 +6126,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-07T17:32:41.123652+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "159938aa84ddfa70d90f",
@@ -8438,7 +8454,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-01T23:43:25.907479+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "ad96bc384752001c06ad",
@@ -8518,7 +8534,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-01T23:43:25.907301+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "2ecfa9481ae30c8277b5",
@@ -12052,7 +12068,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-19T05:07:57.023546+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7f2786ca97da9d7b9151",
@@ -15706,7 +15722,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.537952+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "884d76541b71116aecb0",
