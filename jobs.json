@@ -2133,7 +2133,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-20T17:45:10.442433+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "bff0958c050b6ea93417",
@@ -8438,7 +8438,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-01T23:43:25.907479+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ad96bc384752001c06ad",
@@ -8518,7 +8518,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-01T23:43:25.907301+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2ecfa9481ae30c8277b5",
@@ -10770,7 +10770,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-22T23:37:19.083453+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "da1c5753842e3a615828",
@@ -13670,7 +13670,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-16T00:26:30.972797+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "cc9dffcc8d58d0a46440",
@@ -15706,7 +15706,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.537952+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "884d76541b71116aecb0",
