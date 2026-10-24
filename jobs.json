@@ -1,5 +1,279 @@
 [
   {
+    "id": "8d06d8a75a5ad4421d50",
+    "company": "Flagship Pioneering",
+    "source": "simplify",
+    "title": "Bioinformatics Data Engineering Co-op",
+    "location": "Watertown, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002",
+    "published_at": 1792776850,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-24T00:54:10.364153+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a3362092ad8f1f09ac8b",
+    "company": "Flagship Pioneering",
+    "source": "simplify",
+    "title": "AI/ML Engineering Co-op - SAGE Platform",
+    "location": "Watertown, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002",
+    "published_at": 1792777615,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-24T00:54:10.364135+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9fecba37b235f969a98a",
+    "company": "Sun Life",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Milwaukee, WI, Kansas City, MO, Hartford, CT, Portland, ME, Wellesley, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666",
+    "published_at": 1792713600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-24T00:54:10.364081+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7f44bbb8d69aedd0b233",
+    "company": "Maple Leaf Sports & Entertainment Partnership (MLSE)",
+    "source": "simplify",
+    "title": "Business Analytics Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Analytics-Intern_JR0000893-2",
+    "published_at": 1792713600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-24T00:54:10.363993+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f209a38043c364f5caa2",
+    "company": "ID.me",
+    "source": "simplify",
+    "title": "Analytics Engineer Intern",
+    "location": "Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003",
+    "published_at": 1792782891,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-24T00:54:10.363976+00:00",
+    "status": "open"
+  },
+  {
+    "id": "096150b9691747fdc23e",
+    "company": "Trimble",
+    "source": "simplify",
+    "title": "Navigation & Machine Learning Engineer Intern",
+    "location": "Richmond Hill, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980",
+    "published_at": 1792713600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-24T00:54:10.363847+00:00",
+    "status": "open"
+  },
+  {
+    "id": "83a3fedf27d33f7462b8",
+    "company": "Meta",
+    "source": "simplify",
+    "title": "Research Scientist Intern - AI Core Machine Learning",
+    "location": "Seattle, WA, Bellevue, WA, Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.metacareers.com/jobs/1648122343381284",
+    "published_at": 1792793130,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-24T00:54:10.363787+00:00",
+    "status": "open"
+  },
+  {
+    "id": "26e21a747b7d1070ec10",
+    "company": "Bertelsmann",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157546634",
+    "published_at": 1792780786,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-24T00:54:10.363751+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b102b3f54b86b627cb6a",
+    "company": "Simbe Robotics",
+    "source": "simplify",
+    "title": "Data Analytics & Data Science Intern",
+    "location": "Burlingame, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f/apply",
+    "published_at": 1792793474,
+    "categories": [
+      "Data Science",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-24T00:54:10.363683+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4fd8efcd749d955df56e",
+    "company": "Simbe Robotics",
+    "source": "simplify",
+    "title": "Computer Vision / Applied AI Intern",
+    "location": "Burlingame, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8/apply",
+    "published_at": 1792793470,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-24T00:54:10.363652+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f05fe5482782a8ce22ac",
+    "company": "Sun Life",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Milwaukee, WI, Kansas City, MO, Hartford, CT, Portland, ME, Wellesley, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1",
+    "published_at": 1792713600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-24T00:54:10.363639+00:00",
+    "status": "open"
+  },
+  {
+    "id": "989cb3e4964a085f23d6",
+    "company": "American Express",
+    "source": "simplify",
+    "title": "AI Engineer Intern - Enterprise Technology Services",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552",
+    "published_at": 1792793561,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-24T00:54:10.363629+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2aa51d4bffda5c60f35c",
+    "company": "MSA Safety",
+    "source": "simplify",
+    "title": "AI Engineer Co-op",
+    "location": "Cranberry Township, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.msasafety.com/jobs/10243?icims=1",
+    "published_at": 1792774200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-24T00:54:10.363603+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fc562c9f3b01b8e01bf8",
+    "company": "Navy Federal",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Pensacola, FL, Vienna, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/33208",
+    "published_at": 1792793758,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-24T00:54:10.363582+00:00",
+    "status": "open"
+  },
+  {
+    "id": "776f88dbf21a26c7fb96",
+    "company": "Auto-Owners Insurance",
+    "source": "simplify",
+    "title": "Business Intelligence Developer Intern",
+    "location": "Lansing, MI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14772",
+    "published_at": 1792713600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-24T00:54:10.363569+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2b1bad1350535f9216e6",
+    "company": "Amperesand",
+    "source": "simplify",
+    "title": "AI/ML Engineer Intern",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/amperesand/jobs/4465899009",
+    "published_at": 1792793199,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-24T00:54:10.363484+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f00da8bd063db1d4f9fb",
+    "company": "RSM",
+    "source": "simplify",
+    "title": "Business Intelligence Consulting Intern",
+    "location": "Toronto, ON, Canada, Calgary, AB, Canada, Edmonton, AB, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1",
+    "published_at": 1792713600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-24T00:54:10.363446+00:00",
+    "status": "open"
+  },
+  {
     "id": "8e072ec92422ebec0179",
     "company": "Vertex Pharmaceuticals",
     "source": "simplify",
@@ -5788,7 +6062,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-08T02:02:47.243246+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d41f25dca1e8ac975d83",
@@ -28957,11 +29231,11 @@
     "company": "Expedia Group",
     "source": "simplify",
     "title": "Machine Learning Science Intern",
-    "location": "San Jose, CA, Austin, TX",
+    "location": "Austin, TX, San Jose, CA",
     "description": "",
     "employment_type": "internship",
     "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585",
-    "published_at": 1772062577,
+    "published_at": 1779516338,
     "categories": [
       "Machine Learning / AI"
     ],
@@ -28973,11 +29247,11 @@
     "company": "Brookfield",
     "source": "simplify",
     "title": "Artificial Intelligence Intern - Renewable Power & Transition",
-    "location": "NYC, Toronto, ON, Canada",
+    "location": "Toronto, ON, Canada, NYC",
     "description": "",
     "employment_type": "internship",
     "url": "https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741",
-    "published_at": 1772062271,
+    "published_at": 1778942352,
     "categories": [
       "Machine Learning / AI"
     ],
