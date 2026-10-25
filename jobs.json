@@ -1,5 +1,37 @@
 [
   {
+    "id": "dba148457ee5965447c3",
+    "company": "Dell Technologies",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Round Rock, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413",
+    "published_at": 1792909347,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-25T06:59:07.503369+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6eb53d3cc8b9dd488285",
+    "company": "Dell Technologies",
+    "source": "simplify",
+    "title": "Graduate Analytics Intern",
+    "location": "Texas",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301412",
+    "published_at": 1792909346,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-25T06:59:07.503333+00:00",
+    "status": "open"
+  },
+  {
     "id": "e57f0a9d940f880e432f",
     "company": "Leidos",
     "source": "simplify",
@@ -3416,7 +3448,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-15T09:26:08.559974+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2264c7541f9aff5fe654",
@@ -26160,7 +26192,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.456578+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5d1391d03fb535121d2c",

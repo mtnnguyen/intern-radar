@@ -6,7 +6,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Active matching jobs:** 903
 
-**New in the last 24 hours:** 1
+**New in the last 24 hours:** 3
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -21,7 +21,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🔥 Toronto / GTA |  | Qualcomm | Machine Learning AISW Intern | Machine Learning / AI | Markham, ON, Canada | simplify | 2026-10-19 07:33 PM EDT | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636765) |
 | 🔥 Toronto / GTA |  | Manulife Financial | AI Intern - AI | Machine Learning / AI | Toronto, ON, Canada | simplify | 2026-10-19 07:33 PM EDT | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1) |
 | 🔥 Toronto / GTA |  | CIBC | Analytics Co-op | Analytics | Toronto, ON, Canada | simplify | 2026-10-19 07:33 PM EDT | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analytics-Co-op_2621449-1) |
-| 🔥 Toronto / GTA |  | Interac | Business Systems & AI Intern | Machine Learning / AI | Toronto, ON, Canada | simplify | 2026-10-15 05:26 AM EDT | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393) |
 | 🔥 Toronto / GTA |  | Kensington | Analytics Intern | Analytics | Toronto, ON, Canada | simplify | 2026-10-14 08:09 PM EDT | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007) |
 | 🔥 Toronto / GTA |  | Manulife Financial | Data Engineering Co-op | Data Engineering | Toronto, ON, Canada | simplify | 2026-10-12 08:33 PM EDT | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081658-1) |
 | 🔥 Toronto / GTA |  | Workday | Machine Learning Engineer Intern | Machine Learning / AI | Toronto, ON, Canada, Vancouver, BC, Canada | simplify | 2026-10-09 10:43 PM EDT | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) |
@@ -241,6 +240,8 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | TikTok | Machine Learning Scientist Intern - Global E-Commerce Content Recommendation | Machine Learning / AI | Seattle, WA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7525650208522193159) |
 | 🇺🇸 USA |  | Radix Trading | Quantitative Technologist C++ Intern | GIS / Geospatial | Chicago, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
 | 🇺🇸 USA |  | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
+| 🌎 Other | 🔥 NEW | Dell Technologies | Data Science Intern | Data Science | Round Rock, TX | simplify | 2026-10-25 02:59 AM EDT | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413) |
+| 🌎 Other | 🔥 NEW | Dell Technologies | Graduate Analytics Intern | Analytics | Texas | simplify | 2026-10-25 02:59 AM EDT | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301412) |
 | 🌎 Other |  | Flagship Pioneering | Bioinformatics Data Engineering Co-op | Data Engineering | Watertown, MA | simplify | 2026-10-23 08:54 PM EDT | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002) |
 | 🌎 Other |  | Flagship Pioneering | AI/ML Engineering Co-op - SAGE Platform | Machine Learning / AI | Watertown, MA | simplify | 2026-10-23 08:54 PM EDT | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002) |
 | 🌎 Other |  | ID.me | Analytics Engineer Intern | Data Engineering, Analytics | Mountain View, CA | simplify | 2026-10-23 08:54 PM EDT | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003) |
@@ -820,7 +821,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | ConocoPhillips | Trading Analytics Intern | Analytics | Houston, TX | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) |
 | 🌎 Other |  | Zoox | Machine Learning Engineer Student Worker - Data Mining & VLM | Machine Learning / AI | Foster City, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.lever.co/zoox/7206fd97-14e4-43a0-b903-ba65dfeee53e/apply) |
 | 🌎 Other |  | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Foundation | Machine Learning / AI | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7672883129493948677) |
-| 🌎 Other |  | Northwestern Mutual | Quantitative Analyst Intern - Public Investments | Analytics | Milwaukee, WI | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) |
 | 🌎 Other |  | Gartner | Data Analyst Intern | Analytics | Irving, TX | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297) |
 | 🌎 Other |  | Calpion/Plutus Health | AI Engineering Intern - Python & Agentic AI | Machine Learning / AI | Dallas, TX | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://calpionplutus.bamboohr.com/careers/310/) |
 | 🌎 Other |  | TikTok | Data Science Intern - Advertisement Team | Data Science | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7673226686054107445) |
