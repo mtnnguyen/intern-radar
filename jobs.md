@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 903
+**Active matching jobs:** 904
 
 **New in the last 24 hours:** 3
 
@@ -755,6 +755,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | PIMCO | Quant Research Analyst Intern - Client Solutions & Analytics | Analytics | Newport Beach, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816) |
 | 🌎 Other |  | Edison International | Data Analytics Intern - Data Science - Applied Math | Data Science, Analytics | Pomona, CA, Rosemead, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors) |
 | 🌎 Other |  | Edison International | Software/Data Engineering Intern | Data Engineering | Chino, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors) |
+| 🌎 Other |  | Edison International | Summer Internship - Data Analytics/Science/Applied Math | Analytics | Santa Ana, CA, Fullerton, CA, Irvine, CA, Westminster, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors) |
 | 🌎 Other |  | PIMCO | Quantitative Research Analyst Intern - Client Solutions & Analytics | Analytics | London, UK | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804) |
 | 🌎 Other |  | Emerson Electric | Data Science Engineering Intern | Data Science | Boulder, CO | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009488) |
 | 🌎 Other |  | BlueCross BlueShield of Nebraska | Data Intern - Data Science - Data Analytics | Data Science, Analytics | Omaha, NE | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) |
