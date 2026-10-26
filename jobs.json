@@ -1,5 +1,165 @@
 [
   {
+    "id": "2a0fffa93a6b5716ebed",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Engineer Intern - Amplify 2027",
+    "location": "Vancouver, BC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-26T16:50:50.496580+00:00",
+    "status": "open"
+  },
+  {
+    "id": "864c35674eb096627065",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Halifax Regional Municipality, NS, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000191195-1",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-26T16:50:50.496553+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0b7325e33baf43087591",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-26T16:50:50.496535+00:00",
+    "status": "open"
+  },
+  {
+    "id": "94e957851dc078d810ae",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Calgary, AB, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-26T16:50:50.496520+00:00",
+    "status": "open"
+  },
+  {
+    "id": "44477dbc96591b1dddad",
+    "company": "Pattern",
+    "source": "simplify",
+    "title": "Revenue Operations Data Analyst Intern",
+    "location": "Lehi, UT",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/pattern/84c10630-d414-4ad6-a195-05b0691fa97a/apply",
+    "published_at": 1793025814,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-26T16:50:50.496509+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0dbfafbcf676942bce99",
+    "company": "Wells Fargo",
+    "source": "simplify",
+    "title": "Technology Intern - Early Careers - Data Engineering",
+    "location": "Iselin, Woodbridge Township, NJ, Charlotte, NC, Irving, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-26T16:50:50.496490+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9cdd49b40a889c58b557",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Halifax Regional Municipality, NS, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000191195",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-26T16:50:50.496477+00:00",
+    "status": "open"
+  },
+  {
+    "id": "22673c4de982eda04562",
+    "company": "CVS Health",
+    "source": "simplify",
+    "title": "Innovation & Technology Intern - Data Engineering",
+    "location": "Irving, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-26T16:50:50.496459+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4a46a4e79509a61125ba",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-26T16:50:50.496423+00:00",
+    "status": "open"
+  },
+  {
+    "id": "474c1109e3629da3a5ae",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "AI & Stress Testing Analytics Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-3",
+    "published_at": 1792972800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-26T16:50:50.496371+00:00",
+    "status": "open"
+  },
+  {
     "id": "8f05a313d63da6574412",
     "company": "FTI Consulting",
     "source": "simplify",
@@ -1249,7 +1409,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T00:36:01.860683+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "aa0aeb46462bb3c660fa",
@@ -2661,7 +2821,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-19T20:01:23.818023+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ff39c78a2280676f7fa2",
@@ -3416,7 +3576,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-15T18:24:32.275589+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "39d84a9be162000f49a9",
@@ -4058,7 +4218,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-14T18:19:31.367208+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "63a64c6aa9f46cf0fe3c",
@@ -7908,7 +8068,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-02T23:46:44.025603+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b69ed29ca49b60167a67",
@@ -14344,7 +14504,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -14360,7 +14520,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -14376,7 +14536,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -14392,7 +14552,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -14408,7 +14568,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -14424,7 +14584,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -14440,7 +14600,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -14456,7 +14616,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -14472,7 +14632,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -14488,7 +14648,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -14504,7 +14664,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -14520,7 +14680,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -15208,7 +15368,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:37:39.127317+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "f47c64640062123ace25",
@@ -23016,7 +23176,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6d5a8977eb7b03f18991",
@@ -23033,7 +23193,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fbe958b417cfb6a05045",
