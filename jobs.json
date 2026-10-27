@@ -1,5 +1,101 @@
 [
   {
+    "id": "ce8df83fa58c362b618c",
+    "company": "Aurora Innovation",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Seattle, WA, Pittsburgh, PA, Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c/application?embed=true",
+    "published_at": 1791417600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-27T05:33:26.445074+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b66c85e1d9813c09defe",
+    "company": "Zillow",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-27T05:33:26.445012+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3029eb67cdd10807fc45",
+    "company": "Western Digital",
+    "source": "simplify",
+    "title": "Recording Electronics Data Analytics & Optimization Co-op",
+    "location": "Rochester, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000155109379",
+    "published_at": 1791842781,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-27T05:33:26.444988+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6d1b0cc098288bb56544",
+    "company": "JM Family",
+    "source": "simplify",
+    "title": "Automation & Analytics Intern",
+    "location": "Deerfield Beach, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Automation---Analytics-Intern_JR105132",
+    "published_at": 1792972800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-27T05:33:26.444936+00:00",
+    "status": "open"
+  },
+  {
+    "id": "159cc6924abd0c30682e",
+    "company": "Generac",
+    "source": "simplify",
+    "title": "AI Engineering Intern",
+    "location": "Waukesha, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736",
+    "published_at": 1792972800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-27T05:33:26.444912+00:00",
+    "status": "open"
+  },
+  {
+    "id": "22876ca78b52be9ec96b",
+    "company": "Highmark Health",
+    "source": "simplify",
+    "title": "Predictive Modeling & Data Science Graduate Intern",
+    "location": "New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-27T05:33:26.444860+00:00",
+    "status": "open"
+  },
+  {
     "id": "4c6c671ca6882751aa8e",
     "company": "Tradeweb",
     "source": "simplify",
@@ -413,7 +509,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-26T16:50:50.496371+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8f05a313d63da6574412",
@@ -4972,7 +5068,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-13T07:04:08.741963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "64526685658e29af6312",
@@ -5004,7 +5100,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-13T00:33:50.785409+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a1fe46963d7a1c553b3f",
@@ -8324,7 +8420,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-02T23:46:44.025603+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "b69ed29ca49b60167a67",
@@ -14519,7 +14615,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-15T19:09:22.057219+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fb98bb426dc84e7ed930",
@@ -14535,7 +14631,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-15T19:09:22.057182+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1312c2b0fb3e86063b24",
@@ -18804,7 +18900,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "ba4ac4bb6148f864d37f",
@@ -26929,7 +27025,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.455569+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "30a93ef979c5e8423fdf",
