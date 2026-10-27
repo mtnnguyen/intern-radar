@@ -1,5 +1,261 @@
 [
   {
+    "id": "4c6c671ca6882751aa8e",
+    "company": "Tradeweb",
+    "source": "simplify",
+    "title": "Human Resources Data & Analytics Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301987",
+    "published_at": 1793053915,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-27T00:34:12.000396+00:00",
+    "status": "open"
+  },
+  {
+    "id": "62fcdd2acc84d8c1fc55",
+    "company": "Booz Allen",
+    "source": "simplify",
+    "title": "2027 Summer Games Data Scientist Intern",
+    "location": "Lexington, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-27T00:34:12.000305+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fb3b9e3f65326c80f306",
+    "company": "CHS",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Inver Grove Heights, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Engineer-Intern-MN-55077-1721/1443601900/?ats=successfactors",
+    "published_at": 1793054618,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-27T00:34:12.000231+00:00",
+    "status": "open"
+  },
+  {
+    "id": "20e7e3f9fb5a715e1f71",
+    "company": "CHS",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Inver Grove Heights, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Engineer-Intern-MN-55077-1721/1443597100/?ats=successfactors",
+    "published_at": 1793054619,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-27T00:34:12.000194+00:00",
+    "status": "open"
+  },
+  {
+    "id": "22ce7d504ff98ab31c6f",
+    "company": "onsemi",
+    "source": "simplify",
+    "title": "AI & Data Science Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468",
+    "published_at": 1793052222,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-27T00:34:12.000170+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fa32cf54e69674367bfc",
+    "company": "Applied Materials",
+    "source": "simplify",
+    "title": "Data Scientist Co-op",
+    "location": "Gloucester, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-27T00:34:12.000135+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c5f306a422a288dbd462",
+    "company": "Valmont",
+    "source": "simplify",
+    "title": "Operations Data Analyst Intern",
+    "location": "Valley, NE",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Operations-Data-Analyst-Intern_R29224",
+    "published_at": 1792972800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-27T00:34:12.000112+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a6b49a441773b5b196e5",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Software Developer Intern - Machine Learning",
+    "location": "United Kingdom",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk",
+    "published_at": 1793052452,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-27T00:34:12.000077+00:00",
+    "status": "open"
+  },
+  {
+    "id": "89ffbf1f6c5671c44fca",
+    "company": "Arizona State University",
+    "source": "simplify",
+    "title": "Student Assistant Intern - Data Science",
+    "location": "Scottsdale, AZ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Scottsdale-AZ/Student-Assistant---Data-Science_R1568",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-27T00:34:12.000060+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8063a09cb60131b2e073",
+    "company": "AtkinsRéalis",
+    "source": "simplify",
+    "title": "Business Intelligence Intern - Digital",
+    "location": "Montreal, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691",
+    "published_at": 1792972800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-27T00:34:12.000005+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d759b24557e73fefa7f0",
+    "company": "Federal Home Loan Bank of Indianapolis",
+    "source": "simplify",
+    "title": "Business Intelligence Intern",
+    "location": "Indianapolis, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Business-Intelligence-Intern_R637",
+    "published_at": 1792972800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-27T00:34:11.999955+00:00",
+    "status": "open"
+  },
+  {
+    "id": "48d4c037a7f24f6c5270",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-27T00:34:11.999843+00:00",
+    "status": "open"
+  },
+  {
+    "id": "be6bc4db6d3bfdfe2786",
+    "company": "Highmark Health",
+    "source": "simplify",
+    "title": "Applied Gen AI/Data Scientist Graduate Intern",
+    "location": "New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-27T00:34:11.999834+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f048914e72e633034b91",
+    "company": "Highmark Health",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Pittsburgh, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826",
+    "published_at": 1792972800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-27T00:34:11.999822+00:00",
+    "status": "open"
+  },
+  {
+    "id": "44ca9774e39e144ba76c",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Calgary, AB, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201-2",
+    "published_at": 1792972800,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-27T00:34:11.999759+00:00",
+    "status": "open"
+  },
+  {
+    "id": "78bf94f015333c9c9efd",
+    "company": "Alberta Investment Management Corporation",
+    "source": "simplify",
+    "title": "Quantitative Analytics & Reporting Intern",
+    "location": "Calgary, AB, Canada, Edmonton, AB, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891",
+    "published_at": 1787702400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-27T00:34:11.975732+00:00",
+    "status": "open"
+  },
+  {
     "id": "2a0fffa93a6b5716ebed",
     "company": "Royal Bank of Canada",
     "source": "simplify",
@@ -1924,7 +2180,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-21T18:03:07.311438+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "840f6f4157d8403143ad",
@@ -3111,7 +3367,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-17T00:42:57.464472+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "a86057b48fcf755a177a",
@@ -5341,7 +5597,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-10T02:43:23.212522+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "680da8b878909371e9f2",
@@ -5421,7 +5677,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-09T23:34:31.968914+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "ff1fa8bad436d506483b",
@@ -5869,7 +6125,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-08T15:58:58.829881+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ecc28f1af86aa3067cb",
@@ -7585,7 +7841,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-06T01:33:02.289546+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "05394080d61722181660",
@@ -14504,7 +14760,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -14520,7 +14776,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -14536,7 +14792,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -14552,7 +14808,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -14568,7 +14824,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -14584,7 +14840,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -14600,7 +14856,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -14616,7 +14872,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -14632,7 +14888,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -14648,7 +14904,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -14664,7 +14920,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -14680,7 +14936,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -18452,7 +18708,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7f3a9d607aafe143ab43",
@@ -19224,7 +19480,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "3f724ce57805a8dc7606",
