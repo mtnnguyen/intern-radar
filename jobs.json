@@ -1,5 +1,101 @@
 [
   {
+    "id": "eab09eea433b5e0ae7a2",
+    "company": "DriveWealth",
+    "source": "simplify",
+    "title": "AI Consulting Associate Program – AI Engineer Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true",
+    "published_at": 1792454400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-28T05:32:25.664475+00:00",
+    "status": "open"
+  },
+  {
+    "id": "90fb08e0d57c89e938d6",
+    "company": "Scout AI",
+    "source": "simplify",
+    "title": "AI Engineer Intern - Fury Team",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99/application?embed=true",
+    "published_at": 1792713600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-28T05:32:25.664457+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a3a47c22b35e8e4b8de5",
+    "company": "Hex Technologies",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6/application?embed=true",
+    "published_at": 1791763200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-28T05:32:25.664420+00:00",
+    "status": "open"
+  },
+  {
+    "id": "66f4e49c5792762ad83d",
+    "company": "Light",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/light-inc/9079d1ba-a35a-4e4b-9b07-820e85d921b9/application?embed=true",
+    "published_at": 1789257600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-28T05:32:25.664379+00:00",
+    "status": "open"
+  },
+  {
+    "id": "020a02a157296b3934d0",
+    "company": "Powertown",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/powertown/754a7189-5505-459d-a7d3-dda2e0eaf38b/application?embed=true",
+    "published_at": 1788566400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-28T05:32:25.664365+00:00",
+    "status": "open"
+  },
+  {
+    "id": "411cfba39a44b0247122",
+    "company": "Bridge Neurotech",
+    "source": "simplify",
+    "title": "Machine Learning Software Engineer Intern",
+    "location": "Redwood City, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/bridgeneurotech/50041fa1-417b-4269-8675-8c8746ed93bf/application?embed=true",
+    "published_at": 1791763200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-28T05:32:25.664324+00:00",
+    "status": "open"
+  },
+  {
     "id": "88d9469113a7d5cf5add",
     "company": "Assurant",
     "source": "simplify",
@@ -861,7 +957,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-26T16:50:50.496553+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0b7325e33baf43087591",
@@ -2064,7 +2160,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-23T00:36:01.860865+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6dec2ac31a786d401bd6",
@@ -3477,7 +3573,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-19T23:33:43.217456+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8d582998a10dfef804f6",
@@ -6541,7 +6637,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-09T01:16:01.389714+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1a09de6dc0eb6ce20f57",
@@ -25035,7 +25131,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-14T14:26:16.474305+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e5891367da64b69dce2a",
