@@ -1,5 +1,373 @@
 [
   {
+    "id": "88d9469113a7d5cf5add",
+    "company": "Assurant",
+    "source": "simplify",
+    "title": "AI and Data Science Intern",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105",
+    "published_at": 1793059200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981285+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2cce7201e960de5cec65",
+    "company": "The Walt Disney Company",
+    "source": "simplify",
+    "title": "Content Research Insights & Analytics Intern",
+    "location": "Burbank, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-2",
+    "published_at": 1793059200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981279+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7a99556030de4b6db8ca",
+    "company": "onsemi",
+    "source": "simplify",
+    "title": "Customer Operations Data Analyst Intern",
+    "location": "Scottsdale, AZ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507070",
+    "published_at": 1793140351,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981272+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8d1d31c73895251309a4",
+    "company": "Paccar",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Chillicothe, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Data-Engineer-Intern-(OH)-WA-98033/1451916833/?ats=successfactors",
+    "published_at": 1793140414,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981247+00:00",
+    "status": "open"
+  },
+  {
+    "id": "73320ef55bfd9e44c654",
+    "company": "Glencore",
+    "source": "simplify",
+    "title": "Industrial Placement Intern - Quantitative Research - Analytics",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.eu.greenhouse.io/glencoreuk/jobs/5013289101",
+    "published_at": 1792747009,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981238+00:00",
+    "status": "open"
+  },
+  {
+    "id": "923708b28ba4302f6079",
+    "company": "Great American Insurance Company",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Cincinnati, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineering-Intern---Summer-2027_R9794",
+    "published_at": 1793059200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981209+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d59cb1a787354d22f370",
+    "company": "Great American Insurance Company",
+    "source": "simplify",
+    "title": "Cloud Data Platform Intern",
+    "location": "Cincinnati, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795",
+    "published_at": 1793059200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981203+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5455775b26c475ed5540",
+    "company": "ACLU Kentucky",
+    "source": "simplify",
+    "title": "Undergraduate Software Engineer Intern - Technology and Analytics Department-Educate Pod",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/acluinternships/jobs/8919540002",
+    "published_at": 1793129801,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981196+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d59822fff9f99ab13774",
+    "company": "JM Family",
+    "source": "simplify",
+    "title": "Power Platform & Analytics Intern",
+    "location": "Mobile, AL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Alabama---Mobile/Intern--College-NE_JR105133",
+    "published_at": 1793059200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981183+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5d81ca9fcb5b140d622a",
+    "company": "JM Family",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Deerfield Beach, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120",
+    "published_at": 1793059200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981164+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7b6f7b9514238be38efc",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Applied Scientist Intern - Pxt Legends",
+    "location": "United Kingdom",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10590070/applied-scientist-pxt-legends",
+    "published_at": 1793138661,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981150+00:00",
+    "status": "open"
+  },
+  {
+    "id": "dcdfda4294d2137e341e",
+    "company": "Trimble",
+    "source": "simplify",
+    "title": "Geospatial Product Engineer Intern",
+    "location": "Richmond Hill, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213",
+    "published_at": 1793059200,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981139+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f3685af7ab820ebb0efd",
+    "company": "David Yurman",
+    "source": "simplify",
+    "title": "Strategic Analytics Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Strategic-Analytics-Intern_R-101176",
+    "published_at": 1793059200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981129+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8b56e4172511f1f8d724",
+    "company": "CIBC",
+    "source": "simplify",
+    "title": "Data Analyst Co-op",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Analyst-co-op_2622122-1",
+    "published_at": 1793059200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981082+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f84a8d3fb04120ccf9cb",
+    "company": "Micron Technology",
+    "source": "simplify",
+    "title": "HBM Data Scientist Intern",
+    "location": "Richardson, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Data-Scientist_JR115127",
+    "published_at": 1793059200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981069+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3b8aeb9b645a74e43d5b",
+    "company": "The Walt Disney Company",
+    "source": "simplify",
+    "title": "Content Research Insights & Analytics Intern",
+    "location": "Burbank, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-1",
+    "published_at": 1793059200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981035+00:00",
+    "status": "open"
+  },
+  {
+    "id": "73d2a5e472f9ace79459",
+    "company": "JP Morgan Chase",
+    "source": "simplify",
+    "title": "Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983",
+    "published_at": 1793139165,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981023+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ad7e0f3ac5fdaf78ba02",
+    "company": "CIBC",
+    "source": "simplify",
+    "title": "Data Analyst Co-op",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst-co-op_2622122",
+    "published_at": 1793059200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-28T00:05:22.981004+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bb0cbcf41608e222e72d",
+    "company": "CSAA Insurance Group",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Phoenix, AZ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002",
+    "published_at": 1793059200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-28T00:05:22.980962+00:00",
+    "status": "open"
+  },
+  {
+    "id": "11d696326096da0613b8",
+    "company": "Hive Financial Systems",
+    "source": "simplify",
+    "title": "Analytics Intern",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007",
+    "published_at": 1793129285,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-28T00:05:22.980953+00:00",
+    "status": "open"
+  },
+  {
+    "id": "602a9252db4ecfd779b2",
+    "company": "United Parcel Service",
+    "source": "simplify",
+    "title": "Human Resources Intern - Data Analytics - HR Systems",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/MHR-Summer-2027-Intern---Data-Analytics--HR-Systems-_R26039546",
+    "published_at": 1793059200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-28T00:05:22.980912+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8c7820bb46fa2f79283d",
+    "company": "OneMain Financial",
+    "source": "simplify",
+    "title": "Data Science Analyst Intern",
+    "location": "Charlotte, NC, Wilmington, DE",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405",
+    "published_at": 1788825600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-28T00:05:22.980858+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2eeb834ed12d3db8f295",
+    "company": "Sedgwick Claims Management Services",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Massachusetts",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick/job/Telecommuter-MA/Data-Analyst-Intern_R79691",
+    "published_at": 1792713600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-28T00:05:22.979412+00:00",
+    "status": "open"
+  },
+  {
     "id": "347948f505f8e0a0f5cd",
     "company": "Dominion Energy",
     "source": "simplify",
@@ -5164,7 +5532,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-13T07:04:08.741997+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a3937b050f4c75cfb90a",
@@ -11377,7 +11745,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-23T17:16:29.933529+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d34006bacd77728af70a",
@@ -14968,7 +15336,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -14984,7 +15352,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -15000,7 +15368,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -15016,7 +15384,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -15032,7 +15400,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -15048,7 +15416,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -15064,7 +15432,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -15080,7 +15448,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -15096,7 +15464,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -15112,7 +15480,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -15128,7 +15496,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -15144,7 +15512,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -17260,7 +17628,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.531139+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "973801ab9585f90cd8f2",
@@ -18418,7 +18786,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "017d9649cfedb2f429ba",
@@ -19527,7 +19895,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "cb52c59385ee06a419ba",
