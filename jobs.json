@@ -1,5 +1,21 @@
 [
   {
+    "id": "60328601edb1d58a67df",
+    "company": "PrizePicks",
+    "source": "simplify",
+    "title": "Business Intelligence Intern - Game Operations",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "http://prizepicks.com/position?gh_jid=8047188003",
+    "published_at": 1793196781,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-28T17:22:30.532492+00:00",
+    "status": "open"
+  },
+  {
     "id": "ecf1b49afd95e43476b9",
     "company": "CAMS",
     "source": "simplify",
@@ -1086,7 +1102,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-26T16:50:50.496477+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "22673c4de982eda04562",
@@ -2885,7 +2901,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-22T00:11:43.424501+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b3a33ff30515fa665491",
@@ -4809,7 +4825,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-15T00:09:17.418321+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a3a3c4c9b15b632156cd",
@@ -5195,7 +5211,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-14T18:19:31.367208+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "63a64c6aa9f46cf0fe3c",
@@ -10574,7 +10590,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-30T01:23:53.357348+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a890a89cfb96e4f0ce55",
@@ -24378,7 +24394,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d413fe4e9b4152ab3b11",
