@@ -1,5 +1,54 @@
 [
   {
+    "id": "ecf1b49afd95e43476b9",
+    "company": "CAMS",
+    "source": "simplify",
+    "title": "Application Performance Monitoring Predictive Analytics Engineer Intern",
+    "location": "Houston, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9/apply",
+    "published_at": 1793167454,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-28T11:35:37.796109+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d3ff441b2336e046f919",
+    "company": "General Magic",
+    "source": "simplify",
+    "title": "AI Engineer Co-op",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true",
+    "published_at": 1792108800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-28T11:35:37.796040+00:00",
+    "status": "open"
+  },
+  {
+    "id": "07aaca79f15edf043dcc",
+    "company": "One Robot",
+    "source": "simplify",
+    "title": "Machine Learning Intern",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571/application?embed=true",
+    "published_at": 1784851200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-28T11:35:37.795968+00:00",
+    "status": "open"
+  },
+  {
     "id": "eab09eea433b5e0ae7a2",
     "company": "DriveWealth",
     "source": "simplify",
@@ -1856,7 +1905,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-23T10:16:38.886809+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "bbba18c38bcdd1c21f1a",
@@ -1872,7 +1921,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-23T10:16:38.886743+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cb7af5edbf9a3341906e",
@@ -2080,7 +2129,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T05:20:47.843450+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a9dd8f573e76bcd18c21",
@@ -2852,7 +2901,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-21T18:03:07.311438+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "840f6f4157d8403143ad",
@@ -3044,7 +3093,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-20T23:39:08.907121+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a23a566ab2f501a35f5f",
@@ -3236,7 +3285,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-20T23:39:08.906625+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "34850a0b0d3bbcc4a5ed",
@@ -3349,7 +3398,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-20T02:03:05.158379+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0f17da3a510499cb9c55",
@@ -3621,7 +3670,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-19T23:33:43.217319+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7f84cd0456e73cc8c0d5",
@@ -8996,7 +9045,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-02T23:46:44.025603+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b69ed29ca49b60167a67",
@@ -13525,7 +13574,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-18T01:08:06.212290+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "01da5bf2f3b1f4c900a5",
@@ -15432,7 +15481,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -15448,7 +15497,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -15464,7 +15513,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -15480,7 +15529,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -15496,7 +15545,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -15512,7 +15561,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -15528,7 +15577,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -15544,7 +15593,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -15560,7 +15609,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -15576,7 +15625,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -15592,7 +15641,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -15608,7 +15657,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -28291,7 +28340,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "482ef54d663ed5245086",
