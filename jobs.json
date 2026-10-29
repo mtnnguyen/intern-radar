@@ -1,5 +1,454 @@
 [
   {
+    "id": "50b3fd3215add992b332",
+    "company": "ASML",
+    "source": "simplify",
+    "title": "Data Engineer Co-op Intern",
+    "location": "San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626",
+    "published_at": 1793145600,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716646+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4634bde5cb14b8cfcf3a",
+    "company": "Sherwin-Williams",
+    "source": "simplify",
+    "title": "R&D Data Science Co-op",
+    "location": "Brecksville, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789",
+    "published_at": 1793226485,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716609+00:00",
+    "status": "open"
+  },
+  {
+    "id": "be388e275245e1a80029",
+    "company": "Regeneron Pharmaceuticals",
+    "source": "simplify",
+    "title": "AI/ML & Data Engineering Intern",
+    "location": "Cambridge, MA, Armonk, NY, Warren, NJ, Sleepy Hollow, NY, Tarrytown, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1",
+    "published_at": 1793145600,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716588+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5bfbc393bdad9713c5b8",
+    "company": "Regeneron Pharmaceuticals",
+    "source": "simplify",
+    "title": "Data Analytics Intern - Dashboards & Business Process Automation",
+    "location": "Armonk, NY, Warren, NJ, Tarrytown, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1",
+    "published_at": 1793145600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716569+00:00",
+    "status": "open"
+  },
+  {
+    "id": "875f61fac602c5a7ab41",
+    "company": "Regeneron Pharmaceuticals",
+    "source": "simplify",
+    "title": "Data Science & Digital Innovation Intern - Industrial Operations and Product Supply",
+    "location": "Rensselaer, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1",
+    "published_at": 1793145600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716549+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5575c3616125baa5928b",
+    "company": "ICF International",
+    "source": "simplify",
+    "title": "Data Scientist Seasonal Associate Intern",
+    "location": "Reston, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Data-Scientist_R2603639",
+    "published_at": 1793145600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716512+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a49e1c6b56acd92c67db",
+    "company": "Keyrock",
+    "source": "simplify",
+    "title": "Quantitative Analyst Intern - Digital Assets Market Making - High-Frequency Trading",
+    "location": "London, UK, Brussels, Belgium",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33/application?embed=true",
+    "published_at": 1793145600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716471+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1119dce80bb0ca03d432",
+    "company": "Microsoft",
+    "source": "simplify",
+    "title": "Research Intern - Machine Learning and Optimization",
+    "location": "Redmond, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557049981",
+    "published_at": 1793227199,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716443+00:00",
+    "status": "open"
+  },
+  {
+    "id": "544f0d73461cf53c8dc0",
+    "company": "Cenovus Energy",
+    "source": "simplify",
+    "title": "Student Risk Analytics Intern",
+    "location": "Calgary, AB, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263",
+    "published_at": 1793145600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716431+00:00",
+    "status": "open"
+  },
+  {
+    "id": "143ccbd94bc7c4fc145d",
+    "company": "Marvell",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Boise, ID",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Boise-ID/Data-Science-Intern--BS---Summer-2027_2603782",
+    "published_at": 1793145600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716413+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d6f6b087e8df75cb043f",
+    "company": "NatWest Group",
+    "source": "simplify",
+    "title": "Quantitative Analytics Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/London/NatWest-Markets---Quantitative-Analytics--Internship_R-00285741",
+    "published_at": 1793227469,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716396+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0da8a0bd3558c1e9078c",
+    "company": "Valmont",
+    "source": "simplify",
+    "title": "AI and Data Engineering Intern",
+    "location": "Omaha, NE",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/AI---Data-Engineering-Intern_R29310",
+    "published_at": 1793145600,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716352+00:00",
+    "status": "open"
+  },
+  {
+    "id": "22e7211c56fb09778e64",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Robotics Applied Scientist 2 Intern",
+    "location": "Seattle, WA, North Reading, MA, NYC, Bellevue, WA, Sunnyvale, CA, Westborough, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states",
+    "published_at": 1793225173,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716331+00:00",
+    "status": "open"
+  },
+  {
+    "id": "343796cd2dc0e7ca22d7",
+    "company": "T-Mobile",
+    "source": "simplify",
+    "title": "Associate AI Engineer Intern",
+    "location": "Frisco, TX, Overland Park, KS",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492",
+    "published_at": 1793145600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716318+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b611482150e2dab8d28b",
+    "company": "American Family Insurance Group",
+    "source": "simplify",
+    "title": "Talent Analytics Intern",
+    "location": "Madison, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Talent-Analytics_R39669-2",
+    "published_at": 1793145600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716278+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9a7d5f22edd5a00eca67",
+    "company": "Federal Home Loan Bank of Indianapolis",
+    "source": "simplify",
+    "title": "MPP Data Analytics Intern",
+    "location": "Indianapolis, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/MPP-Data-Analytics-Intern_R641",
+    "published_at": 1793145600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716267+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0c6b43eb3317b393b77c",
+    "company": "Micron Technology",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "San Jose, CA, Folsom, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Data-Science_JR114549",
+    "published_at": 1793145600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716239+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1bf623b8faaba0de4cb5",
+    "company": "Applied Materials",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Austin, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409",
+    "published_at": 1793145600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716172+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9a28b0dfdb2bea113aa6",
+    "company": "Leidos",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Fort Belvoir, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
+    "published_at": 1793145600,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716161+00:00",
+    "status": "open"
+  },
+  {
+    "id": "80cdc43a9287df5909d6",
+    "company": "Applied Materials",
+    "source": "simplify",
+    "title": "Data Scientist Intern - Master's",
+    "location": "Santa Clara, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691",
+    "published_at": 1793145600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716151+00:00",
+    "status": "open"
+  },
+  {
+    "id": "278de920e37d860bfc86",
+    "company": "Applied Materials",
+    "source": "simplify",
+    "title": "Business Intelligence Analyst Intern",
+    "location": "Santa Clara, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Business-Intelligence-Analyst-Intern--Master-s--Santa-Clara--CA-_R2627411",
+    "published_at": 1793145600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716139+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7feff42d78284dcab447",
+    "company": "Applied Materials",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Santa Clara, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
+    "published_at": 1793145600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716127+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6ee7ee963f85a233dc86",
+    "company": "Manulife Financial",
+    "source": "simplify",
+    "title": "Operations & Data Analyst Co-op",
+    "location": "Toronto, ON, Canada, Waterloo, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348",
+    "published_at": 1793145600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716079+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5586c7c6660f9ebaa348",
+    "company": "SoundExchange",
+    "source": "simplify",
+    "title": "Operations Intern - Royalty Processing & Business Intelligence",
+    "location": "Washington, DC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/sxinternships/jobs/5231079007",
+    "published_at": 1789577492,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716052+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f61ec688c60c17f5fe09",
+    "company": "7-Eleven",
+    "source": "simplify",
+    "title": "Business Analytics Intern",
+    "location": "Irving, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Business-Analytics-Intern_R26_6282",
+    "published_at": 1793145600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716039+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5d64c6f87652f12babb9",
+    "company": "Florida Atlantic University",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Boca Raton, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fau.wd1.myworkdayjobs.com/FAU/job/Boca-Raton/Data-Analyst-Internship_REQ23060",
+    "published_at": 1793145600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T01:18:25.716013+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3ca9871649093c5587dc",
+    "company": "Revantage Corporate Services",
+    "source": "simplify",
+    "title": "Insurance Technology & AI Analytics Intern",
+    "location": "Dallas, TX, Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539",
+    "published_at": 1793145600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T01:18:25.715959+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8b4b516e7a625197db32",
+    "company": "Workday",
+    "source": "simplify",
+    "title": "Analytics Engineer Intern",
+    "location": "Pleasanton, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200",
+    "published_at": 1793145600,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T01:18:25.715914+00:00",
+    "status": "open"
+  },
+  {
     "id": "60328601edb1d58a67df",
     "company": "PrizePicks",
     "source": "simplify",
@@ -2772,7 +3221,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-22T00:11:43.424660+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "55707347425f154c8abd",
@@ -10897,7 +11346,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-25T23:30:03.390972+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "36dca35c718f18f9dc66",
@@ -12115,7 +12564,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-22T23:37:19.083211+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "4a06cc7e1e7807486ca6",
@@ -17659,7 +18108,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.533642+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "15d9cf131f42011c9e02",
@@ -18691,7 +19140,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2eb84c97238d20fec3ee",
@@ -18931,7 +19380,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "e8ab1afe90c30df6da4d",
@@ -23848,7 +24297,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "691c8c7181a9f6223f41",
@@ -25035,7 +25484,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.475306+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c43a27637cdadc583d95",
@@ -25115,7 +25564,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.475306+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c3543b6f8d6b78428c39",
