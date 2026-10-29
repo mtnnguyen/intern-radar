@@ -1,5 +1,69 @@
 [
   {
+    "id": "0b1c754ffdf92f0e6a9c",
+    "company": "Tesla",
+    "source": "simplify",
+    "title": "Data Engineer Intern - Energy",
+    "location": "Palo Alto, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.tesla.com/careers/search/job/287982",
+    "published_at": 1793267933,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-29T14:28:30.555687+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0643699e61c6ab3d7d5e",
+    "company": "Capital de Recherche Tower",
+    "source": "simplify",
+    "title": "Machine Learning Intern",
+    "location": "Montreal, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.tower-research.ca/postes-vacants/?gh_jid=8286965",
+    "published_at": 1792089597,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-29T14:28:30.555637+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fc8658ab9490cbd61da8",
+    "company": "Philips",
+    "source": "simplify",
+    "title": "AI & Analytics Analyst Intern",
+    "location": "Nashville, TN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012",
+    "published_at": 1792627200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T14:28:30.555568+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f1cdbeaf41c86ee5392b",
+    "company": "Booz Allen",
+    "source": "simplify",
+    "title": "Data Scientist Intern - University - Summer Games",
+    "location": "Fort Walton Beach, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409",
+    "published_at": 1788220800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-29T14:28:30.525954+00:00",
+    "status": "open"
+  },
+  {
     "id": "a4387454e727868e970a",
     "company": "HPS Investment Partners",
     "source": "simplify",
@@ -3333,7 +3397,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-22T00:11:43.424614+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c24b5a9e53c1d2f52b84",
@@ -18204,7 +18268,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.533642+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f11e5fe199808bb59bca",

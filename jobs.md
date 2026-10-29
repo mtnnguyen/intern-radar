@@ -4,14 +4,14 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 941
+**Active matching jobs:** 943
 
-**New in the last 24 hours:** 36
+**New in the last 24 hours:** 37
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
 | 🔥 Toronto / GTA | 🔥 NEW | Manulife Financial | Operations & Data Analyst Co-op | Analytics | Toronto, ON, Canada, Waterloo, ON, Canada | simplify | 2026-10-28 09:18 PM EDT | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348) |
-| 🔥 Toronto / GTA | 🔥 NEW | General Magic | AI Engineer Co-op | Machine Learning / AI | Toronto, ON, Canada | simplify | 2026-10-28 07:35 AM EDT | [Apply](https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true) |
+| 🔥 Toronto / GTA |  | General Magic | AI Engineer Co-op | Machine Learning / AI | Toronto, ON, Canada | simplify | 2026-10-28 07:35 AM EDT | [Apply](https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true) |
 | 🔥 Toronto / GTA |  | Trimble | Geospatial Product Engineer Intern | GIS / Geospatial | Richmond Hill, ON, Canada | simplify | 2026-10-27 08:05 PM EDT | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213) |
 | 🔥 Toronto / GTA |  | CIBC | Data Analyst Co-op | Analytics | Toronto, ON, Canada | simplify | 2026-10-27 08:05 PM EDT | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Analyst-co-op_2622122-1) |
 | 🔥 Toronto / GTA |  | CIBC | Junior Insights & Analytics Co-op | Analytics | Toronto, ON, Canada | simplify | 2026-10-27 12:15 PM EDT | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099) |
@@ -43,7 +43,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🔥 Toronto / GTA |  | Lyft | Software Engineer Intern - Machine Learning | Machine Learning / AI | Toronto, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) |
 | 🔥 Toronto / GTA |  | Lyft | Data Science Intern - Algorithms | Data Science | Toronto, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) |
 | 🔥 Toronto / GTA |  | Lyft | Data Engineer Intern | Data Engineering | Toronto, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) |
-| 🔥 Toronto / GTA |  | Definity Financial | Business Intelligence Co-op | Analytics | Toronto, ON, Canada, Waterloo, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351) |
 | 🔥 Toronto / GTA |  | TD Bank | Data Engineer Intern/Co-op - Winter 2027 | Data Engineering | Toronto, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826) |
 | 🔥 Toronto / GTA |  | Loblaw Companies | Supply Chain Business Intelligence Co-op | Analytics | Brampton, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Supply-Chain-Business-Intelligence---Co-op-Student_R2000697069) |
 | 🔥 Toronto / GTA |  | AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Machine Learning / AI | Markham, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.amd.com/jobs/91363?icims=1) |
@@ -57,6 +56,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇨🇦 Ontario |  | Nokia | Operations Analytics Co-op Intern - Intern | Analytics | Ottawa, ON, Canada | simplify | 2026-09-25 07:30 PM EDT | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261) |
 | 🇨🇦 Ontario |  | Rockwell Automation | Robotics Research Co-op - Data Engineering | Data Engineering | Waterloo, ON, Canada | simplify | 2026-09-18 06:42 PM EDT | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871) |
 | 🇨🇦 Ontario |  | Nokia | Data Scientist Co-op/Intern | Data Science | Ottawa, ON, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) |
+| 🇨🇦 Canada | 🔥 NEW | Capital de Recherche Tower | Machine Learning Intern | Machine Learning / AI | Montreal, QC, Canada | simplify | 2026-10-29 10:28 AM EDT | [Apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8286965) |
 | 🇨🇦 Canada | 🔥 NEW | Coveo | Corporate Business Intelligence Intern | Analytics | Montreal, QC, Canada | simplify | 2026-10-29 03:15 AM EDT | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002) |
 | 🇨🇦 Canada | 🔥 NEW | Coveo | Corporate Business Intelligence Intern | Analytics | Québec City, QC, Canada | simplify | 2026-10-29 03:15 AM EDT | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002) |
 | 🇨🇦 Canada | 🔥 NEW | Cenovus Energy | Student Risk Analytics Intern | Analytics | Calgary, AB, Canada | simplify | 2026-10-28 09:18 PM EDT | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263) |
@@ -254,6 +254,9 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | TikTok | Machine Learning Scientist Intern - Global E-Commerce Content Recommendation | Machine Learning / AI | Seattle, WA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7525650208522193159) |
 | 🇺🇸 USA |  | Radix Trading | Quantitative Technologist C++ Intern | GIS / Geospatial | Chicago, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
 | 🇺🇸 USA |  | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
+| 🌎 Other | 🔥 NEW | Tesla | Data Engineer Intern - Energy | Data Engineering | Palo Alto, CA | simplify | 2026-10-29 10:28 AM EDT | [Apply](https://www.tesla.com/careers/search/job/287982) |
+| 🌎 Other | 🔥 NEW | Philips | AI & Analytics Analyst Intern | Analytics | Nashville, TN | simplify | 2026-10-29 10:28 AM EDT | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012) |
+| 🌎 Other | 🔥 NEW | Booz Allen | Data Scientist Intern - University - Summer Games | Data Science | Fort Walton Beach, FL | simplify | 2026-10-29 10:28 AM EDT | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409) |
 | 🌎 Other | 🔥 NEW | HPS Investment Partners | Technology Intern - IT Data & Analytics | Analytics | NYC | simplify | 2026-10-29 03:15 AM EDT | [Apply](https://job-boards.greenhouse.io/hpsinterns/jobs/4739903005) |
 | 🌎 Other | 🔥 NEW | ASML | Data Engineer Co-op Intern | Data Engineering | San Diego, CA | simplify | 2026-10-28 09:18 PM EDT | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626) |
 | 🌎 Other | 🔥 NEW | Sherwin-Williams | R&D Data Science Co-op | Data Science | Brecksville, OH | simplify | 2026-10-28 09:18 PM EDT | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789) |
@@ -279,8 +282,8 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | Florida Atlantic University | Data Analyst Intern | Analytics | Boca Raton, FL | simplify | 2026-10-28 09:18 PM EDT | [Apply](https://fau.wd1.myworkdayjobs.com/FAU/job/Boca-Raton/Data-Analyst-Internship_REQ23060) |
 | 🌎 Other | 🔥 NEW | Workday | Analytics Engineer Intern | Data Engineering, Analytics | Pleasanton, CA | simplify | 2026-10-28 09:18 PM EDT | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200) |
 | 🌎 Other | 🔥 NEW | PrizePicks | Business Intelligence Intern - Game Operations | Analytics | Atlanta, GA | simplify | 2026-10-28 01:22 PM EDT | [Apply](http://prizepicks.com/position?gh_jid=8047188003) |
-| 🌎 Other | 🔥 NEW | CAMS | Application Performance Monitoring Predictive Analytics Engineer Intern | Data Engineering, Analytics | Houston, TX | simplify | 2026-10-28 07:35 AM EDT | [Apply](https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9/apply) |
-| 🌎 Other | 🔥 NEW | One Robot | Machine Learning Intern | Machine Learning / AI | SF | simplify | 2026-10-28 07:35 AM EDT | [Apply](https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571/application?embed=true) |
+| 🌎 Other |  | CAMS | Application Performance Monitoring Predictive Analytics Engineer Intern | Data Engineering, Analytics | Houston, TX | simplify | 2026-10-28 07:35 AM EDT | [Apply](https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9/apply) |
+| 🌎 Other |  | One Robot | Machine Learning Intern | Machine Learning / AI | SF | simplify | 2026-10-28 07:35 AM EDT | [Apply](https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571/application?embed=true) |
 | 🌎 Other |  | Scout AI | AI Engineer Intern - Fury Team | Machine Learning / AI | Sunnyvale, CA | simplify | 2026-10-28 01:32 AM EDT | [Apply](https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99/application?embed=true) |
 | 🌎 Other |  | Hex Technologies | AI Engineer Intern | Machine Learning / AI | SF | simplify | 2026-10-28 01:32 AM EDT | [Apply](https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6/application?embed=true) |
 | 🌎 Other |  | Light | AI Engineer Intern | Machine Learning / AI | London, UK | simplify | 2026-10-28 01:32 AM EDT | [Apply](https://jobs.ashbyhq.com/light-inc/9079d1ba-a35a-4e4b-9b07-820e85d921b9/application?embed=true) |
@@ -384,7 +387,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Newell Brands | Sales AI & Analytics Developer Intern | Analytics | Huntersville, NC | simplify | 2026-10-21 08:11 PM EDT | [Apply](https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors) |
 | 🌎 Other |  | KeyBank | Marketing Analytics Intern | Analytics | Brooklyn, OH | simplify | 2026-10-21 08:11 PM EDT | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Marketing-Analytics-Internship---Cleveland_R-42822) |
 | 🌎 Other |  | Analytic Partners | Data Science Co-op | Data Science | Miami, FL | simplify | 2026-10-21 08:11 PM EDT | [Apply](https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302/apply) |
-| 🌎 Other |  | American Family Insurance Group | Data Engineer Intern | Data Engineering | Madison, WI | simplify | 2026-10-21 08:11 PM EDT | [Apply](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675) |
 | 🌎 Other |  | Trace3 | Data and Analytics Engineer Intern | Data Engineering, Analytics | Irvine, CA | simplify | 2026-10-21 08:11 PM EDT | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8274818) |
 | 🌎 Other |  | Expedia Group | Machine Learning Science Intern | Machine Learning / AI | London, UK | simplify | 2026-10-21 08:11 PM EDT | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737) |
 | 🌎 Other |  | Meta | Research Scientist Intern - Audio - Machine Learning and Computer Vision | Machine Learning / AI | Cambridge, UK | simplify | 2026-10-21 09:09 AM EDT | [Apply](https://www.metacareers.com/jobs/2288012098648243) |
