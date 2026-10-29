@@ -1,5 +1,69 @@
 [
   {
+    "id": "a4387454e727868e970a",
+    "company": "HPS Investment Partners",
+    "source": "simplify",
+    "title": "Technology Intern - IT Data & Analytics",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/hpsinterns/jobs/4739903005",
+    "published_at": 1791306685,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T07:15:45.786045+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2d92678aaaca84a6bd0d",
+    "company": "Coveo",
+    "source": "simplify",
+    "title": "Corporate Business Intelligence Intern",
+    "location": "Montreal, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002",
+    "published_at": 1790886054,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T07:15:45.785971+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d8369037fb67197d1451",
+    "company": "Coveo",
+    "source": "simplify",
+    "title": "Corporate Business Intelligence Intern",
+    "location": "Québec City, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002",
+    "published_at": 1790886055,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T07:15:45.785953+00:00",
+    "status": "open"
+  },
+  {
+    "id": "57ddbd537d7c55dfd0e4",
+    "company": "Altman Solon",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Boston, MA, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "http://www.altmansolon.com/careers/student-opportunities?gh_jid=4977111101",
+    "published_at": 1789492992,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T07:15:45.785884+00:00",
+    "status": "open"
+  },
+  {
     "id": "50b3fd3215add992b332",
     "company": "ASML",
     "source": "simplify",
@@ -1103,7 +1167,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-27T05:33:26.445074+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b66c85e1d9813c09defe",
@@ -1263,7 +1327,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-27T00:34:12.000170+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fa32cf54e69674367bfc",
@@ -7599,7 +7663,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-08T02:02:47.243422+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b0cc5264c7e878ed7580",
@@ -15946,7 +16010,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -15962,7 +16026,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -15978,7 +16042,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -15994,7 +16058,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -16010,7 +16074,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -16026,7 +16090,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -16042,7 +16106,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -16058,7 +16122,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -16074,7 +16138,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -16090,7 +16154,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -16106,7 +16170,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -16122,7 +16186,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
