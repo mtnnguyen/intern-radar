@@ -1,5 +1,149 @@
 [
   {
+    "id": "9af4afa71e42ff88ec12",
+    "company": "ProCogia",
+    "source": "simplify",
+    "title": "AI Applied & Agentic AI Intern",
+    "location": "Vancouver, BC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://procogia.com/about-us/careers/?gh_jid=5448664008",
+    "published_at": 1791555746,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-29T19:48:05.974621+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c1a8d8363cb40990cdd8",
+    "company": "DivcoWest",
+    "source": "simplify",
+    "title": "AI Intern",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/divcowest/jobs/4244219009",
+    "published_at": 1778262768,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-29T19:48:05.974552+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8039ea155c8aca99c478",
+    "company": "Qube Research & Technologies",
+    "source": "simplify",
+    "title": "Data Engineering Intern",
+    "location": "London, UK, Paris, France",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002",
+    "published_at": 1788939335,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-29T19:48:05.974525+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e55a0d9c3b3e6d9c7e09",
+    "company": "Wave Life Sciences USA",
+    "source": "simplify",
+    "title": "Intellectual Property/Data Science Co-op",
+    "location": "United States",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wavelifesciences.com/jobs?gh_jid=4403998009",
+    "published_at": 1789700433,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-29T19:48:05.974493+00:00",
+    "status": "open"
+  },
+  {
+    "id": "28735d9d528d7d6ae597",
+    "company": "TobogganLabs",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Québec City, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003",
+    "published_at": 1791131291,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-29T19:48:05.974436+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0c2c94ae6d39bbc6582f",
+    "company": "Advanced Space",
+    "source": "simplify",
+    "title": "Machine Learning Intern",
+    "location": "Westminster, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324875009",
+    "published_at": 1787602950,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-29T19:48:05.974392+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6719c4a4bda2fc803a93",
+    "company": "Syngenta Group",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Raleigh, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415",
+    "published_at": 1793273262,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-29T19:48:05.974342+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1457aae3b0fbdcc9a477",
+    "company": "JM Family",
+    "source": "simplify",
+    "title": "Customer Experience Data Analyst Intern",
+    "location": "Deerfield Beach, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125",
+    "published_at": 1793232000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-29T19:48:05.974287+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ede5bafa4c908418cdce",
+    "company": "Sallie Mae",
+    "source": "simplify",
+    "title": "Data Science and Engineering Intern",
+    "location": "Newark, DE, Arlington County, Arlington, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659",
+    "published_at": 1793232000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-29T19:48:05.974229+00:00",
+    "status": "open"
+  },
+  {
     "id": "0b1c754ffdf92f0e6a9c",
     "company": "Tesla",
     "source": "simplify",
@@ -3494,7 +3638,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-21T18:03:07.311438+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "840f6f4157d8403143ad",
@@ -4841,7 +4985,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-16T16:59:05.931373+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "769ca313707b71e0e86b",
@@ -7711,7 +7855,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-08T02:02:47.243428+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "11d30ca24d1186a5e1b6",
@@ -11506,7 +11650,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-25T23:30:03.390913+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cdf86571c306f491b5ea",
@@ -19508,7 +19652,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e8ab1afe90c30df6da4d",
@@ -21679,7 +21823,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.506605+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f9c2a72ac01b469f1317",
