@@ -1,5 +1,21 @@
 [
   {
+    "id": "1b91e98432f157915f43",
+    "company": "Fussball Club Cincinnati LLC (“FC Cincinnati”)",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Cincinnati, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003",
+    "published_at": 1793370392,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-30T16:26:48.414223+00:00",
+    "status": "open"
+  },
+  {
     "id": "a7817cf22b6c2391729c",
     "company": "SageSure",
     "source": "simplify",
@@ -253,7 +269,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-29T23:39:15.162537+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f7598e1a6470ea3599a8",
@@ -2753,7 +2769,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T15:12:07.368856+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "db81994d38e5fc1a508e",
@@ -3604,7 +3620,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-23T00:36:01.860574+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4541be3211abae3f8f7d",
@@ -21338,7 +21354,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3f724ce57805a8dc7606",
