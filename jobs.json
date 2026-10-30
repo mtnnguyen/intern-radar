@@ -1,5 +1,53 @@
 [
   {
+    "id": "a7817cf22b6c2391729c",
+    "company": "SageSure",
+    "source": "simplify",
+    "title": "Data Science Product Analyst Intern",
+    "location": "Fairfield, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006",
+    "published_at": 1793132246,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-30T09:52:24.009234+00:00",
+    "status": "open"
+  },
+  {
+    "id": "69e95518d3c4c1efba46",
+    "company": "F&G",
+    "source": "simplify",
+    "title": "Business Intelligence Intern",
+    "location": "Des Moines, IA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7992669003",
+    "published_at": 1789160795,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-30T09:52:24.009170+00:00",
+    "status": "open"
+  },
+  {
+    "id": "eb729398719df7c29688",
+    "company": "C3.ai",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Redwood City, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8738917002",
+    "published_at": 1787350807,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-30T09:52:24.009084+00:00",
+    "status": "open"
+  },
+  {
     "id": "dbb3b8635c77b41f4712",
     "company": "Commonwealth of Massachusetts",
     "source": "simplify",
@@ -189,7 +237,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-29T23:39:15.162563+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "98073bb881ba193cc5b8",
@@ -12450,7 +12498,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-24T23:18:32.635872+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "916e9d975fbe6e1f32af",
@@ -13653,7 +13701,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-21T23:59:00.761057+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1aaf0e436956879a8dbd",
@@ -14374,7 +14422,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-19T05:07:57.023537+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0ac82a74583b8e23196a",
@@ -21258,7 +21306,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3156a4c75c785481dea4",
@@ -23282,7 +23330,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7fd469761a3f72e94b19",
@@ -24245,7 +24293,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.489934+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "546917e588516a32a986",
@@ -25868,7 +25916,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fe7e10786114eb3051ac",
@@ -25948,7 +25996,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1f46d6fddbc0104d8484",
@@ -31589,7 +31637,7 @@
     "description": "",
     "employment_type": "internship",
     "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453",
-    "published_at": 1772609904,
+    "published_at": 1778943827,
     "categories": [
       "Data Engineering"
     ],
