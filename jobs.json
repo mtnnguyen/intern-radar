@@ -1,5 +1,214 @@
 [
   {
+    "id": "ba737e406c80838f8e68",
+    "company": "AXA",
+    "source": "simplify",
+    "title": "Underwriting Data & Analytics Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.axa.com/jobs/25498?icims=1",
+    "published_at": 1793281980,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-31T12:51:10.340440+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6cd0ca7bea779f2387ba",
+    "company": "Stifel",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "St. Louis, MO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://stifel.jibeapply.com/jobs/9137?icims=1",
+    "published_at": 1777037340,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-31T12:51:10.340413+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0550cf2abfd87eaf6af2",
+    "company": "Peraton",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Blacksburg, VA, Herndon, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://peraton.jibeapply.com/jobs/170320?icims=1",
+    "published_at": 1788962040,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-31T12:51:10.340384+00:00",
+    "status": "open"
+  },
+  {
+    "id": "23d4d67a26239adcee91",
+    "company": "Systems Planning and Analysis",
+    "source": "simplify",
+    "title": "Data Engineering & Analytics Tools Intern",
+    "location": "Washington, DC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://spa.jibeapply.com/jobs/23634?icims=1",
+    "published_at": 1792186320,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-10-31T12:51:10.340331+00:00",
+    "status": "open"
+  },
+  {
+    "id": "704e76418f3ba0a35cca",
+    "company": "Systems Planning and Analysis",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Alexandria, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://spa.jibeapply.com/jobs/23698?icims=1",
+    "published_at": 1793223900,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-10-31T12:51:10.340322+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f09802f8d0d7656bea9a",
+    "company": "Intercontinental Exchange",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Jacksonville, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ice.jibeapply.com/jobs/14089?icims=1",
+    "published_at": 1792786140,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-31T12:51:10.340297+00:00",
+    "status": "open"
+  },
+  {
+    "id": "539f5cb70b1afdd2c2d8",
+    "company": "Intercontinental Exchange",
+    "source": "simplify",
+    "title": "Agentic AI Data Science Intern",
+    "location": "Jacksonville, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ice.jibeapply.com/jobs/14070?icims=1",
+    "published_at": 1792786140,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-31T12:51:10.340266+00:00",
+    "status": "open"
+  },
+  {
+    "id": "40e1fb9e269adb6d0032",
+    "company": "Intercontinental Exchange",
+    "source": "simplify",
+    "title": "Quantitative Financial Analytics Intern",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ice.jibeapply.com/jobs/14055?icims=1",
+    "published_at": 1792786140,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-31T12:51:10.340246+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d43de85de997f3b925bb",
+    "company": "Intercontinental Exchange",
+    "source": "simplify",
+    "title": "Audit Analytics Intern",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ice.jibeapply.com/jobs/14069?icims=1",
+    "published_at": 1792786140,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-31T12:51:10.340236+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d25de473938c1f249aca",
+    "company": "Intercontinental Exchange",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ice.jibeapply.com/jobs/14113?icims=1",
+    "published_at": 1792786140,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-31T12:51:10.340205+00:00",
+    "status": "open"
+  },
+  {
+    "id": "799324f982a716249c8e",
+    "company": "First Citizens BancShares",
+    "source": "simplify",
+    "title": "Data Analyst Intern - Enterprise Data Analyst - Data Products",
+    "location": "Raleigh, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://firstcitizens.jibeapply.com/jobs/36230?icims=1",
+    "published_at": 1793106060,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-31T12:51:10.340189+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ed52afff3ba83d4ba858",
+    "company": "Kinaxis",
+    "source": "simplify",
+    "title": "Developer Co-op Intern - Machine Learning",
+    "location": "Toronto, ON, Canada, Ottawa, ON, Canada, Remote in Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://kinaxis.jibeapply.com/jobs/35297?icims=1",
+    "published_at": 1788441900,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-10-31T12:51:10.340100+00:00",
+    "status": "open"
+  },
+  {
+    "id": "72b38174a4e97202a56d",
+    "company": "TPG",
+    "source": "simplify",
+    "title": "Data Analytics Research Assistant Intern - Data Analytics and Reporting - Spring Research Assistant",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003",
+    "published_at": 1792020414,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-10-31T12:51:10.340024+00:00",
+    "status": "open"
+  },
+  {
     "id": "e228d1cb24b715839f8c",
     "company": "Firework",
     "source": "simplify",
@@ -5692,7 +5901,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-16T16:59:05.931373+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "769ca313707b71e0e86b",
@@ -7185,7 +7394,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-13T00:33:50.785331+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "50e71c2a357cc49a3eb5",
@@ -17005,7 +17214,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -17021,7 +17230,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -19217,7 +19426,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.531139+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "973801ab9585f90cd8f2",
@@ -20087,7 +20296,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "99b30db92f8f469ea21b",
@@ -28709,7 +28918,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.456578+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3f7ae76339b3330cf30e",
