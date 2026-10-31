@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 969
+**Active matching jobs:** 970
 
 **New in the last 24 hours:** 28
 
@@ -854,6 +854,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Robert Bosch Venture Capital | Calibration Process Data Science Intern - 8 months/40 hours per week | Data Science | Farmington Hills, MI | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000146524429) |
 | 🌎 Other |  | Travelers | Business Insights & Analytics Intern - BI&A LDP | Analytics | Hartford, CT, St Paul, MN | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304) |
 | 🌎 Other |  | Travelers | Geospatial Intern | GIS / Geospatial | Hartford, CT, St Paul, MN | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-52305) |
+| 🌎 Other |  | Trane Technologies | AI & Analytics Intern | Analytics | Minneapolis, MN, Davidson, NC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-7591) |
 | 🌎 Other |  | American Express | Data Analytics Intern - US Consumer Services | Analytics | NYC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607) |
 | 🌎 Other |  | Booz Allen | Data Scientist Intern - University | Data Science | San Diego, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045) |
 | 🌎 Other |  | Phoenix Contact | Data Science & Analytics Intern | Data Science, Analytics | Middletown, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/phoenixcontact/jobs/7964865003) |
