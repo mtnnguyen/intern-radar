@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 966
+**Active matching jobs:** 969
 
 **New in the last 24 hours:** 28
 
@@ -265,6 +265,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | TikTok | Machine Learning Scientist Intern - Global E-Commerce Content Recommendation | Machine Learning / AI | Seattle, WA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7525650208522193159) |
 | 🇺🇸 USA |  | Radix Trading | Quantitative Technologist C++ Intern | GIS / Geospatial | Chicago, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
 | 🇺🇸 USA |  | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
+| 🌎 Other | 🔥 NEW | Northrop Grumman | Data Scientist Intern - Product Support | Data Science | San Diego, CA | simplify | 2026-10-31 01:26 PM EDT | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679) |
 | 🌎 Other | 🔥 NEW | AXA | Underwriting Data & Analytics Intern | Analytics | NYC | simplify | 2026-10-31 08:51 AM EDT | [Apply](https://careers.axa.com/jobs/25498?icims=1) |
 | 🌎 Other | 🔥 NEW | Stifel | Data Analyst Intern | Analytics | St. Louis, MO | simplify | 2026-10-31 08:51 AM EDT | [Apply](https://stifel.jibeapply.com/jobs/9137?icims=1) |
 | 🌎 Other | 🔥 NEW | Peraton | Data Science Intern | Data Science | Blacksburg, VA, Herndon, VA | simplify | 2026-10-31 08:51 AM EDT | [Apply](https://peraton.jibeapply.com/jobs/170320?icims=1) |
@@ -284,7 +285,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | Molina Healthcare | Healthcare Quality & Analytics Intern | Analytics | Wisconsin | simplify | 2026-10-30 08:40 PM EDT | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040143) |
 | 🌎 Other | 🔥 NEW | Toyota Research Institute | Machine Learning/Agentic AI Intern | Machine Learning / AI | Cambridge, MA | simplify | 2026-10-30 08:40 PM EDT | [Apply](https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495/apply) |
 | 🌎 Other | 🔥 NEW | Brain Co. | Machine Learning Engineer – Applied AI Intern | Machine Learning / AI | SF | simplify | 2026-10-30 08:40 PM EDT | [Apply](https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9/application?embed=true) |
-| 🌎 Other | 🔥 NEW | Fussball Club Cincinnati LLC (“FC Cincinnati”) | Data Analyst Intern | Analytics | Cincinnati, OH | simplify | 2026-10-30 12:26 PM EDT | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003) |
+| 🌎 Other |  | Fussball Club Cincinnati LLC (“FC Cincinnati”) | Data Analyst Intern | Analytics | Cincinnati, OH | simplify | 2026-10-30 12:26 PM EDT | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003) |
 | 🌎 Other |  | SageSure | Data Science Product Analyst Intern | Data Science | Fairfield, CA | simplify | 2026-10-30 05:52 AM EDT | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006) |
 | 🌎 Other |  | F&G | Business Intelligence Intern | Analytics | Des Moines, IA | simplify | 2026-10-30 05:52 AM EDT | [Apply](https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7992669003) |
 | 🌎 Other |  | C3.ai | Data Scientist Intern | Data Science | Redwood City, CA | simplify | 2026-10-30 05:52 AM EDT | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8738917002) |
@@ -699,6 +700,8 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Investment Banking | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175428?type=students) |
 | 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | GIS / Geospatial | Dallas, TX | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171534?type=students) |
 | 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas | GIS / Geospatial | Dallas, TX | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171532?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | GIS / Geospatial | Salt Lake City, UT | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171551?type=students) |
+| 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175421?type=students) |
 | 🌎 Other |  | Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171563?type=students) |
 | 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | GIS / Geospatial | NYC | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/171535?type=students) |
 | 🌎 Other |  | Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | GIS / Geospatial | London, UK | simplify | 2026-09-14 08:57 PM EDT | [Apply](https://higher.gs.com/roles/175427?type=students) |

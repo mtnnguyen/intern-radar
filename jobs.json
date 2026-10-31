@@ -1,5 +1,21 @@
 [
   {
+    "id": "5b7e9dbf03eb4c9cbaa5",
+    "company": "Northrop Grumman",
+    "source": "simplify",
+    "title": "Data Scientist Intern - Product Support",
+    "location": "San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
+    "published_at": 1793318400,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-10-31T17:26:16.639081+00:00",
+    "status": "open"
+  },
+  {
     "id": "ba737e406c80838f8e68",
     "company": "AXA",
     "source": "simplify",
@@ -17214,7 +17230,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -17230,7 +17246,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
