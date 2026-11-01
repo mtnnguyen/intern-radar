@@ -6,7 +6,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Active matching jobs:** 959
 
-**New in the last 24 hours:** 1
+**New in the last 24 hours:** 0
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -264,7 +264,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | TikTok | Machine Learning Scientist Intern - Global E-Commerce Content Recommendation | Machine Learning / AI | Seattle, WA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7525650208522193159) |
 | 🇺🇸 USA |  | Radix Trading | Quantitative Technologist C++ Intern | GIS / Geospatial | Chicago, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
 | 🇺🇸 USA |  | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
-| 🌎 Other | 🔥 NEW | Northrop Grumman | Data Scientist Intern - Product Support | Data Science | San Diego, CA | simplify | 2026-10-31 01:26 PM EDT | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679) |
+| 🌎 Other |  | Northrop Grumman | Data Scientist Intern - Product Support | Data Science | San Diego, CA | simplify | 2026-10-31 01:26 PM EDT | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679) |
 | 🌎 Other |  | AXA | Underwriting Data & Analytics Intern | Analytics | NYC | simplify | 2026-10-31 08:51 AM EDT | [Apply](https://careers.axa.com/jobs/25498?icims=1) |
 | 🌎 Other |  | Stifel | Data Analyst Intern | Analytics | St. Louis, MO | simplify | 2026-10-31 08:51 AM EDT | [Apply](https://stifel.jibeapply.com/jobs/9137?icims=1) |
 | 🌎 Other |  | Peraton | Data Science Intern | Data Science | Blacksburg, VA, Herndon, VA | simplify | 2026-10-31 08:51 AM EDT | [Apply](https://peraton.jibeapply.com/jobs/170320?icims=1) |
