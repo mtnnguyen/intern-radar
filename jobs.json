@@ -1,5 +1,21 @@
 [
   {
+    "id": "432d04e89d3f4ca29e81",
+    "company": "Roku",
+    "source": "simplify",
+    "title": "Software Engineer Intern - AI Engineering",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241",
+    "published_at": 1793601363,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-02T13:45:54.468337+00:00",
+    "status": "open"
+  },
+  {
     "id": "5b7e9dbf03eb4c9cbaa5",
     "company": "Northrop Grumman",
     "source": "simplify",
@@ -2067,7 +2083,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-28T00:05:22.981035+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "73d2a5e472f9ace79459",
@@ -3173,7 +3189,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T19:17:44.819941+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b3d2d0776ccbfc208ecc",
@@ -3189,7 +3205,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T19:17:44.819931+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c94d3355699d50b4002d",
@@ -8067,7 +8083,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-09T23:34:31.968914+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ff1fa8bad436d506483b",
@@ -9028,7 +9044,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-07T17:32:41.123517+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "07d73025665ab4da2d82",
@@ -9173,7 +9189,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-06T23:52:30.277157+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c110abd1f205d440f7ca",
@@ -9221,7 +9237,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-06T23:52:30.277012+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b785d8c9c98729429901",
@@ -12534,7 +12550,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-25T23:30:03.391011+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "dd3b04db8d3abed3b3ab",
@@ -16556,7 +16572,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-16T00:26:30.972797+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "cc9dffcc8d58d0a46440",
@@ -18319,7 +18335,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.539002+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c0fad5ef59027fa246a4",
@@ -20151,7 +20167,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0cf742432dd6184d89b7",
@@ -25228,7 +25244,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.486927+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b7b09fc1d10ff6cbabcc",
@@ -27202,7 +27218,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.471297+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "dd73a5cc3e47d00a5f6a",
