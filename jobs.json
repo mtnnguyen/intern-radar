@@ -1,5 +1,361 @@
 [
   {
+    "id": "b576d3229b2363f37f69",
+    "company": "Sonos",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Seattle, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Data-Engineering-Intern--Seattle-_R2897-1",
+    "published_at": 1793577600,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-03T03:39:36.304576+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3f885f8daefc4da6c88a",
+    "company": "Signet Jewelers",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Akron, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1",
+    "published_at": 1793577600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-03T03:39:36.304511+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f451afbda0d09ff41a16",
+    "company": "Signet Jewelers",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Akron, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317",
+    "published_at": 1793577600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-03T03:39:36.304498+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b035dfdd896cbb0a7729",
+    "company": "Resideo",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Austin, TX, Golden Valley, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19817",
+    "published_at": 1793662105,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-03T03:39:36.304438+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4e912f1b066c54a830d7",
+    "company": "RTX",
+    "source": "simplify",
+    "title": "Digital Support & Business Intelligence Intern - Computer Science",
+    "location": "Longueuil, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869-1",
+    "published_at": 1793662508,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-03T03:39:36.304348+00:00",
+    "status": "open"
+  },
+  {
+    "id": "34cdedd674017c40c04e",
+    "company": "Booz Allen",
+    "source": "simplify",
+    "title": "Summer Games Data Scientist Intern",
+    "location": "Detroit, MI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783",
+    "published_at": 1793577600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-03T03:39:36.304141+00:00",
+    "status": "open"
+  },
+  {
+    "id": "17dcd857453b482a6a7a",
+    "company": "Toshiba Global Commerce Solutions",
+    "source": "simplify",
+    "title": "AI Data Science & Business Analytics Intern",
+    "location": "Durham, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5276963007",
+    "published_at": 1793640515,
+    "categories": [
+      "Data Science",
+      "Analytics"
+    ],
+    "first_seen": "2026-11-03T03:39:36.304128+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a5e0eb6ab80659b4bcbf",
+    "company": "Intuitive Surgical",
+    "source": "simplify",
+    "title": "AI/ML Engineer Intern",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000159218439",
+    "published_at": 1793644016,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303994+00:00",
+    "status": "open"
+  },
+  {
+    "id": "47d913e325048bfc71ee",
+    "company": "Zebra Technologies",
+    "source": "simplify",
+    "title": "Software/AI Engineer Intern - Handheld Mobile Computers",
+    "location": "Holtsville, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632",
+    "published_at": 1793577600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303955+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e1aea49d829772fc8223",
+    "company": "Zebra Technologies",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Holtsville, NY, Lincolnshire, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610",
+    "published_at": 1793577600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303913+00:00",
+    "status": "open"
+  },
+  {
+    "id": "37d88cda2248d6af5584",
+    "company": "Paccar",
+    "source": "simplify",
+    "title": "Sales Administration Data Analyst Intern - Greenhouse Gas",
+    "location": "Denton, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/?ats=successfactors",
+    "published_at": 1793660697,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303892+00:00",
+    "status": "open"
+  },
+  {
+    "id": "10916d54056cec64f912",
+    "company": "Pacific Northwest National Laboratory",
+    "source": "simplify",
+    "title": "NSIP Undergraduate Intern - Artificial Intelligence & Data Analytics - SWE Conference",
+    "location": "Seattle, WA, Richland, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.pnnl.gov/jobs/12897?icims=1",
+    "published_at": 1793659740,
+    "categories": [
+      "Analytics",
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303878+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d131ca13199187b6b5f7",
+    "company": "Pacific Northwest National Laboratory",
+    "source": "simplify",
+    "title": "NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference",
+    "location": "Seattle, WA, Richland, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.pnnl.gov/jobs/12898?icims=1",
+    "published_at": 1793659560,
+    "categories": [
+      "Analytics",
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303847+00:00",
+    "status": "open"
+  },
+  {
+    "id": "25029271440307027dbb",
+    "company": "Cambridge Consultants",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "United Kingdom",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995820101",
+    "published_at": 1793637858,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303800+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5b55caebb0f0e4726d48",
+    "company": "Divergent Technologies",
+    "source": "simplify",
+    "title": "Production Business Intelligence Intern",
+    "location": "Torrance, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/divergent/jobs/5393537008",
+    "published_at": 1793652863,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303762+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ccb39342ecf2acdfc82c",
+    "company": "Mayo Clinic",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Rochester, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394695",
+    "published_at": 1793661190,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303736+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a8a25041482176c33100",
+    "company": "Cincinnati Children’s Hospital and Medical Center",
+    "source": "simplify",
+    "title": "Student 2 Intern - BA Enterprise Business Intelligence",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---BA-Enterprise-Business-Intelligence_JR226747-1",
+    "published_at": 1793577600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303661+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9576db68883066944cc8",
+    "company": "Leidos",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Arlington County, Arlington, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049",
+    "published_at": 1793577600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303616+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3cf974c248f937884e6a",
+    "company": "General Dynamics Information Technology",
+    "source": "simplify",
+    "title": "Technical Writer / Data Analytics Analyst Intern",
+    "location": "Bossier City, LA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/Intern---Technical-Writer---Data-Analytics-Analyst_RQ231236",
+    "published_at": 1793577600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303582+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c75dc2f79f7e990e852f",
+    "company": "KEEN Footwear",
+    "source": "simplify",
+    "title": "Merchandising & Product Data Analytics Intern",
+    "location": "Portland, OR",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.keenfootwear.com/careers-list.html?4748595005&gh_jid=4748595005",
+    "published_at": 1793638230,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303551+00:00",
+    "status": "open"
+  },
+  {
+    "id": "143a83b6ab686e867ec1",
+    "company": "Flagship Pioneering",
+    "source": "simplify",
+    "title": "Machine Learning Intern",
+    "location": "Cambridge, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002",
+    "published_at": 1793649148,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303525+00:00",
+    "status": "open"
+  },
+  {
+    "id": "81f3a10620aa6aef998e",
+    "company": "KEEN Footwear",
+    "source": "simplify",
+    "title": "Analytics Engineer Intern",
+    "location": "Portland, OR",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.keenfootwear.com/careers-list.html?4748305005&gh_jid=4748305005",
+    "published_at": 1793643504,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-11-03T03:39:36.303470+00:00",
+    "status": "open"
+  },
+  {
     "id": "7a6e5247767d398d3222",
     "company": "First Citizens BancShares",
     "source": "simplify",
@@ -334,7 +690,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-31T12:51:10.340100+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "72b38174a4e97202a56d",
@@ -881,7 +1237,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-10-29T23:39:15.162634+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b69c1e98a6ce05041876",
@@ -1827,7 +2183,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-28T11:35:37.796040+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "07aaca79f15edf043dcc",
@@ -4666,7 +5022,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-22T00:11:43.424539+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f566ae940dd9db8ae933",
@@ -6093,7 +6449,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-15T23:52:03.861194+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0db061c4973328c6bb4c",
@@ -7153,7 +7509,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-13T23:51:45.262633+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e1dd9a752b9055463bcc",
@@ -11244,7 +11600,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-01T23:43:25.907664+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cc72f1b9863788fcd8f1",
@@ -14681,7 +15037,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-21T23:59:00.760566+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0628a9456afd1b2ada11",
@@ -17278,7 +17634,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -17294,7 +17650,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -17310,7 +17666,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -17326,7 +17682,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -17342,7 +17698,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -17358,7 +17714,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -17374,7 +17730,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -17390,7 +17746,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -17406,7 +17762,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -17422,7 +17778,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -17438,7 +17794,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -17454,7 +17810,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -21242,7 +21598,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1d082e7460393a88b6e7",
@@ -21837,7 +22193,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cb52c59385ee06a419ba",
@@ -24552,7 +24908,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.492935+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "42c7f52dbe1c093037fd",
@@ -27795,7 +28151,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be97e5c4654ddabd79af",
@@ -27811,7 +28167,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "44b0cfac5784bde96681",
