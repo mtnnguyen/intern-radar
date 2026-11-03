@@ -1,5 +1,21 @@
 [
   {
+    "id": "5345c0ad39233dc5a026",
+    "company": "Mosaic",
+    "source": "simplify",
+    "title": "Artificial Intelligence Co-op Intern",
+    "location": "Lithia, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420",
+    "published_at": 1793664000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-03T18:31:33.896136+00:00",
+    "status": "open"
+  },
+  {
     "id": "b46569fef6e75bc9742b",
     "company": "onepot",
     "source": "simplify",
@@ -706,7 +722,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-31T12:51:10.340100+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "72b38174a4e97202a56d",
@@ -2150,7 +2166,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-29T01:18:25.715914+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "60328601edb1d58a67df",
@@ -12001,7 +12017,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-01T23:43:25.907151+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4ed769700eb722fc28d1",
@@ -17810,7 +17826,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -26739,7 +26755,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "ed1929b1e19e33b3f6a5",
@@ -27285,7 +27301,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.475306+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3d92b30a5779691598d8",
@@ -31101,7 +31117,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c2671b240a87564f0b6f",
