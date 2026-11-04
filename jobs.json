@@ -1,5 +1,101 @@
 [
   {
+    "id": "fe096baa7ab0541a0ed8",
+    "company": "Roku",
+    "source": "simplify",
+    "title": "AI Engineering Intern",
+    "location": "Cambridge, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.weareroku.com/jobs/8345947?gh_jid=8345947",
+    "published_at": 1793787013,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-04T11:12:16.265805+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cc0d30490e57d47ee3c4",
+    "company": "Roku",
+    "source": "simplify",
+    "title": "AI Engineering Intern",
+    "location": "Manchester, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.weareroku.com/jobs/8345954?gh_jid=8345954",
+    "published_at": 1793787025,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-04T11:12:16.265795+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1ae4d37563be36c33008",
+    "company": "University Corporation for Atmospheric Research",
+    "source": "simplify",
+    "title": "Data Science Student Assistant 3 Intern",
+    "location": "Boulder, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1",
+    "published_at": 1793145600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-04T11:12:16.265769+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ebf5626f38110b19e13a",
+    "company": "Itron",
+    "source": "simplify",
+    "title": "Data Analytics and Automation Intern - Finance",
+    "location": "Liberty Lake, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Analytics-and-Automation--Finance_JR103020-1",
+    "published_at": 1793664000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-04T11:12:16.265728+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e60897e25510831acb20",
+    "company": "Itron",
+    "source": "simplify",
+    "title": "Data Analytics and Automation Intern - Finance",
+    "location": "Liberty Lake, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Analytics-and-Automation--Finance_JR103020",
+    "published_at": 1793664000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-04T11:12:16.265688+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cfef89feb9513001b13a",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "AI Engineer Co-op - Global Equities",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2",
+    "published_at": 1793664000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-04T11:12:16.265652+00:00",
+    "status": "open"
+  },
+  {
     "id": "c52e90cbc501e04a8b57",
     "company": "Engramme",
     "source": "simplify",
@@ -1654,7 +1750,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-29T23:39:15.162369+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "525f1ae7b78a9e93e47f",
@@ -2198,7 +2294,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-29T01:18:25.716278+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9a7d5f22edd5a00eca67",
@@ -6272,7 +6368,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-19T14:19:55.739092+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d521cf4feb620467e31a",
@@ -14974,7 +15070,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-21T23:59:00.761072+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "300679c608b238b5db94",
@@ -17907,7 +18003,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -17923,7 +18019,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -17939,7 +18035,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -17955,7 +18051,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -17971,7 +18067,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -17987,7 +18083,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -18003,7 +18099,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -18019,7 +18115,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -18035,7 +18131,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -18051,7 +18147,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -18067,7 +18163,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -18083,7 +18179,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -18291,7 +18387,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T22:46:03.823812+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "283911af4dfbe0f2034d",
@@ -25711,7 +25807,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.488938+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "daa34fa402f82a38f95a",
