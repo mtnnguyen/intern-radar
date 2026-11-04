@@ -1,5 +1,85 @@
 [
   {
+    "id": "c52e90cbc501e04a8b57",
+    "company": "Engramme",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Co-op Intern",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/engramme/36691537-e0fd-4aa9-9fcd-2618b433fac1/application?embed=true",
+    "published_at": 1792022400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-04T03:17:15.561056+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b7cfae1cc8cf7f9f5d0f",
+    "company": "Erie Insurance Group",
+    "source": "simplify",
+    "title": "Claims Systems & AI Intern 2",
+    "location": "Erie, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.erieinsurance.com/job/Erie-Intern-II-(Claims-Systems-&-AI)-PA-16506/1447480500/?ats=successfactors",
+    "published_at": 1793749634,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-04T03:17:15.561027+00:00",
+    "status": "open"
+  },
+  {
+    "id": "12832fe5c19086a192c8",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000188376",
+    "published_at": 1793664000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-04T03:17:15.561006+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a78beea7a77b1e7725c5",
+    "company": "RoboForce",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - AI & Robotics",
+    "location": "Milpitas, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/roboforce/jobs/5470001008",
+    "published_at": 1793745901,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-04T03:17:15.560979+00:00",
+    "status": "open"
+  },
+  {
+    "id": "de27787b8a81d6dc978c",
+    "company": "The New York Times",
+    "source": "simplify",
+    "title": "Advertising Business Data Analyst Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005",
+    "published_at": 1793722574,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-04T03:17:15.560918+00:00",
+    "status": "open"
+  },
+  {
     "id": "285e89581b01c9be3f4c",
     "company": "Jomboy Media",
     "source": "simplify",
@@ -4074,7 +4154,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-23T15:12:07.368546+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3f8279ee2d0982edb851",
@@ -17827,7 +17907,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -17843,7 +17923,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -17859,7 +17939,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -17875,7 +17955,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -17891,7 +17971,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -17907,7 +17987,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -17923,7 +18003,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -17939,7 +18019,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -17955,7 +18035,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -17971,7 +18051,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -17987,7 +18067,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -18003,7 +18083,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -25841,7 +25921,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.487938+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "898d42d2d7f8e5e0d67d",
