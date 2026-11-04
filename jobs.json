@@ -1,5 +1,69 @@
 [
   {
+    "id": "8f366bbeb93608ec2b56",
+    "company": "Great American Insurance Company",
+    "source": "simplify",
+    "title": "Business Intelligence Intern - Power BI",
+    "location": "Cincinnati, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843",
+    "published_at": 1793750400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-04T18:39:47.751600+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7400cbcba9f934e6b141",
+    "company": "Procter & Gamble",
+    "source": "simplify",
+    "title": "Talent Analytics & Assessment Science Intern",
+    "location": "Cincinnati, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Intern--Talent-Analytics---Assessment-Science_R000162095",
+    "published_at": 1793750400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-04T18:39:47.751583+00:00",
+    "status": "open"
+  },
+  {
+    "id": "569e7c59ccdddc0b0768",
+    "company": "Parsons",
+    "source": "simplify",
+    "title": "AI/ML Engineer Intern",
+    "location": "Centreville, VA, United States",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194",
+    "published_at": 1793750400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-04T18:39:47.751569+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9001b7efe117695801a8",
+    "company": "Paccar",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Denton, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors",
+    "published_at": 1793805304,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-04T18:39:47.751500+00:00",
+    "status": "open"
+  },
+  {
     "id": "fe096baa7ab0541a0ed8",
     "company": "Roku",
     "source": "simplify",
@@ -866,7 +930,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-31T17:26:16.639081+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ba737e406c80838f8e68",
@@ -24489,7 +24553,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a77ec7f60a8fb04e3a5",
