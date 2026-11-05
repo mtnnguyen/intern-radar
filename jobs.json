@@ -1,5 +1,149 @@
 [
   {
+    "id": "9ebc5081b875cc4e2b88",
+    "company": "PayPal",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://paypal.eightfold.ai/careers/job/274922982821",
+    "published_at": 1793845831,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-05T05:54:27.523187+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5d6d4ba7918e6b6198ac",
+    "company": "Qualcomm",
+    "source": "simplify",
+    "title": "Machine Learning Engineering Intern",
+    "location": "Markham, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721969461",
+    "published_at": 1793845921,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-05T05:54:27.523159+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ed70e407e05e2c5de197",
+    "company": "PayPal",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://paypal.eightfold.ai/careers/job/274922983149",
+    "published_at": 1793845832,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-05T05:54:27.523127+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ad77c706bdb6eb7f9388",
+    "company": "Toyota Research Institute",
+    "source": "simplify",
+    "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
+    "location": "Los Altos, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b/apply",
+    "published_at": 1793846632,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-05T05:54:27.523026+00:00",
+    "status": "open"
+  },
+  {
+    "id": "32fa51855e8ff478dd5d",
+    "company": "Toyota Research Institute",
+    "source": "simplify",
+    "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
+    "location": "Los Altos, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply",
+    "published_at": 1793846630,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-05T05:54:27.522991+00:00",
+    "status": "open"
+  },
+  {
+    "id": "da742010c79033ae61d0",
+    "company": "Leidos",
+    "source": "simplify",
+    "title": "Software Engineering & AI Intern",
+    "location": "Remote in USA, Shiloh, IL, Odenton, MD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220",
+    "published_at": 1793750400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-05T05:54:27.522959+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e6fe56877c253be72147",
+    "company": "Chubb",
+    "source": "simplify",
+    "title": "Business Intelligence Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335",
+    "published_at": 1793844186,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-05T05:54:27.522929+00:00",
+    "status": "open"
+  },
+  {
+    "id": "eea46b01378f909929b9",
+    "company": "Microchip Technology",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Gresham, OR",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern--Data-Analyst-_R4441-26",
+    "published_at": 1793750400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-05T05:54:27.522868+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e6ff71a6054d08f70375",
+    "company": "ASML",
+    "source": "simplify",
+    "title": "Machine Learning and Image-Based Metrics for EUV System Setup Intern",
+    "location": "San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567",
+    "published_at": 1793750400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-05T05:54:27.522706+00:00",
+    "status": "open"
+  },
+  {
     "id": "8f366bbeb93608ec2b56",
     "company": "Great American Insurance Company",
     "source": "simplify",
@@ -2534,7 +2678,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-29T01:18:25.716013+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3ca9871649093c5587dc",
@@ -7475,7 +7619,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-15T00:09:17.418209+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ab944af6373487211124",
@@ -10090,7 +10234,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-06T23:52:30.277157+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c110abd1f205d440f7ca",
@@ -10138,7 +10282,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-06T23:52:30.277012+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "b785d8c9c98729429901",
@@ -15919,7 +16063,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-19T05:07:57.023337+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "e08625d89e5c9e56507c",
@@ -16609,7 +16753,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-17T06:51:40.599398+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5047f21dfe4d9e087a40",
@@ -17089,7 +17233,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-16T23:49:33.493152+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "23b18c1e14d3c054eafb",
