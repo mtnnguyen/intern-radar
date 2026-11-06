@@ -141,7 +141,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-06T01:29:46.123402+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "bfb66605b71688bb4244",
@@ -1200,7 +1200,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-03T03:39:36.303955+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e1aea49d829772fc8223",
@@ -1216,7 +1216,7 @@
       "Data Science"
     ],
     "first_seen": "2026-11-03T03:39:36.303913+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "37d88cda2248d6af5584",
@@ -8278,7 +8278,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-15T00:09:17.418023+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "bcc2ffec5fe96337a1c1",
@@ -10731,7 +10731,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-06T23:52:30.277064+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d7953a53dbce680c38f4",
@@ -12336,7 +12336,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-02T23:46:44.025352+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "376f13382f34a08976a6",
@@ -14108,7 +14108,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-25T23:30:03.390935+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "468f44a693efa3da94d2",
@@ -16544,7 +16544,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-19T05:07:57.023337+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e08625d89e5c9e56507c",
@@ -19685,7 +19685,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.540013+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9ff35c46126de45f3c3f",
