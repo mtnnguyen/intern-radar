@@ -1,5 +1,358 @@
 [
   {
+    "id": "0a086194c42bb92fed9a",
+    "company": "Parspec",
+    "source": "simplify",
+    "title": "Applied AI Engineer Intern",
+    "location": "San Mateo, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504/application?embed=true",
+    "published_at": 1794007540,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714998+00:00",
+    "status": "open"
+  },
+  {
+    "id": "05f586b9f2edbf277293",
+    "company": "Meta",
+    "source": "simplify",
+    "title": "Research Scientist Intern - AI Agents and Machine Learning",
+    "location": "Menlo Park, CA, Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.metacareers.com/jobs/1826604892017856",
+    "published_at": 1794007671,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714986+00:00",
+    "status": "open"
+  },
+  {
+    "id": "89b3473bb1f35c7cf9b4",
+    "company": "Invesco",
+    "source": "simplify",
+    "title": "Data Science Intern - Real Estate",
+    "location": "Dallas, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1",
+    "published_at": 1793923200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714932+00:00",
+    "status": "open"
+  },
+  {
+    "id": "17c726eafb0da6e9cbb5",
+    "company": "L.L.Bean",
+    "source": "simplify",
+    "title": "Business Analyst/Data Analyst Intern",
+    "location": "Freeport, ME",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275",
+    "published_at": 1793923200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714903+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e4d23ef07bc1c1871a64",
+    "company": "Invesco",
+    "source": "simplify",
+    "title": "Data Science Intern - Real Estate",
+    "location": "Dallas, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091",
+    "published_at": 1793923200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714891+00:00",
+    "status": "open"
+  },
+  {
+    "id": "048981db0f24c38e0d7f",
+    "company": "T-Mobile",
+    "source": "simplify",
+    "title": "AI Engineering Intern",
+    "location": "Bellevue, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381194",
+    "published_at": 1793923200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714872+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bd476bf9b326723b60fa",
+    "company": "T-Mobile",
+    "source": "simplify",
+    "title": "AI Engineering Intern",
+    "location": "Bellevue, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381198",
+    "published_at": 1793923200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714861+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0c4ab813e5286fb314ca",
+    "company": "T-Mobile",
+    "source": "simplify",
+    "title": "AI Engineering Intern",
+    "location": "Bellevue, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765",
+    "published_at": 1793923200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714851+00:00",
+    "status": "open"
+  },
+  {
+    "id": "995499243e11c3e5903f",
+    "company": "T-Mobile",
+    "source": "simplify",
+    "title": "AI Strategist Intern",
+    "location": "Bellevue, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279",
+    "published_at": 1793923200,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714816+00:00",
+    "status": "open"
+  },
+  {
+    "id": "91946c36e37bdb3727a8",
+    "company": "T-Mobile",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Frisco, TX, Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754",
+    "published_at": 1793923200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714790+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0a0326f5652b84d2d322",
+    "company": "T-Mobile",
+    "source": "simplify",
+    "title": "Data Engineering Intern",
+    "location": "Frisco, TX, Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380755",
+    "published_at": 1793923200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714769+00:00",
+    "status": "open"
+  },
+  {
+    "id": "856d0f72f959994b2e05",
+    "company": "Enovation Controls",
+    "source": "simplify",
+    "title": "Embedded Machine Learning Engineer Intern",
+    "location": "Tulsa, OK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257",
+    "published_at": 1794008744,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714671+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a2954a81aca5a1248ad8",
+    "company": "Bank of Montreal",
+    "source": "simplify",
+    "title": "Quantitative Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097",
+    "published_at": 1793923200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714586+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c89a553adc39402230a3",
+    "company": "Bank of Montreal",
+    "source": "simplify",
+    "title": "Quantitative Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1",
+    "published_at": 1793923200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714557+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c2310fe789a53901df13",
+    "company": "OLG",
+    "source": "simplify",
+    "title": "Analytics Engineering & Measurement Student Intern",
+    "location": "Toronto, ON, Canada, Sault Ste. Marie, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Analytics-Engineering---Measurement-Student_R26_00700",
+    "published_at": 1793923200,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714525+00:00",
+    "status": "open"
+  },
+  {
+    "id": "59fee4582f3b2ed5172e",
+    "company": "Samsung",
+    "source": "simplify",
+    "title": "Business Intelligence & Data Analytics Intern",
+    "location": "Plano, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949",
+    "published_at": 1793923200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714463+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f5c2d8a8243b298e988a",
+    "company": "Samsung",
+    "source": "simplify",
+    "title": "AI Data Analyst Intern",
+    "location": "Plano, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1",
+    "published_at": 1793923200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714449+00:00",
+    "status": "open"
+  },
+  {
+    "id": "38c143612d4cf9ee40c1",
+    "company": "Docusign",
+    "source": "simplify",
+    "title": "Agentic AI Engineer Intern",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.docusign.com/jobs/30587?icims=1&lang=en-us",
+    "published_at": 1793998800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714437+00:00",
+    "status": "open"
+  },
+  {
+    "id": "19a6e7a1e625ac651961",
+    "company": "Waymo",
+    "source": "simplify",
+    "title": "Machine Learning Intern - Generative World Models & Controllable Simulation",
+    "location": "Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8351210",
+    "published_at": 1793998781,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714339+00:00",
+    "status": "open"
+  },
+  {
+    "id": "18a71814d16b7a2700f2",
+    "company": "The Federal Reserve System",
+    "source": "simplify",
+    "title": "Statistics Intern",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876",
+    "published_at": 1793923200,
+    "categories": [
+      "Statistics"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714316+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2df6a4c9f96491614dda",
+    "company": "Helical",
+    "source": "simplify",
+    "title": "Machine Learning Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.workable.com/helical/j/88990169F9/apply",
+    "published_at": 1794007078,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714287+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c192acf7563f5d2fa3be",
+    "company": "SharkNinja",
+    "source": "simplify",
+    "title": "Applied AI & Analytics Co-op",
+    "location": "Miami, FL, Needham, MA, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006",
+    "published_at": 1793996661,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-07T01:07:30.714233+00:00",
+    "status": "open"
+  },
+  {
     "id": "30387e1165ff31afeb39",
     "company": "CACI",
     "source": "simplify",
@@ -221,7 +574,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-06T01:29:46.123621+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "314900137b45cfb57e2e",
@@ -2551,7 +2904,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-29T23:39:15.162468+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "82b5896daa32a0753f1e",
@@ -8711,7 +9064,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-13T23:51:45.262657+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "375e69db4b34f49dc06c",
@@ -15325,7 +15678,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-23T01:47:09.745799+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "97ea01fd9fda0bd90cd5",
@@ -18852,7 +19205,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -18868,7 +19221,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -18884,7 +19237,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -18900,7 +19253,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -18916,7 +19269,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -18932,7 +19285,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -18948,7 +19301,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -18964,7 +19317,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -18980,7 +19333,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -18996,7 +19349,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -19012,7 +19365,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -19028,7 +19381,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -27941,7 +28294,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ed1929b1e19e33b3f6a5",
