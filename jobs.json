@@ -1,5 +1,21 @@
 [
   {
+    "id": "db8a70e0edc2fa59e643",
+    "company": "Zoox",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Boston, MA, Foster City, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply",
+    "published_at": 1794019460,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-07T07:05:55.694633+00:00",
+    "status": "open"
+  },
+  {
     "id": "0a086194c42bb92fed9a",
     "company": "Parspec",
     "source": "simplify",
@@ -510,7 +526,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-06T16:10:08.971999+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "369ce4125f98dd9984e0",
@@ -622,7 +638,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-06T01:29:46.123531+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "32c53ffc09ceb945be1f",
@@ -4010,7 +4026,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-28T00:05:22.981183+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5d81ca9fcb5b140d622a",
@@ -4026,7 +4042,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-28T00:05:22.981164+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b6f7b9514238be38efc",
@@ -4410,7 +4426,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-27T05:33:26.444936+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "159cc6924abd0c30682e",
@@ -8405,7 +8421,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-15T00:09:17.418454+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2bc25a0f7fe9d8917dcf",
@@ -8919,7 +8935,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-14T18:19:31.367208+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "63a64c6aa9f46cf0fe3c",
@@ -10250,7 +10266,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-09T19:43:57.452087+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4b08a161276a11bbb02d",
@@ -19205,7 +19221,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -19221,7 +19237,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -19237,7 +19253,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -19253,7 +19269,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -19269,7 +19285,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -19285,7 +19301,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -19301,7 +19317,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -19317,7 +19333,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -19333,7 +19349,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -19349,7 +19365,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -19365,7 +19381,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -19381,7 +19397,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -25242,7 +25258,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "4314931db3cd921f229f",
@@ -28471,7 +28487,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5f2969af9c56f8a37e83",
@@ -29722,7 +29738,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be97e5c4654ddabd79af",
