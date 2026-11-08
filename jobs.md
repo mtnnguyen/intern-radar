@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 971
+**Active matching jobs:** 970
 
 **New in the last 24 hours:** 0
 
@@ -279,7 +279,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Cummins | Data Analytics Placement Student Intern | Analytics | Darlington, UK | simplify | 2026-11-06 11:10 AM EST | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440904) |
 | 🌎 Other |  | Amazon | Data Analyst Apprentice | Analytics | London, UK | simplify | 2026-11-06 11:10 AM EST | [Apply](https://amazon.jobs/en/jobs/10598579/data-analyst-apprentice-42-month-fixed-term-contract) |
 | 🌎 Other |  | Robert Bosch Venture Capital | Motorsport Software and Data Analytics Graduate Intern | Analytics | Farmington Hills, MI | simplify | 2026-11-06 11:10 AM EST | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000160208440) |
-| 🌎 Other |  | Gannett Fleming | Data Analytics Intern | Analytics | NYC | simplify | 2026-11-06 11:10 AM EST | [Apply](https://careers-gannettfleming.icims.com/jobs/15085/job?mobile=true&needsRedirect=false) |
 | 🌎 Other |  | Tinder | Machine Learning Engineer Intern | Machine Learning / AI | Palo Alto, CA | simplify | 2026-11-06 11:10 AM EST | [Apply](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply) |
 | 🌎 Other |  | Tinder | Data Scientist Intern | Data Science | SF | simplify | 2026-11-06 11:10 AM EST | [Apply](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply) |
 | 🌎 Other |  | CrowdStrike | Sales Data Analytics Intern | Analytics | Arlington County, Arlington, VA, Sunnyvale, CA | simplify | 2026-11-05 08:29 PM EST | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sales-Data-Analytics-Intern_R30801) |
