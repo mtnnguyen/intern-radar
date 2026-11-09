@@ -1,5 +1,85 @@
 [
   {
+    "id": "900808d4977db0941893",
+    "company": "Kensington",
+    "source": "simplify",
+    "title": "BI/Data Analyst Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007",
+    "published_at": 1794235776,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-09T20:41:54.357004+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ada460cdccd66a2367c7",
+    "company": "Enova",
+    "source": "simplify",
+    "title": "Analytics Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/enova/jobs/8366036",
+    "published_at": 1794239236,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-09T20:41:54.356940+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ebe7bb84931290cb4047",
+    "company": "Haskell",
+    "source": "simplify",
+    "title": "AI Engineering Design Intern for Facility Design",
+    "location": "Jacksonville, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.haskell.com/jobs/7415?icims=1&lang=en-us",
+    "published_at": 1794235740,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-09T20:41:54.356893+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bd1c6fe477e8ae68074c",
+    "company": "Haskell",
+    "source": "simplify",
+    "title": "AI Engineering Design Intern for Facility Design",
+    "location": "Jacksonville, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://haskell.jibeapply.com/jobs/7415?icims=1&lang=en-us",
+    "published_at": 1794235740,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-09T20:41:54.356870+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3c85db3a2f7c43f2b238",
+    "company": "Paccar",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Chillicothe, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.paccar.com/job/Chillicothe-Data-Analyst-Intern-OH-45601-8829/1455610233/?ats=successfactors",
+    "published_at": 1794237704,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-09T20:41:54.356833+00:00",
+    "status": "open"
+  },
+  {
     "id": "89a16e9b0e4bf06b0b9c",
     "company": "Samsung",
     "source": "simplify",
@@ -1135,7 +1215,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-05T05:54:27.522959+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e6fe56877c253be72147",
@@ -1231,7 +1311,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-04T18:39:47.751569+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9001b7efe117695801a8",
@@ -1471,7 +1551,7 @@
       "Data Science"
     ],
     "first_seen": "2026-11-03T23:38:08.776920+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "91049eb2b9eef5530505",
@@ -1632,7 +1712,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-11-03T03:39:36.304576+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3f885f8daefc4da6c88a",
@@ -2325,7 +2405,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-31T12:51:10.340024+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e228d1cb24b715839f8c",
@@ -3144,7 +3224,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-29T19:48:05.974342+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1457aae3b0fbdcc9a477",
@@ -3288,7 +3368,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-29T07:15:45.785953+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "57ddbd537d7c55dfd0e4",
@@ -3688,7 +3768,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-29T01:18:25.716052+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f61ec688c60c17f5fe09",
@@ -5034,7 +5114,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-24T00:54:10.364081+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7f44bbb8d69aedd0b233",
@@ -5260,7 +5340,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-24T00:54:10.363446+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8e072ec92422ebec0179",
@@ -6496,7 +6576,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-22T00:11:43.424827+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3d3a89787ad65c3bb02c",
@@ -10971,7 +11051,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-08T02:02:47.243346+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a4d8cf3e158825c46a7a",
@@ -12657,7 +12737,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-04T18:17:22.376969+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1a612cdbb2b116014b16",
@@ -19253,7 +19333,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -19269,7 +19349,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -19285,7 +19365,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -19301,7 +19381,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -19317,7 +19397,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -19333,7 +19413,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -19349,7 +19429,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -19365,7 +19445,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -19381,7 +19461,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -19397,7 +19477,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -19413,7 +19493,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -19429,7 +19509,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -19573,7 +19653,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T22:46:03.824044+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f7948598eef7c23e29f4",
@@ -31309,7 +31389,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.456578+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b84c471d6c2a274b5cab",
