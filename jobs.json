@@ -1,5 +1,21 @@
 [
   {
+    "id": "89a16e9b0e4bf06b0b9c",
+    "company": "Samsung",
+    "source": "simplify",
+    "title": "ePro Business & Data Analyst Intern",
+    "location": "Plano, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996",
+    "published_at": 1794096000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-09T10:08:18.368813+00:00",
+    "status": "open"
+  },
+  {
     "id": "a32044e16e1c48affa2f",
     "company": "Northwood Space",
     "source": "simplify",
@@ -750,7 +766,7 @@
       "Data Science"
     ],
     "first_seen": "2026-11-06T01:29:46.123255+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1945dd1c5ecfab213f23",
@@ -2504,7 +2520,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-31T00:40:34.876017+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "21b1d4f7810045709d96",
@@ -2536,7 +2552,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-31T00:40:34.875943+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "45e3cbe792497b3b7dc5",
@@ -3144,7 +3160,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-29T19:48:05.974287+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ede5bafa4c908418cdce",
@@ -4570,7 +4586,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-27T00:34:12.000135+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c5f306a422a288dbd462",
@@ -5164,7 +5180,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-24T00:54:10.363629+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2aa51d4bffda5c60f35c",
@@ -5565,7 +5581,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T15:12:07.368311+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7277388fdaa0b7b8a77d",
