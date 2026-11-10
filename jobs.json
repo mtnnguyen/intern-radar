@@ -1,5 +1,181 @@
 [
   {
+    "id": "97518341f0f67ff7fb44",
+    "company": "Eversource Energy",
+    "source": "simplify",
+    "title": "GIS Intern",
+    "location": "Manchester, NH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer--GIS-Intern--NH-_R-032537",
+    "published_at": 1794268800,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-10T23:40:36.163335+00:00",
+    "status": "open"
+  },
+  {
+    "id": "689e3e79f3adf4b69901",
+    "company": "General Motors",
+    "source": "simplify",
+    "title": "Software Engineer Intern - Machine Learning Engineer - Embodied AI",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034",
+    "published_at": 1794268800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T23:40:36.163319+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bd3e761a7375c10802f0",
+    "company": "Bank of Montreal",
+    "source": "simplify",
+    "title": "Data Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973",
+    "published_at": 1794268800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T23:40:36.163298+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e77d597c9ab3b10b6717",
+    "company": "Investissement Québec",
+    "source": "simplify",
+    "title": "Automation and Artificial Intelligence Intern",
+    "location": "Montreal, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://investquebec.wd10.myworkdayjobs.com/ext/job/Montral/tudiant---Automatisation-et-intelligence-artificielle--Montral-_R3656",
+    "published_at": 1794268800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T23:40:36.163210+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5082f14ee4ac88c0d374",
+    "company": "Apple",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - Personal Agentic Search",
+    "location": "Cambridge, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.apple.com/en-us/details/200694037",
+    "published_at": 1794352565,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T23:40:36.163177+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7682c78fe9f197028db2",
+    "company": "Addepar",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910327002",
+    "published_at": 1794327597,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-10T23:40:36.163136+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8c734cf07687aad511a4",
+    "company": "Addepar",
+    "source": "simplify",
+    "title": "Portfolio Data Analyst Intern",
+    "location": "Edinburgh, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910310002",
+    "published_at": 1794327631,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T23:40:36.163126+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7eba25474e895d9a1338",
+    "company": "Addepar",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927543002",
+    "published_at": 1794327489,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T23:40:36.163079+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5cb5efd841765e2947c0",
+    "company": "Arista Networks",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Austin, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000160961018",
+    "published_at": 1794341169,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T23:40:36.163032+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cd8a49dda83ff50107c8",
+    "company": "Altice USA",
+    "source": "simplify",
+    "title": "Operations Data Analyst Intern",
+    "location": "Bethpage, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Operations-Data-Analyst-NY-11714/1449510400/?ats=successfactors",
+    "published_at": 1794353014,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T23:40:36.162985+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2770063e5bd821457dbb",
+    "company": "Altice USA",
+    "source": "simplify",
+    "title": "Product Analytics Intern",
+    "location": "Bethpage, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Analytics-NY-11714/1449510900/?ats=successfactors",
+    "published_at": 1794353014,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T23:40:36.162916+00:00",
+    "status": "open"
+  },
+  {
     "id": "59928e71ad4cee2b3597",
     "company": "T-Mobile",
     "source": "simplify",
@@ -109,7 +285,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-10T10:56:19.426740+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c378d177dfc5fb046a18",
@@ -125,7 +301,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-10T10:56:19.426726+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d4068b2150aa85f66fa5",
@@ -1294,7 +1470,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-06T01:29:46.123621+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "314900137b45cfb57e2e",
@@ -2352,7 +2528,7 @@
       "Data Science"
     ],
     "first_seen": "2026-11-03T03:39:36.304438+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4e912f1b066c54a830d7",
@@ -2368,7 +2544,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-03T03:39:36.304348+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "34cdedd674017c40c04e",
@@ -5916,7 +6092,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-24T00:54:10.363484+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "f00da8bd063db1d4f9fb",
@@ -13569,7 +13745,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-02T23:46:44.025352+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "376f13382f34a08976a6",
@@ -17617,7 +17793,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-19T13:21:13.118347+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "bf5ad5b7d008d0465683",
@@ -18659,7 +18835,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-16T23:49:33.507656+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c7ce98d8f6b054197e31",
@@ -19925,7 +20101,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -19941,7 +20117,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -19957,7 +20133,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -19973,7 +20149,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -19989,7 +20165,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -20005,7 +20181,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -20021,7 +20197,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -20037,7 +20213,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -20053,7 +20229,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -20069,7 +20245,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -20085,7 +20261,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -20101,7 +20277,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -27664,7 +27840,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.489934+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "9c13be47928042a75b76",
@@ -31180,7 +31356,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c59cc0bae5bc9aab51ab",
@@ -31228,7 +31404,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7bde9bf3c80fae805091",
@@ -31276,7 +31452,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "058d483702811dfbd3d5",
@@ -32656,7 +32832,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f59d55e5dc051b12b01d",
