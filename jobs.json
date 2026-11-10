@@ -1,5 +1,69 @@
 [
   {
+    "id": "59928e71ad4cee2b3597",
+    "company": "T-Mobile",
+    "source": "simplify",
+    "title": "Business Analytics & Reporting Intern",
+    "location": "Bellevue, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Business-Analytics---Reporting-Internship_REQ381319",
+    "published_at": 1794268800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T18:31:32.346820+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3fb72b78e7d166ca3759",
+    "company": "DP World",
+    "source": "simplify",
+    "title": "AI & Analytics Intern - Talent Management",
+    "location": "Charlotte, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855",
+    "published_at": 1794325865,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T18:31:32.346762+00:00",
+    "status": "open"
+  },
+  {
+    "id": "862cea96bc3d7b82b818",
+    "company": "Omnicom Group",
+    "source": "simplify",
+    "title": "Analytics Intern",
+    "location": "Washington, DC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Washington-District-of-Columbia-United-States-of-America/Intern--Analytics_R16262",
+    "published_at": 1794268800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T18:31:32.346671+00:00",
+    "status": "open"
+  },
+  {
+    "id": "72e48c855cabb9bf59b7",
+    "company": "Windstar Cruises",
+    "source": "simplify",
+    "title": "Revenue & Data Analytics Intern",
+    "location": "Doral, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.xanterrajobs.com/jobs/39609?icims=1&lang=en-us",
+    "published_at": 1790018100,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T18:31:32.346575+00:00",
+    "status": "open"
+  },
+  {
     "id": "1060995b7f4433bc8dbe",
     "company": "Selective Insurance",
     "source": "simplify",
@@ -1230,7 +1294,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-06T01:29:46.123621+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "314900137b45cfb57e2e",
@@ -5082,7 +5146,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-27T05:33:26.444912+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "22876ca78b52be9ec96b",
@@ -5354,7 +5418,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-27T00:34:11.975732+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2a0fffa93a6b5716ebed",
@@ -5450,7 +5514,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-26T16:50:50.496490+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9cdd49b40a889c58b557",
@@ -14292,7 +14356,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-01T14:48:54.489678+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2769b7015ae562f10a55",
@@ -15870,7 +15934,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-24T23:18:32.635373+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f687492d5f85adc70d98",
@@ -16030,7 +16094,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-23T23:05:46.743415+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "21f4c8e737382e617891",
@@ -19925,7 +19989,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -23905,7 +23969,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ba4ac4bb6148f864d37f",
@@ -28710,7 +28774,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c12d720e8dbcafde5343",
@@ -33200,7 +33264,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f587822aa8fcea54096f",
