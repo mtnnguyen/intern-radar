@@ -1,5 +1,421 @@
 [
   {
+    "id": "7dc54c749977a6820106",
+    "company": "Pika",
+    "source": "simplify",
+    "title": "Applied AI Engineer Intern - Creative Experiences",
+    "location": "Palo Alto, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true",
+    "published_at": 1794268800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885963+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3971ce731155594fce49",
+    "company": "Paccar",
+    "source": "simplify",
+    "title": "Greenhouse Gas Data Analyst Intern",
+    "location": "Kirkland, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Greenhouse-Gas-Data-Analyst-Intern-WA-98033/1455720933/?ats=successfactors",
+    "published_at": 1794266887,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885940+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6944200fbfbf8d90a62d",
+    "company": "DreamWorks Animation",
+    "source": "simplify",
+    "title": "Advertising & Partnerships: Data Science Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930",
+    "published_at": 1794248802,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885911+00:00",
+    "status": "open"
+  },
+  {
+    "id": "439a14d0e55e749384e8",
+    "company": "DreamWorks Animation",
+    "source": "simplify",
+    "title": "Media Tech: Data – AI & Machine Learning Intern",
+    "location": "Universal City, LA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160649935",
+    "published_at": 1794239540,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885895+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fedee61e75b432483107",
+    "company": "DreamWorks Animation",
+    "source": "simplify",
+    "title": "Media Tech: Data – AI & Machine Learning Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767",
+    "published_at": 1794239496,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885861+00:00",
+    "status": "open"
+  },
+  {
+    "id": "382e766e802debe71a07",
+    "company": "DreamWorks Animation",
+    "source": "simplify",
+    "title": "Studio Operations – Data Analytics Intern",
+    "location": "Universal City, LA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160648109",
+    "published_at": 1794238457,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885829+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8c20a596fe2faf37d3b8",
+    "company": "Philadelphia Gas Works",
+    "source": "simplify",
+    "title": "Data and Analytics Intern",
+    "location": "Philadelphia, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers-pgworks.icims.com/jobs/2160/job?in_iframe=1&mobile=true&needsRedirect=false",
+    "published_at": 1794182400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885781+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b11490952389c2951907",
+    "company": "Highmark Health",
+    "source": "simplify",
+    "title": "Reporting and Analytics Undergraduate Intern",
+    "location": "New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Reporting-and-Analytics-Undergraduate-Intern_J287987",
+    "published_at": 1794182400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885769+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5087b7acc11c989ca245",
+    "company": "UiPath",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Bellevue, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555/application?embed=true",
+    "published_at": 1794182400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885737+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6996c5d5b51f5e963152",
+    "company": "AstraZeneca",
+    "source": "simplify",
+    "title": "Network Planning & Data Analytics Intern",
+    "location": "Tarzana, LA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845",
+    "published_at": 1794182400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885673+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ccf2f5671baa4a34eb4a",
+    "company": "Toyota Research Institute",
+    "source": "simplify",
+    "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
+    "location": "Los Altos, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415/apply",
+    "published_at": 1794267721,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885651+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2f442bad4952d37ce0c6",
+    "company": "Analog Devices",
+    "source": "simplify",
+    "title": "Machine Learning for Computational Sensing Research Intern",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Machine-Learning-for-Computational-Sensing-Research-Intern_R268371",
+    "published_at": 1794182400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885564+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b04ef5deb62164052fcf",
+    "company": "Cirrus Logic",
+    "source": "simplify",
+    "title": "Applied AI Engineering Intern",
+    "location": "Austin, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8/apply",
+    "published_at": 1794267986,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885532+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a7c8254fed47be98bd6c",
+    "company": "ASML",
+    "source": "simplify",
+    "title": "AI Engineer Co-op Intern",
+    "location": "San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628",
+    "published_at": 1794182400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885502+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f3d2c6cdaa16e979370a",
+    "company": "ASML",
+    "source": "simplify",
+    "title": "AI Engineer Co-op Intern",
+    "location": "San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--AI-Engineer_J-00355629",
+    "published_at": 1794182400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885491+00:00",
+    "status": "open"
+  },
+  {
+    "id": "620ba9f997710e107af3",
+    "company": "The New York Times",
+    "source": "simplify",
+    "title": "Machine Learning Scientist Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005",
+    "published_at": 1794263196,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885481+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d7d2b065ac9afc2ff82b",
+    "company": "ASML",
+    "source": "simplify",
+    "title": "AI Engineer Co-op Intern",
+    "location": "San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--Data-Engineer_J-00355627",
+    "published_at": 1794182400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885469+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a243545b884678852b43",
+    "company": "The New York Times",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005",
+    "published_at": 1794263175,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885458+00:00",
+    "status": "open"
+  },
+  {
+    "id": "843c62c686b7214d3772",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "source": "simplify",
+    "title": "Artificial Intelligence Intern - Information Fusion",
+    "location": "Laurel, MD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us",
+    "published_at": 1794244620,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885371+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cb25389a0231b2a8fe2c",
+    "company": "The Federal Reserve System",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Minneapolis, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Summer-2027-Graduate-Internship---Data-Science_R-0000034056-1",
+    "published_at": 1794182400,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885334+00:00",
+    "status": "open"
+  },
+  {
+    "id": "456ac99cc1ef7b951edf",
+    "company": "7-Eleven",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Irving, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281",
+    "published_at": 1794182400,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885322+00:00",
+    "status": "open"
+  },
+  {
+    "id": "03f26061a35bf714c7c3",
+    "company": "Warner Bros.",
+    "source": "simplify",
+    "title": "Data Engineering Co-op",
+    "location": "Needham, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/MA-Needham-117-Kendrick-St/WB-Games-Data-Engineering-Co-op--Needham--MA---January-May-2027_R000109902",
+    "published_at": 1794182400,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885288+00:00",
+    "status": "open"
+  },
+  {
+    "id": "54976567bcf735b977dd",
+    "company": "Great American Insurance Company",
+    "source": "simplify",
+    "title": "Telematics / Predictive Analytics Intern",
+    "location": "Cincinnati, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Telematics-Intern---Predictive-Analytics-Intern---Summer-2027_R9868",
+    "published_at": 1794182400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885256+00:00",
+    "status": "open"
+  },
+  {
+    "id": "97aaa605294d76da3638",
+    "company": "Zoetis Services",
+    "source": "simplify",
+    "title": "Data and Analytics Product Operations Intern",
+    "location": "Parsippany-Troy Hills, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Data---Analytics-Product-Operations-Intern_JR00022022-1",
+    "published_at": 1794182400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885167+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8bab525ba39be0209216",
+    "company": "Maxinsights",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - Video Foundation Models & Agentic AI",
+    "location": "Santa Clara, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d/application?embed=true",
+    "published_at": 1794182400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885142+00:00",
+    "status": "open"
+  },
+  {
+    "id": "de6229ae56fe1f1eed99",
+    "company": "Biodesix",
+    "source": "simplify",
+    "title": "Data Analytics & Business Intelligence Intern",
+    "location": "Louisville, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485182009",
+    "published_at": 1794243739,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-10T02:57:09.885047+00:00",
+    "status": "open"
+  },
+  {
     "id": "900808d4977db0941893",
     "company": "Kensington",
     "source": "simplify",
@@ -702,7 +1118,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-06T01:29:46.123621+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "314900137b45cfb57e2e",
@@ -1231,7 +1647,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-05T05:54:27.522929+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "eea46b01378f909929b9",
@@ -1890,7 +2306,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-03T03:39:36.303878+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d131ca13199187b6b5f7",
@@ -2584,7 +3000,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-31T00:40:34.876053+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5e231a99bb883a16700b",
@@ -2744,7 +3160,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-30T09:52:24.009170+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "eb729398719df7c29688",
@@ -3544,7 +3960,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-29T01:18:25.716413+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d6f6b087e8df75cb043f",
@@ -4522,7 +4938,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-27T05:33:26.444988+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6d1b0cc098288bb56544",
@@ -5244,7 +5660,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-24T00:54:10.363639+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "989cb3e4964a085f23d6",
@@ -8196,7 +8612,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-15T23:52:03.861096+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "60d5cb11a4f524f84a02",
@@ -8212,7 +8628,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-15T23:52:03.861039+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d420aee98c32732749a3",
@@ -8501,7 +8917,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-15T00:09:17.418564+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "76c62a4f875a1a1a8422",
@@ -8999,7 +9415,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-15T00:09:17.417714+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "456ecd1557444d31c185",
@@ -9288,7 +9704,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-13T23:51:45.262571+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9608e534d09505c4ea2c",
@@ -11276,7 +11692,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-07T03:47:12.531426+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "168cd4f377e68cbd7a69",
@@ -12721,7 +13137,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-10-04T18:17:22.377020+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0672994dc3f8aa0126bf",
@@ -13539,7 +13955,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-01T23:43:25.907429+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "09ccd268810c833029af",
@@ -17795,7 +18211,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-17T17:10:28.434903+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "45be44263cedc0c68c05",
@@ -19333,7 +19749,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -19349,7 +19765,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -19365,7 +19781,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -19381,7 +19797,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -19397,7 +19813,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -19413,7 +19829,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -19429,7 +19845,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -19445,7 +19861,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -19461,7 +19877,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -19477,7 +19893,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -19493,7 +19909,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -19509,7 +19925,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -19829,7 +20245,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T20:13:24.228414+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0f8fb7f9993f02adccae",
@@ -29706,7 +30122,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7bca670096a60a7c511a",
@@ -30748,7 +31164,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cc396780831688dfacd3",
@@ -31149,7 +31565,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.456578+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "03050fa870a471a8ff7f",
@@ -32784,7 +33200,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c2671b240a87564f0b6f",
@@ -33682,7 +34098,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.438371+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f0190c08531ac3071a1b",
