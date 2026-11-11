@@ -1,5 +1,37 @@
 [
   {
+    "id": "1afffb338a020a55ed11",
+    "company": "Anduril",
+    "source": "simplify",
+    "title": "Finance Data Analyst Intern",
+    "location": "Costa Mesa, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269977007",
+    "published_at": 1792534691,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-11T10:47:15.594659+00:00",
+    "status": "open"
+  },
+  {
+    "id": "28764293719843022250",
+    "company": "Riot Games",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716",
+    "published_at": 1794366177,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-11T10:47:15.594599+00:00",
+    "status": "open"
+  },
+  {
     "id": "3a8bba1da5c4a6958853",
     "company": "TikTok",
     "source": "simplify",
@@ -2528,7 +2560,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-03T23:38:08.776662+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e4797a2704b6e6a70187",
@@ -8738,7 +8770,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-17T00:42:57.464696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0b17f6c61dd8579c46ce",
@@ -9831,7 +9863,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-15T00:09:17.417992+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9471b7e43027a617fa79",
@@ -9895,7 +9927,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-15T00:09:17.417714+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "456ecd1557444d31c185",
@@ -17600,7 +17632,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-21T23:59:00.760599+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6b50112e4d15490a10ba",
