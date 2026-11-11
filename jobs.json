@@ -1,5 +1,133 @@
 [
   {
+    "id": "3a8bba1da5c4a6958853",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7706693387932633397",
+    "published_at": 1794365508,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-11T03:04:07.550348+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e59eba946ee9b498a05d",
+    "company": "Booz Allen",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "McLean, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0253332",
+    "published_at": 1794268800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-11T03:04:07.550268+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9f2e3badd2ed9d9193a8",
+    "company": "International",
+    "source": "simplify",
+    "title": "Artificial Intelligence/Machine Learning Intern",
+    "location": "Lisle, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.international.com/jobs/60456?icims=1&lang=en-us",
+    "published_at": 1794347340,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-11T03:04:07.550248+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fb3530a1d41e81a57c20",
+    "company": "Art of Problem Solving",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003",
+    "published_at": 1794353114,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-11T03:04:07.550238+00:00",
+    "status": "open"
+  },
+  {
+    "id": "65c8991c6dd33daf2b74",
+    "company": "General Dynamics Information Technology",
+    "source": "simplify",
+    "title": "AI/ML Business Intelligence Development Intern",
+    "location": "Bossier City, LA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935",
+    "published_at": 1794353865,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-11T03:04:07.550190+00:00",
+    "status": "open"
+  },
+  {
+    "id": "aae228092916b53ee269",
+    "company": "Paccar",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Chillicothe, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.paccar.com/job/Chillicothe-Data-Engineering-Intern-OH-45601-8829/1456138333/?ats=successfactors",
+    "published_at": 1794353862,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-11T03:04:07.550178+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a28f77b46ec6e9698391",
+    "company": "DwyerOmega",
+    "source": "simplify",
+    "title": "Applied AI Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4647822",
+    "published_at": 1794354354,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-11T03:04:07.550123+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2132f6923e435c289e01",
+    "company": "DwyerOmega",
+    "source": "simplify",
+    "title": "Applied AI Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662",
+    "published_at": 1794354354,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-11T03:04:07.550082+00:00",
+    "status": "open"
+  },
+  {
     "id": "97518341f0f67ff7fb44",
     "company": "Eversource Energy",
     "source": "simplify",
@@ -1598,7 +1726,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-06T01:29:46.123269+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "594a792a35393a61d8ca",
@@ -8756,7 +8884,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-17T00:42:57.464410+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "b88081cc30ac2d38c8bf",
@@ -8900,7 +9028,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-16T02:32:54.492609+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e005b701709521dfdf79",
@@ -9285,7 +9413,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-15T00:09:17.418465+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4ab3c02916805e34b9f8",
@@ -14307,7 +14435,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-01T23:43:25.907429+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "09ccd268810c833029af",
@@ -17472,7 +17600,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-21T23:59:00.760599+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6b50112e4d15490a10ba",
@@ -19315,7 +19443,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-16T00:26:30.973390+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b0c0e944d354b42c065",
@@ -20101,7 +20229,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -20117,7 +20245,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -20133,7 +20261,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -20149,7 +20277,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -20165,7 +20293,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -20181,7 +20309,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -20197,7 +20325,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -20213,7 +20341,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -20229,7 +20357,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -20245,7 +20373,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -20261,7 +20389,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -20277,7 +20405,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -31436,7 +31564,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "91cb0aa037df3995ac6f",
