@@ -1,5 +1,21 @@
 [
   {
+    "id": "c5a6832aaa5d6c2cc036",
+    "company": "Bloom Energy",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362",
+    "published_at": 1794355200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-12T07:45:24.683024+00:00",
+    "status": "open"
+  },
+  {
     "id": "9b197cb33cc61127fa1b",
     "company": "Riot Games",
     "source": "simplify",
@@ -1519,7 +1535,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-11-07T01:07:30.714790+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0a0326f5652b84d2d322",
@@ -1535,7 +1551,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-11-07T01:07:30.714769+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "856d0f72f959994b2e05",
@@ -3382,7 +3398,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-02T22:27:49.595034+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f2897ba3b7a1ba21a423",
@@ -3914,7 +3930,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-31T00:40:34.875808+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7ab336ea04c0a901a758",
@@ -4762,7 +4778,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-29T01:18:25.716431+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "143ccbd94bc7c4fc145d",
@@ -8788,7 +8804,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-19T23:33:43.217279+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5c67dde90eef04a98165",
@@ -10361,7 +10377,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-14T02:53:49.161591+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "935cec3b323b0434c23e",
@@ -10875,7 +10891,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-13T00:33:50.785257+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a342433f0bbbe11dd66e",
@@ -10891,7 +10907,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-13T00:33:50.785231+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4d201103e05f3341aef0",
@@ -10955,7 +10971,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-13T00:33:50.785156+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9da89bb3893e449acc79",
@@ -12301,7 +12317,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-08T02:02:47.243340+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8b96b80216ce08835b78",
@@ -14982,7 +14998,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-01T14:48:54.489698+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "797f9dcec50309ead787",
@@ -34884,7 +34900,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.438371+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "bc347438afbd3a510061",
@@ -35045,7 +35061,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.437360+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a3c2703506f746a51cf0",
