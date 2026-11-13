@@ -1,5 +1,85 @@
 [
   {
+    "id": "744b8e9b7110c19a0d66",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Scientist Intern - Local Services",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7703925583541979445",
+    "published_at": 1794555446,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-13T10:03:39.475711+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ba4776adb4fca9e1c6f6",
+    "company": "SJI",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Folsom, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sjindustries.wd1.myworkdayjobs.com/SJI/job/Folsom-NJ/Engineering-Design-Intern_R4369",
+    "published_at": 1790553600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-13T10:03:39.475700+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4163b257c506ee35a686",
+    "company": "Envita Solutions",
+    "source": "simplify",
+    "title": "Data Scientist Intern - Applied AI",
+    "location": "Indianapolis, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Data-Scientist-Intern--Applied-AI_R-1728",
+    "published_at": 1789084800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-13T10:03:39.475665+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e7ec61f977791324ab4b",
+    "company": "TikTok",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lifeattiktok.com/search/7698822572474583301",
+    "published_at": 1794537318,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-13T10:03:39.475606+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0cba132b44b631d08004",
+    "company": "Huawei",
+    "source": "simplify",
+    "title": "Researcher Co-op - Machine Learning - Speech & Audio AI",
+    "location": "Markham, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-machine-learning-speech-audio-ai",
+    "published_at": 1787332102,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-13T10:03:39.475400+00:00",
+    "status": "open"
+  },
+  {
     "id": "a7b4d3d02d5cda7cba1b",
     "company": "ASML",
     "source": "simplify",
@@ -800,7 +880,7 @@
       "Data Science"
     ],
     "first_seen": "2026-11-12T00:41:42.886488+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c874b3d12e899fda879e",
@@ -960,7 +1040,7 @@
       "Data Science"
     ],
     "first_seen": "2026-11-11T03:04:07.550238+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "65c8991c6dd33daf2b74",
@@ -1408,7 +1488,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-10T02:57:09.885940+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6944200fbfbf8d90a62d",
@@ -1520,7 +1600,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-10T02:57:09.885737+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6996c5d5b51f5e963152",
@@ -3379,7 +3459,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-03T23:38:08.776762+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5b5d06039be8c42f9711",
@@ -5211,7 +5291,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-29T01:18:25.716609+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be388e275245e1a80029",
@@ -5451,7 +5531,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-29T01:18:25.716239+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1bf623b8faaba0de4cb5",
@@ -7087,7 +7167,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-24T00:54:10.363582+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "776f88dbf21a26c7fb96",
@@ -8419,7 +8499,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-22T00:11:43.424649+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c5a24cef0bab19c765a1",
@@ -8676,7 +8756,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-20T23:39:08.907290+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "49405e722a4329cd2ff1",
@@ -8916,7 +8996,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-20T23:39:08.906681+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "22ec14d3b65732a96dde",
@@ -12429,7 +12509,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-09T01:16:01.389470+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "89f69987042287ac5fa0",
@@ -14852,7 +14932,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-02T23:46:44.025099+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d5e141f35c9cd73a891d",
@@ -17778,7 +17858,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-22T23:37:19.083128+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "989fec1a87a5bbcf5f12",
@@ -20935,7 +21015,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-15T11:31:58.169850+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "997e182ceab719e78ff5",
@@ -21128,7 +21208,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -21144,7 +21224,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -21160,7 +21240,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -21176,7 +21256,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -21192,7 +21272,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -21208,7 +21288,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -21224,7 +21304,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -21240,7 +21320,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -21256,7 +21336,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -21272,7 +21352,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -21288,7 +21368,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -21304,7 +21384,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
