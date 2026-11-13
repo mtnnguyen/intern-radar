@@ -1,5 +1,390 @@
 [
   {
+    "id": "a7b4d3d02d5cda7cba1b",
+    "company": "ASML",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Wilton, CT",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462",
+    "published_at": 1794441600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927631+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7fb450ef03f771d70b10",
+    "company": "E2 Consulting Engineers",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers-e2.icims.com/jobs/6496/job?mobile=true&needsRedirect=false",
+    "published_at": 1794441600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927620+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5acc615f6b114f12770c",
+    "company": "Zoox",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Foster City, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply",
+    "published_at": 1794536650,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927594+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d2817a12f55a29d06915",
+    "company": "CareSource",
+    "source": "simplify",
+    "title": "Summer Internship Program – Provider Analytics AI Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481",
+    "published_at": 1794441600,
+    "categories": [
+      "Analytics",
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927513+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1d910c45dc1d5060bb71",
+    "company": "Bask Health",
+    "source": "simplify",
+    "title": "AI Engineering Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.workable.com/bask-health-1/j/F0E122E877/apply",
+    "published_at": 1794526688,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927491+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d80dc00adfa3c5f68965",
+    "company": "Bask Health",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.workable.com/bask-health-1/j/71AEBBCADE/apply",
+    "published_at": 1794526688,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927473+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cfde8bd9462224212a15",
+    "company": "Entegris",
+    "source": "simplify",
+    "title": "Data Engineering Intern",
+    "location": "Aurora, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839",
+    "published_at": 1794441600,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927462+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0d336084857ba5012cfe",
+    "company": "Environmental Defense Fund",
+    "source": "simplify",
+    "title": "Consumer Energy Analytics Intern",
+    "location": "Remote in USA, St. Petersburg, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752",
+    "published_at": 1794441600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927450+00:00",
+    "status": "open"
+  },
+  {
+    "id": "445fb9bf69ee2e705d57",
+    "company": "TMX Group",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680",
+    "published_at": 1794441600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927432+00:00",
+    "status": "open"
+  },
+  {
+    "id": "50a8669875a273bbb9dc",
+    "company": "Stratolaunch",
+    "source": "simplify",
+    "title": "Business Intelligence & Systems Analyst Intern",
+    "location": "Mojave, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008",
+    "published_at": 1794511116,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927412+00:00",
+    "status": "open"
+  },
+  {
+    "id": "147feca26c4b2784062a",
+    "company": "Intermountain Healthcare",
+    "source": "simplify",
+    "title": "AI/ML Engineer Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/AI-ML-Engineer-Intern_R188835",
+    "published_at": 1794441600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927371+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4bebbd1e8577cb779c7a",
+    "company": "Intermountain Healthcare",
+    "source": "simplify",
+    "title": "Machine Learning Operations Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318",
+    "published_at": 1794441600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927360+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6e09976ee26b01e46d3f",
+    "company": "Stanley Black & Decker",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Towson, MD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2027_REQ-1000052481",
+    "published_at": 1794441600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927340+00:00",
+    "status": "open"
+  },
+  {
+    "id": "319358a2829d50366f4d",
+    "company": "Carlisle Companies",
+    "source": "simplify",
+    "title": "AI & Data Science Intern",
+    "location": "Carlisle, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/Carlisle/3743990016774046",
+    "published_at": 1794339543,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927329+00:00",
+    "status": "open"
+  },
+  {
+    "id": "90b905fd938f8a07307b",
+    "company": "Compassion International",
+    "source": "simplify",
+    "title": "Creation Care GIS Analyst Intern",
+    "location": "United States",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/GIS-Geospatial-Analyst-Intern_R8713-2",
+    "published_at": 1794441600,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927278+00:00",
+    "status": "open"
+  },
+  {
+    "id": "306d92fbe57d98f8bade",
+    "company": "Eversource Energy",
+    "source": "simplify",
+    "title": "GIS Intern",
+    "location": "Dorchester, Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--GIS-Intern--MA-_R-032519",
+    "published_at": 1794441600,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927267+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a31e1e49787f92e54366",
+    "company": "KION Group",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Grand Rapids, MI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/AI-Engineering-Intern_JR-0096963-1",
+    "published_at": 1794441600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927256+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f6dde6e90bc1d0bdae87",
+    "company": "KION Group",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Grand Rapids, MI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/AI-Engineering-Intern_JR-0096963",
+    "published_at": 1794441600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927246+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e80d10532c291bca1486",
+    "company": "General Dynamics Information Technology",
+    "source": "simplify",
+    "title": "Data Analytics Associate Intern",
+    "location": "Falls Church, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Technical-Intern_RQ232200",
+    "published_at": 1794268800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927235+00:00",
+    "status": "open"
+  },
+  {
+    "id": "375f3d70403a647e2702",
+    "company": "National Laboratory of the Rockies",
+    "source": "simplify",
+    "title": "Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589",
+    "published_at": 1794441600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927216+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6f2ef6cdd0512e3d773b",
+    "company": "Auburn University",
+    "source": "simplify",
+    "title": "Student Machine Learning Engineer Intern",
+    "location": "Auburn, AL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.auburn.edu/jobs/11612?icims=1&lang=en-us",
+    "published_at": 1794514260,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927174+00:00",
+    "status": "open"
+  },
+  {
+    "id": "596a416a4f965d268503",
+    "company": "Leidos",
+    "source": "simplify",
+    "title": "Junior Software Engineer / Data Scientist Intern",
+    "location": "Tucson, AZ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
+    "published_at": 1794441600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927101+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3fdcebbd4248f7d30a22",
+    "company": "Capital Power",
+    "source": "simplify",
+    "title": "Summer Student Intern - Data Analytics",
+    "location": "Calgary, AB, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222",
+    "published_at": 1794441600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927073+00:00",
+    "status": "open"
+  },
+  {
+    "id": "07b144344fc5bff5578a",
+    "company": "Capital Power",
+    "source": "simplify",
+    "title": "Student Intern - Data Science",
+    "location": "Edmonton, AB, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1",
+    "published_at": 1794441600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-13T02:42:55.927027+00:00",
+    "status": "open"
+  },
+  {
     "id": "72406cd0b3fc98179800",
     "company": "Fresenius Medical Care",
     "source": "simplify",
@@ -671,7 +1056,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-10T23:40:36.163319+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "bd3e761a7375c10802f0",
@@ -1359,7 +1744,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-10T02:57:09.885256+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "97aaa605294d76da3638",
@@ -4010,7 +4395,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-31T00:40:34.876017+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "21b1d4f7810045709d96",
@@ -4810,7 +5195,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-29T01:18:25.716646+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "4634bde5cb14b8cfcf3a",
@@ -7857,7 +8242,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-23T00:36:01.860371+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "32ad72e61787bc93b44b",
@@ -12188,7 +12573,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-08T02:02:47.243676+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "47742aee0daf291ce468",
@@ -12942,7 +13327,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-06T23:52:30.276895+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "edb22dc36a4ed3c79105",
@@ -13680,7 +14065,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-06T01:33:02.289826+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "47d00e3b4ef7d9274299",
@@ -14131,7 +14516,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-10-04T18:17:22.377020+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "0672994dc3f8aa0126bf",
@@ -20310,7 +20695,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-16T00:26:30.954633+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b5dba89614b4b57e8fa2",
@@ -20743,7 +21128,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -20759,7 +21144,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -20775,7 +21160,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -20791,7 +21176,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -20807,7 +21192,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -20823,7 +21208,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -20839,7 +21224,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -20855,7 +21240,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -20871,7 +21256,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -20887,7 +21272,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -20903,7 +21288,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -20919,7 +21304,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -23662,7 +24047,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d4962fd42267201e14ae",
@@ -24193,7 +24578,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "017d9649cfedb2f429ba",
