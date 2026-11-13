@@ -1,5 +1,150 @@
 [
   {
+    "id": "27faa82f4acd2e920ea4",
+    "company": "WTW",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277",
+    "published_at": 1794584039,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-13T17:40:18.565490+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8e62a387e2ba637a50ab",
+    "company": "Rocket Mortgage",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Detroit, MI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832",
+    "published_at": 1794528000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-13T17:40:18.565474+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8c8699f2832b82efeda8",
+    "company": "Fonds de solidarité FTQ",
+    "source": "simplify",
+    "title": "Business Intelligence and M365 Solutions Intern",
+    "location": "Montreal, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874",
+    "published_at": 1794528000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-13T17:40:18.565461+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ecf79c693a43235cd52d",
+    "company": "Merrick",
+    "source": "simplify",
+    "title": "GIS Analyst Intern",
+    "location": "Greenwood Village, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.merrick.com/jobs/8476?icims=1&lang=en-us",
+    "published_at": 1794584100,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-13T17:40:18.565450+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9da7dac03bcf79437fa6",
+    "company": "Verisk",
+    "source": "simplify",
+    "title": "Data Science/AI Intern",
+    "location": "Lehi, UT",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
+    "published_at": 1794582864,
+    "categories": [
+      "Data Science",
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-13T17:40:18.565422+00:00",
+    "status": "open"
+  },
+  {
+    "id": "22e81efe817a181d8ac1",
+    "company": "DraftKings",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149",
+    "published_at": 1794528000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-13T17:40:18.565413+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d14abcdc5e4891e01c7b",
+    "company": "DraftKings",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1",
+    "published_at": 1794528000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-13T17:40:18.565403+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1036a1b8b1b4dd7b2ba8",
+    "company": "Molina Healthcare",
+    "source": "simplify",
+    "title": "Healthcare Quality Analytics Intern",
+    "location": "Kentucky",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040139",
+    "published_at": 1793400654,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-13T17:40:18.565364+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7eb0b9f2fae0fc823d85",
+    "company": "Corteva",
+    "source": "simplify",
+    "title": "Research and Development Intern - Computer and Data Science",
+    "location": "Indianapolis, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W",
+    "published_at": 1788393600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-13T17:40:18.539801+00:00",
+    "status": "open"
+  },
+  {
     "id": "744b8e9b7110c19a0d66",
     "company": "TikTok",
     "source": "simplify",
@@ -382,7 +527,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-13T02:42:55.927235+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "375f3d70403a647e2702",
@@ -478,7 +623,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-12T16:19:47.900995+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "32bab2649076932124c3",
@@ -2144,7 +2289,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-11-07T01:07:30.714816+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "91946c36e37bdb3727a8",
@@ -2513,7 +2658,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-06T16:10:08.971999+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "369ce4125f98dd9984e0",
@@ -6381,7 +6526,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-27T05:33:26.445012+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3029eb67cdd10807fc45",
@@ -9028,7 +9173,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-20T17:45:10.442547+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "26720857a779f78429c1",
@@ -15158,7 +15303,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-01T23:43:25.907785+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4ff2070639538cc95489",
@@ -17858,7 +18003,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-22T23:37:19.083128+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "989fec1a87a5bbcf5f12",
@@ -21031,7 +21176,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-15T11:31:58.169830+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "995c922ee8113b8cdb0c",
@@ -21208,7 +21353,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -21224,7 +21369,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -21240,7 +21385,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -21256,7 +21401,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -21272,7 +21417,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -21288,7 +21433,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -21304,7 +21449,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -21320,7 +21465,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -21336,7 +21481,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -21352,7 +21497,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -21368,7 +21513,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -21384,7 +21529,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -27823,7 +27968,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2816e6ad137a708cb096",
