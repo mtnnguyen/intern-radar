@@ -1,5 +1,166 @@
 [
   {
+    "id": "22114d6e6aa209bfc969",
+    "company": "Nexus Cognitive Technologies",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true",
+    "published_at": 1794528000,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-14T02:53:54.892353+00:00",
+    "status": "open"
+  },
+  {
+    "id": "46d5771fccad464436bc",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Robotics Applied Scientist 2 Intern - Robotics",
+    "location": "Seattle, WA, North Reading, MA, NYC, Bellevue, WA, Sunnyvale, CA, Westborough, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states",
+    "published_at": 1794613859,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-14T02:53:54.892259+00:00",
+    "status": "open"
+  },
+  {
+    "id": "453f0c75eb27dc86da94",
+    "company": "Vertex Pharmaceuticals",
+    "source": "simplify",
+    "title": "Data Analytics Intern - OSD Process Data Analytics",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312-2",
+    "published_at": 1794528000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-14T02:53:54.892227+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d360a189db96dff0d2f6",
+    "company": "Amgen",
+    "source": "simplify",
+    "title": "AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625",
+    "published_at": 1794528000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-14T02:53:54.892165+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5d10f35e11161cd728bd",
+    "company": "Piedmont Airlines",
+    "source": "simplify",
+    "title": "Safety Data Analytics Intern",
+    "location": "Charlotte, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014590",
+    "published_at": 1794528000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-14T02:53:54.892099+00:00",
+    "status": "open"
+  },
+  {
+    "id": "03d331710780088eaf69",
+    "company": "BMLL Technologies",
+    "source": "simplify",
+    "title": "Junior Quantitative Analyst Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.workable.com/bmlltech/j/685458148E/apply",
+    "published_at": 1794611663,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-14T02:53:54.892063+00:00",
+    "status": "open"
+  },
+  {
+    "id": "774b77018971268a9fd9",
+    "company": "FieldPulse",
+    "source": "simplify",
+    "title": "AI Intern",
+    "location": "Dallas, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d",
+    "published_at": 1794611845,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-14T02:53:54.892012+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cdefb87c9b732e281c10",
+    "company": "ASML",
+    "source": "simplify",
+    "title": "EUV Data Science and Analytics Intern",
+    "location": "Austin, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717",
+    "published_at": 1794528000,
+    "categories": [
+      "Data Science",
+      "Analytics"
+    ],
+    "first_seen": "2026-11-14T02:53:54.891994+00:00",
+    "status": "open"
+  },
+  {
+    "id": "530a26a1fa2b90c85621",
+    "company": "Vertex Pharmaceuticals",
+    "source": "simplify",
+    "title": "Data Analytics Intern - OSD Process Data Analytics",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312",
+    "published_at": 1794528000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-14T02:53:54.891971+00:00",
+    "status": "open"
+  },
+  {
+    "id": "aef4294ac42cc3445689",
+    "company": "Seaspan",
+    "source": "simplify",
+    "title": "Data Engineering Intern",
+    "location": "North Vancouver, BC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156",
+    "published_at": 1794612126,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-14T02:53:54.891935+00:00",
+    "status": "open"
+  },
+  {
     "id": "27faa82f4acd2e920ea4",
     "company": "WTW",
     "source": "simplify",
@@ -495,7 +656,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-13T02:42:55.927256+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f6dde6e90bc1d0bdae87",
@@ -1073,7 +1234,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-11T18:09:00.795939+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c231707ec9796b71c26d",
@@ -1217,7 +1378,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-11-11T03:04:07.550178+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a28f77b46ec6e9698391",
@@ -1313,7 +1474,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-10T23:40:36.163210+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5082f14ee4ac88c0d374",
@@ -1425,7 +1586,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-10T23:40:36.162916+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "59928e71ad4cee2b3597",
@@ -2097,7 +2258,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-09T20:41:54.356833+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "89a16e9b0e4bf06b0b9c",
@@ -3893,7 +4054,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-03T03:39:36.303892+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "10916d54056cec64f912",
@@ -4281,7 +4442,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-31T12:51:10.340331+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "704e76418f3ba0a35cca",
@@ -5756,7 +5917,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-29T01:18:25.716127+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6ee7ee963f85a233dc86",
@@ -12958,7 +13119,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-08T02:02:47.243470+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "399064170af90392e075",
@@ -13328,7 +13489,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-07T03:47:12.531290+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ede32c14d4b2e6dd2ad9",
@@ -13344,7 +13505,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-07T03:47:12.531264+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "09740723f45c976b3ad8",
@@ -21353,7 +21514,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -21369,7 +21530,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -21385,7 +21546,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -21401,7 +21562,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -21417,7 +21578,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -21433,7 +21594,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -21449,7 +21610,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -21465,7 +21626,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -21481,7 +21642,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -21497,7 +21658,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -21513,7 +21674,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -21529,7 +21690,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -25124,7 +25285,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.520207+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cd369a3ab40ca97009a7",
@@ -29367,7 +29528,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.487938+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "898d42d2d7f8e5e0d67d",
