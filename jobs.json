@@ -1,5 +1,21 @@
 [
   {
+    "id": "dc255f0709bf02fd2069",
+    "company": "Carnegie Mellon University",
+    "source": "simplify",
+    "title": "Cyber AI Engineer Intern",
+    "location": "Pittsburgh, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2",
+    "published_at": 1794528000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-14T09:48:27.402071+00:00",
+    "status": "open"
+  },
+  {
     "id": "22114d6e6aa209bfc969",
     "company": "Nexus Cognitive Technologies",
     "source": "simplify",
@@ -1378,7 +1394,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-11-11T03:04:07.550178+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "a28f77b46ec6e9698391",
@@ -1570,7 +1586,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-10T23:40:36.162985+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2770063e5bd821457dbb",
@@ -2258,7 +2274,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-09T20:41:54.356833+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "89a16e9b0e4bf06b0b9c",
@@ -3508,7 +3524,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-11-04T18:39:47.751500+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "fe096baa7ab0541a0ed8",
@@ -3636,7 +3652,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-04T03:17:15.561027+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "12832fe5c19086a192c8",
@@ -4054,7 +4070,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-03T03:39:36.303892+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "10916d54056cec64f912",
@@ -6559,7 +6575,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-27T16:15:39.684258+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b18f3eb7bae7a7d35a9b",
@@ -7826,7 +7842,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T15:12:07.368338+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f3ebfb5c9952200fe735",
@@ -8773,7 +8789,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-22T00:11:43.424725+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7340b0eaa4c7ed45d56d",
@@ -9030,7 +9046,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-21T02:02:56.575222+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "bd8e1eabc1b9541855b6",
@@ -10169,7 +10185,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-17T00:42:57.464410+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b88081cc30ac2d38c8bf",
@@ -10538,7 +10554,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-15T23:52:03.860669+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "ea3cc2c1b7a6b10d52f7",
@@ -11742,7 +11758,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-13T07:04:08.741926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b9641b0bfbe08dde83f6",
@@ -13489,7 +13505,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-07T03:47:12.531290+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "ede32c14d4b2e6dd2ad9",
@@ -13505,7 +13521,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-07T03:47:12.531264+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "09740723f45c976b3ad8",
@@ -16478,7 +16494,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-30T01:23:53.357506+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "06f9aaf122f24e25a222",
@@ -16623,7 +16639,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-30T01:23:53.357208+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "92b33b8bf1ad783df858",
@@ -21225,7 +21241,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-15T19:09:22.057281+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f195f9b94c7b647d4cf0",
@@ -21241,7 +21257,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-15T19:09:22.057270+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "763233478e30a9b9d262",
@@ -29286,7 +29302,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.488938+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a3d2e0cc3e4cd1d7a05b",
@@ -29302,7 +29318,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.488938+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0c42ced26185b874f40d",
@@ -29335,7 +29351,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.488938+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "11d8c7992fc5ed7d6f41",
@@ -29929,7 +29945,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "420225051876bf7775a6",
