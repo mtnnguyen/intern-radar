@@ -1,5 +1,70 @@
 [
   {
+    "id": "2fa38fefcbd44efcbbbb",
+    "company": "Martin Marietta",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Raleigh, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1",
+    "published_at": 1794528000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-14T16:09:56.308573+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e9f35ce0c8c254621e61",
+    "company": "Camping World",
+    "source": "simplify",
+    "title": "Data Analyst Intern - AI & Machine Learning Focus",
+    "location": "Chicago, IL, Lincolnshire, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300",
+    "published_at": 1794528000,
+    "categories": [
+      "Analytics",
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-14T16:09:56.308552+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ffc23d57e69eaed0d1f5",
+    "company": "Camping World",
+    "source": "simplify",
+    "title": "Data Engineering Intern",
+    "location": "Chicago, IL, Lincolnshire, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297",
+    "published_at": 1794528000,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-14T16:09:56.308537+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a00a9f830196aade0581",
+    "company": "Postman",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://postman.wd108.myworkdayjobs.com/careers/job/San-Francisco-CA-US/AI-Engineer--Intern_JR1000055",
+    "published_at": 1794528000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-14T16:09:56.308478+00:00",
+    "status": "open"
+  },
+  {
     "id": "dc255f0709bf02fd2069",
     "company": "Carnegie Mellon University",
     "source": "simplify",
@@ -238,7 +303,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-11-13T17:40:18.565450+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9da7dac03bcf79437fa6",
@@ -1586,7 +1651,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-10T23:40:36.162985+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "2770063e5bd821457dbb",
@@ -5597,7 +5662,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-29T01:18:25.716646+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4634bde5cb14b8cfcf3a",
@@ -6575,7 +6640,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-27T16:15:39.684258+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "b18f3eb7bae7a7d35a9b",
@@ -7842,7 +7907,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T15:12:07.368338+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "f3ebfb5c9952200fe735",
@@ -8789,7 +8854,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-22T00:11:43.424725+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7340b0eaa4c7ed45d56d",
@@ -10185,7 +10250,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-17T00:42:57.464410+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "b88081cc30ac2d38c8bf",
@@ -11758,7 +11823,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-13T07:04:08.741926+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "b9641b0bfbe08dde83f6",
@@ -16494,7 +16559,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-30T01:23:53.357506+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "06f9aaf122f24e25a222",
@@ -16639,7 +16704,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-30T01:23:53.357208+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "92b33b8bf1ad783df858",
@@ -21241,7 +21306,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-15T19:09:22.057281+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "f195f9b94c7b647d4cf0",
@@ -21257,7 +21322,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-15T19:09:22.057270+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "763233478e30a9b9d262",
@@ -21530,7 +21595,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729701+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5fa6e5a9da19ef601c61",
@@ -21546,7 +21611,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729673+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1765dc36ab62c1144efb",
@@ -21562,7 +21627,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729661+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d110ba42ce2a23b09660",
@@ -21578,7 +21643,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729643+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c02ad900e688afa87e50",
@@ -21594,7 +21659,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729630+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7b39df5a3427725da7e5",
@@ -21610,7 +21675,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -21626,7 +21691,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -21642,7 +21707,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717975+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c33ea6fbfb9a062a1da0",
@@ -21658,7 +21723,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717963+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "71336940d9cab71a1de4",
@@ -21674,7 +21739,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
@@ -21690,7 +21755,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717926+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a2b99a23ae9a03d676e",
@@ -21706,7 +21771,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717879+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "009ba75def6823c4d835",
@@ -29302,7 +29367,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.488938+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "a3d2e0cc3e4cd1d7a05b",
@@ -29318,7 +29383,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.488938+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "0c42ced26185b874f40d",
@@ -29351,7 +29416,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.488938+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "11d8c7992fc5ed7d6f41",
@@ -29945,7 +30010,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "420225051876bf7775a6",
