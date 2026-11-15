@@ -1,5 +1,37 @@
 [
   {
+    "id": "b624f7e5315748f0807a",
+    "company": "NCR Atleos",
+    "source": "simplify",
+    "title": "Data Analytics Intern - Media Handling",
+    "location": "Dundee, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Hardware-Engineer-Internship_R1155210",
+    "published_at": 1794441600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-15T14:35:29.990714+00:00",
+    "status": "open"
+  },
+  {
+    "id": "982d47a7e100c3ccc7d8",
+    "company": "NCR Atleos",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Dundee, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/AI-Engineering-Internship_R1155212-2",
+    "published_at": 1794355200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-15T14:35:29.990682+00:00",
+    "status": "open"
+  },
+  {
     "id": "51c0dc1a17097642c6f6",
     "company": "Cigna Group",
     "source": "simplify",
@@ -3076,7 +3108,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-11-06T01:29:46.123353+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "97e7f13f8e4165ae14f6",
@@ -3172,7 +3204,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-05T21:03:27.448209+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6971e6bb6008f9603e5d",
@@ -12400,7 +12432,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-10T02:43:23.212584+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "76e640e06dd37a2c404a",
@@ -12752,7 +12784,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-09T01:16:01.389903+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c29e8dde5a0ee0667a7e",
@@ -21691,7 +21723,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729579+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8ced18d4422a7c44e8d6",
@@ -21707,7 +21739,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.729556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38c07a5855967b77d1e1",
@@ -21755,7 +21787,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-15T00:57:07.717950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be9230b5d18029a6c613",
