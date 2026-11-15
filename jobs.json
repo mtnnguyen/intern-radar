@@ -1,5 +1,21 @@
 [
   {
+    "id": "51c0dc1a17097642c6f6",
+    "company": "Cigna Group",
+    "source": "simplify",
+    "title": "Healthcare Analytics Intern",
+    "location": "Morris Plains, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857",
+    "published_at": 1794528000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-15T00:23:12.098365+00:00",
+    "status": "open"
+  },
+  {
     "id": "2fa38fefcbd44efcbbbb",
     "company": "Martin Marietta",
     "source": "simplify",
@@ -10266,7 +10282,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-17T00:42:57.464387+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e7805795b5ebfd7d738f",
@@ -22539,7 +22555,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.541009+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6aae7762dc44ef622d68",

@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 971
+**Active matching jobs:** 970
 
-**New in the last 24 hours:** 14
+**New in the last 24 hours:** 15
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -253,6 +253,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | TikTok | Machine Learning Scientist Intern - Global E-Commerce Content Recommendation | Machine Learning / AI | Seattle, WA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7525650208522193159) |
 | 🇺🇸 USA |  | Radix Trading | Quantitative Technologist C++ Intern | GIS / Geospatial | Chicago, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
 | 🇺🇸 USA |  | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
+| 🌎 Other | 🔥 NEW | Cigna Group | Healthcare Analytics Intern | Analytics | Morris Plains, NJ | simplify | 2026-11-14 07:23 PM EST | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857) |
 | 🌎 Other | 🔥 NEW | Martin Marietta | Data Scientist Intern | Data Science | Raleigh, NC | simplify | 2026-11-14 11:09 AM EST | [Apply](https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1) |
 | 🌎 Other | 🔥 NEW | Postman | AI Engineer Intern | Machine Learning / AI | SF | simplify | 2026-11-14 11:09 AM EST | [Apply](https://postman.wd108.myworkdayjobs.com/careers/job/San-Francisco-CA-US/AI-Engineer--Intern_JR1000055) |
 | 🌎 Other | 🔥 NEW | Carnegie Mellon University | Cyber AI Engineer Intern | Machine Learning / AI | Pittsburgh, PA | simplify | 2026-11-14 04:48 AM EST | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2) |
@@ -548,7 +549,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Thomson Reuters | Applied Science Intern | Machine Learning / AI | London, UK | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Applied-Science-Intern_JREQ204560) |
 | 🌎 Other |  | John Deere | Process Automation Student Intern - Process Automation - Data and Analytics | Analytics | Greeneville, TN | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://johndeere.eightfold.ai/careers/job/137483907415) |
 | 🌎 Other |  | Veeam Software | Data & Analytics Engineering Intern | Data Engineering, Analytics | Alpharetta, GA | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101) |
-| 🌎 Other |  | Zoetis Services | Chemistry Data Science Intern - Digital CMC Workflows | Data Science | Kalamazoo, MI | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Chemistry-Data-Science-Intern---Digital-CMC-Workflows_JR00021822-2) |
 | 🌎 Other |  | Microsoft | Research Intern - Machine Learning | Machine Learning / AI | Cambridge, MA, NYC | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557042145) |
 | 🌎 Other |  | MetLife | Data & Analytics Intern | Analytics | Cary, NC | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://metlife.avature.net/en_US/ml/JobDetail/20702) |
 | 🌎 Other |  | Hilb Group | Benefits Analytics Intern | Analytics | Hunt Valley, Cockeysville, MD | simplify | 2026-10-16 12:59 PM EDT | [Apply](https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866) |
@@ -742,7 +742,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Brevan Howard | Quantitative Analyst Intern - AI | Analytics | NYC | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) |
 | 🌎 Other |  | BP | Data Strategist Intern - Global Data Strategists Team | GIS / Geospatial | NYC | simplify | 2026-09-14 02:59 PM EDT | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---New-York---New-York/Data-Strategist-Programme_RQ115837) |
 | 🌎 Other |  | Constellation Energy | IT Data Engineering Intern | Data Engineering | Baltimore, MD | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.constellationenergy.com/jobs/138716?icims=1) |
-| 🌎 Other |  | Guardian Life | Data Engineering Intern - Digital & Technology | Data Engineering | Holmdel, NJ, NYC, Bethlehem, PA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202) |
 | 🌎 Other |  | Central Hudson | Data Analytics Intern | Analytics | Poughkeepsie, NY | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://cenhud.wd5.myworkdayjobs.com/cenhud/job/Poughkeepsie/Data-Analytics-Intern_R2141) |
 | 🌎 Other |  | NewsBreak | AI Intern - Engineering Track | Machine Learning / AI | Mountain View, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4712896006) |
 | 🌎 Other |  | Cooper University Health Care | Enterprise Analytics Intern | Analytics | Camden, NJ | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers-cooperhealth.icims.com/jobs/85692/job?mobile=true&needsRedirect=false) |
