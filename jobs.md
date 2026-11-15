@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 970
+**Active matching jobs:** 969
 
 **New in the last 24 hours:** 4
 
@@ -274,7 +274,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | SJI | Data Analytics Intern | Analytics | Folsom, NJ | simplify | 2026-11-13 05:03 AM EST | [Apply](https://sjindustries.wd1.myworkdayjobs.com/SJI/job/Folsom-NJ/Engineering-Design-Intern_R4369) |
 | 🌎 Other |  | Envita Solutions | Data Scientist Intern - Applied AI | Data Science | Indianapolis, IN | simplify | 2026-11-13 05:03 AM EST | [Apply](https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Data-Scientist-Intern--Applied-AI_R-1728) |
 | 🌎 Other |  | ASML | Data Scientist Intern | Data Science | Wilton, CT | simplify | 2026-11-12 09:42 PM EST | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462) |
-| 🌎 Other |  | E2 Consulting Engineers | Data Analyst Intern | Analytics | San Diego, CA | simplify | 2026-11-12 09:42 PM EST | [Apply](https://careers-e2.icims.com/jobs/6496/job?mobile=true&needsRedirect=false) |
 | 🌎 Other |  | Zoox | Data Scientist Intern | Data Science | Foster City, CA | simplify | 2026-11-12 09:42 PM EST | [Apply](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply) |
 | 🌎 Other |  | Entegris | Data Engineering Intern | Data Engineering | Aurora, IL | simplify | 2026-11-12 09:42 PM EST | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839) |
 | 🌎 Other |  | Stratolaunch | Business Intelligence & Systems Analyst Intern | Analytics | Mojave, CA | simplify | 2026-11-12 09:42 PM EST | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008) |
