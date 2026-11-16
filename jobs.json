@@ -1,5 +1,21 @@
 [
   {
+    "id": "aa191bd8b63595e28ada",
+    "company": "Octaura",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
+    "published_at": 1794825228,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-16T13:01:09.278196+00:00",
+    "status": "open"
+  },
+  {
     "id": "e86838d271b5e5128c60",
     "company": "Carnegie Mellon University",
     "source": "simplify",
@@ -238,7 +254,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-14T02:53:54.892063+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "774b77018971268a9fd9",
@@ -2692,7 +2708,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-07T01:07:30.714525+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "59fee4582f3b2ed5172e",
@@ -3749,7 +3765,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-04T11:12:16.265652+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c52e90cbc501e04a8b57",
@@ -6544,7 +6560,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-28T00:05:22.981082+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f84a8d3fb04120ccf9cb",
@@ -6608,7 +6624,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-28T00:05:22.981004+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "bb0cbcf41608e222e72d",
@@ -6704,7 +6720,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-27T16:15:39.684258+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b18f3eb7bae7a7d35a9b",
@@ -6752,7 +6768,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-27T16:15:39.684112+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "70d00c6920e79a79cab1",
@@ -7088,7 +7104,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-27T00:34:11.999843+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be6bc4db6d3bfdfe2786",
@@ -7168,7 +7184,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-26T16:50:50.496580+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "864c35674eb096627065",
@@ -7200,7 +7216,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-26T16:50:50.496535+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "94e957851dc078d810ae",
@@ -7216,7 +7232,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-26T16:50:50.496520+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "44477dbc96591b1dddad",
@@ -7296,7 +7312,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-26T16:50:50.496423+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "474c1109e3629da3a5ae",
@@ -8499,7 +8515,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-23T00:36:01.860729+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b54e3d0729e6e6b916a1",
@@ -8628,7 +8644,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T00:36:01.860582+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3ecb1fbb670f1ab030e3",
@@ -9896,7 +9912,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-19T23:33:43.217231+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "605e10ce36ca5fd15c6e",
@@ -10314,7 +10330,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-17T00:42:57.464410+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b88081cc30ac2d38c8bf",
@@ -20201,7 +20217,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-17T06:51:40.599398+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5047f21dfe4d9e087a40",
@@ -22043,7 +22059,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T22:46:03.823812+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "283911af4dfbe0f2034d",
