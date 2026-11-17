@@ -1,5 +1,69 @@
 [
   {
+    "id": "5c05922cc6f23d2b2287",
+    "company": "Havas",
+    "source": "simplify",
+    "title": "Data & Analytics Platformer Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wd3.myworkdaysite.com/recruiting/havas/GroupExternalCareerSite/job/London/Data---Analytics-Platformer_JR0101641",
+    "published_at": 1794873600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-17T13:56:46.880492+00:00",
+    "status": "open"
+  },
+  {
+    "id": "59e9357da8fbbe028850",
+    "company": "Road Commission for Oakland County",
+    "source": "simplify",
+    "title": "Geographic Information Systems Intern",
+    "location": "Michigan",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rcoc.bamboohr.com/careers/314/",
+    "published_at": 1794910065,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-17T13:56:46.880436+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a8a53346e45eef6e27cf",
+    "company": "Terranova",
+    "source": "simplify",
+    "title": "AI Intern",
+    "location": "Berkeley, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942/application?embed=true",
+    "published_at": 1793664000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-17T13:56:46.880404+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2b6c585536785e647738",
+    "company": "NorthStar Earth & Space",
+    "source": "simplify",
+    "title": "Research Intern - AI for Earth Observation",
+    "location": "Montreal, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://northstarearthandspace.bamboohr.com/careers/117/",
+    "published_at": 1794900558,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-17T13:56:46.880316+00:00",
+    "status": "open"
+  },
+  {
     "id": "249d73766281f3421ab0",
     "company": "bioMérieux",
     "source": "simplify",
@@ -1122,7 +1186,7 @@
       "Data Science"
     ],
     "first_seen": "2026-11-12T16:19:47.900906+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4eeff41f6c2d9b950625",
@@ -1202,7 +1266,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-12T16:19:47.900726+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "be46a4322721240b4f20",
@@ -1924,7 +1988,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-10T18:31:32.346820+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3fb72b78e7d166ca3759",
@@ -2612,7 +2676,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-07T13:57:13.485368+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "db8a70e0edc2fa59e643",
@@ -5807,7 +5871,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-29T14:28:30.555568+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f1cdbeaf41c86ee5392b",
@@ -6801,7 +6865,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-28T00:05:22.980962+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "11d696326096da0613b8",
@@ -8051,7 +8115,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-23T15:12:07.368580+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e3647adda3e17590553e",
@@ -11614,7 +11678,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-14T02:53:49.161615+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ecaf74d1d766f779d65b",
@@ -27473,7 +27537,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-09-14T14:26:16.505604+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1485ce7bfe85f3b6cbc3",
@@ -27873,7 +27937,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4314931db3cd921f229f",
