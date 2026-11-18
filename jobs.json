@@ -1,5 +1,149 @@
 [
   {
+    "id": "adc73cad0eb4bf31ace2",
+    "company": "Qualcomm",
+    "source": "simplify",
+    "title": "AI/Machine Learning Intern - Interim Engineering Intern - SW",
+    "location": "Markham, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446722176432",
+    "published_at": 1794958801,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-18T03:42:19.077283+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b0b6cb650c75d6054ce4",
+    "company": "Blount Fine Foods",
+    "source": "simplify",
+    "title": "Manufacturing Operations Analytics Intern",
+    "location": "Fall River, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false",
+    "published_at": 1794958888,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-18T03:42:19.077274+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d704f946b542d6e395f5",
+    "company": "Paccar",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Denton, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors",
+    "published_at": 1794959432,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-18T03:42:19.077228+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6a3718e751c6d14bf0f7",
+    "company": "Havas",
+    "source": "simplify",
+    "title": "Junior Google Analytics Platformer Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://wd3.myworkdaysite.com/recruiting/havas/GroupExternalCareerSite/job/London/Google--Analytics--Enablement-Platformer_JR0101727",
+    "published_at": 1794873600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-18T03:42:19.077221+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8ca27dbe477247b1f630",
+    "company": "Exowatt",
+    "source": "simplify",
+    "title": "Robotics & Physical AI Intern",
+    "location": "Miami, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c/apply",
+    "published_at": 1794956661,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-18T03:42:19.077183+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9e958592a9ef8d63d29f",
+    "company": "BGE",
+    "source": "simplify",
+    "title": "Business Analyst Intern - GIS",
+    "location": "Oakbrook Terrace, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.bge.com/jobs/34737?icims=1&lang=en-us",
+    "published_at": 1794936960,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-18T03:42:19.077142+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5d88e6865665f840b3ab",
+    "company": "SAS",
+    "source": "simplify",
+    "title": "IoT Analytics Intern",
+    "location": "Cary, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false",
+    "published_at": 1794873600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-18T03:42:19.077101+00:00",
+    "status": "open"
+  },
+  {
+    "id": "df30bbe64ccfe1755a95",
+    "company": "Anduril",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Santa Ana, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007",
+    "published_at": 1794943065,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-18T03:42:19.077085+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e917c6a9e16b4a7fba2c",
+    "company": "Attain Partners",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "McLean, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/attainpartners/jobs/5485427008",
+    "published_at": 1794938067,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-18T03:42:19.077040+00:00",
+    "status": "open"
+  },
+  {
     "id": "5c05922cc6f23d2b2287",
     "company": "Havas",
     "source": "simplify",
@@ -3605,7 +3749,7 @@
       "Data Science"
     ],
     "first_seen": "2026-11-05T14:04:00.685696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c82f5c64aa1cd74f5f1f",
@@ -3814,7 +3958,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-05T05:54:27.522868+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e6ff71a6054d08f70375",
@@ -4860,7 +5004,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-31T12:51:10.340297+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "539f5cb70b1afdd2c2d8",
@@ -8019,7 +8163,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T15:12:07.368898+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2d6108730c0b405b513e",
@@ -8708,7 +8852,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T00:36:01.860791+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "88f7910c9017c625e5eb",
@@ -11871,7 +12015,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-13T23:51:45.262537+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "eadfae3adf2ebddf4f2d",
@@ -19640,7 +19784,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-19T05:07:57.023718+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e7096005e41d1706e285",
@@ -28242,7 +28386,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "61c534e76bcdd4415cad",
