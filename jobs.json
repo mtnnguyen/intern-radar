@@ -1,5 +1,21 @@
 [
   {
+    "id": "b12ef988782f3a363244",
+    "company": "Google",
+    "source": "simplify",
+    "title": "People Analytics Intern",
+    "location": "SF, Chicago, IL, NYC, Mountain View, CA, Atlanta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/81809776362562246",
+    "published_at": 1791814273,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-18T12:18:09.853357+00:00",
+    "status": "open"
+  },
+  {
     "id": "adc73cad0eb4bf31ace2",
     "company": "Qualcomm",
     "source": "simplify",
@@ -1571,7 +1587,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-12T00:41:42.886759+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6aa2a39757701c3fd8d6",
@@ -3974,7 +3990,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-05T05:54:27.522706+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8f366bbeb93608ec2b56",
@@ -4375,7 +4391,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-11-03T23:38:08.776547+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5345c0ad39233dc5a026",
@@ -12192,7 +12208,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-13T23:51:45.262048+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5b734d0c788c7a9a311f",
@@ -18758,7 +18774,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-22T23:37:19.082983+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0a020c9b4d4e332a5414",
@@ -27729,7 +27745,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.505604+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7827d6f9362686414abf",
