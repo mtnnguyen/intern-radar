@@ -1,5 +1,37 @@
 [
   {
+    "id": "469117dab9bfa7388a69",
+    "company": "DriveWealth",
+    "source": "simplify",
+    "title": "AI Consulting Associate Program People Analytics Intern",
+    "location": "Chicago, IL, NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true",
+    "published_at": 1794960000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-18T20:43:46.392914+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fb5288b3952abbfab5e7",
+    "company": "GIRO",
+    "source": "simplify",
+    "title": "Software Development and Artificial Intelligence Intern",
+    "location": "Montreal, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel-et-intelligence-artificielle_R-100000321",
+    "published_at": 1789344000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-18T20:43:46.392844+00:00",
+    "status": "open"
+  },
+  {
     "id": "b12ef988782f3a363244",
     "company": "Google",
     "source": "simplify",
@@ -254,7 +286,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-17T04:50:39.396280+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cebbc1ec0c78350c4f56",
@@ -2740,7 +2772,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-09T20:41:54.357004+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ada460cdccd66a2367c7",
@@ -3365,7 +3397,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-06T16:10:08.971999+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "369ce4125f98dd9984e0",
@@ -5615,7 +5647,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-29T23:39:15.162740+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "117a8010e79f2cc3e69f",
@@ -6576,7 +6608,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-28T17:22:30.532492+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ecf1b49afd95e43476b9",
@@ -10617,7 +10649,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-17T00:42:57.464569+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "13a77a1f932bf8cf57fc",
@@ -10633,7 +10665,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-17T00:42:57.464532+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4e0493f85a617aba8ab7",
@@ -11597,7 +11629,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-15T00:09:17.418082+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d6600f6c4bc793209b42",
@@ -12849,7 +12881,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-10T02:43:23.212584+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "76e640e06dd37a2c404a",
@@ -16992,7 +17024,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-30T07:05:10.112264+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a0fa8477a7c49ce42694",
@@ -17828,7 +17860,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-24T23:18:32.636079+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ac599c9daefaaad5758f",
@@ -19768,7 +19800,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-19T05:07:57.023809+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "46e44e8351c824b814cf",
@@ -27617,7 +27649,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.506605+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "306dedf9ef91541bbe36",
@@ -28756,7 +28788,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.495552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b26663a2e179ae9e2c4e",
@@ -30331,7 +30363,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5f0b1e87796f0f4f073e",
