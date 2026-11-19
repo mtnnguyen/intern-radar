@@ -1,5 +1,21 @@
 [
   {
+    "id": "5d1d3a819f6456f4d5d2",
+    "company": "Carnegie Mellon University",
+    "source": "simplify",
+    "title": "AI Engineer Intern - Mission Innovation Lab",
+    "location": "Pittsburgh, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1",
+    "published_at": 1794787200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-19T10:12:12.675261+00:00",
+    "status": "open"
+  },
+  {
     "id": "74b8f657aa5276c3cda2",
     "company": "Syngenta Group",
     "source": "simplify",
@@ -61,7 +77,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-18T20:43:46.392914+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fb5288b3952abbfab5e7",
@@ -1122,7 +1138,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-11-13T02:42:55.927462+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0d336084857ba5012cfe",
@@ -4134,7 +4150,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-11-04T18:39:47.751500+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fe096baa7ab0541a0ed8",
@@ -7873,7 +7889,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-24T13:38:21.628472+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8d06d8a75a5ad4421d50",
@@ -13922,7 +13938,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-08T02:02:47.243277+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6dc84845a729fc159a09",
@@ -15880,7 +15896,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-02T23:46:44.025014+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "b81e9d5a424d0a64fcc4",
@@ -17120,7 +17136,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-30T01:23:53.357487+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "90e1e969ab38f36494b4",
@@ -19832,7 +19848,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-19T13:21:13.118347+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "bf5ad5b7d008d0465683",
@@ -23502,7 +23518,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.537952+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "38bb5abe7fc3e8e56c6e",
@@ -25976,7 +25992,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.520207+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3003c6943a29c36a6e58",
@@ -35031,7 +35047,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "54e9695884d3b96264fb",
@@ -35175,7 +35191,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "55eba53fdb8d3c7a0248",
