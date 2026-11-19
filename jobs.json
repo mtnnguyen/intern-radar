@@ -1,5 +1,53 @@
 [
   {
+    "id": "74b8f657aa5276c3cda2",
+    "company": "Syngenta Group",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Greensboro, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708",
+    "published_at": 1795031579,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-19T02:03:15.398461+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7859626e282e86d5ab88",
+    "company": "HERE Technologies",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false",
+    "published_at": 1794960000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-19T02:03:15.398440+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f1e5458b1ebd657f551a",
+    "company": "Sheetz",
+    "source": "simplify",
+    "title": "Business Intelligence Analytics Intern",
+    "location": "Pittsburgh, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us",
+    "published_at": 1795019220,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-19T02:03:15.398333+00:00",
+    "status": "open"
+  },
+  {
     "id": "469117dab9bfa7388a69",
     "company": "DriveWealth",
     "source": "simplify",
@@ -2548,7 +2596,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-10T02:57:09.885532+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a7c8254fed47be98bd6c",
@@ -5148,7 +5196,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-31T12:51:10.340100+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "72b38174a4e97202a56d",
@@ -6447,7 +6495,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-29T01:18:25.716161+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "80cdc43a9287df5909d6",
@@ -11999,7 +12047,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-13T23:51:45.262603+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d1dcbdc7cc552fec0bb7",
@@ -12736,7 +12784,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-10-12T18:02:41.210548+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "db0d3021cbb1b42607a7",
@@ -16314,7 +16362,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-01T23:43:25.907366+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5bed284925e405c924ad",
@@ -17940,7 +17988,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-24T23:18:32.635944+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4e8c929309e45194159a",
@@ -18694,7 +18742,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-22T23:37:19.083233+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "113068c9e0fa2a7d2ee3",
@@ -21226,7 +21274,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-16T05:06:42.215467+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "28e6a4e82f8ceaa46962",
@@ -23726,7 +23774,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.536943+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b7a7f521213cbc013878",
@@ -27117,7 +27165,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "830f3b1db6f993ce7950",
@@ -33315,7 +33363,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "76b1cbd0d1affb829b5f",
