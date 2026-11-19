@@ -1,5 +1,37 @@
 [
   {
+    "id": "84d660879b977b8fe47f",
+    "company": "Atlantic Health System",
+    "source": "simplify",
+    "title": "Pharmacy Intern - Data Analytics",
+    "location": "Morristown, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551",
+    "published_at": 1795102632,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-19T19:00:21.159628+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4ce42c2c409eb82474bb",
+    "company": "Microsoft",
+    "source": "simplify",
+    "title": "Research Intern - Machine Learning for Biology and Healthcare",
+    "location": "Cambridge, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075448",
+    "published_at": 1795100971,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-19T19:00:21.159577+00:00",
+    "status": "open"
+  },
+  {
     "id": "5d1d3a819f6456f4d5d2",
     "company": "Carnegie Mellon University",
     "source": "simplify",
@@ -157,7 +189,7 @@
       "Data Science"
     ],
     "first_seen": "2026-11-18T03:42:19.077228+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6a3718e751c6d14bf0f7",
@@ -350,7 +382,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-17T04:50:39.396280+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "cebbc1ec0c78350c4f56",
@@ -945,7 +977,7 @@
       "Data Science"
     ],
     "first_seen": "2026-11-13T17:40:18.539801+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "744b8e9b7110c19a0d66",
@@ -2308,7 +2340,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-10T10:56:19.426921+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "bc5154887bca926e6bd2",
@@ -3381,7 +3413,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-06T16:10:08.972187+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6add804015dbe2a61c19",
@@ -4471,7 +4503,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-03T23:38:08.776608+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "88331b1dfdb82dcb45bf",
@@ -4696,7 +4728,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-03T03:39:36.303892+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "10916d54056cec64f912",
@@ -5855,7 +5887,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-29T23:39:15.162468+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "82b5896daa32a0753f1e",
@@ -8115,7 +8147,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-24T00:54:10.363582+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "776f88dbf21a26c7fb96",
@@ -15398,7 +15430,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-06T01:33:02.289264+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9b37c38ef85681a21885",
@@ -15752,7 +15784,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-02T23:46:44.025556+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "090b5d28e616fdf6f1ec",
@@ -17072,7 +17104,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-30T07:05:10.112276+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d8946f57d8a086e42d03",
@@ -19031,7 +19063,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-22T04:40:38.765183+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "93bb2e152f9594c34900",
@@ -24302,7 +24334,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.534016+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "67cdb653fc72b67299f2",
@@ -33347,7 +33379,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "eee98e36712d592568b1",
@@ -35047,7 +35079,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "54e9695884d3b96264fb",
@@ -37245,7 +37277,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.419194+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fe623a0694ba79b38345",
