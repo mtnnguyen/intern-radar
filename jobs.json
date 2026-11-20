@@ -1,5 +1,246 @@
 [
   {
+    "id": "485e8f031c789fb01d69",
+    "company": "Honeywell Aerospace",
+    "source": "simplify",
+    "title": "Information Systems Data Science Intern - IT",
+    "location": "United States",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471",
+    "published_at": 1795159699,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318648+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b99b072f4977d4c1a84f",
+    "company": "Honeywell Aerospace",
+    "source": "simplify",
+    "title": "Information Systems Data Science Intern",
+    "location": "United States",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120238",
+    "published_at": 1795159698,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318629+00:00",
+    "status": "open"
+  },
+  {
+    "id": "15bc408a08652d4d5dbc",
+    "company": "Honeywell Aerospace",
+    "source": "simplify",
+    "title": "Artificial Intelligence Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878",
+    "published_at": 1795159675,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318619+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fc180ecb9f96539a11ec",
+    "company": "iA",
+    "source": "simplify",
+    "title": "Software Data Engineer Intern",
+    "location": "Indianapolis, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1",
+    "published_at": 1795160325,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318578+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9100dacf43f76dfafc2d",
+    "company": "CAS",
+    "source": "simplify",
+    "title": "Business Data Analytics Intern - AI/ML Focus",
+    "location": "Columbus, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a",
+    "published_at": 1795160574,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318509+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cb2a88643a18a4f8e945",
+    "company": "Park National Bank",
+    "source": "simplify",
+    "title": "Business Intelligence Intern",
+    "location": "Newark, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=c0ff78ff-35ff-41dc-ac4e-e5915f9735a4",
+    "published_at": 1795160715,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318489+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1aceede28c53fb1198ce",
+    "company": "Park National Bank",
+    "source": "simplify",
+    "title": "Data Engineering/Data Science Intern",
+    "location": "Newark, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1",
+    "published_at": 1795160715,
+    "categories": [
+      "Data Science",
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318481+00:00",
+    "status": "open"
+  },
+  {
+    "id": "eb40d93519e40eaa6dc0",
+    "company": "Scheels",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Fargo, ND",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24",
+    "published_at": 1795159541,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318462+00:00",
+    "status": "open"
+  },
+  {
+    "id": "04bec34a55a80962c7a6",
+    "company": "Southern Mississippi Trading",
+    "source": "simplify",
+    "title": "AI and Business Analytics Intern",
+    "location": "Waynesboro, MS",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern",
+    "published_at": 1795142351,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318447+00:00",
+    "status": "open"
+  },
+  {
+    "id": "dc91b5f095ecc5379da3",
+    "company": "Piper Sandler",
+    "source": "simplify",
+    "title": "Data Engineering Intern",
+    "location": "Minneapolis, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805",
+    "published_at": 1795046400,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318438+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e3504bd759e2df0bde41",
+    "company": "Lucid Motors",
+    "source": "simplify",
+    "title": "AI & Data Intern - Applied AI/Machine Learning",
+    "location": "Newark, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007",
+    "published_at": 1795130683,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318424+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ab743bf6f5c011206e20",
+    "company": "LinkedIn",
+    "source": "simplify",
+    "title": "Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems",
+    "location": "Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623368",
+    "published_at": 1795135395,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318390+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c5c852495e358f152b06",
+    "company": "LinkedIn",
+    "source": "simplify",
+    "title": "AI/ML Engineer Intern",
+    "location": "Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162628808",
+    "published_at": 1795136968,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318378+00:00",
+    "status": "open"
+  },
+  {
+    "id": "110e58dc99dcbe09cc17",
+    "company": "LinkedIn",
+    "source": "simplify",
+    "title": "AI/ML Engineer Intern - Generative AI",
+    "location": "Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623639",
+    "published_at": 1795135606,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318368+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8398fed3c06c00aafe9e",
+    "company": "Pathlabs",
+    "source": "simplify",
+    "title": "Software and AI Engineer Intern",
+    "location": "Missoula, MT",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern",
+    "published_at": 1795141335,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-20T08:36:07.318317+00:00",
+    "status": "open"
+  },
+  {
     "id": "6a44aa366f564726c57e",
     "company": "Publicis Groupe",
     "source": "simplify",
@@ -1554,7 +1795,7 @@
       "Data Science"
     ],
     "first_seen": "2026-11-13T02:42:55.927101+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3fdcebbd4248f7d30a22",
@@ -2276,7 +2517,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-10T23:40:36.163298+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e77d597c9ab3b10b6717",
@@ -29687,7 +29928,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.491935+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "bdb4120fa0c09d443e4a",
@@ -30907,7 +31148,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e56329c004b6f259ecd3",
@@ -35703,7 +35944,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "57681d6f06522ea2e8ac",
@@ -36119,7 +36360,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5a5c0f3b04edee1f3209",
