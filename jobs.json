@@ -1,5 +1,101 @@
 [
   {
+    "id": "9ade87ac03ca1445d599",
+    "company": "Wurl",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4731130006",
+    "published_at": 1795171905,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-20T17:16:10.381507+00:00",
+    "status": "open"
+  },
+  {
+    "id": "27a2db09f519a5ccd595",
+    "company": "The SilverLogic",
+    "source": "simplify",
+    "title": "AI Engineer/Consultant Intern",
+    "location": "Boca Raton, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://silverlogic.bamboohr.com/careers/36/",
+    "published_at": 1795189720,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-20T17:16:10.381496+00:00",
+    "status": "open"
+  },
+  {
+    "id": "952016e6092db2cc3585",
+    "company": "Systems Planning and Analysis",
+    "source": "simplify",
+    "title": "Integrated Analytics Intern",
+    "location": "Alexandria, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us",
+    "published_at": 1795186320,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-20T17:16:10.381457+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6a20914de4df61e845b7",
+    "company": "Ottawa Tourism",
+    "source": "simplify",
+    "title": "Business Intelligence Assistant Intern",
+    "location": "Ottawa, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ottawatourism.bamboohr.com/careers/123/",
+    "published_at": 1795173249,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-20T17:16:10.381411+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a4a7b76800e31f1df1b3",
+    "company": "Avnan",
+    "source": "simplify",
+    "title": "Electronics Engineering Technologist Co-op",
+    "location": "Mississauga, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://avnan.bamboohr.com/careers/125/",
+    "published_at": 1795173683,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-20T17:16:10.381396+00:00",
+    "status": "open"
+  },
+  {
+    "id": "72df0b359076779869f3",
+    "company": "Smule",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Salt Lake City, UT",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://smule.bamboohr.com/careers/31/",
+    "published_at": 1795171743,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-20T17:16:10.381348+00:00",
+    "status": "open"
+  },
+  {
     "id": "485e8f031c789fb01d69",
     "company": "Honeywell Aerospace",
     "source": "simplify",
@@ -895,7 +991,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-16T22:50:34.136725+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "aa191bd8b63595e28ada",
@@ -1619,7 +1715,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-13T02:42:55.927371+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4bebbd1e8577cb779c7a",
@@ -2035,7 +2131,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-12T00:41:42.886878+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "66f625fc6de9cb6cc194",
@@ -8242,7 +8338,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-26T04:22:38.535519+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d78c3759721823829e5b",
@@ -10073,7 +10169,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-21T07:30:17.129651+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1fa6838695756f80b21f",
@@ -11034,7 +11130,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-17T00:42:57.464792+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "37a1df38a3aeaf322f89",
@@ -15880,7 +15976,7 @@
       "Statistics"
     ],
     "first_seen": "2026-10-05T21:12:37.628301+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "556896cacd41eae991ec",
@@ -19496,7 +19592,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-22T04:40:38.764950+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cc68d80d921be17ef90e",
@@ -25396,7 +25492,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "52be74b89023ccbb50dd",
@@ -26650,7 +26746,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3fb8241f26192d49d7fe",
@@ -26682,7 +26778,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e3bbae2c9da671b66e01",
@@ -30377,7 +30473,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.488938+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "daa34fa402f82a38f95a",
@@ -31486,7 +31582,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8922f67f026405763dad",
