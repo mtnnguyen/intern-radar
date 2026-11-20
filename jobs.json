@@ -1,5 +1,149 @@
 [
   {
+    "id": "6a44aa366f564726c57e",
+    "company": "Publicis Groupe",
+    "source": "simplify",
+    "title": "Identity Analytics Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://publicisgroupe.jibeapply.com/jobs/182970?icims=1&lang=en-us",
+    "published_at": 1795115280,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-20T01:11:53.512581+00:00",
+    "status": "open"
+  },
+  {
+    "id": "da57536aeab9c9634104",
+    "company": "Vertiv",
+    "source": "simplify",
+    "title": "AI Intern",
+    "location": "Westerville, OH, Fort Lauderdale, FL, Huntsville, AL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621",
+    "published_at": 1795132015,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-20T01:11:53.512524+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f7256288a52f82b15b25",
+    "company": "Vertiv",
+    "source": "simplify",
+    "title": "AI Intern",
+    "location": "Westerville, OH, Fort Lauderdale, FL, Huntsville, AL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620",
+    "published_at": 1795132016,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-20T01:11:53.512514+00:00",
+    "status": "open"
+  },
+  {
+    "id": "dcf651920cb6222b5cff",
+    "company": "Microsoft",
+    "source": "simplify",
+    "title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
+    "location": "Redmond, WA, Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557076159",
+    "published_at": 1795132575,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-20T01:11:53.512457+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5b155d8cd62adc0596c2",
+    "company": "Barry's",
+    "source": "simplify",
+    "title": "Undergraduate Summer Scholar Intern - Data Analyst",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f",
+    "published_at": 1795129451,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-20T01:11:53.512431+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9b50ff97ba1cff32f2b8",
+    "company": "Docusign",
+    "source": "simplify",
+    "title": "Product Data Science Intern",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.docusign.com/jobs/31092?icims=1&lang=en-us",
+    "published_at": 1795107240,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-20T01:11:53.512384+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1d27c7c255ea0c53e698",
+    "company": "Publicis Groupe",
+    "source": "simplify",
+    "title": "Identity Analytics Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us",
+    "published_at": 1795115280,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-20T01:11:53.512313+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d40b74699f7b7df3ff4d",
+    "company": "Waymo",
+    "source": "simplify",
+    "title": "Agentic AI Intern",
+    "location": "Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8401116",
+    "published_at": 1795129523,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-20T01:11:53.512185+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3e7906fb00ce32011584",
+    "company": "Soros Fund Management",
+    "source": "simplify",
+    "title": "Quantitative Strategist Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202834003",
+    "published_at": 1794925226,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-20T01:11:53.511282+00:00",
+    "status": "open"
+  },
+  {
     "id": "84d660879b977b8fe47f",
     "company": "Atlantic Health System",
     "source": "simplify",
@@ -61,7 +205,7 @@
       "Data Science"
     ],
     "first_seen": "2026-11-19T02:03:15.398461+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "7859626e282e86d5ab88",
@@ -848,7 +992,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-13T17:40:18.565490+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8e62a387e2ba637a50ab",
@@ -3717,7 +3861,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-11-06T01:29:46.123193+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "088f801b04d5eca62410",
@@ -4503,7 +4647,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-03T23:38:08.776608+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "88331b1dfdb82dcb45bf",
@@ -4680,7 +4824,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-03T03:39:36.303994+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "47d913e325048bfc71ee",
@@ -4939,7 +5083,7 @@
       "Data Science"
     ],
     "first_seen": "2026-11-02T22:27:49.595128+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a5bbb4feb090ff234fa5",
@@ -5455,7 +5599,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-31T00:40:34.876017+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "21b1d4f7810045709d96",
@@ -6769,7 +6913,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-28T05:32:25.664475+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "90fb08e0d57c89e938d6",
@@ -21130,7 +21274,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-16T23:49:33.507268+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ece0b74dc36047cf1600",
@@ -24254,7 +24398,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.534016+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ee16677443e7746da7f6",
@@ -29511,7 +29655,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.491935+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "8403e7cdd93f34f8d3bc",
