@@ -1,5 +1,582 @@
 [
   {
+    "id": "c9b101d12841d95b889c",
+    "company": "Koch Industries",
+    "source": "simplify",
+    "title": "Data and Analytics Intern",
+    "location": "Lisle, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://koch.avature.net/en_US/careers/JobDetail/198151",
+    "published_at": 1795228402,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224946+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c3cb2a2f969ba1651109",
+    "company": "Mawer Investment Management",
+    "source": "simplify",
+    "title": "AI Engineer Student Intern",
+    "location": "Calgary, AB, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199",
+    "published_at": 1795219070,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224916+00:00",
+    "status": "open"
+  },
+  {
+    "id": "de467cafbb7c211b5701",
+    "company": "Blue Bird",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Macon, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.ultipro.com/BLU1004BBBC/JobBoard/1dfd3da7-cc1c-4f67-a1ca-2de669150f8c/OpportunityDetail?opportunityId=040f49cf-a6dd-406f-958c-bd411122159a",
+    "published_at": 1795219165,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224903+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3922ba900b9e72d9554d",
+    "company": "Resultant",
+    "source": "simplify",
+    "title": "Data & Analytics Consultant Intern",
+    "location": "Indianapolis, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/Resultant/744000162782371",
+    "published_at": 1795194145,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224896+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5a7a51383f63c0a33969",
+    "company": "Acuity Insurance",
+    "source": "simplify",
+    "title": "Data Analytics Intern - Data Science",
+    "location": "Sheboygan, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7",
+    "published_at": 1795219213,
+    "categories": [
+      "Data Science",
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224883+00:00",
+    "status": "open"
+  },
+  {
+    "id": "278bfab3e81e1ff59b2b",
+    "company": "Calamos Investments",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Naperville, IL, Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=eb5cd89f-4e14-4b46-ab4d-f68f12bf61af",
+    "published_at": 1795217290,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224871+00:00",
+    "status": "open"
+  },
+  {
+    "id": "eb24a3ce4e1e14e69a18",
+    "company": "Calamos Investments",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Naperville, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=fcc43164-f08a-4252-aa1b-4707337a92d4",
+    "published_at": 1795217290,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224852+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c7bf2859eee524f06873",
+    "company": "Southern Farm Bureau Life Insurance",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Jackson, MS",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=87bde30a-d527-4d94-880d-db1a93afa941",
+    "published_at": 1795217511,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224824+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fcecfba86e3af5a69343",
+    "company": "Southern Farm Bureau Life Insurance",
+    "source": "simplify",
+    "title": "Business Intelligence/Data Insights Intern",
+    "location": "Jackson, MS",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e98034f4-8629-4425-8007-7f5446ca3e39",
+    "published_at": 1795217511,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224818+00:00",
+    "status": "open"
+  },
+  {
+    "id": "52e41a348a1f40060d27",
+    "company": "Southern Farm Bureau Life Insurance",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Jackson, MS",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=91614058-520c-4ce3-8ac5-51b3a3b42a8f",
+    "published_at": 1795217511,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224799+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3967bb671f5c3566facd",
+    "company": "Ardurra",
+    "source": "simplify",
+    "title": "GIS/Environmental Intern",
+    "location": "Cherry Hill Township, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.ultipro.com/KIN1006KEAI/JobBoard/8e199c52-6215-4abe-8c26-7a342cd4ff7e/OpportunityDetail?opportunityId=230f62c5-1c34-427f-b2ef-bbe218658fa6",
+    "published_at": 1795217465,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224792+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d74cba3a0c60fbbe7544",
+    "company": "Southern Farm Bureau Life Insurance",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Jackson, MS",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf",
+    "published_at": 1795217511,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224779+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c8077900659ec54daca8",
+    "company": "Werner Electric Supply",
+    "source": "simplify",
+    "title": "AI Intern",
+    "location": "Appleton, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d",
+    "published_at": 1795217640,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224751+00:00",
+    "status": "open"
+  },
+  {
+    "id": "23c98923c9d31e1d8824",
+    "company": "LJA Engineering",
+    "source": "simplify",
+    "title": "GIS Intern",
+    "location": "Chattanooga, TN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/LJA1000LIAE/JobBoard/d412e071-8074-41d9-90fd-4429decd075e/OpportunityDetail?opportunityId=1bc56821-99e6-47f5-96f8-affcbb91c769",
+    "published_at": 1795217822,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224745+00:00",
+    "status": "open"
+  },
+  {
+    "id": "d897fd534fe9d985e264",
+    "company": "EP Wealth Advisors",
+    "source": "simplify",
+    "title": "Data AI Engineer Intern",
+    "location": "Austin, TX, Torrance, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b/apply",
+    "published_at": 1795217926,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224732+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1cc0de62ef175dd98b34",
+    "company": "Milliman",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Brookfield, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba",
+    "published_at": 1795217973,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224710+00:00",
+    "status": "open"
+  },
+  {
+    "id": "070281ca4d14bbc87717",
+    "company": "Mom's Meals",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Ankeny, IA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/momsmeals/9cc07826-a8bc-4ad4-a570-b54eabc95774/apply",
+    "published_at": 1795217997,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224697+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e4cd4158af440e4f9989",
+    "company": "Great Southern Wood Preserving",
+    "source": "simplify",
+    "title": "Engineering Intern - Data Analyst",
+    "location": "Abbeville, AL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1",
+    "published_at": 1795218998,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224608+00:00",
+    "status": "open"
+  },
+  {
+    "id": "dbaf9181bdf6b5585321",
+    "company": "Intuitive Surgical",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000162832659",
+    "published_at": 1795215417,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224590+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2f3839226c8df5de98e4",
+    "company": "VanEck",
+    "source": "simplify",
+    "title": "Business Intelligence Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://vaneck.rec.pro.ukg.net/VAN1502VEAC/JobBoard/9158c56d-61c9-447f-98b1-4ba0b04ca31d/OpportunityDetail?opportunityId=138d23f1-aadf-46e5-9efa-be0bdd2bd979",
+    "published_at": 1795215813,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224582+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b7e4eb041c707f007c3a",
+    "company": "John Deere",
+    "source": "simplify",
+    "title": "Data Analytics Student Intern - Data and Analytics",
+    "location": "Des Moines, IA, Waterloo, IA, Moline, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://johndeere.eightfold.ai/careers/job/137484575742",
+    "published_at": 1795215976,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224564+00:00",
+    "status": "open"
+  },
+  {
+    "id": "45cf19fcb82be6dec2d1",
+    "company": "Modern Woodmen of America",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Rock Island, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.ultipro.com/mod1003mwa/JobBoard/8990acfc-04f3-d65f-0565-a772e1a0157b/OpportunityDetail?opportunityId=f691b9ac-4ef9-479c-8338-1b7294ee6da1",
+    "published_at": 1795215958,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224555+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ee4bf8237af911b95e86",
+    "company": "GTI Energy",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Des Plaines, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=52b782dd-a1b7-4a41-8bde-a39d265fc776",
+    "published_at": 1795216002,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224543+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0631eaab171b26366d0c",
+    "company": "Encore",
+    "source": "simplify",
+    "title": "IT Data Analyst Intern",
+    "location": "Schiller Park, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=00243c22-9228-4aab-8146-9699c52b1fa0",
+    "published_at": 1795216279,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224497+00:00",
+    "status": "open"
+  },
+  {
+    "id": "84d99fcfc3b453fe3c0b",
+    "company": "Daikin Comfort",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Waller, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=016d2b83-b435-4bb0-bb74-cb0555970a87",
+    "published_at": 1795216190,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224489+00:00",
+    "status": "open"
+  },
+  {
+    "id": "201d60af880dcb554118",
+    "company": "AFL",
+    "source": "simplify",
+    "title": "Business Intelligence Co-op",
+    "location": "Duncan, SC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=33f4e729-d1f6-4137-a95a-4ac8b27a9453",
+    "published_at": 1795216421,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224433+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ff27a72d528c397fb6b5",
+    "company": "Avista",
+    "source": "simplify",
+    "title": "Central Analytics Intern - Multiple Teams",
+    "location": "Spokane, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=6985c6f8-7b03-4906-8c45-1636863e8a58",
+    "published_at": 1795216474,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224418+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ae0c8f22f08951854b40",
+    "company": "Jewelers Mutual Group",
+    "source": "simplify",
+    "title": "Business Intelligence Intern",
+    "location": "Neenah, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=58e2b100-19b0-4b86-9204-6e04fc06943f",
+    "published_at": 1795216675,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224389+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cd67b945282947fdf437",
+    "company": "Jewelers Mutual Group",
+    "source": "simplify",
+    "title": "Behavioral Analytics Intern",
+    "location": "Raleigh, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=ee5ca626-0eea-4cb4-95ce-735ab0ebca6e",
+    "published_at": 1795216676,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224375+00:00",
+    "status": "open"
+  },
+  {
+    "id": "911012c66baf2689f240",
+    "company": "Jewelers Mutual Group",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Neenah, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=31935864-401f-416a-9671-92af3d294895",
+    "published_at": 1795216675,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224367+00:00",
+    "status": "open"
+  },
+  {
+    "id": "037a174d5f2e7738194c",
+    "company": "Microsoft",
+    "source": "simplify",
+    "title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
+    "location": "Redmond, WA, Mountain View, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557076215",
+    "published_at": 1795216809,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224343+00:00",
+    "status": "open"
+  },
+  {
+    "id": "20838fc7a244566aa464",
+    "company": "Amazon",
+    "source": "simplify",
+    "title": "Design Technologist Intern",
+    "location": "Seattle, WA, United States",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amazon.jobs/en/jobs/10610836/design-technologist-intern-fy2027-summer",
+    "published_at": 1795216761,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224314+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f052bb868a26e913b259",
+    "company": "Meridian Credit Union",
+    "source": "simplify",
+    "title": "Data and Artificial Intelligence Student Intern",
+    "location": "Etobicoke, ON, Canada, St. Catharines, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ea375757-76a7-4b9e-81d0-478ed7beb2e1",
+    "published_at": 1795216913,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224282+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6058070a78879a4eac11",
+    "company": "Constellation Energy",
+    "source": "simplify",
+    "title": "Powerfolio Data Analyst Intern",
+    "location": "Houston, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us",
+    "published_at": 1795208820,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224272+00:00",
+    "status": "open"
+  },
+  {
+    "id": "442561f65d46b65e58bc",
+    "company": "Ulteig",
+    "source": "simplify",
+    "title": "GIS Intern",
+    "location": "Remote in USA, Minneapolis, MN, Greenwood Village, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa",
+    "published_at": 1795216881,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224257+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c35b48c384e8f10e604e",
+    "company": "SSR",
+    "source": "simplify",
+    "title": "GIS Intern",
+    "location": "Nashville, TN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://pickleball2995.rec.pro.ukg.net/smi1011ssri/JobBoard/6c2be1d2-d622-4447-ad94-13b6b3d9d57a/OpportunityDetail?opportunityId=2892cf81-2f87-4811-9cba-04287da0d2e2",
+    "published_at": 1795217133,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-21T03:59:16.224165+00:00",
+    "status": "open"
+  },
+  {
     "id": "9ade87ac03ca1445d599",
     "company": "Wurl",
     "source": "simplify",
@@ -4567,7 +5144,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-05T05:54:27.522929+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "eea46b01378f909929b9",
@@ -5693,7 +6270,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-31T12:51:10.340205+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "799324f982a716249c8e",
@@ -14916,7 +15493,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-06T23:52:30.276772+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "35465a787316ea8a71a7",
@@ -17408,7 +17985,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-30T22:35:58.760664+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "41566fb694b9846775c0",
@@ -18998,7 +19575,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-23T23:05:46.743119+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e80071a1a14201f84b78",
