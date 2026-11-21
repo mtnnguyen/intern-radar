@@ -1,5 +1,37 @@
 [
   {
+    "id": "4c049e8e4587891b2d6e",
+    "company": "Vatic Outsourcing",
+    "source": "simplify",
+    "title": "Business Intelligence Analyst Intern",
+    "location": "Marietta, GA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://vaticoutsourcing.bamboohr.com/careers/152/",
+    "published_at": 1795246193,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T12:27:45.185244+00:00",
+    "status": "open"
+  },
+  {
+    "id": "20b5231aef3ca30deb8e",
+    "company": "First PREMIER Bank",
+    "source": "simplify",
+    "title": "Analytics Intern",
+    "location": "Sioux Falls, SD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1",
+    "published_at": 1795132800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-21T12:27:45.185184+00:00",
+    "status": "open"
+  },
+  {
     "id": "c9b101d12841d95b889c",
     "company": "Koch Industries",
     "source": "simplify",
@@ -1890,7 +1922,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-11-14T02:53:54.891935+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "27faa82f4acd2e920ea4",
@@ -2644,7 +2676,7 @@
       "Data Science"
     ],
     "first_seen": "2026-11-12T16:19:47.900670+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2392711c2f6e8ce07929",
@@ -12270,7 +12302,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-15T23:52:03.860669+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ea3cc2c1b7a6b10d52f7",
@@ -19800,7 +19832,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-22T23:37:19.083386+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5236a6fd0bb3397f954a",
@@ -22268,7 +22300,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-16T23:49:33.493152+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "23b18c1e14d3c054eafb",
@@ -31050,7 +31082,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.488938+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "daa34fa402f82a38f95a",
