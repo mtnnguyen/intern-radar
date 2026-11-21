@@ -1,5 +1,37 @@
 [
   {
+    "id": "13f89e23e1cc9bf2fe02",
+    "company": "Blizzard Entertainment",
+    "source": "simplify",
+    "title": "Data Platform Engineering Intern - Data Platform Engineering",
+    "location": "Irvine, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358",
+    "published_at": 1794787200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-21T19:41:54.286913+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c8817e41a81fd53a4b42",
+    "company": "Woodward Governor",
+    "source": "simplify",
+    "title": "AI Intern",
+    "location": "Niles, IL, Fort Collins, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291",
+    "published_at": 1795132800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-21T19:41:54.286817+00:00",
+    "status": "open"
+  },
+  {
     "id": "4c049e8e4587891b2d6e",
     "company": "Vatic Outsourcing",
     "source": "simplify",
@@ -25088,7 +25120,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.535881+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "e9250677674e13cc396f",
