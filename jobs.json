@@ -1,5 +1,37 @@
 [
   {
+    "id": "e044a4273e07b9a662ff",
+    "company": "Johns Manville",
+    "source": "simplify",
+    "title": "Business Analytics & Strategy Intern",
+    "location": "Denver, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Business-Analytics---Strategy-Intern_R26_2002",
+    "published_at": 1793923200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-22T14:28:09.183971+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2f2cf0f3642a6963c670",
+    "company": "Royal Bank of Canada",
+    "source": "simplify",
+    "title": "Data Analyst Intern - Wealth Management",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288",
+    "published_at": 1793923200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-22T14:28:09.183917+00:00",
+    "status": "open"
+  },
+  {
     "id": "891f989aef63aef73280",
     "company": "Schnucks",
     "source": "simplify",
@@ -2101,7 +2133,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-13T17:40:18.565422+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "22e81efe817a181d8ac1",
@@ -4489,7 +4521,7 @@
       "Statistics"
     ],
     "first_seen": "2026-11-07T01:07:30.714316+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "2df6a4c9f96491614dda",
@@ -9447,7 +9479,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-23T19:17:44.819841+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f653f095e01d2196a425",
@@ -10297,7 +10329,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T00:36:01.860633+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e81cca52a31ef5b64caa",
@@ -14149,7 +14181,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-10T02:43:23.212595+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0b43275fd0d202c79766",
@@ -31180,7 +31212,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.488938+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "daa34fa402f82a38f95a",
