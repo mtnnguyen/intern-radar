@@ -1,5 +1,37 @@
 [
   {
+    "id": "f52672da1fa583d89b1d",
+    "company": "First Bank & Trust",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Brookings, SD, Sioux Falls, SD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864",
+    "published_at": 1795132800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-22T20:48:46.759810+00:00",
+    "status": "open"
+  },
+  {
+    "id": "23962e794fb2dbc03de4",
+    "company": "Constellation Brands",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Rochester, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527",
+    "published_at": 1794787200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-22T20:48:46.759757+00:00",
+    "status": "open"
+  },
+  {
     "id": "e044a4273e07b9a662ff",
     "company": "Johns Manville",
     "source": "simplify",

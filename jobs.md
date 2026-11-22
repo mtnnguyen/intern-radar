@@ -4,7 +4,7 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 925
+**Active matching jobs:** 927
 
 **New in the last 24 hours:** 8
 
@@ -220,11 +220,13 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | TikTok | Machine Learning Scientist Intern - Global E-Commerce Content Recommendation | Machine Learning / AI | Seattle, WA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7525650208522193159) |
 | 🇺🇸 USA |  | Radix Trading | Quantitative Technologist C++ Intern | GIS / Geospatial | Chicago, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
 | 🇺🇸 USA |  | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
+| 🌎 Other | 🔥 NEW | First Bank & Trust | Data Analyst Intern | Analytics | Brookings, SD, Sioux Falls, SD | simplify | 2026-11-22 03:48 PM EST | [Apply](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864) |
+| 🌎 Other | 🔥 NEW | Constellation Brands | Data Science Intern | Data Science | Rochester, NY | simplify | 2026-11-22 03:48 PM EST | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527) |
 | 🌎 Other | 🔥 NEW | Johns Manville | Business Analytics & Strategy Intern | Analytics | Denver, CO | simplify | 2026-11-22 09:28 AM EST | [Apply](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Business-Analytics---Strategy-Intern_R26_2002) |
 | 🌎 Other | 🔥 NEW | Schnucks | Data Science Generative AI Intern | Data Science, Machine Learning / AI | St. Louis, MO, Missouri, Indiana, Illinois | simplify | 2026-11-22 01:01 AM EST | [Apply](https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971) |
 | 🌎 Other | 🔥 NEW | Advance Auto Parts | Data Science Intern | Data Science | Raleigh, NC | simplify | 2026-11-22 01:01 AM EST | [Apply](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1) |
-| 🌎 Other | 🔥 NEW | Blizzard Entertainment | Data Platform Engineering Intern - Data Platform Engineering | Data Engineering | Irvine, CA | simplify | 2026-11-21 02:41 PM EST | [Apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358) |
-| 🌎 Other | 🔥 NEW | Woodward Governor | AI Intern | Machine Learning / AI | Niles, IL, Fort Collins, CO | simplify | 2026-11-21 02:41 PM EST | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291) |
+| 🌎 Other |  | Blizzard Entertainment | Data Platform Engineering Intern - Data Platform Engineering | Data Engineering | Irvine, CA | simplify | 2026-11-21 02:41 PM EST | [Apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358) |
+| 🌎 Other |  | Woodward Governor | AI Intern | Machine Learning / AI | Niles, IL, Fort Collins, CO | simplify | 2026-11-21 02:41 PM EST | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291) |
 | 🌎 Other |  | Vatic Outsourcing | Business Intelligence Analyst Intern | Analytics | Marietta, GA | simplify | 2026-11-21 07:27 AM EST | [Apply](https://vaticoutsourcing.bamboohr.com/careers/152/) |
 | 🌎 Other |  | First PREMIER Bank | Analytics Intern | Analytics | Sioux Falls, SD | simplify | 2026-11-21 07:27 AM EST | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1) |
 | 🌎 Other |  | Koch Industries | Data and Analytics Intern | Analytics | Lisle, IL | simplify | 2026-11-20 10:59 PM EST | [Apply](https://koch.avature.net/en_US/careers/JobDetail/198151) |
