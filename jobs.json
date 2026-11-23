@@ -1,5 +1,53 @@
 [
   {
+    "id": "c720bc19373101f75a2f",
+    "company": "Carnegie Mellon University",
+    "source": "simplify",
+    "title": "AI Engineer Intern - Mission Innovation Lab",
+    "location": "Pittsburgh, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364",
+    "published_at": 1794787200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-23T01:10:24.002432+00:00",
+    "status": "open"
+  },
+  {
+    "id": "83d31652f0181debf85e",
+    "company": "QSL",
+    "source": "simplify",
+    "title": "Software Development and Artificial Intelligence Intern",
+    "location": "Québec City, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/QSL/744000162086264",
+    "published_at": 1794924471,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-23T01:10:24.002419+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ba4d80084ff0694f15f8",
+    "company": "Samsung",
+    "source": "simplify",
+    "title": "Business Operations & Data Analytics Intern",
+    "location": "Plano, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135",
+    "published_at": 1795046400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-23T01:10:24.002379+00:00",
+    "status": "open"
+  },
+  {
     "id": "f52672da1fa583d89b1d",
     "company": "First Bank & Trust",
     "source": "simplify",
@@ -11917,7 +11965,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-17T00:42:57.464775+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "26e7f50d54779084f26a",

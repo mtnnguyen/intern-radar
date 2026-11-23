@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 927
+**Active matching jobs:** 928
 
-**New in the last 24 hours:** 8
+**New in the last 24 hours:** 10
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -41,6 +41,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇨🇦 Ontario |  | Ottawa Tourism | Business Intelligence Assistant Intern | Analytics | Ottawa, ON, Canada | simplify | 2026-11-20 12:16 PM EST | [Apply](https://ottawatourism.bamboohr.com/careers/123/) |
 | 🇨🇦 Ontario |  | Honeywell Aerospace | Artificial Intelligence Engineer Intern | Machine Learning / AI | Kanata, Ottawa, ON, Canada | simplify | 2026-11-20 03:36 AM EST | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878) |
 | 🇨🇦 Ontario |  | Ciena | Services Business Intelligence & Analytics Intern | Analytics | Montreal, QC, Canada, Ottawa, ON, Canada | simplify | 2026-10-19 07:33 PM EDT | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) |
+| 🇨🇦 Canada | 🔥 NEW | QSL | Software Development and Artificial Intelligence Intern | Machine Learning / AI | Québec City, QC, Canada | simplify | 2026-11-22 08:10 PM EST | [Apply](https://jobs.smartrecruiters.com/QSL/744000162086264) |
 | 🇨🇦 Canada |  | Mawer Investment Management | AI Engineer Student Intern | Machine Learning / AI | Calgary, AB, Canada | simplify | 2026-11-20 10:59 PM EST | [Apply](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199) |
 | 🇨🇦 Canada |  | GIRO | Software Development and Artificial Intelligence Intern | Machine Learning / AI | Montreal, QC, Canada | simplify | 2026-11-18 03:43 PM EST | [Apply](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel-et-intelligence-artificielle_R-100000321) |
 | 🇨🇦 Canada |  | NorthStar Earth & Space | Research Intern - AI for Earth Observation | GIS / Geospatial | Montreal, QC, Canada | simplify | 2026-11-17 08:56 AM EST | [Apply](https://northstarearthandspace.bamboohr.com/careers/117/) |
@@ -220,6 +221,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | TikTok | Machine Learning Scientist Intern - Global E-Commerce Content Recommendation | Machine Learning / AI | Seattle, WA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7525650208522193159) |
 | 🇺🇸 USA |  | Radix Trading | Quantitative Technologist C++ Intern | GIS / Geospatial | Chicago, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
 | 🇺🇸 USA |  | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
+| 🌎 Other | 🔥 NEW | Samsung | Business Operations & Data Analytics Intern | Analytics | Plano, TX | simplify | 2026-11-22 08:10 PM EST | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135) |
 | 🌎 Other | 🔥 NEW | First Bank & Trust | Data Analyst Intern | Analytics | Brookings, SD, Sioux Falls, SD | simplify | 2026-11-22 03:48 PM EST | [Apply](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864) |
 | 🌎 Other | 🔥 NEW | Constellation Brands | Data Science Intern | Data Science | Rochester, NY | simplify | 2026-11-22 03:48 PM EST | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527) |
 | 🌎 Other | 🔥 NEW | Johns Manville | Business Analytics & Strategy Intern | Analytics | Denver, CO | simplify | 2026-11-22 09:28 AM EST | [Apply](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Business-Analytics---Strategy-Intern_R26_2002) |
@@ -537,7 +539,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Creative Artists Agency | Data Analytics Intern | Analytics | Denver, CO | simplify | 2026-10-19 07:33 PM EDT | [Apply](https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391) |
 | 🌎 Other |  | Marsh & McLennan | Data and Analytics Apprentice | Analytics | Newcastle upon Tyne, UK | simplify | 2026-10-19 07:33 PM EDT | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Apprenticeship-2027---Newcastle_R_369738-1) |
 | 🌎 Other |  | Ascension | Managed Care Analytics Intern | Analytics | St. Louis, MO | simplify | 2026-10-17 05:14 AM EDT | [Apply](https://jobs.ascension.org/us/en/job/15636) |
-| 🌎 Other |  | Thomson Reuters | Applied Science Intern | Machine Learning / AI | London, UK | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Applied-Science-Intern_JREQ204560) |
 | 🌎 Other |  | John Deere | Process Automation Student Intern - Process Automation - Data and Analytics | Analytics | Greeneville, TN | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://johndeere.eightfold.ai/careers/job/137483907415) |
 | 🌎 Other |  | Veeam Software | Data & Analytics Engineering Intern | Data Engineering, Analytics | Alpharetta, GA | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101) |
 | 🌎 Other |  | Microsoft | Research Intern - Machine Learning | Machine Learning / AI | Cambridge, MA, NYC | simplify | 2026-10-16 08:42 PM EDT | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557042145) |
