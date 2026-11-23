@@ -29,6 +29,8 @@ from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 
 import requests
 
+from listing_safety import escape_table_cell, safe_application_url
+
 
 # =========================================================
 # FILES
@@ -729,17 +731,8 @@ def save_jobs(database):
 # =========================================================
 
 def escape_markdown(text):
-    """
-    Prevent markdown table formatting
-    from breaking.
-    """
-
-    return str(
-        text
-    ).replace(
-        "|",
-        "\\|"
-    )
+    """Preserve existing call sites while safely rendering plain-text cells."""
+    return escape_table_cell(text)
 
 
 def is_new_job(job):
@@ -1342,6 +1335,9 @@ def create_markdown(database):
             ""
         )
 
+        application_url = safe_application_url(job.get("url"))
+        apply_cell = f"[Apply]({application_url})" if application_url else "Unavailable"
+
         lines.append(
             "| "
             f"{priority_label} | "
@@ -1352,7 +1348,7 @@ def create_markdown(database):
             f"{escape_markdown(job['location'])} | "
             f"{escape_markdown(source)} | "
             f"{first_seen} | "
-            f"[Apply]({job['url']}) |"
+            f"{apply_cell} |"
         )
 
     MARKDOWN_FILE.write_text(
