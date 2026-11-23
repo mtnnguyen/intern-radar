@@ -10,7 +10,7 @@ class MarkdownSafetyTests(unittest.TestCase):
         self.assertEqual(escape_table_cell('Toronto\nRemote\tHybrid'), 'Toronto Remote Hybrid')
 
     def test_backslashes_are_escaped(self):
-        self.assertEqual(escape_table_cell(r'A\\|B'), r'A\\\\\\|B')
+        self.assertEqual(escape_table_cell(r'A\|B'), r'A\\\|B')
 
     def test_null_field(self):
         self.assertEqual(escape_table_cell(None), '')
