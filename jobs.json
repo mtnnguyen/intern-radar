@@ -1,5 +1,102 @@
 [
   {
+    "id": "ccd2ce26ac29f8eead75",
+    "company": "Red Bull",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Morristown, NJ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.smartrecruiters.com/RedBull/744000163139699",
+    "published_at": 1795409666,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-23T09:07:43.577495+00:00",
+    "status": "open"
+  },
+  {
+    "id": "37c124853ecb0fc9f45a",
+    "company": "Artefact",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958076002",
+    "published_at": 1795393393,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-23T09:07:43.577487+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c22b4f9938dd14a6767c",
+    "company": "Lumentum",
+    "source": "simplify",
+    "title": "Data Science & Analytics Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771",
+    "published_at": 1794787200,
+    "categories": [
+      "Data Science",
+      "Analytics"
+    ],
+    "first_seen": "2026-11-23T09:07:43.577481+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b4d5f025f7d7065ebd59",
+    "company": "Artefact",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002",
+    "published_at": 1795393389,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-23T09:07:43.577472+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7befa298cbd3a44edc57",
+    "company": "CME Group",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/London---Fruit--Wool-Exchange/Data-Analytics-Summer-Internship_35048-1",
+    "published_at": 1794787200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-23T09:07:43.577429+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1b4c1f88b67c43ff5adc",
+    "company": "CME Group",
+    "source": "simplify",
+    "title": "Quantitative Data & AI Analytics Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quantitative-Data---AI-Analytics-Intern---Year-Round_35061",
+    "published_at": 1794960000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-23T09:07:43.577388+00:00",
+    "status": "open"
+  },
+  {
     "id": "c720bc19373101f75a2f",
     "company": "Carnegie Mellon University",
     "source": "simplify",
@@ -1682,7 +1779,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-17T04:50:39.396280+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cebbc1ec0c78350c4f56",
@@ -4008,7 +4105,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-10T02:57:09.885469+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a243545b884678852b43",
@@ -11437,7 +11534,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-19T23:33:43.217808+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c78a4b293165c2a649de",
