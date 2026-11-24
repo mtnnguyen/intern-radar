@@ -1,5 +1,118 @@
 [
   {
+    "id": "0553174494b2ab155897",
+    "company": "Fervo Energy",
+    "source": "simplify",
+    "title": "GIS Intern",
+    "location": "Salt Lake City, UT",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/fervoenergy/jobs/4512537009",
+    "published_at": 1795508907,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-24T16:04:33.204941+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9b0fa8b2f725dbe0a0f2",
+    "company": "CarGurus",
+    "source": "simplify",
+    "title": "Data Platform Engineer Intern",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230750",
+    "published_at": 1790801767,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-24T16:04:33.204908+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9f1b48c1906d6d06556b",
+    "company": "CarGurus",
+    "source": "simplify",
+    "title": "Product Data Analyst Intern",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230677",
+    "published_at": 1790801894,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-24T16:04:33.204896+00:00",
+    "status": "open"
+  },
+  {
+    "id": "48219e6d4885df708e9a",
+    "company": "CarGurus",
+    "source": "simplify",
+    "title": "Data Analytics Engineer Intern",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231510",
+    "published_at": 1790801713,
+    "categories": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "first_seen": "2026-11-24T16:04:33.204884+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5020ef999368a60a8345",
+    "company": "ISO New England",
+    "source": "simplify",
+    "title": "Market Data Analyst Intern",
+    "location": "Holyoke, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4454673009",
+    "published_at": 1792510394,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-24T16:04:33.204796+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f1241497197bcaeaec8b",
+    "company": "Esri",
+    "source": "simplify",
+    "title": "Enterprise Business Intelligence Intern",
+    "location": "Redlands, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5246028007",
+    "published_at": 1790096976,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-24T16:04:33.204705+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5974feed94894c023d44",
+    "company": "Esri",
+    "source": "simplify",
+    "title": "GIS Engineer Intern",
+    "location": "Redlands, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5217904007",
+    "published_at": 1787693413,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-24T16:04:33.204669+00:00",
+    "status": "open"
+  },
+  {
     "id": "d14bf0a5c1bf16e8d0e2",
     "company": "First PREMIER Bank",
     "source": "simplify",
@@ -142,7 +255,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-24T05:22:15.078657+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e00e205d51354a173f39",
@@ -399,7 +512,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-22T14:28:09.183917+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "891f989aef63aef73280",
@@ -497,7 +610,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-21T19:41:54.286817+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "4c049e8e4587891b2d6e",
@@ -2084,7 +2197,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-16T22:50:34.136754+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b800280e9af35f34d042",
@@ -2213,7 +2326,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-14T16:09:56.308552+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ffc23d57e69eaed0d1f5",
@@ -4378,7 +4491,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-11-10T02:57:09.885288+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "54976567bcf735b977dd",
@@ -5499,7 +5612,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-05T14:04:00.685683+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "143c7613472a0749592f",
@@ -15769,7 +15882,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-07T03:47:12.531264+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "09740723f45c976b3ad8",
@@ -38143,7 +38256,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.438371+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f923780cb36b24f9045b",
