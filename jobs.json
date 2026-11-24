@@ -1,5 +1,166 @@
 [
   {
+    "id": "d14bf0a5c1bf16e8d0e2",
+    "company": "First PREMIER Bank",
+    "source": "simplify",
+    "title": "Collections Analytics Intern",
+    "location": "Sioux Falls, SD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Collections-Analytics-Internship_R-565",
+    "published_at": 1795392000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-24T05:22:15.078867+00:00",
+    "status": "open"
+  },
+  {
+    "id": "92644bfd555cff2f19ee",
+    "company": "Strava",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern - AI/ML Data Products",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true",
+    "published_at": 1794528000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-24T05:22:15.078845+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4e123090e32f9d28e4f3",
+    "company": "Runna",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.ashbyhq.com/runna/59bd8bad-51db-4ac3-b557-ff65b6dbb56f/application?embed=true",
+    "published_at": 1795392000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-24T05:22:15.078802+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fb8b0ebbddd8982e3e2c",
+    "company": "Culver's",
+    "source": "simplify",
+    "title": "Business Analytics Intern",
+    "location": "Prairie du Sac, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79",
+    "published_at": 1795478145,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-24T05:22:15.078774+00:00",
+    "status": "open"
+  },
+  {
+    "id": "de82d0953c9d330ea550",
+    "company": "Exowatt",
+    "source": "simplify",
+    "title": "Software & AI Intern",
+    "location": "Austin, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs.lever.co/exowatt/86589116-72a5-44f1-893a-1c688d15f2cf/apply",
+    "published_at": 1795478191,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-24T05:22:15.078768+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9d8e45f08a76ebfb290e",
+    "company": "Capital Technology Group",
+    "source": "simplify",
+    "title": "Data Engineering and Data Science Intern",
+    "location": "Silver Spring, MD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://boards.greenhouse.io/capitaltg/jobs/5307074007",
+    "published_at": 1795469563,
+    "categories": [
+      "Data Science",
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-24T05:22:15.078753+00:00",
+    "status": "open"
+  },
+  {
+    "id": "800c64b4b8565add8185",
+    "company": "Milliman",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "Indianapolis, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=1940672b-d3b1-4e15-a834-fde16cb5a420",
+    "published_at": 1795475585,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-24T05:22:15.078706+00:00",
+    "status": "open"
+  },
+  {
+    "id": "66b77076b58f59fa347e",
+    "company": "Lifeway",
+    "source": "simplify",
+    "title": "Summer Internship - Business Intelligence",
+    "location": "Remote in USA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://hq-lifeway.icims.com/jobs/27218/job?mobile=true&needsRedirect=false",
+    "published_at": 1795392000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-24T05:22:15.078667+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bc30eaad89f7f405fc63",
+    "company": "JP Morgan Chase",
+    "source": "simplify",
+    "title": "Applied AI Intern - HR CDAO",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
+    "published_at": 1795476248,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-24T05:22:15.078657+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e00e205d51354a173f39",
+    "company": "DraftKings",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Engineer-Intern--Summer-2027-_JR15464",
+    "published_at": 1795046400,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-24T05:22:15.078618+00:00",
+    "status": "open"
+  },
+  {
     "id": "9bf911b9af421f3ad4a4",
     "company": "Stantec",
     "source": "simplify",
@@ -1426,7 +1587,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-11-20T01:11:53.511282+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "84d660879b977b8fe47f",
@@ -2148,7 +2309,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-14T02:53:54.892227+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "d360a189db96dff0d2f6",
@@ -2245,7 +2406,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-14T02:53:54.891971+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "aef4294ac42cc3445689",
@@ -12240,7 +12401,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-10-17T00:42:57.464461+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c75e74b290ed21ad1417",
@@ -15864,7 +16025,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-06T23:52:30.276772+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "35465a787316ea8a71a7",
@@ -26569,7 +26730,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "63cbc8e4ec3fab96df02",
@@ -27565,7 +27726,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "7f3a9d607aafe143ab43",
@@ -30618,7 +30779,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.493936+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "80e12d215b7315f7e0c1",
@@ -35867,7 +36028,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.455569+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6e5ee35cdbefa0019e33",
@@ -35964,7 +36125,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-09-14T14:26:16.454571+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "0fcd4a9088b697b08e12",
