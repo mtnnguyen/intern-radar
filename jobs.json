@@ -1,5 +1,101 @@
 [
   {
+    "id": "a9a56e88f36fbc70c3cf",
+    "company": "TransUnion",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654",
+    "published_at": 1794787200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-25T00:35:52.859233+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ee625b17a04419e6a41c",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "source": "simplify",
+    "title": "Artificial Intelligence and Complex Systems Intern",
+    "location": "Laurel, MD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
+    "published_at": 1795552140,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-25T00:35:52.859208+00:00",
+    "status": "open"
+  },
+  {
+    "id": "064e220eeea9db7cdaf2",
+    "company": "Meta",
+    "source": "simplify",
+    "title": "Research Scientist Intern - Machine Learning for Robust 3D Perception",
+    "location": "Redmond, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://www.metacareers.com/jobs/1482835147112669",
+    "published_at": 1795563381,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-25T00:35:52.859185+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0b9d90416e261bf06f92",
+    "company": "Sparksoft",
+    "source": "simplify",
+    "title": "Business / Data Analyst Intern",
+    "location": "Maryland",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5308152007",
+    "published_at": 1795548861,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-25T00:35:52.859135+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f2ddec2ff403f18e414f",
+    "company": "Eulerity",
+    "source": "simplify",
+    "title": "Finance Data Analyst Intern - Finance",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4731948006",
+    "published_at": 1795537914,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-25T00:35:52.859113+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6dd8ad3868cd5c994772",
+    "company": "WSP",
+    "source": "simplify",
+    "title": "Geographic Information Systems Science Intern",
+    "location": "Denver, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829",
+    "published_at": 1795562291,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-25T00:35:52.859055+00:00",
+    "status": "open"
+  },
+  {
     "id": "0553174494b2ab155897",
     "company": "Fervo Energy",
     "source": "simplify",
@@ -271,7 +367,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-11-24T05:22:15.078618+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "9bf911b9af421f3ad4a4",
@@ -1444,7 +1540,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-20T08:36:07.318462+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "04bec34a55a80962c7a6",
@@ -2374,7 +2470,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-14T09:48:27.402071+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "22114d6e6aa209bfc969",
@@ -3081,7 +3177,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-13T02:42:55.927216+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "6f2ef6cdd0512e3d773b",
@@ -5757,7 +5853,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-05T05:54:27.522991+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "da742010c79033ae61d0",
@@ -6174,7 +6270,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-03T23:38:08.776684+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "e564dc3123c4996897dd",
@@ -23522,7 +23618,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-15T19:09:22.057426+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "77e702f2f706f5d5758e",
@@ -32596,7 +32692,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.476307+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "c6a2458cde37ef2e2d33",
@@ -35515,7 +35611,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.459696+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b5fb5b89b6fdeb09827e",
