@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 925
+**Active matching jobs:** 921
 
-**New in the last 24 hours:** 17
+**New in the last 24 hours:** 11
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -62,9 +62,9 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇨🇦 Canada |  | Epic Games | Machine Learning Intern - Special Projects - Epic Research Group | Machine Learning / AI | Montreal, QC, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
 | 🇨🇦 Canada |  | Cohere | Machine Learning Intern/Co-op | Machine Learning / AI | Canada, United Kingdom, United States | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
 | 🇺🇸 USA | 🔥 NEW | TransUnion | Data Analyst Intern | Analytics | Chicago, IL | simplify | 2026-11-24 07:35 PM EST | [Apply](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654) |
-| 🇺🇸 USA | 🔥 NEW | CarGurus | Data Platform Engineer Intern | Data Engineering | Boston, MA | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8230750) |
-| 🇺🇸 USA | 🔥 NEW | CarGurus | Product Data Analyst Intern | Analytics | Boston, MA | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8230677) |
-| 🇺🇸 USA | 🔥 NEW | CarGurus | Data Analytics Engineer Intern | Data Engineering, Analytics | Boston, MA | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8231510) |
+| 🇺🇸 USA |  | CarGurus | Data Platform Engineer Intern | Data Engineering | Boston, MA | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8230750) |
+| 🇺🇸 USA |  | CarGurus | Product Data Analyst Intern | Analytics | Boston, MA | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8230677) |
+| 🇺🇸 USA |  | CarGurus | Data Analytics Engineer Intern | Data Engineering, Analytics | Boston, MA | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8231510) |
 | 🇺🇸 USA |  | Exowatt | Software & AI Intern | Machine Learning / AI | Austin, TX | simplify | 2026-11-24 12:22 AM EST | [Apply](https://jobs.lever.co/exowatt/86589116-72a5-44f1-893a-1c688d15f2cf/apply) |
 | 🇺🇸 USA |  | Lifeway | Summer Internship - Business Intelligence | Analytics | Remote in USA | simplify | 2026-11-24 12:22 AM EST | [Apply](https://hq-lifeway.icims.com/jobs/27218/job?mobile=true&needsRedirect=false) |
 | 🇺🇸 USA |  | Stantec | Data Scientist Intern - Water | Data Science | Boston, MA, Denver, CO, San Diego, CA | simplify | 2026-11-23 04:17 PM EST | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005) |
@@ -216,11 +216,11 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | TikTok | Data Science Intern - Tiktok Shop-Supply Chain & Logistics | Data Science, GIS / Geospatial | Seattle, WA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7644719084681234741) |
 | 🇺🇸 USA |  | ByteDance | Machine Learning Engineer Intern - E-commerce Governance Algorithms | Machine Learning / AI | Seattle, WA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.bytedance.com/en/position/7535171166420453639/detail) |
 | 🇺🇸 USA |  | Expedia Group | Machine Learning Science Intern | Machine Learning / AI | Austin, TX, San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585) |
-| 🇺🇸 USA |  | Doctors Without Borders | Data Science Intern | Data Science | New York, NY | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/msfcareers/jobs/4993728008) |
 | 🇺🇸 USA |  | HEXAWARE | Intern Data Engineer | Data Engineering | United States | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/623864) |
 | 🇺🇸 USA |  | TikTok | Machine Learning Scientist Intern - Global E-Commerce Content Recommendation | Machine Learning / AI | Seattle, WA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7525650208522193159) |
 | 🇺🇸 USA |  | Radix Trading | Quantitative Technologist C++ Intern | GIS / Geospatial | Chicago, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
 | 🇺🇸 USA |  | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
+| 🌎 Other | 🔥 NEW | University of St. Thomas | Graduate Assistant for Data Analytics Intern - Center for Well-Being | Analytics | St Paul, MN | simplify | 2026-11-25 02:13 PM EST | [Apply](https://studentemployment-stthomas.icims.com/jobs/10464/job?mobile=true&needsRedirect=false) |
 | 🌎 Other | 🔥 NEW | ConnectPrep | Data Analyst Intern | Analytics | Washington | simplify | 2026-11-25 04:08 AM EST | [Apply](https://apply.workable.com/connectprep/j/9F465A2E1A/apply) |
 | 🌎 Other | 🔥 NEW | PatientPoint | Data Engineer Intern | Data Engineering | Cincinnati, OH | simplify | 2026-11-25 04:08 AM EST | [Apply](https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005) |
 | 🌎 Other | 🔥 NEW | Kimley-Horn | Data Science Intern | Data Science | Mesa, AZ | simplify | 2026-11-25 04:08 AM EST | [Apply](https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us) |
@@ -229,13 +229,12 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | Sparksoft | Business / Data Analyst Intern | Analytics | Maryland | simplify | 2026-11-24 07:35 PM EST | [Apply](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5308152007) |
 | 🌎 Other | 🔥 NEW | Eulerity | Finance Data Analyst Intern - Finance | Analytics | NYC | simplify | 2026-11-24 07:35 PM EST | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4731948006) |
 | 🌎 Other | 🔥 NEW | WSP | Geographic Information Systems Science Intern | GIS / Geospatial | Denver, CO | simplify | 2026-11-24 07:35 PM EST | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829) |
-| 🌎 Other | 🔥 NEW | Fervo Energy | GIS Intern | GIS / Geospatial | Salt Lake City, UT | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/fervoenergy/jobs/4512537009) |
-| 🌎 Other | 🔥 NEW | ISO New England | Market Data Analyst Intern | Analytics | Holyoke, MA | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/studentinternships/jobs/4454673009) |
-| 🌎 Other | 🔥 NEW | Esri | Enterprise Business Intelligence Intern | Analytics | Redlands, CA | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/studentprogram/jobs/5246028007) |
-| 🌎 Other | 🔥 NEW | Esri | GIS Engineer Intern | GIS / Geospatial | Redlands, CA | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/studentprogram/jobs/5217904007) |
+| 🌎 Other |  | Fervo Energy | GIS Intern | GIS / Geospatial | Salt Lake City, UT | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/fervoenergy/jobs/4512537009) |
+| 🌎 Other |  | ISO New England | Market Data Analyst Intern | Analytics | Holyoke, MA | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/studentinternships/jobs/4454673009) |
+| 🌎 Other |  | Esri | Enterprise Business Intelligence Intern | Analytics | Redlands, CA | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/studentprogram/jobs/5246028007) |
+| 🌎 Other |  | Esri | GIS Engineer Intern | GIS / Geospatial | Redlands, CA | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/studentprogram/jobs/5217904007) |
 | 🌎 Other |  | First PREMIER Bank | Collections Analytics Intern | Analytics | Sioux Falls, SD | simplify | 2026-11-24 12:22 AM EST | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Collections-Analytics-Internship_R-565) |
 | 🌎 Other |  | Strava | Machine Learning Engineer Intern - AI/ML Data Products | Machine Learning / AI | SF | simplify | 2026-11-24 12:22 AM EST | [Apply](https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true) |
-| 🌎 Other |  | Runna | AI Engineer Intern | Machine Learning / AI | London, UK | simplify | 2026-11-24 12:22 AM EST | [Apply](https://jobs.ashbyhq.com/runna/59bd8bad-51db-4ac3-b557-ff65b6dbb56f/application?embed=true) |
 | 🌎 Other |  | Culver's | Business Analytics Intern | Analytics | Prairie du Sac, WI | simplify | 2026-11-24 12:22 AM EST | [Apply](https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79) |
 | 🌎 Other |  | Capital Technology Group | Data Engineering and Data Science Intern | Data Science, Data Engineering | Silver Spring, MD | simplify | 2026-11-24 12:22 AM EST | [Apply](https://boards.greenhouse.io/capitaltg/jobs/5307074007) |
 | 🌎 Other |  | Milliman | Data Scientist Intern | Data Science | Indianapolis, IN | simplify | 2026-11-24 12:22 AM EST | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=1940672b-d3b1-4e15-a834-fde16cb5a420) |
@@ -265,7 +264,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Southern Farm Bureau Life Insurance | Data Analytics Intern | Analytics | Jackson, MS | simplify | 2026-11-20 10:59 PM EST | [Apply](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf) |
 | 🌎 Other |  | Werner Electric Supply | AI Intern | Machine Learning / AI | Appleton, WI | simplify | 2026-11-20 10:59 PM EST | [Apply](https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d) |
 | 🌎 Other |  | LJA Engineering | GIS Intern | GIS / Geospatial | Chattanooga, TN | simplify | 2026-11-20 10:59 PM EST | [Apply](https://recruiting2.ultipro.com/LJA1000LIAE/JobBoard/d412e071-8074-41d9-90fd-4429decd075e/OpportunityDetail?opportunityId=1bc56821-99e6-47f5-96f8-affcbb91c769) |
-| 🌎 Other |  | Milliman | Data Analyst Intern | Analytics | Brookfield, WI | simplify | 2026-11-20 10:59 PM EST | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba) |
 | 🌎 Other |  | Mom's Meals | Data Analytics Intern | Analytics | Ankeny, IA | simplify | 2026-11-20 10:59 PM EST | [Apply](https://jobs.lever.co/momsmeals/9cc07826-a8bc-4ad4-a570-b54eabc95774/apply) |
 | 🌎 Other |  | Great Southern Wood Preserving | Engineering Intern - Data Analyst | Analytics | Abbeville, AL | simplify | 2026-11-20 10:59 PM EST | [Apply](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1) |
 | 🌎 Other |  | Intuitive Surgical | Data Engineer Intern | Data Engineering | Sunnyvale, CA | simplify | 2026-11-20 10:59 PM EST | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000162832659) |
@@ -317,7 +315,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | bioMérieux | Machine Learning Co-op | Machine Learning / AI | Durham, NC | simplify | 2026-11-16 11:50 PM EST | [Apply](https://jobs.jobvite.com/biofiredx/job/ol94AfwS?nl=1&nl=1&fr=false) |
 | 🌎 Other |  | TikTok | Client Security & Data Foundation Machine Learning Engineer Intern | Machine Learning / AI | San Jose, CA | simplify | 2026-11-16 11:50 PM EST | [Apply](https://lifeattiktok.com/search/7708750900450134325) |
 | 🌎 Other |  | BGE | GIS Intern | GIS / Geospatial | Katy, TX | simplify | 2026-11-16 11:50 PM EST | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5483695008) |
-| 🌎 Other |  | Robert Bosch Venture Capital | Data Analyst & Marketing/Sales Intern | Analytics | Denham, UK | simplify | 2026-11-16 05:50 PM EST | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161793229) |
 | 🌎 Other |  | Octaura | Data Engineer Intern | Data Engineering | NYC | simplify | 2026-11-16 08:01 AM EST | [Apply](https://job-boards.greenhouse.io/octaura/jobs/4662934007) |
 | 🌎 Other |  | Carnegie Mellon University | Cyber AI Engineering Intern | Machine Learning / AI | Pittsburgh, PA | simplify | 2026-11-15 02:56 PM EST | [Apply](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1) |
 | 🌎 Other |  | NCR Atleos | Data Analytics Intern - Media Handling | Analytics | Dundee, UK | simplify | 2026-11-15 09:35 AM EST | [Apply](https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Hardware-Engineer-Internship_R1155210) |
@@ -477,7 +474,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Great American Insurance Company | Data Engineer Intern | Data Engineering | Cincinnati, OH | simplify | 2026-10-27 08:05 PM EDT | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineering-Intern---Summer-2027_R9794) |
 | 🌎 Other |  | Great American Insurance Company | Cloud Data Platform Intern | Data Engineering | Cincinnati, OH | simplify | 2026-10-27 08:05 PM EDT | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795) |
 | 🌎 Other |  | ACLU Kentucky | Undergraduate Software Engineer Intern - Technology and Analytics Department-Educate Pod | Analytics | NYC | simplify | 2026-10-27 08:05 PM EDT | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8919540002) |
-| 🌎 Other |  | Amazon | Applied Scientist Intern - Pxt Legends | Machine Learning / AI | United Kingdom | simplify | 2026-10-27 08:05 PM EDT | [Apply](https://amazon.jobs/en/jobs/10590070/applied-scientist-pxt-legends) |
 | 🌎 Other |  | David Yurman | Strategic Analytics Intern | Analytics | NYC | simplify | 2026-10-27 08:05 PM EDT | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Strategic-Analytics-Intern_R-101176) |
 | 🌎 Other |  | JP Morgan Chase | Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl | Machine Learning / AI | NYC | simplify | 2026-10-27 08:05 PM EDT | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983) |
 | 🌎 Other |  | Hive Financial Systems | Analytics Intern | Analytics | Atlanta, GA | simplify | 2026-10-27 08:05 PM EDT | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007) |
@@ -923,9 +919,9 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Eluvio | AI Machine Learning Intern - Gen AI - Multimodal | Machine Learning / AI | Berkeley, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://apply.workable.com/eluvio/j/F70F3473E7/apply) |
 | 🌎 Other |  | Neuralink | Machine Learning Engineer Intern | Machine Learning / AI | Fremont, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://boards.greenhouse.io/neuralink/jobs/6594261003) |
 | 🌎 Other |  | Medpace, Inc. | AI Engineer Intern | Machine Learning / AI | Cincinnati, OH | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.medpace.com/jobs/12729?lang=en-us&icims=1) |
+| 🌎 Other |  | Marmon Holdings | Data Engineering Intern Co-op | Data Engineering | Milwaukee, WI | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) |
 | 🌎 Other |  | First Quality | Analytics Engineer Intern/Co-op - Analytics Engineer | Data Engineering, Analytics | Anderson, SC | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813) |
 | 🌎 Other |  | ByteDance | Machine Learning Engineer Intern - Security-Data | Machine Learning / AI | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.bytedance.com/en/position/7641703558211586309/detail) |
-| 🌎 Other |  | Marmon Holdings | Data Engineering Intern Co-op | Data Engineering | Milwaukee, WI | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) |
 | 🌎 Other |  | Boston Consulting Group | Forward Deployed AI Engineer Intern - BCG X | Machine Learning / AI | London, UK | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://careers.bcg.com/global/en/job/56635) |
 | 🌎 Other |  | Equifax | Data & Analytics Intern | Analytics | Alpharetta, GA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081) |
 | 🌎 Other |  | TikTok | Data Scientist Project Intern - Integrity and Safety | Data Science | San Jose, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7610543185362372917) |

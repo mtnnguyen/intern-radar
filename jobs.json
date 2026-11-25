@@ -1,5 +1,21 @@
 [
   {
+    "id": "fab244d2df30554d6313",
+    "company": "University of St. Thomas",
+    "source": "simplify",
+    "title": "Graduate Assistant for Data Analytics Intern - Center for Well-Being",
+    "location": "St Paul, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://studentemployment-stthomas.icims.com/jobs/10464/job?mobile=true&needsRedirect=false",
+    "published_at": 1795564800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-25T19:13:28.447578+00:00",
+    "status": "open"
+  },
+  {
     "id": "fa286da51c583b5427be",
     "company": "ConnectPrep",
     "source": "simplify",
@@ -318,7 +334,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-24T05:22:15.078802+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "fb8b0ebbddd8982e3e2c",
@@ -1059,7 +1075,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-21T03:59:16.224710+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "070281ca4d14bbc87717",
@@ -2341,7 +2357,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-16T22:50:34.136777+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "eaac456eec904a73150c",
@@ -8888,7 +8904,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-28T00:05:22.981150+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "dcdfda4294d2137e341e",
@@ -39075,7 +39091,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.419194+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "3427c66a7be21cdf423a",
@@ -39172,7 +39188,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.419194+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f2f91098cb31f1981597",
