@@ -1,5 +1,69 @@
 [
   {
+    "id": "fa286da51c583b5427be",
+    "company": "ConnectPrep",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Washington",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.workable.com/connectprep/j/9F465A2E1A/apply",
+    "published_at": 1795592015,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-25T09:08:01.316213+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7c72fb85d403c613c437",
+    "company": "PatientPoint",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Cincinnati, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005",
+    "published_at": 1795550281,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-25T09:08:01.316194+00:00",
+    "status": "open"
+  },
+  {
+    "id": "55b62d989c9e5ccd65dc",
+    "company": "Kimley-Horn",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Mesa, AZ",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us",
+    "published_at": 1795563300,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-25T09:08:01.316091+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0ac2833cd123ead3e0c0",
+    "company": "Kinaxis",
+    "source": "simplify",
+    "title": "Data Foundations Intern - Data & Analytics",
+    "location": "Ottawa, ON, Canada, Remote in Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false",
+    "published_at": 1795478400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-25T09:08:01.316049+00:00",
+    "status": "open"
+  },
+  {
     "id": "a9a56e88f36fbc70c3cf",
     "company": "TransUnion",
     "source": "simplify",
@@ -9672,7 +9736,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-25T23:57:15.973897+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "dba148457ee5965447c3",
@@ -19306,7 +19370,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-26T01:54:13.644851+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "576420180a4298361226",
@@ -27983,7 +28047,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "dbcf979e0578bf5079aa",
