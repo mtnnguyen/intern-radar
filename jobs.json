@@ -1,5 +1,134 @@
 [
   {
+    "id": "2d85853d94b05653834f",
+    "company": "Microsoft",
+    "source": "simplify",
+    "title": "Research Intern - Machine Learning for Biology and Healthcare",
+    "location": "Redmond, WA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557097217",
+    "published_at": 1795651228,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-26T02:15:54.516244+00:00",
+    "status": "open"
+  },
+  {
+    "id": "687da2b90cdae4d5b456",
+    "company": "Tombras",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Knoxville, TN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ats.rippling.com/tombrascareers/jobs/fe7d5efc-78ca-4e57-8f46-2b9a1c9e8cf9",
+    "published_at": 1795649361,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-26T02:15:54.516208+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6bd46cf9109b8e3c368c",
+    "company": "Jack Henry",
+    "source": "simplify",
+    "title": "Enterprise Pricing & Data Analytics Intern",
+    "location": "Allen, TX, Birmingham, AL, Monett, MO, Lenexa, KS, Springfield, MO, Overland Park, KS",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jackhenry.avature.net/careers/JobDetail/17682",
+    "published_at": 1795650086,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-26T02:15:54.516129+00:00",
+    "status": "open"
+  },
+  {
+    "id": "36c639bd96de53e87c8a",
+    "company": "SambaNova Systems",
+    "source": "simplify",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Austin, TX, San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004",
+    "published_at": 1795631053,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-26T02:15:54.516118+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8fc23fc68686f5a959ca",
+    "company": "Total Quality Logistics",
+    "source": "simplify",
+    "title": "Data Science & Analytics Intern",
+    "location": "Cincinnati, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764",
+    "published_at": 1795650484,
+    "categories": [
+      "Data Science",
+      "Analytics"
+    ],
+    "first_seen": "2026-11-26T02:15:54.516089+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fbec16aefe08f2cdd7a7",
+    "company": "Texas Instruments",
+    "source": "simplify",
+    "title": "Web Marketing Intern - Digital Experience Analytics",
+    "location": "Dallas, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020507",
+    "published_at": 1795647869,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-26T02:15:54.516053+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0f93ec9ea5a8523a074b",
+    "company": "Harvard Companies",
+    "source": "simplify",
+    "title": "AI Engineering Intern",
+    "location": "Miami, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://corporate-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false",
+    "published_at": 1795564800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-26T02:15:54.516023+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3afe2f29ea127f7f3236",
+    "company": "Harvard Companies",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Miami, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://hmi-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false",
+    "published_at": 1795582800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-26T02:15:54.515968+00:00",
+    "status": "open"
+  },
+  {
     "id": "fab244d2df30554d6313",
     "company": "University of St. Thomas",
     "source": "simplify",
@@ -77,7 +206,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-25T09:08:01.316049+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a9a56e88f36fbc70c3cf",
@@ -1988,7 +2117,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-18T20:43:46.392914+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "fb5288b3952abbfab5e7",
@@ -2759,7 +2888,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-13T17:40:18.565461+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "ecf79c693a43235cd52d",
@@ -8648,7 +8777,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-28T05:32:25.664475+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "90fb08e0d57c89e938d6",
@@ -10154,7 +10283,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T19:17:44.819763+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b3737f35b480622e8367",
@@ -16651,7 +16780,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-06T08:05:04.904545+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "a410c37d9996d8b722f7",
@@ -28031,7 +28160,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.507606+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "1d082e7460393a88b6e7",
