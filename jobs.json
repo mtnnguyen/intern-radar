@@ -1,5 +1,21 @@
 [
   {
+    "id": "e29362d6f97d630c3d99",
+    "company": "QuEra Computing",
+    "source": "simplify",
+    "title": "Photonics Data Engineer Intern - Data Management",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008",
+    "published_at": 1795649935,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-26T11:04:40.673066+00:00",
+    "status": "open"
+  },
+  {
     "id": "2d85853d94b05653834f",
     "company": "Microsoft",
     "source": "simplify",
@@ -979,7 +995,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-21T03:59:16.224916+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "de467cafbb7c211b5701",
@@ -1700,7 +1716,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-20T08:36:07.318509+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "cb2a88643a18a4f8e945",
@@ -10155,7 +10171,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-24T00:54:10.363582+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "776f88dbf21a26c7fb96",
@@ -25461,7 +25477,7 @@
       "Data Engineering"
     ],
     "first_seen": "2026-09-14T14:26:16.539002+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "eead319efbc95ebe76d7",
@@ -36975,7 +36991,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.443405+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b417b28ad1f2f679e1c0",
