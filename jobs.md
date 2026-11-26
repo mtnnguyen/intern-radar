@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 924
+**Active matching jobs:** 923
 
-**New in the last 24 hours:** 10
+**New in the last 24 hours:** 9
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -136,7 +136,6 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | Amazon | Business Intelligence Engineer Intern | Analytics | Seattle, WA | simplify | 2026-10-07 10:02 PM EDT | [Apply](https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) |
 | 🇺🇸 USA |  | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Video | Machine Learning / AI | Seattle, WA | simplify | 2026-10-07 10:02 PM EDT | [Apply](https://lifeattiktok.com/search/7694362230074673461) |
 | 🇺🇸 USA |  | HCSC | Enterprise Data Analyst Intern | Analytics | Chicago, IL, Richardson, TX | simplify | 2026-10-07 10:02 PM EDT | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505) |
-| 🇺🇸 USA |  | Meta | Software Engineer Intern - Machine Learning | Machine Learning / AI | Seattle, WA, Burlingame, CA, Redmond, WA, Menlo Park, CA, NYC, Bellevue, WA, Sunnyvale, CA | simplify | 2026-10-06 07:52 PM EDT | [Apply](https://www.metacareers.com/jobs/2180490782513668) |
 | 🇺🇸 USA |  | FHLBank Chicago | AI Intern | Machine Learning / AI | Chicago, IL | simplify | 2026-10-06 04:05 AM EDT | [Apply](https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477) |
 | 🇺🇸 USA |  | Atlassian | Data Engineer Intern | Data Engineering | Seattle, WA | simplify | 2026-10-05 09:33 PM EDT | [Apply](https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job) |
 | 🇺🇸 USA |  | Expedia Group | Applied Science Intern | Machine Learning / AI | Seattle, WA, Austin, TX, San Jose, CA | simplify | 2026-10-05 09:33 PM EDT | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Applied-Science-Intern---PhD---2027---Austin--San-Jose--Seattle_R-110382) |
@@ -227,11 +226,10 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other | 🔥 NEW | Texas Instruments | Web Marketing Intern - Digital Experience Analytics | Analytics | Dallas, TX | simplify | 2026-11-25 09:15 PM EST | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020507) |
 | 🌎 Other | 🔥 NEW | Harvard Companies | AI Engineering Intern | Machine Learning / AI | Miami, FL | simplify | 2026-11-25 09:15 PM EST | [Apply](https://corporate-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false) |
 | 🌎 Other | 🔥 NEW | Harvard Companies | AI Engineer Intern | Machine Learning / AI | Miami, FL | simplify | 2026-11-25 09:15 PM EST | [Apply](https://hmi-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false) |
-| 🌎 Other | 🔥 NEW | University of St. Thomas | Graduate Assistant for Data Analytics Intern - Center for Well-Being | Analytics | St Paul, MN | simplify | 2026-11-25 02:13 PM EST | [Apply](https://studentemployment-stthomas.icims.com/jobs/10464/job?mobile=true&needsRedirect=false) |
+| 🌎 Other |  | University of St. Thomas | Graduate Assistant for Data Analytics Intern - Center for Well-Being | Analytics | St Paul, MN | simplify | 2026-11-25 02:13 PM EST | [Apply](https://studentemployment-stthomas.icims.com/jobs/10464/job?mobile=true&needsRedirect=false) |
 | 🌎 Other |  | ConnectPrep | Data Analyst Intern | Analytics | Washington | simplify | 2026-11-25 04:08 AM EST | [Apply](https://apply.workable.com/connectprep/j/9F465A2E1A/apply) |
 | 🌎 Other |  | PatientPoint | Data Engineer Intern | Data Engineering | Cincinnati, OH | simplify | 2026-11-25 04:08 AM EST | [Apply](https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005) |
 | 🌎 Other |  | Kimley-Horn | Data Science Intern | Data Science | Mesa, AZ | simplify | 2026-11-25 04:08 AM EST | [Apply](https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us) |
-| 🌎 Other |  | Johns Hopkins Applied Physics Laboratory | Artificial Intelligence and Complex Systems Intern | Machine Learning / AI | Laurel, MD | simplify | 2026-11-24 07:35 PM EST | [Apply](https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us) |
 | 🌎 Other |  | Meta | Research Scientist Intern - Machine Learning for Robust 3D Perception | Machine Learning / AI | Redmond, WA | simplify | 2026-11-24 07:35 PM EST | [Apply](https://www.metacareers.com/jobs/1482835147112669) |
 | 🌎 Other |  | Sparksoft | Business / Data Analyst Intern | Analytics | Maryland | simplify | 2026-11-24 07:35 PM EST | [Apply](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5308152007) |
 | 🌎 Other |  | Eulerity | Finance Data Analyst Intern - Finance | Analytics | NYC | simplify | 2026-11-24 07:35 PM EST | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4731948006) |
@@ -245,6 +243,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🌎 Other |  | Culver's | Business Analytics Intern | Analytics | Prairie du Sac, WI | simplify | 2026-11-24 12:22 AM EST | [Apply](https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79) |
 | 🌎 Other |  | Capital Technology Group | Data Engineering and Data Science Intern | Data Science, Data Engineering | Silver Spring, MD | simplify | 2026-11-24 12:22 AM EST | [Apply](https://boards.greenhouse.io/capitaltg/jobs/5307074007) |
 | 🌎 Other |  | Milliman | Data Scientist Intern | Data Science | Indianapolis, IN | simplify | 2026-11-24 12:22 AM EST | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=1940672b-d3b1-4e15-a834-fde16cb5a420) |
+| 🌎 Other |  | JP Morgan Chase | Applied AI Intern - HR CDAO | Machine Learning / AI | NYC | simplify | 2026-11-24 12:22 AM EST | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549) |
 | 🌎 Other |  | JP Morgan Chase | Machine Learning Intern - Time Series and Reinforcement Learning | Machine Learning / AI | London, UK | simplify | 2026-11-23 04:17 PM EST | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784) |
 | 🌎 Other |  | Red Bull | Data Science Intern | Data Science | Morristown, NJ | simplify | 2026-11-23 04:07 AM EST | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163139699) |
 | 🌎 Other |  | Lumentum | Data Science & Analytics Intern | Data Science, Analytics | San Jose, CA | simplify | 2026-11-23 04:07 AM EST | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771) |
