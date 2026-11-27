@@ -4,9 +4,9 @@ Automatically discovers internships and co-op positions related to data science,
 
 **Scheduled checks:** Every 5 minutes (Toronto time)
 
-**Active matching jobs:** 923
+**Active matching jobs:** 926
 
-**New in the last 24 hours:** 9
+**New in the last 24 hours:** 4
 
 | Priority | New | Company | Position | Category | Location | Source | First Detected | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -59,7 +59,7 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇨🇦 Canada |  | Epic Games | Machine Learning Intern - Special Projects - Epic Research Group | Machine Learning / AI | Montreal, QC, Canada | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
 | 🇨🇦 Canada |  | Cohere | Machine Learning Intern/Co-op | Machine Learning / AI | Canada, United Kingdom, United States | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
 | 🇺🇸 USA | 🔥 NEW | QuEra Computing | Photonics Data Engineer Intern - Data Management | Data Engineering | Boston, MA | simplify | 2026-11-26 06:04 AM EST | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008) |
-| 🇺🇸 USA | 🔥 NEW | SambaNova Systems | Machine Learning Engineer Intern | Machine Learning / AI | Austin, TX, San Jose, CA | simplify | 2026-11-25 09:15 PM EST | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004) |
+| 🇺🇸 USA |  | SambaNova Systems | Machine Learning Engineer Intern | Machine Learning / AI | Austin, TX, San Jose, CA | simplify | 2026-11-25 09:15 PM EST | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004) |
 | 🇺🇸 USA |  | TransUnion | Data Analyst Intern | Analytics | Chicago, IL | simplify | 2026-11-24 07:35 PM EST | [Apply](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654) |
 | 🇺🇸 USA |  | CarGurus | Data Platform Engineer Intern | Data Engineering | Boston, MA | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8230750) |
 | 🇺🇸 USA |  | CarGurus | Product Data Analyst Intern | Analytics | Boston, MA | simplify | 2026-11-24 11:04 AM EST | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8230677) |
@@ -219,13 +219,16 @@ Automatically discovers internships and co-op positions related to data science,
 | 🇺🇸 USA |  | TikTok | Machine Learning Scientist Intern - Global E-Commerce Content Recommendation | Machine Learning / AI | Seattle, WA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://lifeattiktok.com/search/7525650208522193159) |
 | 🇺🇸 USA |  | Radix Trading | Quantitative Technologist C++ Intern | GIS / Geospatial | Chicago, IL | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
 | 🇺🇸 USA |  | Output Biosciences | Research Intern, Machine Learning | Machine Learning / AI | New York, NY, San Francisco, CA | simplify | 2026-09-14 10:26 AM EDT | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
-| 🌎 Other | 🔥 NEW | Microsoft | Research Intern - Machine Learning for Biology and Healthcare | Machine Learning / AI | Redmond, WA | simplify | 2026-11-25 09:15 PM EST | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557097217) |
-| 🌎 Other | 🔥 NEW | Tombras | Data Science Intern | Data Science | Knoxville, TN | simplify | 2026-11-25 09:15 PM EST | [Apply](https://ats.rippling.com/tombrascareers/jobs/fe7d5efc-78ca-4e57-8f46-2b9a1c9e8cf9) |
-| 🌎 Other | 🔥 NEW | Jack Henry | Enterprise Pricing & Data Analytics Intern | Analytics | Allen, TX, Birmingham, AL, Monett, MO, Lenexa, KS, Springfield, MO, Overland Park, KS | simplify | 2026-11-25 09:15 PM EST | [Apply](https://jackhenry.avature.net/careers/JobDetail/17682) |
-| 🌎 Other | 🔥 NEW | Total Quality Logistics | Data Science & Analytics Intern | Data Science, Analytics | Cincinnati, OH | simplify | 2026-11-25 09:15 PM EST | [Apply](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764) |
-| 🌎 Other | 🔥 NEW | Texas Instruments | Web Marketing Intern - Digital Experience Analytics | Analytics | Dallas, TX | simplify | 2026-11-25 09:15 PM EST | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020507) |
-| 🌎 Other | 🔥 NEW | Harvard Companies | AI Engineering Intern | Machine Learning / AI | Miami, FL | simplify | 2026-11-25 09:15 PM EST | [Apply](https://corporate-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false) |
-| 🌎 Other | 🔥 NEW | Harvard Companies | AI Engineer Intern | Machine Learning / AI | Miami, FL | simplify | 2026-11-25 09:15 PM EST | [Apply](https://hmi-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false) |
+| 🌎 Other | 🔥 NEW | ICONIQ Capital | AI Engineer Intern | Machine Learning / AI | NYC | simplify | 2026-11-26 09:49 PM EST | [Apply](https://job-boards.greenhouse.io/iconiqhandshake/jobs/8386455) |
+| 🌎 Other | 🔥 NEW | ICONIQ Capital | Data Science Intern - Science | Data Science | SF | simplify | 2026-11-26 09:49 PM EST | [Apply](https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391972) |
+| 🌎 Other | 🔥 NEW | ICONIQ Capital | Data & Analytics Intern | Analytics | NYC | simplify | 2026-11-26 09:49 PM EST | [Apply](https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391973) |
+| 🌎 Other |  | Microsoft | Research Intern - Machine Learning for Biology and Healthcare | Machine Learning / AI | Redmond, WA | simplify | 2026-11-25 09:15 PM EST | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557097217) |
+| 🌎 Other |  | Tombras | Data Science Intern | Data Science | Knoxville, TN | simplify | 2026-11-25 09:15 PM EST | [Apply](https://ats.rippling.com/tombrascareers/jobs/fe7d5efc-78ca-4e57-8f46-2b9a1c9e8cf9) |
+| 🌎 Other |  | Jack Henry | Enterprise Pricing & Data Analytics Intern | Analytics | Allen, TX, Birmingham, AL, Monett, MO, Lenexa, KS, Springfield, MO, Overland Park, KS | simplify | 2026-11-25 09:15 PM EST | [Apply](https://jackhenry.avature.net/careers/JobDetail/17682) |
+| 🌎 Other |  | Total Quality Logistics | Data Science & Analytics Intern | Data Science, Analytics | Cincinnati, OH | simplify | 2026-11-25 09:15 PM EST | [Apply](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764) |
+| 🌎 Other |  | Texas Instruments | Web Marketing Intern - Digital Experience Analytics | Analytics | Dallas, TX | simplify | 2026-11-25 09:15 PM EST | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020507) |
+| 🌎 Other |  | Harvard Companies | AI Engineering Intern | Machine Learning / AI | Miami, FL | simplify | 2026-11-25 09:15 PM EST | [Apply](https://corporate-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false) |
+| 🌎 Other |  | Harvard Companies | AI Engineer Intern | Machine Learning / AI | Miami, FL | simplify | 2026-11-25 09:15 PM EST | [Apply](https://hmi-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false) |
 | 🌎 Other |  | University of St. Thomas | Graduate Assistant for Data Analytics Intern - Center for Well-Being | Analytics | St Paul, MN | simplify | 2026-11-25 02:13 PM EST | [Apply](https://studentemployment-stthomas.icims.com/jobs/10464/job?mobile=true&needsRedirect=false) |
 | 🌎 Other |  | ConnectPrep | Data Analyst Intern | Analytics | Washington | simplify | 2026-11-25 04:08 AM EST | [Apply](https://apply.workable.com/connectprep/j/9F465A2E1A/apply) |
 | 🌎 Other |  | PatientPoint | Data Engineer Intern | Data Engineering | Cincinnati, OH | simplify | 2026-11-25 04:08 AM EST | [Apply](https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005) |

@@ -1,5 +1,53 @@
 [
   {
+    "id": "6241f06724e7149371a6",
+    "company": "ICONIQ Capital",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8386455",
+    "published_at": 1794601419,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-27T02:49:43.361871+00:00",
+    "status": "open"
+  },
+  {
+    "id": "99ecb2cd434f7c01bd98",
+    "company": "ICONIQ Capital",
+    "source": "simplify",
+    "title": "Data Science Intern - Science",
+    "location": "SF",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391972",
+    "published_at": 1794798134,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-27T02:49:43.361857+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5c8722fc6f40062b1a99",
+    "company": "ICONIQ Capital",
+    "source": "simplify",
+    "title": "Data & Analytics Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391973",
+    "published_at": 1794798532,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-27T02:49:43.361820+00:00",
+    "status": "open"
+  },
+  {
     "id": "e29362d6f97d630c3d99",
     "company": "QuEra Computing",
     "source": "simplify",
