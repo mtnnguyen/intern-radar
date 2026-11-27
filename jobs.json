@@ -1,5 +1,21 @@
 [
   {
+    "id": "bd11e33123013b8836e9",
+    "company": "Encepta",
+    "source": "simplify",
+    "title": "GIS Data Technician Intern",
+    "location": "Victoria, BC, Canada, Burnaby, BC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://encepta.bamboohr.com/careers/181/",
+    "published_at": 1795747556,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-27T11:29:41.577405+00:00",
+    "status": "open"
+  },
+  {
     "id": "6241f06724e7149371a6",
     "company": "ICONIQ Capital",
     "source": "simplify",
@@ -15785,7 +15801,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-08T02:02:47.243622+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "6b6efdd3f8de3063aa3b",
@@ -36413,7 +36429,7 @@
       "Data Science"
     ],
     "first_seen": "2026-09-14T14:26:16.455569+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "304e7867b32285bf8fdb",
