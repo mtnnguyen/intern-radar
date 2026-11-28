@@ -1,5 +1,1031 @@
 [
   {
+    "id": "a50831fa609c7ad73936",
+    "company": "Carpenter Technology",
+    "source": "simplify",
+    "title": "Business Continuity Data Analyst & Reporting Intern",
+    "location": "Reading, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Business-Continuity-Data-Analyst---Reporting-Intern_27047",
+    "published_at": 1795478400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719461+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0d21d1517dc6e1719373",
+    "company": "Maersk",
+    "source": "simplify",
+    "title": "Insights & Analytics Intern",
+    "location": "Santa Fe Springs, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-California-Santa-Fe-Springs-90670/Intern--Insights---Analytics_R203969",
+    "published_at": 1795046400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719430+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7cf799c81c2d3ad74a95",
+    "company": "Camping World",
+    "source": "simplify",
+    "title": "AI Intern",
+    "location": "Chicago, IL, Lincolnshire, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/AI-Intern_26_09302",
+    "published_at": 1794873600,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719424+00:00",
+    "status": "open"
+  },
+  {
+    "id": "aec6a93c6d853e4ccc30",
+    "company": "Camping World",
+    "source": "simplify",
+    "title": "AI Intern",
+    "location": "Chicago, IL, Lincolnshire, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/AI-Intern_26_09088",
+    "published_at": 1795478400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719416+00:00",
+    "status": "open"
+  },
+  {
+    "id": "50bd0b4c0e09e9916521",
+    "company": "Samsung",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Plano, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Data-Engineer-Intern_R122374",
+    "published_at": 1795392000,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719395+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6d0c6711a26e60e632e8",
+    "company": "Canadian Solar",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Kitchener, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603",
+    "published_at": 1795046400,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719384+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fad4cd1f43845c5e65fb",
+    "company": "TMX Group",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Canadian-Capital-Markets---Data-Analyst-Intern_R-6758",
+    "published_at": 1795651200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719354+00:00",
+    "status": "open"
+  },
+  {
+    "id": "b4376047cbc45a6409e5",
+    "company": "National Laboratory of the Rockies",
+    "source": "simplify",
+    "title": "Graduate Student Intern - Commercial Vehicle Logistics and Data Science",
+    "location": "Golden, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Student-Intern--Spring-Semester----Commercial-Vehicle-Logistics-and-Data-Science_R14649",
+    "published_at": 1795392000,
+    "categories": [
+      "Data Science",
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719345+00:00",
+    "status": "open"
+  },
+  {
+    "id": "bd78060b30e97befacfc",
+    "company": "Elevance Health",
+    "source": "simplify",
+    "title": "Undergraduate Clinical Analytics Intern",
+    "location": "Chicago, IL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/IL-CHICAGO-8600-W-BRYN-MAWR-AVE-10th--11th-FL/Undergraduate-Clinical-Analytics-Intern--Summer-2027_JR210774",
+    "published_at": 1795478400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719338+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7b2947d7866d678be6bc",
+    "company": "Elevance Health",
+    "source": "simplify",
+    "title": "Clinical Analytics Intern",
+    "location": "Richmond, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/VA-RICHMOND-2015-STAPLES-MILL-RD/Graduate-Clinical-Analytics-Intern--Summer-2027_JR210775",
+    "published_at": 1795564800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719327+00:00",
+    "status": "open"
+  },
+  {
+    "id": "2c7b74b185ef399e1148",
+    "company": "Anglian Water",
+    "source": "simplify",
+    "title": "Data Engineer Apprentice",
+    "location": "Lincoln, UK, Huntingdon, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://awg.wd3.myworkdayjobs.com/en-US/AW/job/Huntingdon/Data-Engineer-Apprentice_R41298-1",
+    "published_at": 1795651200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719250+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f854ad11197f01ae25f6",
+    "company": "Leidos",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Fort Belvoir, VA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00196994",
+    "published_at": 1795132800,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719245+00:00",
+    "status": "open"
+  },
+  {
+    "id": "570f1ca39283a5593fa8",
+    "company": "Anglian Water",
+    "source": "simplify",
+    "title": "Data Science Degree Apprentice",
+    "location": "Peterborough, UK, Lincoln, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://awg.wd3.myworkdayjobs.com/en-US/AW/job/Peterborough/Data-Science-Degree-Apprentice_R41268",
+    "published_at": 1795564800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719232+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9ba57b2a422a975dae45",
+    "company": "Hewlett Packard Enterprise",
+    "source": "simplify",
+    "title": "AI Engineering Technical Intern",
+    "location": "Sunnyvale, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California/AI-Engineering-Technical-Intern_1218702",
+    "published_at": 1795046400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719203+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4f19c2ded4e185c55382",
+    "company": "University of Texas at Austin",
+    "source": "simplify",
+    "title": "Analytics Intern",
+    "location": "Austin, TX",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Analytics-Intern--Texas-Institute-for-Electronics_R_00050136",
+    "published_at": 1795392000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719160+00:00",
+    "status": "open"
+  },
+  {
+    "id": "77cf78cd0c2a817e45db",
+    "company": "Nelnet",
+    "source": "simplify",
+    "title": "Data Analytics Intern",
+    "location": "Lincoln, NE",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Data-Analytics_R23367",
+    "published_at": 1794873600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719143+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f0be4c0b8b449ae78fae",
+    "company": "Barclays",
+    "source": "simplify",
+    "title": "Markets Quantitative Analyst Intern",
+    "location": "NYC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Markets-Quantitative-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139049",
+    "published_at": 1795392000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719118+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e08a24fcdfc56e0fc012",
+    "company": "GlobalFoundries",
+    "source": "simplify",
+    "title": "AI/ML Analytics Intern - Digital Manufacturing",
+    "location": "Malta, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Intern--Digital-Manufacturing--Summer-2027-_JR-2604570",
+    "published_at": 1795132800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719101+00:00",
+    "status": "open"
+  },
+  {
+    "id": "95c5168a78d23000aae8",
+    "company": "Revelyst",
+    "source": "simplify",
+    "title": "IT AI Process Innovation Intern - Business Intelligence",
+    "location": "Irvine, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://revelyst.wd1.myworkdayjobs.com/EXTERNAL_REVELYST/job/Irvine-CA/IT--Business-Intelligence--AI-Process-Innovation-Intern_R0013666",
+    "published_at": 1794960000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719089+00:00",
+    "status": "open"
+  },
+  {
+    "id": "03bd61e56389246504c3",
+    "company": "Regeneron Pharmaceuticals",
+    "source": "simplify",
+    "title": "Workplace Strategy & Planning Analytics Intern",
+    "location": "Tarrytown, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Workplace-Strategy---Planning-Analytics_R53154-1",
+    "published_at": 1794787200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719054+00:00",
+    "status": "open"
+  },
+  {
+    "id": "747e7b992c98b2af8249",
+    "company": "Regeneron Pharmaceuticals",
+    "source": "simplify",
+    "title": "Environment Intern - Health & Safety Training & Analytics",
+    "location": "Tarrytown, NY",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Environment--Health---Safety-Training---Analytics_R53151-2",
+    "published_at": 1794787200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.719047+00:00",
+    "status": "open"
+  },
+  {
+    "id": "19a445eb985a02aecdaa",
+    "company": "Northrop Grumman",
+    "source": "simplify",
+    "title": "Artificial Intelligence/Machine Learning Engineer Intern",
+    "location": "Morrisville, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-AI-ML-Engineering-Intern---Morrisville-NC_R10261585-1",
+    "published_at": 1795046400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718997+00:00",
+    "status": "open"
+  },
+  {
+    "id": "41136ffc1512a7b238b7",
+    "company": "Generac",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Waukesha, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17511",
+    "published_at": 1795564800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718959+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5eec543cf7d3eaed0bdf",
+    "company": "Generac",
+    "source": "simplify",
+    "title": "Consumer Experience Data Analyst Intern",
+    "location": "Pewaukee, WI",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Pewaukee-WI---USA/Consumer-Experience-Data-Analyst-Intern_JR17206",
+    "published_at": 1795564800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718949+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0206fce13bd9da7377d0",
+    "company": "Baker Hughes",
+    "source": "simplify",
+    "title": "Modelling and Data Analytics Intern",
+    "location": "Farnborough, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-HA-FARNBOROUGH-107-RANGE-ROAD/Intern---Modelling-and-Data-Analytics---2027_R173444",
+    "published_at": 1795737600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718934+00:00",
+    "status": "open"
+  },
+  {
+    "id": "3e253cf4e72981895bfe",
+    "company": "Highmark Health",
+    "source": "simplify",
+    "title": "Healthcare Interoperability Data Engineer & Analyst Intern",
+    "location": "Pittsburgh, PA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Engineer---Analyst-enGen-Undergraduate-Intern_J291722",
+    "published_at": 1795046400,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718914+00:00",
+    "status": "open"
+  },
+  {
+    "id": "095153a1081b87a3a64e",
+    "company": "Federal Home Loan Bank of Indianapolis",
+    "source": "simplify",
+    "title": "Data Platform Engineer Intern",
+    "location": "Indianapolis, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Data-Platform-Engineer-Intern_R646",
+    "published_at": 1795392000,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718905+00:00",
+    "status": "open"
+  },
+  {
+    "id": "5b490fca39e6d8c9305f",
+    "company": "Sanofi",
+    "source": "simplify",
+    "title": "NCES Statistician Intern",
+    "location": "Cambridge, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-NCES-statistician-expert-in-AI-Cambridge-MA_R2865668",
+    "published_at": 1795478400,
+    "categories": [
+      "Statistics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718856+00:00",
+    "status": "open"
+  },
+  {
+    "id": "45ba01843f144942a3b0",
+    "company": "LabCorp",
+    "source": "simplify",
+    "title": "People Analytics Intern",
+    "location": "Durham, NC",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---People-Analytics_2640527",
+    "published_at": 1794787200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718798+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1256151239f17b3e8313",
+    "company": "FormFactor",
+    "source": "simplify",
+    "title": "AI/ML Engineering Intern",
+    "location": "Livermore, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/AI-ML-Engineering-Intern_JR101434",
+    "published_at": 1795392000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718793+00:00",
+    "status": "open"
+  },
+  {
+    "id": "0d7f3e235f45b310323a",
+    "company": "Applied Materials",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "Santa Clara, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652",
+    "published_at": 1795828755,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718787+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9907029a3841d419310c",
+    "company": "Applied Materials",
+    "source": "simplify",
+    "title": "System Data Scientist / Analyst Co-op",
+    "location": "Gloucester, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-System-Data-Scientist--Analyst-Co-op--MS-or-Phd---Gloucester--MA_R2632175",
+    "published_at": 1794960000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718773+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fa0128a2314a61f231b2",
+    "company": "Ardian",
+    "source": "simplify",
+    "title": "Secondaries & Primaries Data Scientist Intern",
+    "location": "London, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/London/Secondaries---Primaries-Data-Science-Intern---March-2027---London_JR1002355",
+    "published_at": 1795564800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718755+00:00",
+    "status": "open"
+  },
+  {
+    "id": "82b03e826b9ec4da7cb6",
+    "company": "ASML",
+    "source": "simplify",
+    "title": "Artificial Intelligence Intern - Integrate GUI and LLM",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Integrate-GUI-and-LLM_J-00357014",
+    "published_at": 1794787200,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718733+00:00",
+    "status": "open"
+  },
+  {
+    "id": "fc55febe597e2d0b89a9",
+    "company": "ASML",
+    "source": "simplify",
+    "title": "Data Analyst Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Data-Analyst_J-00355833",
+    "published_at": 1795478400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718726+00:00",
+    "status": "open"
+  },
+  {
+    "id": "7860c5b7edaa21dcfaa6",
+    "company": "ASML",
+    "source": "simplify",
+    "title": "AI Engineer Co-op Intern",
+    "location": "San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--AI-Engineer_J-00358475",
+    "published_at": 1795392000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718721+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9d0540c032e9915e7e33",
+    "company": "ASML",
+    "source": "simplify",
+    "title": "Data & AI Intern - Controls",
+    "location": "San Diego, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Data---AI--Controls_J-00357861",
+    "published_at": 1795392000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718707+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e169609f73146e28fc68",
+    "company": "ASML",
+    "source": "simplify",
+    "title": "AI Engineer Co-op Intern",
+    "location": "San Jose, CA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship-Co-Op--AI-Engineer_J-00358477",
+    "published_at": 1795392000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718688+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9ce841ceeabce8b5c308",
+    "company": "Great American Insurance Company",
+    "source": "simplify",
+    "title": "Predictive Analytics Intern",
+    "location": "Cincinnati, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Predictive-Analytics-Intern---Summer-2027_R9904",
+    "published_at": 1795392000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718659+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e663dcdb23eb522b3f75",
+    "company": "Great American Insurance Company",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Cincinnati, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineer-Developer-Intern---Summer-2027_R9919",
+    "published_at": 1794960000,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718653+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6c5bc213b8f6dfcf43b3",
+    "company": "State Employees' Credit Union",
+    "source": "simplify",
+    "title": "Product Strategy Business Intelligence Analyst Intern",
+    "location": "North Carolina",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ncsecu.wd1.myworkdayjobs.com/secu/job/North-Carolina/Intern---Product-Strategy-Business-Intelligence-Analyst_JR-16978",
+    "published_at": 1795392000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718642+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4475b0e25da174a18d73",
+    "company": "Nasdaq",
+    "source": "simplify",
+    "title": "Data Engineer Intern",
+    "location": "Denver, CO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Denver-18-Street/Data-Engineering-Intern---2027-Summer-Internship_R0027379",
+    "published_at": 1795478400,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718634+00:00",
+    "status": "open"
+  },
+  {
+    "id": "4fb2cf2975bc46c770ef",
+    "company": "CAE",
+    "source": "simplify",
+    "title": "Business Intelligence and Applied AI Intern - Sustainable Procurement",
+    "location": "Montreal, QC, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GSS-157-Business-Intelligence-and-Applied-AI-Intern---Sustainable-Procurement_124528",
+    "published_at": 1795651200,
+    "categories": [
+      "Analytics",
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718627+00:00",
+    "status": "open"
+  },
+  {
+    "id": "8d0bba5fee363a1355bb",
+    "company": "Jabil",
+    "source": "simplify",
+    "title": "Data Scientist Intern",
+    "location": "St. Petersburg, FL",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Scientist-Intern_J2468236",
+    "published_at": 1795564800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718603+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f7d7e6fc96cdaf73de9d",
+    "company": "Micron Technology",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Boise, ID",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Data-Science--SMAI_JR117444",
+    "published_at": 1794787200,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718582+00:00",
+    "status": "open"
+  },
+  {
+    "id": "81096aea1b64c56d27ea",
+    "company": "State Street",
+    "source": "simplify",
+    "title": "Agentic AI Engineering Intern",
+    "location": "Quincy, MA, Burlington, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Agentic-AI-Engineering--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801282",
+    "published_at": 1794960000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718547+00:00",
+    "status": "open"
+  },
+  {
+    "id": "551c51545faf1a5e5168",
+    "company": "State Street",
+    "source": "simplify",
+    "title": "Data Engineering & Product Intern",
+    "location": "Quincy, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Data-Engineering---Product--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801276",
+    "published_at": 1794960000,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718534+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f8674fe7f95b03682fbc",
+    "company": "State Street",
+    "source": "simplify",
+    "title": "Data Engineering & Product Intern",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Engineering---Product--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801274",
+    "published_at": 1794960000,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718520+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c20bcc74e1f0c468e2a5",
+    "company": "State Street",
+    "source": "simplify",
+    "title": "Data Scientist Intern - Data Scientist",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Data-Scientist---Summer-Internship-2027_R-801213",
+    "published_at": 1794873600,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718498+00:00",
+    "status": "open"
+  },
+  {
+    "id": "e561b6be295221e951bd",
+    "company": "State Street",
+    "source": "simplify",
+    "title": "AI Engineer Intern",
+    "location": "Cambridge, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801273",
+    "published_at": 1794960000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718488+00:00",
+    "status": "open"
+  },
+  {
+    "id": "6b39448ce2de60fd2330",
+    "company": "State Street",
+    "source": "simplify",
+    "title": "Quantitative Analyst Intern",
+    "location": "Boston, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-s-Model-Risk-Management---Quantitative-Analyst---2027-Summer-Internship_R-801342",
+    "published_at": 1795132800,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718479+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c5d9b7eabeb95628e3cf",
+    "company": "State Street",
+    "source": "simplify",
+    "title": "Agentic AI Engineer Intern",
+    "location": "Quincy, MA, Burlington, MA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Agentic-AI-Engineering--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801277",
+    "published_at": 1794960000,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718463+00:00",
+    "status": "open"
+  },
+  {
+    "id": "56a35cad658865373222",
+    "company": "Anglian Water",
+    "source": "simplify",
+    "title": "Data Science Degree Apprentice",
+    "location": "Peterborough, UK, Lincoln, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Peterborough/Data-Science-Degree-Apprentice_R41268-2",
+    "published_at": 1795564800,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718456+00:00",
+    "status": "open"
+  },
+  {
+    "id": "830136e35300b007c514",
+    "company": "Anglian Water",
+    "source": "simplify",
+    "title": "Data Engineer Apprentice",
+    "location": "Lincoln, UK, Huntingdon, UK",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Data-Engineer-Apprentice_R41298",
+    "published_at": 1795651200,
+    "categories": [
+      "Data Engineering"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718450+00:00",
+    "status": "open"
+  },
+  {
+    "id": "156ea16757a5922e07b4",
+    "company": "NVIDIA",
+    "source": "simplify",
+    "title": "Finance AI Engineer Intern",
+    "location": "Canada, Santa Clara, CA, United States",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131",
+    "published_at": 1795564800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718360+00:00",
+    "status": "open"
+  },
+  {
+    "id": "c62d8c9c011353b4dc8e",
+    "company": "Eversource Energy",
+    "source": "simplify",
+    "title": "GIS Engineering Intern",
+    "location": "Berlin, CT",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/XMLNAME-2027-Summer--GIS-Engineering-Intern_R-032643",
+    "published_at": 1794960000,
+    "categories": [
+      "GIS / Geospatial"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718349+00:00",
+    "status": "open"
+  },
+  {
+    "id": "cb27fb4c7eff48ea38bc",
+    "company": "UMB",
+    "source": "simplify",
+    "title": "Artificial Intelligence Intern",
+    "location": "Kansas City, MO",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/AI-Intern_R-9796",
+    "published_at": 1795132800,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718336+00:00",
+    "status": "open"
+  },
+  {
+    "id": "f07110b638d5f35ece47",
+    "company": "First PREMIER Bank",
+    "source": "simplify",
+    "title": "Marketing Analytics Intern",
+    "location": "Sioux Falls, SD",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Marketing-Analytics-Internship_R-568-1",
+    "published_at": 1795478400,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718330+00:00",
+    "status": "open"
+  },
+  {
+    "id": "1d25bfec0de98fbfc0db",
+    "company": "The Toro Company",
+    "source": "simplify",
+    "title": "Data Science Intern",
+    "location": "Bloomington, MN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Data-Science-Intern---The-Toro-Company_JR17932",
+    "published_at": 1795392000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718307+00:00",
+    "status": "open"
+  },
+  {
+    "id": "19e5a7b6618bb9f70ab9",
+    "company": "OneMain Financial",
+    "source": "simplify",
+    "title": "Data Science Analyst Intern",
+    "location": "Wilmington, DE",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2611-53337",
+    "published_at": 1795392000,
+    "categories": [
+      "Data Science"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718301+00:00",
+    "status": "open"
+  },
+  {
+    "id": "ca2d23ffffccd46a5814",
+    "company": "Roche",
+    "source": "simplify",
+    "title": "Service Data and Analytics Intern",
+    "location": "Indianapolis, IN",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2027-Summer-Intern---Service-Data-and-Analytics_202611-129686",
+    "published_at": 1795392000,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718275+00:00",
+    "status": "open"
+  },
+  {
+    "id": "dcecf0c1aac0848543df",
+    "company": "General Dynamics Information Technology",
+    "source": "simplify",
+    "title": "Artificial Intelligence/Machine Learning Software Development and Engineer Intern",
+    "location": "Bossier City, LA",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ233023",
+    "published_at": 1795478400,
+    "categories": [
+      "Machine Learning / AI"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718222+00:00",
+    "status": "open"
+  },
+  {
+    "id": "a5733364ccd432eb3c6d",
+    "company": "Intercept",
+    "source": "simplify",
+    "title": "Analytics & Intelligence Co-op",
+    "location": "Toronto, ON, Canada",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://intercept.bamboohr.com/careers/50/",
+    "published_at": 1795822851,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.718189+00:00",
+    "status": "open"
+  },
+  {
+    "id": "9ae4fbadca043f2691c3",
+    "company": "KeyBank",
+    "source": "simplify",
+    "title": "Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling",
+    "location": "Cleveland, OH",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380",
+    "published_at": 1786665600,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T02:46:54.698307+00:00",
+    "status": "open"
+  },
+  {
     "id": "bd11e33123013b8836e9",
     "company": "Encepta",
     "source": "simplify",
@@ -769,7 +1795,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-23T09:07:43.577429+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1b4c1f88b67c43ff5adc",
@@ -946,7 +1972,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-22T06:01:29.978581+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b18e08544397e2d48151",
@@ -2630,7 +3656,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-15T19:56:55.185038+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "b624f7e5315748f0807a",
@@ -2711,7 +3737,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-11-14T16:09:56.308552+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "ffc23d57e69eaed0d1f5",
@@ -8503,7 +9529,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-29T01:18:25.716396+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "0da8a0bd3558c1e9078c",
@@ -9129,7 +10155,7 @@
       "GIS / Geospatial"
     ],
     "first_seen": "2026-10-28T00:05:22.981139+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "f3685af7ab820ebb0efd",
@@ -9449,7 +10475,7 @@
       "Data Science"
     ],
     "first_seen": "2026-10-27T05:33:26.445012+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "3029eb67cdd10807fc45",
@@ -10106,7 +11132,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-24T00:54:10.363847+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "83a3fedf27d33f7462b8",
@@ -10972,7 +11998,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T05:20:47.806968+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "33dfc070755af3f1e5a2",
@@ -11245,7 +12271,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-23T00:36:01.860582+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "3ecb1fbb670f1ab030e3",
@@ -12064,7 +13090,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-20T23:39:08.906681+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "22ec14d3b65732a96dde",
@@ -14392,7 +15418,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-13T23:51:45.262071+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "8d5df4ef16694866d5bd",
@@ -14760,7 +15786,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-13T00:33:50.784980+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "d859a0077d8e47564942",
@@ -15962,7 +16988,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-08T02:02:47.243364+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "1cab0e6d08393794bc96",
@@ -16491,7 +17517,7 @@
       "Analytics"
     ],
     "first_seen": "2026-10-06T23:52:30.276821+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "bd2c8b141fedd6d921b8",
@@ -20990,7 +22016,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-22T23:37:19.082983+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "0a020c9b4d4e332a5414",
@@ -24083,7 +25109,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-15T11:31:58.169850+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "997e182ceab719e78ff5",
@@ -24099,7 +25125,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-15T11:31:58.169830+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "995c922ee8113b8cdb0c",
@@ -27438,7 +28464,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.523129+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "99b30db92f8f469ea21b",
@@ -31566,7 +32592,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.492935+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "eaf464d7cb35b1cea6db",
@@ -36156,7 +37182,7 @@
       "Analytics"
     ],
     "first_seen": "2026-09-14T14:26:16.456578+00:00",
-    "status": "closed"
+    "status": "open"
   },
   {
     "id": "5d1391d03fb535121d2c",
