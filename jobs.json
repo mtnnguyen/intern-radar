@@ -1,5 +1,21 @@
 [
   {
+    "id": "06e9e93f7aaba3679ee7",
+    "company": "L.L.Bean",
+    "source": "simplify",
+    "title": "Marketing Analytics Intern",
+    "location": "Freeport, ME",
+    "description": "",
+    "employment_type": "internship",
+    "url": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Marketing-Analytics-Intern--Summer-2027-_JR11305",
+    "published_at": 1794787200,
+    "categories": [
+      "Analytics"
+    ],
+    "first_seen": "2026-11-28T18:44:52.098669+00:00",
+    "status": "open"
+  },
+  {
     "id": "a50831fa609c7ad73936",
     "company": "Carpenter Technology",
     "source": "simplify",
@@ -3849,7 +3865,7 @@
       "Analytics"
     ],
     "first_seen": "2026-11-14T02:53:54.892165+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "5d10f35e11161cd728bd",
@@ -16747,7 +16763,7 @@
       "Machine Learning / AI"
     ],
     "first_seen": "2026-10-08T02:02:47.243676+00:00",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "47742aee0daf291ce468",
